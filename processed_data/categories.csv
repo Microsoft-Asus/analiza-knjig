@@ -1,0 +1,15 @@
+title,link
+Adventure,http://www.gutenberg.org/ebooks/search/?query=s.Adventure+!bsxAdventure
+Children's Fiction,http://www.gutenberg.org/ebooks/search/?query=s.juvenile+fiction+!bsxChildren
+Crime Fiction,http://www.gutenberg.org/ebooks/search/?query=s.Crime+Fiction+!+bsxCrime
+Detective Fiction,http://www.gutenberg.org/ebooks/search/?query=Detective+fiction+!+bsxDetective
+Erotic Fiction,http://www.gutenberg.org/ebooks/search/?query=Erotic+!+bsxErotic
+Fantasy,http://www.gutenberg.org/ebooks/search/?query=Fantasy+!+bsxFantasy
+Gothic Fiction,http://www.gutenberg.org/ebooks/search/?query=Gothic+!+Architecture+!+bsxGothic
+Historical Fiction,http://www.gutenberg.org/ebooks/search/?query=s.Historical.+fiction+!+bsxHistorical
+Horror,http://www.gutenberg.org/ebooks/search/?query=Horror+!+bsxHorror
+Humor,http://www.gutenberg.org/ebooks/search/?query=Humor+!Periodicals+!+bsxHumor
+Mystery Fiction,http://www.gutenberg.org/ebooks/search/?query=Mystery+fiction+!+Detective+!+bsxMystery
+School Stories,http://www.gutenberg.org/ebooks/search/?query=Schools.+fiction+!+bsxSchool
+Science Fiction,//www.gutenberg.org/ebooks/search/%3Fquery%3Ds.science%2Bfiction%2B!%2BbsxScience%2B!%2BbsxFiction
+Western,http://www.gutenberg.org/ebooks/search/?query=Western+stories+!bsxWestern
