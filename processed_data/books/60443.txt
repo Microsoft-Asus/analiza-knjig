@@ -1,0 +1,1614 @@
+﻿The Project Gutenberg EBook of Eddie, by Frank Riley
+
+This eBook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll
+have to check the laws of the country where you are located before using
+this ebook.
+
+
+
+Title: Eddie
+
+Author: Frank Riley
+
+Release Date: October 7, 2019 [EBook #60443]
+
+Language: English
+
+
+*** START OF THIS PROJECT GUTENBERG EBOOK EDDIE ***
+
+
+
+
+Produced by Greg Weeks, Mary Meehan and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+
+
+
+
+
+
+
+                                 EDDIE
+
+                            BY FRANK RILEY
+
+               _It's no surprise that the top brass was
+              in a complete swivet; Eddie knew answers to
+               questions that weren't even asked. What's
+            more_, nothing _was a secret with him around!_
+
+           [Transcriber's Note: This etext was produced from
+             Worlds of If Science Fiction, December 1957.
+         Extensive research did not uncover any evidence that
+         the U.S. copyright on this publication was renewed.]
+
+
+_Philip Duncan, the St. Louis attorney and former FBI agent, who wrote
+the definitive "History of Espionage", observes that in all the records
+dealing with spies and counterspies there is no more significant case
+than that of Dr. John O'Hara Smith, an electronics research engineer.
+Duncan maintains that Dr. Smith, whose rather quixotic name is real
+and not assumed, contributed more to the advancement of espionage and
+counter-espionage methods than any one person in history._
+
+_For a period of more than a year, the case of Dr. John O'Hara Smith
+was known to only a few security and defense officials. The first
+public reference to it came on November 22, 1956, when an assistant
+to Secretary of Defense Wilson obliquely commented on it in testimony
+before the House Military Affairs Committee. Subsequently, more details
+were leaked to several Washington correspondents, and then vigorously
+denied. A brief account of the matter appeared on an inside page of the
+New York Times, but aroused no general interest._
+
+_As a matter of fact, so little is known about the entire case that
+several of the people who were in on its early phases are still not
+sure whether Dr. John O'Hara Smith is alive or dead, or whether he was
+a spy or counterspy._
+
+_However, on the basis of information now declassified, plus two highly
+technical papers presented to the Institute of Research Engineers,
+anyone sufficiently interested can reconstruct most of the case._
+
+       *       *       *       *       *
+
+It began at approximately 7:15 P.M., August 11, 1955, when Dr. John
+O'Hara Smith returned with a bag of groceries to his house trailer in
+the Mira Mar Trailer Park, overlooking a long blue reach of the Pacific
+Ocean, some twelve miles south of Los Angeles. He put the groceries on
+the drainboard beside his spotless two-burner butane stove, carefully
+flicked away a speck of dust and then stepped eagerly toward the rear
+of his trailer, where an intricate assembly of tubes and wires occupied
+what normally would have been the dining area.
+
+Dr. Smith flipped on a switch, and then received what he later called,
+in his precise, pedantic way, a split-second premonition of danger.
+
+The Go-NoGo panel light flashed and went out; the transistor looked
+grey instead of red; the wires to the binary-coded digitizer were
+crossed; the extra module in the basic assembly had not been there that
+morning....
+
+Dr. Smith methodically catalogued these details, and he stepped
+backward, just a breath of a moment before the low hum sharpened to a
+whine. He tripped, and in falling his left shoulder knocked open the
+door to the small toilet closet. Instinctively, he writhed the upper
+part of his body through the narrow doorway. His thick-lensed glasses
+fell underneath him, leaving him practically blind.
+
+His elbows and knees were still making frenzied, primordial crawling
+movements when the detonation brought a wave of oblivion that almost,
+but not quite, preceded the pain.
+
+       *       *       *       *       *
+
+A squad car from the Los Angeles County Sheriff's Department turned in
+the first report:
+
+_John O'Hara Smith, male, white, about 45; critically injured by
+explosion in house trailer; removed by ambulance to General Hospital;
+explosion occurred at...._
+
+Two days later, the Sheriffs Department apparently closed the case with
+a one-line addition to its original report:
+
+_Explosion believed to have been caused by leaking butane connection._
+
+But, in the interval, other agencies had entered the case.
+
+The first was the Industrial Security Office attached to the Western
+Division of the Air Force's Research and Development Command in the
+once suburban community of Inglewood, California.
+
+When Chief Security Officer Amos Busch received a call at 11:32 the
+morning after the explosion, he automatically noted the time on his
+desk pad. The call was from Pacific Electronics, Inc., a subcontracting
+firm in nearby El Segundo.
+
+The president and owner of Pacific Electronics was on the phone. In a
+tone that betrayed considerable agitation, he identified himself as
+Wesley Browne.
+
+"One of my research engineers--my best engineer, dammit--was nearly
+killed last night in an explosion ... maybe he's dead now," reported
+Browne, his words breathlessly treading on each other. "There's
+something damn funny about this...."
+
+Amos Busch wrote: Research engineer ... explosion ... nearly killed.
+Then he asked judicially:
+
+"What do you mean by 'damn funny', Mr. Browne?"
+
+"This engineer was working on our vernier actuating cylinder for the
+Atlas guided missile.... Just two days ago, he--he said he wanted me to
+know where his files were ... in case anything happened to him...."
+
+Amos Busch was a jowly, greying man who gave the appearance of being
+slow moving. But before the president of Pacific Electronics, Inc.,
+hung up, Busch had already used another phone and the intercom to put
+in motion a chain reaction that would deliver to his desk the security
+report on Dr. John O'Hara Smith.
+
+There was nothing out of order in the report. There couldn't have been,
+or Dr. Smith wouldn't have been cleared for the ballistic missile
+program. According to the report, he had lived aloofly for all of his
+adult years. Even as a boy, his sole interest had been to tinker with
+mechanical projects. His grades and IQ were high above the norm, and
+his attitude towards his classmates varied between impatience and
+out-right sarcasm. "I always thought John was a lonely boy," a former
+teacher had recalled to an FBI officer during the security check. "He
+never had anything in common with other youngsters." After obtaining
+his Ph.D. in electrical engineering from the University of Wisconsin,
+he had worked for Allis-Chalmers Research Division in Milwaukee and
+lived with his mother until her death in 1951, when he bought a house
+trailer and moved to the coast. He had no close friends, no record of
+even a remote connection with any communist or communist-front group.
+
+Security Officer Busch decided to visit the trailer, or what remained
+of it. He was not an electronics man, or even a normally incompetent
+do-it-yourself mechanic, but when he saw the shattered tangle of wires
+and tubes, along with the obvious remnant of a short-wave receiver,
+Amos Busch promptly called Major General David Sanders, commander of
+the USAF's Western Development Division.
+
+General Sanders scratched his tanned bald head, and said,
+
+"We'd better get the FBI in on this, Amos."
+
+The FBI went to work with a thoroughness that made John O'Hara Smith's
+previous security investigation look like the processing of an
+application to join the Kiwanis. While agents sifted every detail of
+his life since the day of his birth, he was moved to a private room at
+General Hospital and three nurses cleared for security were assigned to
+care for him.
+
+For eight days, Smith was in a coma. On the morning of the ninth day,
+he groaned, turned to one side and rolled back again. The nurse on duty
+put down her magazine and moved quickly to his bedside. She moistened a
+cloth and wiped the perspiration from his high forehead, brushing back
+the thinning tangle of fine, brown hair.
+
+His eyes blinked open, stared at her. He whispered:
+
+"Eddie ... what happened ... to Eddie?"
+
+Remembering her instructions from the FBI, the nurse turned to make
+certain the door was closed.
+
+"Was Eddie in the trailer with you?" she asked, bending closer to catch
+his reply.
+
+He gave her a look of utter disgust, and tried to moisten his cracked
+lips with the tip of his tongue. But he drifted off again without
+replying.
+
+This incident was duly recorded in the FBI's growing dossier, along
+with another conversation that took place in the office of Wesley
+Browne at Pacific Electronics, Inc. After carefully reviewing John
+O'Hara Smith's work record, FBI agent Frank Cowles inquired:
+
+"Is there anything--anything at all, Mr. Browne--that you would
+consider out of the ordinary about Smith's recent actions?"
+
+There was a trace of uneasiness in Browne's manner, but he tried to
+cover it by looking annoyed.
+
+"I don't know why in the devil you fellows are spending so much time on
+Smith!... He sure as hell didn't blow himself up!"
+
+"Of course not," Cowles said, placatingly. "But we never know where a
+lead will come from...."
+
+He repeated the question.
+
+Browne hesitated.
+
+"I suppose," he began, shifting his big bulk uncomfortably, "this will
+sound kind of odd ... but you know we've got the subcontract to produce
+this actuating cylinder for the Atlas...."
+
+The agent nodded.
+
+"Well, six months before we were asked to submit specs and bids on such
+a cylinder, Smith came to me and said he had an idea for something the
+Air Force might soon be needing...."
+
+Agent Cowles maintained his air of polite attention, but his cool grey
+eyes narrowed. Browne shifted again, and continued:
+
+"I told him to go ahead--you never can tell what these research guys
+will come up with...."
+
+"And what did he come up with, Mr. Browne?"
+
+"You won't believe this, maybe--but he came up with the design for the
+complete vernier hydraulic actuating cylinder--including the drive
+sector gear--at least three months before we had the faintest idea such
+an item would even be needed!"
+
+The FBI man's ball-point pen moved swiftly.
+
+"Anything else?"
+
+Browne instinctively lowered his voice:
+
+"Smith even suggested that the cylinder would help to offset the roll
+and yaw in an intercontinental ballistic missile!"
+
+A brittle edge came into the agent's courteous tone:
+
+"Did you report this to security?"
+
+In spite of the air-conditioning unit in the window, the president and
+owner of Pacific Electronics, Inc., seemed to feel that the room was
+getting very warm. He ran a fat forefinger under his white collar.
+
+"No," he admitted. "We got the contract, of course--it was a
+cinch!--and I just wrote it off as a lucky break.... You can see how
+I'd feel, can't you?"
+
+"Yes," said Cowles, "I can."
+
+Bit by bit, a new picture of the meticulous, professorial Dr. Smith
+began to emerge from the FBI dossier.
+
+During the working week, his habit had been to keep his trailer in
+a small park just off Sepulveda Blvd., a half-mile from the Pacific
+Electronics plant. After work on Fridays, he invariably left for the
+weekend, usually for any one of a dozen scenic trailer parks along the
+coast between San Diego and Santa Barbara. He always went alone. No
+one had ever seen or met "Eddie". Outside of working hours, Smith's
+only association with his professional colleagues was through the
+Institute of Research Engineers. He attended monthly meetings, and
+occasionally wrote dry, abstract articles on theoretical research for
+the Institute's quarterly journal.
+
+Under microscopic study and chemical analysis, investigators determined
+that nitro-glycerine had caused the explosion. The fused mass of
+electronics wreckage in Smith's trailer were identified as parts of a
+computer assembly. Thousands of dollars had been spent on components
+over the past three years. Purchases, usually for cash, were traced to
+various electronic supply companies in the greater Los Angeles area.
+
+Dr. Smith's bank account showed a balance of only $263.15. But the big
+find came from a safety deposit box in the same branch bank. There,
+along with a birth certificate, his mother's marriage license, an
+insurance policy, his doctor's degree from the University of Wisconsin
+and an unused passport, was a duplicate set of computer memory tapes.
+
+       *       *       *       *       *
+
+It took the FBI forty-eight hours to play a few selected segments from
+these tapes, which obviously had been recorded over a period of several
+years.
+
+Two notations made by Agent Cowles indicate the type of material
+contained on the tapes:
+
+"If a deliberate attempt were made to run a thermonuclear test
+explosion within the frontiers of Russia, in such a way as to avoid
+detection, it would almost certainly be successful...."
+
+"The Soviet Union may soon develop a new ratio of fusion to fission
+energy in high yield weapons and will require additional data...."
+
+FBI agents listening to these playbacks were convinced, almost to a
+man, that they had stumbled across the hottest espionage trail since
+the arrest of Klaus Fuchs and the case of the Rosenbergs.
+
+A round-the-clock security guard was placed outside the hospital room
+of John O'Hara Smith, while Federal authorities waited impatiently
+to see whether he would live or die. Smith would answer, or leave
+unanswered, a lot of vital questions.
+
+       *       *       *       *       *
+
+Security notwithstanding, it was the day after Labor Day before the
+medical staff of General Hospital would permit the first direct
+questioning of Dr. Smith. And then the interrogators were instructed:
+
+"Only a few minutes."
+
+Three men filed quietly into Smith's room as soon as the nurse removed
+his luncheon tray. They stood in a semi-circle around the foot of his
+bed.
+
+Agent Frank Cowles opened a black leather folder the size of a small
+billfold and presented his credentials. He introduced General Sanders
+and Security Officer Busch. It was the first time any of the men had
+seen John O'Hara Smith. The reports had called him pudgy, but now he
+had lost twenty pounds and his cheek bones were gaunt under his pallid
+skin. He wore unusually thick, dark-rimmed glasses that magnified his
+eyes and gave him an owlish appearance. He returned their scrutiny with
+a mixture of assurance and impatience, like a professor waiting for his
+class to come to order.
+
+"Good morning, gentlemen," he said tartly. "It's about time someone
+came to see me about this...."
+
+Cowles cleared his throat and suggested cautiously:
+
+"Then you're willing to give us a statement, Dr. Smith?"
+
+"Don't talk drivel, man! How are you going to know anything about it if
+I don't make a statement!"
+
+Though still weak, Dr. Smith's voice had a high, imperious quality.
+Clearly, he did not wish to waste time or strength on mere
+conversation.
+
+The three men exchanged glances. Cowles and Amos Busch took out
+notebooks.
+
+"Now, Dr. Smith," Cowles began, "what is your view as to the nature of
+the explosion in your trailer and the reason for it?"
+
+"I'm an electronics research engineer, not an expert in explosives,"
+Smith retorted with some asperity. "But as to the reason, I'm sure they
+wanted to destroy Eddie and me!"
+
+He glared, as if daring anybody to challenge this statement.
+
+"Eddie?" ventured Cowles.
+
+"I try to speak plainly, Mr. Cowles.... I said 'Eddie and me'!"
+
+General David Sanders rested two large hands on the foot of the white
+iron bedstead and squeezed until his knuckles bulged ominously. A
+volatile man, he had trouble with his own temper even without being
+provoked. But his voice was deceptively calm:
+
+"Dr. Smith, do I gather that someone else was in the trailer with you
+at the time of the explosion?"
+
+Smith grimaced expressively, and answered as if speaking to an
+eight-year-old:
+
+"No, General Sanders.... I was quite alone."
+
+After thirty years in the Air Force, Amos Busch was not used to hearing
+a Major General spoken to in this way. It violated his sense of
+propriety.
+
+"Dr. Smith," he exploded, "just who or what in the hell is or was
+Eddie?"
+
+With what was remarkably close to an air of incredulity, Smith looked
+slowly from one to the other.
+
+"I gather you gentlemen haven't read my latest article."
+
+"Not thoroughly," Cowles admitted.
+
+"Then you don't know of my research work with an educatable computer,"
+Smith said accusingly. Seeing that they didn't, he added: "I have named
+it 'Eddie'!"
+
+"What ... what is an educatable computer?" ventured Cowles.
+
+It was clear that Dr. Smith welcomed this question. His eyes glowed
+behind their thick lenses, and his high voice dropped its edge of
+sharpness.
+
+"Eddie is a computer with a capacity to learn," he replied proudly. "It
+learns from assimilation of information and deductive reasoning--at a
+rate at least 10,000 times that of the human mind! That's why Eddie
+comes up with so many answers!... The only problem is, we seldom know
+what questions the answers answer."
+
+His three interrogators had the look of men leaning into a heavy wind.
+General Sanders recovered first, and demanded:
+
+"What the devil was it made for then?"
+
+"Eddie was not designed for any specific task--that's why Eddie is so
+valuable ... and dangerous!"
+
+Dr. Smith rolled out this last word as if he relished it.
+
+"Do you realize," he went on, with careful emphasis, "that Eddie has
+solved problems we won't even know exist for another thousand years!"
+
+This pronouncement was greeted by a moment of strained silence. General
+Sanders finally said,
+
+"H-m-m-m."
+
+He looked at Busch, who looked at Cowles, who asked:
+
+"Does Eddie solve any problems closer to our own time, Dr. Smith?"
+
+"Of course...."
+
+"Did Eddie come up with the idea for that Atlas stabilizing cylinder?"
+
+"Certainly."
+
+General Sanders moved a step closer to the bed.
+
+"Any other ideas like that?" he inquired eagerly.
+
+Dr. Smith's smile was neither wholly supercilious nor merely
+self-assured. It was a little of both, plus a lot of pure satisfaction
+at being stage center with his favorite subject. He cocked his head
+back and stared down his stump of a nose.
+
+"You're working on a missile defense system for bombers, aren't you?"
+he challenged General Sanders.
+
+"What about it?" hedged the General.
+
+"Have you learned how to design a finned missile which can be launched
+across the bomber's airstream without being thrown off course?"
+
+General Sanders ignored a warning glance from Amos Busch.
+
+"Do you ... does this Eddie know how to do it?"
+
+"Eddie says it doesn't matter!"
+
+"What?"
+
+"Eddie says what difference does it make if the missile is thrown
+off course by the airstream--as long as you can reorient it into a
+compensated trajectory. We were working on a new gyroscope principle
+that might do the trick...."
+
+FBI Agent Cowles was always the personification of courtesy, but he
+could assert himself when necessary. He did so now.
+
+"Excuse me, General," he interrupted, "but first there are some other
+matters we must go into with Dr. Smith."
+
+The General nodded reluctantly. He took out an envelope and made some
+notes of his own on the back of it.
+
+"Now, Dr. Smith," said Cowles, "let's get back to the explosion.... Why
+do you feel someone wanted to destroy you and Eddie?"
+
+"I believe they had copied Eddie's circuit design and wanted to make
+sure another one wasn't built--at least in the immediate future."
+
+"Why not?"
+
+Dr. John O'Hara Smith showed a neat flair for timing as he waited just
+long enough to build suspense, before answering:
+
+"Because Eddie knew that our security system for safeguarding the
+missile program is about as up to date as the horse and buggy!"
+
+His words couldn't have been better chosen to startle his audience.
+Amos Busch took them as a personal affront.
+
+"Horse and buggy!" he snorted. "You'd better spell that out, Dr. Smith!"
+
+Smith's reply was prompt and precise:
+
+"Eddie has concluded that human methods and minds alone are not enough
+to cope with security issues in an area where even the simplest
+technical problems must be handled by intricate computing devices...."
+
+His owlish eyes moved from one man to another, trying to judge whether
+they were following him.
+
+"You see, Gentlemen," he went on, "the technology we are dealing with
+is so unbelievably complex that the possibilities for espionage are
+multiplied infinitely beyond the capacity of a human intellect to grasp
+and evaluate...."
+
+"For example," demanded General Sanders.
+
+"For example," Smith retorted with equal sharpness, "what good does it
+do to surround ballistic missile plants with security regulations if
+the missile itself can be stolen right out of the air?"
+
+"Fantastic!" said General Sanders.
+
+"Nuts," said Amos Busch.
+
+Agent Cowles said nothing.
+
+John O'Hara Smith sank back against his pillow, panting a little. His
+high forehead glistened with sweat. When he gathered the strength to
+speak again, he directed his words to General Sanders:
+
+"General, these ICBM missiles being fired into the Atlantic Ocean from
+the coast of Florida.... Are you sure you know what's happened to all
+of them?"
+
+"I think so," the General answered calmly.
+
+"And what about your own X-15 project, General?"
+
+The question was almost a taunt.
+
+General David William Sanders had jumped with his paratroopers into
+France on a morning in June, 1944. He had risen in rank through the
+test of battle and the more excruciating ordeal of the Pentagon. He was
+a rock-jawed, six-foot, two-hundred pound man whom little could shock
+and nothing could deter. But he had never faced a challenge like the
+seconds of silence that followed Dr. Smith's mocking question.
+
+There was nothing he dared say, yet in saying nothing he was saying
+everything. FBI Agent Frank Cowles looked at him, then looked
+quickly away. Security Officer Busch studied his own hands as though
+discovering them for the first time.
+
+The tableau remained frozen and silent until the door opened and a
+doctor said,
+
+"That's all for today, gentlemen."
+
+The three men left without a word.
+
+Dr. John O'Hara Smith closed his eyes. On his pale lips was the
+suggestion of a smile.
+
+       *       *       *       *       *
+
+When they were alone in the General's staff car, Amos Busch exhaled and
+said,
+
+"I'll be damned."
+
+"I gather," observed Cowles drily, "that something called an X-15 has
+turned up missing."
+
+"A week ago," sighed General Sanders. "Somewhere in the Mojave Desert
+near Lancaster.... It was a very elementary prototype--the actual X-15
+won't be ready for another three years...."
+
+"Any idea what happened to it?"
+
+"It was on a routine test flight and ran out of the tracking
+screen--headed northwest.... We haven't found a splinter from it! But
+there's a lot of rough country around there."
+
+"Who knows it was lost?"
+
+"Just the local base and our headquarters staff. The Pentagon, too, of
+course."
+
+"And Dr. Smith," added Amos Busch, incredulously.
+
+The staff car detoured off the freeway to deliver Cowles to the Federal
+Building.
+
+"What do you make of this, Frank?" the General asked him.
+
+"I'm just supposed to be gathering information."
+
+"Oh, hell! We've been talking and you've been thinking--what?"
+
+Cowles grinned.
+
+"I've been thinking how lucky it is I don't have to make a decision
+about Smith!"
+
+"So?"
+
+"So we'll question him again tomorrow.... As long as he's willing to
+talk, the more he says, the better."
+
+But, next morning, the medical staff again exercised its veto power.
+John O'Hara Smith had developed an infection and fever during the
+night. There could be no further questioning for the time being.
+
+On the second day, when his fever ebbed, Dr. Smith irascibly ordered a
+pad of paper and began an interminable series of sketches. The nurse
+managed to sneak out a few of them, and FBI experts sat up all night
+vainly trying to figure out what they meant.
+
+The following evening, when the last visitor's bell had sounded and
+the patients were bedded down for the night, Dr. Smith was staring
+unblinkingly into the dark shadows of his room. He had been given a
+sleeping pill at 9:30, but had held it under his tongue until the nurse
+left, and then had put it on the night table behind his thick-rimmed
+glasses. He seemed to be struggling with a problem. Once he turned on
+the night light, put on his glasses and made several rapid sketches
+that vaguely resembled a spider web.
+
+A half hour later, his eyes began to droop. He picked up the sleeping
+pill, rolled it between his thumb and forefinger, then put it back on
+the table. His breathing became deeper.
+
+A sound startled him awake. It was an odd sound, not a part of the
+subdued hospital noises. It was a persistent, metallic, scraping sound,
+and it came from outside his window.
+
+Dr. John O'Hara Smith grabbed his glasses and rolled out of bed. He
+bunched up his pillow under the covers and crawled into the deeper
+darkness of the corner to the left of the window, which was open
+several inches. He crouched there, knees quivering from weakness.
+
+There followed an interval of almost inaudible prying at the screen,
+broken by periods of silence as someone outside the second-story window
+apparently paused to listen. Finally, the screen was released with a
+faint pop. The lower half of the double-hung window eased upwards.
+
+Again there was silence, save for the distant clatter of the
+self-service elevator.
+
+Abruptly, a pencil-thin beam of light shot through the room, toward
+the bed. It focussed on the mound made by the pillow.
+
+Short tongues of flame leaped out three times, with soft, spitting
+sounds. The pillow and the tangle of blankets twitched realistically.
+
+The beam of light winked out; the screen plopped back into place. There
+were a few hasty, sliding noises of retreat, and that was all.
+
+John O'Hara Smith's breath came in short, strained gasps, as though he
+were choked up with asthma. When he got control of himself, he eased
+back the edge of the drape and looked out the window. It was nearly
+twenty feet to the ground. A car turned off the boulevard, and came up
+the side street. The glow of its headlights briefly silhouetted the
+ladder angled against the side of the hospital.
+
+Dr. Smith sat on the edge of the bed to think things over. His left
+thumb probed the holes in the blanket and pillow. This seemed to make
+up his mind.
+
+He got his clothes from the closet and dressed as quickly as he could
+force his hands to move and co-ordinate. His trousers hung so loosely
+that the last hole in his belt made no difference. He pulled the belt
+tight and knotted it.
+
+Next, he carefully folded his sketches and put them in the inside
+pocket of his coat. As an after-thought, he also put the sleeping pill
+in his pocket. Then he drank half a glass of water and painfully edged
+himself out the window. His chest scraped the ledge, and it was all he
+could do to strangle an out-cry of pain.
+
+At the foot of the ladder, he staggered and nearly fell. But after a
+moment's rest, he squared his shoulders and walked across a corner of
+the lawn, into the shadows and the night.
+
+       *       *       *       *       *
+
+The Los Angeles Mirror-News got further than any other paper with the
+story of Dr. John O'Hara Smith's mysterious disappearance from General
+Hospital, leaving behind a bed riddled with three bullets. In fact, the
+Mirror-News story had cleared the copy desk and was on its way down to
+the composing room before it was killed by the managing editor "for
+security reasons".
+
+An all-points police bulletin was sent out, but no one was optimistic
+about immediate results. When you can't admit a man is missing, when
+you can't publish his photograph, you deprive yourself of the eyes and
+ears of the public, which turn up seventy-five percent of the leads in
+missing persons cases.
+
+Security considerations posed three alternatives:
+
+If Dr. Smith was telling the truth, then it was better to let whoever
+had twice tried to kill him wonder whether the second attempt had been
+successful.
+
+If Smith had broken with an espionage ring, and had been marked for
+death by former associates, the various agencies concerned with
+security wanted a chance to find him first.
+
+If Smith was playing some devious game of his own, let him make the
+next move.
+
+As days went by, telephone circuits from Washington to Los Angeles
+carried messages that grew increasingly uncomplimentary. FBI
+headquarters hinted that certain field representatives might be
+transferred from Southern California to southern Kansas if results in
+the Smith case were not forthcoming promptly. The Air Force suggested
+that if both Dr. Smith and the X-15 prototype continued to be among
+the missing, it would not be wise to present the pending promotion of
+General Sanders to the White House.
+
+The General was moodily digesting this thought, while half-listening to
+a discussion at a morning staff conference, when an aide whispered:
+
+"A call from the North American Lancaster plant, Sir. It's urgent--and
+personal...."
+
+General Sanders excused himself and hurried into his adjoining private
+office.
+
+"Sanders," he barked.
+
+The high, imperious voice that replied was instantly recognizable:
+
+"General Sanders, I suggest you don't try to have this call traced, or
+we might not be able to finish our conversation!"
+
+The General pressed his intercom button and held the connection open,
+waiting for a chance to use it.
+
+"Go ahead, Smith," he said.
+
+"I'll come directly to the point," said Smith. "I want two things: A
+place to work in safety and the funds to build another Eddie!"
+
+"And what makes you think you can get them from me?"
+
+"Because Eddie can help you find the X-15."
+
+The General hunched closer to the intercom, raising his voice.
+
+"Smith," he stalled, "why don't you come in and talk things over?"
+
+"I do not intend to sit around waiting to be killed while your security
+bunglers try to decide whether I'm telling the truth!"
+
+A Staff Sergeant looked in the door.
+
+"Is anything wrong, Sir?"
+
+The General motioned for silence, then scrawled on a note pad:
+
+"Trace this call!"
+
+"Now, Dr. Smith," he said, "if you're telling us the truth, you've got
+nothing to worry about...."
+
+"General," Smith replied acidly, "do you know any better way of
+convincing you than to let Eddie find the X-15?"
+
+"Well, I--"
+
+"Goodbye, General. You think it over--and I'll call you later. Your
+word will be sufficient!"
+
+The phone clicked, and General Sanders cursed bitterly. Later, he
+talked it over with Amos Busch, who nodded agreement to the General's
+proposal.
+
+"Sure," he said. "It's worth a gamble--and we'll have Smith where we
+want him!"
+
+When John O'Hara Smith phoned that afternoon, the General said promptly:
+
+"Come on in, Dr. Smith--you've got a deal."
+
+The available records on this phase of the case show that a Dr. J. O.
+Smith and three "assistants" were added to the payroll of a small
+Pasadena electronics firm on September 17, 1955. They were installed in
+one wing on the top floor of the building. The entrance to this wing
+was sealed off with the familiar sign: "Restricted--Permission to enter
+granted only on a need-to-know basis".
+
+Apparently, few needed to know, for Smith and his assistants seldom had
+visitors. Deliveries of electronics components were received by one of
+the assistants. The four men arrived together, and left together. They
+brought their lunch.
+
+Dr. Smith, of course, had been interrogated briefly when he had turned
+himself in at USAF Western Division Headquarters. But only the General
+and Amos Busch had questioned him this time.
+
+"Look, Smith," said Amos, "if we're supposed to protect you, I want to
+know from what--and why it's necessary...."
+
+John O'Hara Smith looked almost embarrassed.
+
+"I suppose I made the same error that is so often made in declassifying
+information...."
+
+"How's that?"
+
+"When information is declassified, it's done without mathematically
+computing the infinite number of possible ways such information may be
+useful to a hostile government.... Of course, you need an Eddie to make
+such a computation!"
+
+"What's this got to do with trying to knock you off?" Busch demanded.
+
+"It's quite evident that someone read my article in the Research
+Engineers' journal more carefully than you did! As a matter of fact,
+Eddie actually warned me that anyone hostile to the United States could
+not possibly allow my work to continue!"
+
+Amos Busch and General Sanders exchanged wary glances.
+
+"All right," said General Sanders, "We'll let that go for the
+moment--but what made you ask about the X-15 in the first place?"
+
+"Eddie suggested that if the ICBM missiles could theoretically be
+stolen over the mid-Atlantic, it would be vastly less difficult to
+steal an X-15 over the Mojave Desert!"
+
+As the two Air Force men digested this statement, along with the
+indisputable fact that an X-15 _had_ disappeared, John O'Hara Smith
+blandly informed them:
+
+"Incidentally, gentlemen, you'll have to get Eddie's duplicate tapes
+for me."
+
+Busch reddened, and could not resist asking:
+
+"Including those short-wave broadcasts from Moscow Radio?"
+
+"Naturally!" Dr. Smith snapped. "I'm sure Eddie extracts a great deal
+of useful information from them!"
+
+This second interrogation, like the previous one in the hospital, ended
+on a triumphant note for the exasperating Dr. Smith. When they were
+alone, General Sanders turned to Busch and sighed:
+
+"We've got a double security problem, Amos! If word of this deal
+with Smith gets back to Washington, I'll be laughed right out of the
+service!"
+
+But the General didn't begin to grasp the full implications of his
+predicament until the afternoon of Oct. 7, when Dr. Smith phoned to say
+Eddie was completed.
+
+"Good," grunted the General. "Get going, then!"
+
+"We'll need more information first."
+
+"What kind of information?" General Sanders demanded suspiciously.
+
+His suspicions were reinforced by Smith's terse dictum:
+
+"Eddie must have all the facts on the X-15."
+
+"Impossible!"
+
+Dr. Smith's sniff indicated he nurtured utter disbelief in the concept
+of the impossible.
+
+"Eddie operates on facts," he reminded the General.
+
+General Sanders didn't sleep much that night. Neither did Amos Busch.
+They talked and argued until three in the morning, when the General
+poured one last drink and raised his glass.
+
+"O.K.," he said grimly. "I've gone this far and I've got to go the rest
+of the way!"
+
+They drank, and he continued:
+
+"At least, now I won't have to worry about being laughed out of the
+service--I'll get court-martialed out!"
+
+He jabbed viciously at an ice-cube with his forefinger.
+
+"But there's one thing I'll do first," he promised.
+
+"What's that, Sir?"
+
+"Strangle Smith with my bare hands!"
+
+       *       *       *       *       *
+
+General Sanders sat on a metal folding chair in front of Eddie, the
+educatable computer, and stared belligerently at the roughly-finished
+aluminum facade.
+
+Eddie didn't look like much--certainly nothing like $13,456.12 worth of
+components paid for out of the General's contingency fund. Speed had
+been the primary consideration in rebuilding Eddie. The exterior case
+was unpainted, and rather inexpertly held together with metal screws.
+There were no knobs on the front panel controls. The vocader grill was
+open; the input microphone simply rested on the workbench beside the
+case. The entire assembly measured about three feet long, two feet deep
+and eighteen inches high.
+
+"O.K., what do I do now?" rasped the General.
+
+"Just start talking--into the mike."
+
+General Sanders took a sheaf of papers from his briefcase. He glared at
+Smith:
+
+"You get the hell out of here! This is classified information!"
+
+Dr. Smith smiled mockingly. On his way out of the room, he paused.
+
+"The circuits will stay open--take as long as you wish."
+
+Feeling like a combination of fool and Benedict Arnold, General Sanders
+cleared his throat and began to read:
+
+"The North American X-15 is one of several projects now nearing the
+hardware stage that will take living men as well as instruments into
+the fourth environment of military activity, that of space.
+
+"As soon as the satellite project completes preliminary exploration
+of the massive high energy spectrometer, the X-15's system should be
+ready to fly within two years. X-15s A, B, and C will explore 3000 mph,
+50 mi. up; 4500 mph, 100 mi. up; and 6000 mph and over, 150 mi. up and
+out...."
+
+General Sanders jerked open his tie. His tanned bald head was damp with
+sweat. He glanced around the empty workroom, set his jaw stubbornly and
+continued:
+
+"Meanwhile, tests are in progress with a pilot model of X-15 to work
+out an entirely new vehicle system slow enough to maintain laminar flow
+in the boundary layer and fast enough to maintain control effectiveness
+at near sea-level environment. Unlike the ICBM which need only remain
+lethal for a few seconds, both the X-15 and its personnel must return
+to fly again...."
+
+For three hours, General Sanders read steadily from his file material.
+During the last half hour, his voice grew husky, his throat dry and raw.
+
+When he finished, he went to the door and shouted:
+
+"All right, Smith.... Come in here and put this damn thing to work!"
+
+Smith came in and informed him imperturbably:
+
+"Not so fast, General! Eddie will still require a great deal more
+information."
+
+"More? Dammit, I covered everything!"
+
+"Everything you know about the X-15," Dr. Smith agreed, "but Eddie
+is now venturing into a new field and must have more than technical
+electronics and avionics data. He needs complete reports on the
+progress of the search to date, as well as the weather, topography,
+economy, history and current happenings in the entire peripheral
+area. I have built a supplemental circuit to accommodate this sort of
+material...."
+
+General Sanders groaned.
+
+"How the hell do I get into these things?"
+
+During the next ten days, Eddie scanned microfilm on all the newspapers
+published since X-15's disappearance. Also marshalled before the
+scanner was every pertinent reference work available at public, private
+and university libraries in California.
+
+At length, even John O'Hara Smith seemed satisfied. He shut off the
+scanner, turned on the selector mechanism and the vocader switch.
+
+For two hours, Eddie did nothing, except hum contentedly, like a
+miniature washing machine. Occasionally, a weird, flickering pattern of
+multi-colored lights would trace across the scanning screen.
+
+At 11:06 A.M., October 19, 1955, a flat, toneless voice came from the
+vocader grill:
+
+"Laminar flow equilibrium temperature at mach 8.0, altitude 150,000
+ft., of a point 10 ft. back from the leading edge is 1000 degrees
+Fahrenheit, assuming skin has 0.85 emissivity."
+
+There was a small, whirring noise, and the vocader circuit clicked off.
+
+"What the devil does that mean?" demanded the General.
+
+"Your aerophysicists might like to know!" came back the tart reply.
+
+At 1:34, Eddie clicked into action again:
+
+"In flight between two planets, the theory of minimum energy orbit
+should be discarded in favor of acceleration at reduced speed for
+calculated periods of time."
+
+"By the time we're flying between planets," General Sanders commented
+bitterly, "the record of my court-martial will be ancient history!"
+
+Twenty minutes later, Eddie added:
+
+"In the operation of small exploration vehicles, the fuel cell of the
+4-H Clubs in Hanford and Bitteroot Creek will compete with the chemical
+energy of recombination for the prize sweet potato trophy."
+
+Even John O'Hara Smith looked startled. But he recovered his aplomb
+instantly.
+
+"Must be a circuit crossover," he explained. "No trouble to adjust
+it...."
+
+While he probed into the interior of Eddie with a glass-handled
+screwdriver, General Sanders took out a fresh cigarette and shredded it
+between his fingers.
+
+At 2:51, Eddie had this to report:
+
+"Just as the basic physical precept of invariancy to reflection is
+not necessarily true, Newton's laws of motion may not always apply
+under certain circumstances. This would make it possible to penetrate
+and misdirect a navigational system based on the concept of inertial
+guidance."
+
+General Sanders had been tilted back in his chair, half dozing. He
+bounced forward with a jar.
+
+"What was that?"
+
+Dr. Smith replayed this portion of the output tape.
+
+"We talked about that at the hospital," he sternly recalled to the
+General. "And if the long-range missiles fired from Florida can be
+taken over in flight, what's to prevent their being guided to a
+submarine at sea?"
+
+The General frowned in deep concentration, then relaxed and shook his
+head.
+
+"Even if something like that would be possible, we've got nothing
+to worry about. Every missile carries a device which can be used to
+destroy it if the missile goes off course."
+
+John O'Hara Smith shook his head like a teacher confronted with a pupil
+who was not too bright.
+
+"Now, General, if an inertial guidance system can be penetrated, a
+destructor can be blocked."
+
+"That's a mighty big if," the General shot back.
+
+Dr. Smith smiled sardonically.
+
+"It may not be so big when Eddie tells us what happened to the X-15!"
+
+"When!" the General groaned. Then he came back to the problem of
+intercepted ICBM missiles. Half seriously, half sarcastically, he asked:
+
+"What does Eddie think we should do about those missiles?"
+
+"Undoubtedly there are other guidance systems that can't be broken so
+easily ... meanwhile, Eddie suggests booby-trapping the missiles so
+they'll explode when tampered with."
+
+General Sanders closed his eyes again, and tilted back his chair. The
+frown between his eyes deepened.
+
+It was six o'clock, and the early dusk was closing in on the workroom,
+before another statement came from Eddie. In its characteristic
+monotone, the educatable computer said:
+
+"The existing developmental missile program will not be affected by the
+rising divorce rate in Bakersfield and Kern County."
+
+Dr. John O'Hara Smith pursed his lips in disapproval.
+
+"Eddie's not behaving at all well! I'm afraid that new circuit relay
+will take some working over...."
+
+General Sanders climbed slowly to his feet. He picked up his hat.
+
+"O.K., Smith," he said, "You sold me a bill of goods, and I bought
+it! Now I'm turning you and this whole damn mess back to the FBI! Let
+Cowles go crazy for awhile!"
+
+       *       *       *       *       *
+
+As Frank Cowles sat in the General's office and heard what had been
+going on, he said mildly:
+
+"Well, I guess you had to take the gamble."
+
+"Thanks," said General Sanders. "I hope the Pentagon will look at it
+the same way--but I doubt it!"
+
+"We've got a problem, too, General," Cowles pointed out. "When
+everything's said and done, there's absolutely no charge we can file
+against Smith."
+
+"But he just can't walk away--not with all he--or that miserable
+Eddie--knows about the X-15!"
+
+Cowles smiled faintly.
+
+"I would imagine that Eddie now belongs to the Air Force."
+
+"We'll break the damn thing up for scrap!"
+
+The General's intercom buzzed. An aide's voice said apologetically:
+
+"That Dr. Smith is calling you again, Sir."
+
+"Tell him to go to hell!"
+
+A few seconds later, the intercom buzzed again.
+
+"Dr. Smith on the line, Sir--He says it's something about the X-15
+missile."
+
+General Sanders looked as though he wanted to sweep the intercom off
+his desk.
+
+"Why not talk to him," Cowles suggested. "I'd like to hear this."
+
+The General picked up his phone, and said with deceptive calm:
+
+"All right, Smith ... make it short."
+
+"It was the logging truck," Dr. Smith replied, in his most superior
+manner.
+
+"Huh?"
+
+"Eddie's circuit is coordinated now. He says that the same afternoon
+the X-15 disappeared, a passenger car ran into the back of a logging
+truck northbound on Highway 395, about fifty miles from the Lancaster
+base. Two people were killed...."
+
+"Smith, what kind of pipedream are you peddling now?"
+
+"General, the truck was loaded with redwood logs and heading north!"
+
+"I don't give a damn where it was going!"
+
+"Wait, General!" Dr. Smith's tone was almost a command. "Eddie wants to
+know why a logging truck was traveling _toward_ the redwood country
+with a load of logs. He also points out that the X-15 is about the size
+of a redwood log, and could be concealed perfectly in the middle of a
+load!"
+
+The General seemed to be swallowing something angular and unpleasant.
+
+"We'll check that truck," he said, at last. "But remember, Smith,
+you've had it--you'll never hook me again!"
+
+He put down the phone, and said to Cowles:
+
+"You get on the merry-go-round this time!"
+
+       *       *       *       *       *
+
+The California Highway Patrol in Mojave had the report on the accident.
+Clearly, it had been the fault of the passenger car. The truck
+driver was identified in the report as Art Backus, an independent
+hauler, working out of Eureka, located on the far northern tip of the
+California coast, about eight hundred miles from the scene of the
+accident.
+
+A routine check by the FBI disclosed that Backus had done time in San
+Quentin on a morals charge involving a minor girl. He had driven trucks
+for a dozen lumber companies in northwest California until the past
+summer, when he had bought a new truck and trailer, for cash, and gone
+into business for himself.
+
+Two FBI agents stepped up to him in a roadside cafe on Highway 1,
+between Eureka and Trinidad Bay. A gaunt, stooped man, he nearly
+collapsed when the agents showed him their identifications. He was
+broken, and ready to talk, even before mention was made of the fact
+that the penalty for peace-time espionage is death.
+
+Backus guided the FBI to an abandoned sawmill, some two miles inland,
+where the X-15 had been taken apart, minutely photographed, and then
+sunk in the old log pond.
+
+The men who had hired Backus and dismantled the X-15 had left the area
+several weeks earlier. They were remembered with friendliness by the
+residents of Trinidad Bay, who described them as "real nice guys and
+good fishermen, too." They had told Backus they would be back in the
+late autumn for the steelhead run, and perhaps would have some more
+hauling business for him at that time.
+
+The FBI offered Backus one chance for life. He accepted it, with abject
+eagerness.
+
+       *       *       *       *       *
+
+Beyond this point, there are no more available records on the case of
+Dr. John O'Hara Smith, and Eddie, the educatable computer. But several
+items, not apparently related in any way, make interesting speculation.
+
+On January 3, 1956, the Air Force reported that a Thor
+intermediate-range ballistic missile, launched from Patrick Air Force
+Base, Florida, had been destroyed when it appeared to be wandering off
+course.
+
+About the same date, a Panamanian freighter, riding the gulf-stream
+toward the West Indies, radioed a report of sighting a massive oil
+slick and a scattering of debris, some of it bearing Russian insignia.
+No survivors were found.
+
+The U.S. State Department solicitously inquired of the Soviet Union if
+any of its vessels had been lost in the winter storms of the Caribbean.
+The Soviet Union testily replied that no Soviet vessels could have
+been lost, since Soviet vessels, as a matter of sound international
+principle, confined their operations to their own territorial waters.
+
+During Easter Week of 1956, the FBI announced the arrests of four men
+on charges of espionage: A druggist in Tucson, Arizona; an importer
+in San Francisco; a retired real-estate operator in Los Angeles; an
+obscure trucker in northern California. All pleaded guilty in order to
+escape the gas chamber. The details of the charges against them were
+not disclosed, except to members of a Federal Grand Jury.
+
+Two other published items are worth noting:
+
+The May, 1956, issue of the journal published by the Institute of
+Research Engineers reported that one of its members, Dr. J. O. Smith,
+had recovered from injuries suffered in the explosion of a butane stove
+and had accepted a government research position in Washington, D.C.
+
+The other item was a paragraph in Aviation Weekly, congratulating Major
+General David William Sanders on his promotion to Brigadier General.
+
+
+
+
+
+End of the Project Gutenberg EBook of Eddie, by Frank Riley
+
+*** END OF THIS PROJECT GUTENBERG EBOOK EDDIE ***
+
+***** This file should be named 60443.txt or 60443.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/6/0/4/4/60443/
+
+Produced by Greg Weeks, Mary Meehan and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for the eBooks, unless you receive
+specific permission. If you do not charge anything for copies of this
+eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given
+away--you may do practically ANYTHING in the United States with eBooks
+not protected by U.S. copyright law. Redistribution is subject to the
+trademark license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country outside the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you'll have to check the laws of the country where you
+  are located before using this ebook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
+trademark. Contact the Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org Section 3. Information about the Project Gutenberg
+Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its
+volunteers and employees are scattered throughout numerous
+locations. Its business office is located at 809 North 1500 West, Salt
+Lake City, UT 84116, (801) 596-1887. Email contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at www.gutenberg.org/contact
+
+For additional contact information:
+
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works.
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our Web site which has the main PG search
+facility: www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

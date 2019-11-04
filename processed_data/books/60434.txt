@@ -1,0 +1,964 @@
+﻿The Project Gutenberg EBook of Learning Theory, by James McConnell
+
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll have
+to check the laws of the country where you are located before using this ebook.
+
+Title: Learning Theory
+
+Author: James McConnell
+
+Release Date: October 5, 2019 [EBook #60434]
+
+Language: English
+
+
+*** START OF THIS PROJECT GUTENBERG EBOOK LEARNING THEORY ***
+
+
+
+
+Produced by Greg Weeks, Mary Meehan and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+
+
+
+
+
+
+
+                            LEARNING THEORY
+
+                          BY JAMES MC CONNELL
+
+                 _Destiny's tricks can be pretty weird
+                sometimes. And this was one to be proud
+                of. A cosmic joke, a  witch that could
+                     make a nightmare seem tame!_
+
+           [Transcriber's Note: This etext was produced from
+             Worlds of If Science Fiction, December 1957.
+         Extensive research did not uncover any evidence that
+         the U.S. copyright on this publication was renewed.]
+
+
+I am writing this because I presume He wants me to. Otherwise He would
+not have left paper and pencil handy for me to use. And I put the
+word "He" in capitals because it seems the only thing to do. If I am
+dead and in hell, then this is only proper. However, if I am merely a
+captive somewhere, then surely a little flattery won't hurt matters.
+
+As I sit here in this small room and think about it, I am impressed
+most of all by the suddenness of the whole thing. At one moment I was
+out walking in the woods near my suburban home. The next thing I knew,
+here I was in a small, featureless room, naked as a jaybird, with only
+my powers of rationalization to stand between me and insanity. When
+the "change" was made (whatever the change was), I was not conscious
+of so much as a momentary flicker between walking in the woods and
+being here in this room. Whoever is responsible for all of this is to
+be complimented--either He has developed an instantaneous anesthetic
+or He has solved the problem of instantaneous transportation of matter.
+I would prefer to think it the former, for the latter leads to too much
+anxiety.
+
+As I recall, I was immersed in the problem of how to teach my class
+in beginning psychology some of the more abstruse points of Learning
+Theory when the transition came. How far away life at the University
+seems at the moment: I must be forgiven if now I am much more concerned
+about where I am and how to get out of here than about how freshmen can
+be cajoled into understanding Hull or Tolman.
+
+Problem #1: Where am I? For an answer, I can only describe this room.
+It is about twenty feet square, some twelve feet high, with no windows,
+but with what might be a door in the middle of one of the walls.
+Everything is of a uniform gray color, and the walls and ceiling emit
+a fairly pleasant achromatic light. The walls themselves are of some
+hard material which might be metal since it feels slightly cool to
+the touch. The floor is of a softer, rubbery material that yields a
+little when I walk on it. Also, it has a rather "tingly" feel to it,
+suggesting that it may be in constant vibration. It is somewhat warmer
+than the walls, which is all to the good since it appears I must sleep
+on the floor.
+
+The only furniture in the room consists of what might be a table and
+what passes for a chair. They are not quite that, but they can be made
+to serve this purpose. On the table I found the paper and the pencil.
+No, let me correct myself. What I call paper is a good deal rougher and
+thicker than I am used to, and what I call a pencil is nothing more
+than a thin round stick of graphite which I have sharpened by rubbing
+one end of it on the table.
+
+And that is the sum of my surroundings. I wish I knew what He has
+done with my clothes. The suit was an old one, but I am worried about
+the walking boots. I was very fond of those boots--they were quite
+expensive and I would hate to lose them.
+
+The problem still remains to be answered, however, as to just where in
+the hell I am--if not in hell itself!
+
+Problem #2 is a knottier one--Why am I here? Were I subject to
+paranoid tendencies, I would doubtless come to the conclusion that
+my enemies had kidnapped me. Or perhaps that the Russians had taken
+such an interest in my research that they had spirited me away to some
+Siberian hideout and would soon appear to demand either cooperation or
+death. Sadly enough, I am too reality oriented. My research was highly
+interesting to me, and perhaps to a few other psychologists who like
+to dabble in esoteric problems of animal learning, but it was scarcely
+startling enough to warrant such attention as kidnapping.
+
+So I am left as baffled as before. Where am I, and why?
+
+And who is He?
+
+       *       *       *       *       *
+
+I have decided to forego all attempts at keeping this diary according
+to "days" or "hours." Such units of time have no meaning in my present
+circumstances, for the light remains constant all the time I am awake.
+The human organism is not possessed of as neat an internal clock as
+some of the lower species. Far too many studies have shown that a human
+being who is isolated from all external stimulation soon loses his
+sense of time. So I will merely indicate breaks in the narrative and
+hope that He will understand that if He wasn't bright enough to leave
+me with my wristwatch, He couldn't expect me to keep an accurate record.
+
+Nothing much has happened. I have slept, been fed and watered, and have
+emptied my bladder and bowels. The food was waiting on the table when I
+awoke last time. I must say that He has little of the gourmet in Him.
+Protein balls are not my idea of a feast royal. However, they will
+serve to keep body and soul together (presuming, of course, that they
+_are_ together at the moment). But I must object to my source of liquid
+refreshment. The meal made me very thirsty, and I was in the process
+of cursing Him and everybody else when I noticed a small nipple which
+had appeared in the wall while I was asleep. At first I thought that
+perhaps Freud was right after all, and that my libido had taken over
+control of my imagery. Experimentation convinced me, however, that the
+thing was real, and that it is my present source of water. If one sucks
+on the thing, it delivers a slightly cool and somewhat sweetish flow of
+liquid. But really, it's a most undignified procedure. It's bad enough
+to have to sit around all day in my birthday suit. But for a full
+professor to have to stand on his tip-toes and suck on an artificial
+nipple in order to obtain water is asking a little too much. I'd
+complain to the Management if only I knew to whom to complain!
+
+Following eating and drinking, the call to nature became a little too
+strong to ignore. Now, I was adequately toilet-trained with indoor
+plumbing, and the absence of same is most annoying. However, there was
+nothing much to do but choose a corner of the room and make the best
+of a none too pleasant situation. (As a side-thought, I wonder if the
+choosing of a corner was in any way instinctive?). However, the upshot
+of the whole thing was my learning what is probably the purpose of the
+vibration of the floor. For the excreted material disappeared through
+the floor not too many minutes later. The process was a gradual one.
+Now I will be faced with all kinds of uncomfortable thoughts concerning
+what might possibly happen to me if I slept too long:
+
+Perhaps this is to be expected, but I find myself becoming a little
+paranoid after all. In attempting to solve my Problem #2, why I am
+here, I have begun to wonder if perhaps some of my colleagues at the
+University are not using me as a subject in some kind of experiment.
+It would be just like McCleary to dream up some fantastic kind of
+"human-in-isolation" experiment and use me as a pilot observer.
+You would think that he'd have asked my permission first. However,
+perhaps it's important that the subject not know what's happening
+to him. If so, I have one happy thought to console me. If McCleary
+_is_ responsible for this, he'll have to take over the teaching of my
+classes for the time being. And how he hates teaching Learning Theory
+to freshmen:
+
+You know, this place seems dreadfully quiet to me.
+
+       *       *       *       *       *
+
+Suddenly I have solved two of my problems. I know both where I am and
+who He is. And I bless the day that I got interested in the perception
+of motion.
+
+I should say to begin with that the air in this room seems to have
+more than the usual concentration of dust particles. This didn't seem
+particularly noteworthy until I noticed that most of them seemed to
+pile up along the floor against one wall in particular. For a while I
+was sure that this was due to the ventilation system--perhaps there was
+an out-going airduct there where this particular wall was joined to the
+floor. However, when I went over and put my hand to the floor there, I
+could feel no breeze whatsoever. Yet even as I held my hand along the
+dividing line between the wall and the floor, dust motes covered my
+hand with a thin coating. I tried this same experiment everywhere else
+in the room to no avail. This was the only spot where the phenomenon
+occurred, and it occurred along the entire length of this one wall.
+
+But if ventilation was not responsible for the phenomenon, what was?
+All at once there popped into my mind some calculations I had made
+when the rocket boys had first proposed a manned satellite station.
+Engineers are notoriously naive when it comes to the performance of a
+human being in most situations, and I remembered that the problem of
+the perception of the satellite's rotation seemingly had been ignored
+by the slip-stick crowd. They had planned to rotate the doughnut-shaped
+satellite in order to substitute centrifugal force for the force of
+gravity. Thus the outer shell of the doughnut would appear to be "down"
+to anyone inside the thing. Apparently they had not realized that man
+is at least as sensitive to angular rotation as he is to variations in
+the pull of gravity. As I figured the problem then, if a man aboard the
+doughnut moved his head as much as three or four feet outwards from
+the center of the doughnut, he would have become fairly dizzy! Rather
+annoying it would have been, too, to have been hit by a wave of nausea
+every time one sat down in a chair. Also, as I pondered the problem, it
+became apparent that dust particles and the like would probably show
+a tendency to move in a direction opposite to the direction of the
+rotation, and hence pile up against any wall or such that impeded their
+flight.
+
+Using the behavior of the dust particles as a clue, I then climbed
+atop the table and leapt off. Sure enough, my head felt like a mule
+had kicked it by the time I landed on the floor. My hypothesis was
+confirmed.
+
+So I am aboard a spaceship:
+
+The thought is incredible, but in a strange way comforting. At least
+now I can postpone worrying about heaven and hell--and somehow I find
+the idea of being in a spaceship much more to the liking of a confirmed
+agnostic. I suppose I owe McCleary an apology--I should have known he
+would never have put himself in a position where he would have to teach
+freshmen all about learning:
+
+And, of course, I know who "He" is. Or rather, I know who He _isn't_,
+which is something else again. Surely, though, I can no longer think of
+Him as being human. Whether I should be consoled at this or not, I have
+no way of telling.
+
+I still have no notion of _why_ I am here, however, nor why this alien
+chose to pick me of all people to pay a visit to His spaceship. What
+possible use could I be? Surely if He were interested in making contact
+with the human race, He would have spirited away a politician. After
+all, that's what politicians are for! Since there has been no effort
+made to communicate with me, however, I must reluctantly give up any
+cherished hopes that His purpose is that of making contact with _genus
+homo_.
+
+Or perhaps He's a galactic scientist of some kind, a biologist of
+sorts, out gathering specimens. Now, that's a particularly nasty
+thought. What if He turned out to be a physiologist, interested in
+cutting me open eventually, to see what makes me tick? Will my innards
+be smeared over a glass slide for scores of youthful Hims to peer at
+under a microscope? Brrrr! I don't mind giving my life to Science, but
+I'd rather do it a little at a time.
+
+If you don't mind, I think I'll go do a little repressing for a while.
+
+       *       *       *       *       *
+
+Good God! I should have known it! Destiny will play her little tricks,
+and all jokes have their cosmic angles. He is a _psychologist_! Had I
+given it due consideration, I would have realized that whenever you
+come across a new species, you worry about behavior first, physiology
+second. So I have received the ultimate insult--or the ultimate
+compliment. I don't know which. I have become a specimen for an alien
+psychologist!
+
+This thought first occurred to me when I awoke after my latest sleep
+(which was filled, I must admit, with most frightening dreams). It was
+immediately obvious that something about the room had changed. Almost
+at once I noticed that one of the walls now had a lever of some kind
+protruding from it, and to one side of the lever, a small hole in the
+wall with a container beneath the hole. I wandered over to the lever,
+inspected it a few moments, then accidentally depressed the thing. At
+once there came a loud clicking noise, and a protein ball popped out of
+the hole and fell into the container.
+
+For just a moment a frown crossed my brow. This seemed somehow so
+strangely familiar. Then, all at once, I burst into wild laughter.
+The room had been changed into a gigantic Skinner Box! For years I
+had been studying animal learning by putting white rats in a Skinner
+Box and following the changes in the rats' behavior. The rats had to
+learn to press the lever in order to get a pellet of food, which was
+delivered to them through just such an apparatus as is now affixed to
+the wall of my cell. And now, after all of these years, and after all
+of the learning studies I had done, to find myself trapped like a rat
+in a Skinner Box! Perhaps this was hell after all, I told myself, and
+the Lord High Executioner's admonition to "let the punishment fit the
+crime" was being followed.
+
+Frankly, this sudden turn of events has left me more than a little
+shaken.
+
+       *       *       *       *       *
+
+I seem to be performing according to theory. It didn't take me long to
+discover that pressing the lever would give me food some of the time,
+while at other times all I got was the click and no protein ball. It
+appears that approximately every twelve hours the thing delivers me
+a random number of protein balls--the number has varied from five to
+fifteen so far. I never know ahead of time how many pellets--I mean
+protein balls--the apparatus will deliver, and it spews them out
+intermittently. Sometimes I have to press the lever a dozen times or
+so before it will give me anything, while at other times it gives me
+one ball for each press. Since I don't have a watch on me, I am never
+quite sure when the twelve hours have passed, so I stomp over to the
+lever and press it every few minutes when I think it's getting close
+to time to be fed. Just like my rats always did. And since the pellets
+are small and I never get enough of them, occassionally I find myself
+banging away on the lever with all the compulsion of a stupid animal.
+But I missed the feeding time once and almost starved to death (so it
+seemed) before the lever delivered food the next time. About the only
+consolation to my wounded pride is that at this rate of starvation,
+I'll lose my bay window in short order.
+
+At least He doesn't seem to be fattening me up for the kill. Or maybe
+he just likes lean meat!
+
+       *       *       *       *       *
+
+I have been promoted. Apparently He in His infinite alien wisdom
+has decided that I'm intelligent enough to handle the Skinner-type
+apparatus, so I've been promoted to solving a maze. Can you picture the
+irony of the situation? All of the classic Learning Theory methodology
+is practically being thrown in my face. If only I could communicate
+with Him! I don't mind being subjected to tests nearly as much as I
+mind being underestimated. Why, I can solve puzzles hundreds of times
+more complex than what He's throwing at me. But how can I tell Him?
+
+As it turns out, the maze is much like our standard T-mazes, and is
+not too difficult to learn. It's a rather long one, true, with some
+23 choice points along the way. I spent the better part of half an
+hour wandering through the thing the first time I found myself in it.
+Surprisingly enough, I didn't realize the first time out what I was in,
+so I made no conscious attempt to memorize the correct turns. It wasn't
+until I reached the final turn and found food waiting for me that I
+recognized what I was expected to do. The next time through the maze my
+performance was a good deal better, and I was able to turn in a perfect
+performance in not too long a time. However, it does not do my ego any
+good to realize that my own white rats could have learned the maze a
+little sooner than I did.
+
+My "home cage," so to speak, still has the Skinner apparatus in it, but
+the lever delivers food only occasionally now. I still give it a whirl
+now and again, but since I'm getting a fairly good supply of food at
+the end of the maze each time, I don't pay the lever much attention.
+
+Now that I am very sure of what is happening to me, quite naturally my
+thoughts have turned to how I can get out of this situation. Mazes I
+can solve without too much difficulty, but how to escape apparently is
+beyond my intellectual capacity. But then, come to think of it, there
+was precious little chance for my own experimental animals to get out
+of my clutches. And assuming that I am unable to escape, what then?
+After He has finished putting me through as many paces as He wishes,
+where do we go from there? Will He treat me as I treated most of my
+non-human subjects--that is, will I get tossed into a jar containing
+chloroform? "Following the experiment, the animals were sacrificed," as
+we so euphemistically report in the scientific literature. This doesn't
+appeal to me much, as you can imagine. Or maybe if I seem particularly
+bright to Him, He may use me for breeding purposes, to establish a
+colony of His own. Now, that might have possibilities....
+
+Oh, damn Freud anyhow!
+
+       *       *       *       *       *
+
+And damn Him too! I had just gotten the maze well learned when He upped
+and changed things on me. I stumbled about like a bat in the sunlight
+for quite some time before I finally got to the goal box. I'm afraid my
+performance was pretty poor. What He did was just to reverse the whole
+maze so that it was a mirror image of what it used to be. Took me only
+two trials to discover the solution. Let Him figure that one out if
+He's so smart!
+
+       *       *       *       *       *
+
+My performance on the maze reversal must have pleased Him, because
+now He's added a new complication. And again I suppose I could have
+predicted the next step if I had been thinking along the right
+direction. I woke up a few hours ago to find myself in a totally
+different room. There was nothing whatsoever in the room, but opposite
+me were two doors in the wall--one door a pure white, the other jet
+black. Between me and the doors was a deep pit, filled with water. I
+didn't like the looks of the situation, for it occured to me right away
+that He had devised a kind of jumping stand for me. I had to choose
+which of the doors was open and led to food. The other door would be
+locked. If I jumped at the wrong door, and found it locked, I'd fall
+in the water. I needed a bath, that was for sure, but I didn't relish
+getting it in this fashion.
+
+While I stood there watching, I got the shock of my life. I meant it
+quite literally. The bastard had thought of everything. When I used
+to run rats on jumping stands, to overcome their reluctance to jump, I
+used to shock them. He's following exactly the same pattern. The floor
+in this room is wired but good. I howled and jumped about and showed
+all the usual anxiety behavior. It took me less than two seconds to
+come to my senses and make a flying leap at the white door, however.
+
+You know something? That water is ice-cold!
+
+       *       *       *       *       *
+
+I have now, by my own calculations, solved no fewer than 87 different
+problems on the jumping stand, and I'm getting sick and tired of it.
+Once I got angry and just pointed at the correct door--and got shocked
+for not going ahead and jumping. I shouted bloody murder, cursing Him
+at the top of my voice, telling Him if He didn't like my performance,
+He could damn well lump it. All He did, of course, was to increase the
+shock.
+
+Frankly, I don't know how much longer I can put up with this. It's
+not that the work is difficult. If He were giving me half a chance to
+show my capabilities, I wouldn't mind it. I suppose I've contemplated
+a thousand different means of escaping, but none of them is worth
+mentioning. But if I don't get out of here soon, I shall go stark
+raving mad!
+
+       *       *       *       *       *
+
+For almost an hour after it happened, I sat in this room and just wept.
+I realize that it is not the style in our culture for a grown man
+to weep, but there are times when cultural taboos must be forgotten.
+Again, had I thought much about the sort of experiments He must have
+had in mind, I most probably could have predicted the next step. Even
+so, I most likely would have repressed the knowledge.
+
+One of the standard problems which any learning psychologist is
+interested in is this one--will an animal learn something if you fail
+to reward him for his performance? There are many theorists, such
+as Hull and Spence, who believe that reward (or "reinforcement," as
+they call it) is absolutely necessary for learning to occur. This
+is mere stuff and nonsense, as anyone with a grain of sense knows,
+but nonetheless the "reinforcement" theory has been dominant in the
+field for years now. We fought a hard battle with Spence and Hull,
+and actually had them with their backs to the wall at one point, when
+suddenly they came up with the concept of "secondary reinforcement."
+That is, anything associated with a reward takes on the ability to act
+as a reward itself. For example, the mere sight of food would become a
+reward in and of itself--almost as much a reward, in fact, as is the
+eating of the food. The _sight_ of food, indeed! But nonetheless, it
+saved their theories for the moment.
+
+For the past five years now, I have been trying to design an experiment
+that would show beyond a shadow of a doubt that the _sight_ of a reward
+was not sufficient for learning to take place. And now look at what has
+happened to me!
+
+I'm sure that He must lean towards Hull and Spence in His theorizing,
+for earlier today, when I found myself in the jumping stand room,
+instead of being rewarded with my usual protein balls when I made
+the correct jump, I--I'm sorry, but it is difficult to write about
+even now. For when I made the correct jump and the door opened and I
+started towards the food trough, I found it had been replaced with a
+photograph. A calendar photograph. You know the one. Her name, I think,
+is Monroe.
+
+I sat on the floor and cried. For five whole years I have been
+attacking the validity of the secondary reinforcement theory, and now
+I find myself giving Him evidence that the theory is correct! For I
+cannot help "learning" which of the doors is the correct one to jump
+through. I refuse to stand on the apparatus and have the life shocked
+out of me, and I refuse to pick the wrong door all the time and get
+an icy bath time after time. It isn't fair! For He will doubtless put
+it all down to the fact that the mere _sight_ of the photograph is
+functioning as a reward, and that I am learning the problems merely to
+be able to see Miss What's-her-name in her bare skin!
+
+I can just see Him now, sitting somewhere else in this spaceship,
+gathering in all the data I am giving Him, plotting all kinds of
+learning curves, chortling to Himself because I am confirming all of
+His pet theories. I just wish....
+
+       *       *       *       *       *
+
+Almost an hour has gone by since I wrote the above section. It seems
+longer than that, but surely it's been only an hour. And I have spent
+the time deep in thought. For I have discovered a way out of this
+place, I think. The question is, dare I do it?
+
+I was in the midst of writing that paragraph about His sitting and
+chortling and confirming His theories, when it suddenly struck me that
+theories are born of the equipment that one uses. This has probably
+been true throughout the history of all science, but perhaps most
+true of all in psychology. If Skinner had never invented his blasted
+box, if the maze and the jumping stand had not been developed, we
+probably would have entirely different theories of learning today than
+we now have. For if nothing else, the type of equipment that one uses
+drastically reduces the type of behavior that one's subjects can show,
+and one's theories have to account only for the type of behavior that
+appears in the laboratories.
+
+It follows from this also that any two cultures that devise the same
+sort of experimental procedures will come up with almost identical
+theories.
+
+Keeping all of this in mind, it's not hard for me to believe that He
+is an iron-clad reinforcement theorist, for He uses all of the various
+paraphernalia that they use, and uses it in exactly the same way.
+
+My means of escape is therefore obvious. He expects from me
+confirmation of all His pet theories. Well, he won't get it any more! I
+know all of His theories backwards and forwards, and this means I know
+how to give Him results that will tear His theories right smack in
+half!
+
+I can almost predict the results. What does any learning theorist do
+with an animal that won't behave properly, that refuses to give the
+results that are predicted? One gets rid of the beast, quite naturally.
+For one wishes to use only healthy, normal animals in one's work, and
+any animal that gives "unusual" results is removed from the study but
+quickly. After all, if it doesn't perform as expected, it must be sick,
+abnormal, or aberrant in one way or another....
+
+There is no guarantee, of course, what method He will employ to dispose
+of my now annoying presence. Will He "sacrifice" me? Or will He just
+return me to the "permanent colony"? I cannot say. I know only that I
+will be free from what is now an intolerable situation.
+
+Just wait until He looks at His results from now on!
+
+       *       *       *       *       *
+
+FROM: Experimenter-in-Chief, Interstellar Labship PSYCH-145
+
+TO: Director, Bureau of Science
+
+Thlan, my friend, this will be an informal missive. I will send the
+official report along later, but I wanted to give you my subjective
+impressions first.
+
+The work with the newly discovered species is, for the moment, at a
+standstill. Things went exceedingly well at first. We picked what
+seemed to be a normal, healthy animal and smattered it into our
+standard test apparatus. I may have told you that this new species
+seemed quite identical to our usual laboratory animals, so we included
+a couple of the "toys" that our home animals seem so fond of--thin
+pieces of material made from wood-pulp and a tiny stick of graphite.
+Imagine our surprise, and our pleasure, when this new specimen made
+exactly the same use of the materials as have all of our home colony
+specimens. Could it be that there are certain innate behavior patterns
+to be found throughout the universe in the lower species?
+
+Well, I merely pose the question. The answer is of little importance
+to a Learning Theorist. Your friend Verpk keeps insisting that the use
+of these "toys" may have some deeper meaning to it, and that perhaps
+we should investigate further. At his insistence, then, I include with
+this informal missive the materials used by our first subject. In my
+opinion, Verpk is guilty of gross anthropomorphism, and I wish to have
+nothing further to do with the question. However, this behavior did
+give us hope that our newly discovered colony would yield subjects
+whose performances would be exactly in accordance with standard theory.
+
+And, in truth, this is exactly what seemed to be the case. The animal
+solved the Bfian Box problem in short order, yielding as beautiful
+data has I have ever seen. We then shifted it to maze, maze-reversal
+and jumping stand problems, and the results could not have confirmed
+our theories better had we rigged the data. However, when we switched
+the animal to secondary reinforcement problems, it seemed to undergo
+a strange sort of change. No longer was its performance up to par.
+In fact, at times it seemed to go quite berserk. For part of the
+experiment, it would perform superbly. But then, just as it seemed to
+be solving whatever problem we set it to, its behavior would subtly
+change into patterns that obviously could not come from a normal
+specimen. It got worse and worse, until its behavior departed radically
+from that which our theories predicted. Naturally, we knew then that
+something had happened to the animal, for our theories are based upon
+thousands of experiments with similar subjects, and hence our theories
+must be right. But our theories hold only for normal subjects, and for
+normal species, so it soon became apparent to us that we had stumbled
+upon some abnormal type of animal.
+
+Upon due consideration, we returned the subject to its home colony.
+However, we also voted almost unanimously to request from you
+permission to take steps to destroy the complete colony. It is
+obviously of little scientific use to us, and stands as a potential
+danger that we must take adequate steps against. Since all colonies are
+under your protection, we therefore request permission to destroy it.
+
+I must report, by the way, that Verpk's vote was the only one which was
+cast against this procedure. He has some silly notion that one should
+study behavior as one finds it. Frankly, I cannot understand why you
+have seen fit to saddle me with him on this expedition, but perhaps you
+have your reasons.
+
+Verpk's vote notwithstanding, however, the rest of us are of the
+considered opinion that this whole new colony must be destroyed, and
+quickly. For it is obviously diseased or some such--as reference to our
+theories has proven. And should it by some chance come in contact with
+our other colonies, and infect our other animals with whatever disease
+or aberration it has, we would never be able to predict their behavior
+again. I need not carry the argument further, I think.
+
+May we have your permission to destroy the colony as soon as possible,
+then, so that we may search out yet other colonies and test our
+theories against other healthy animals? For it is only in this fashion
+that science progresses.
+
+Respectfully yours,
+
+Iowyy
+
+
+
+
+
+End of the Project Gutenberg EBook of Learning Theory, by James McConnell
+
+*** END OF THIS PROJECT GUTENBERG EBOOK LEARNING THEORY ***
+
+***** This file should be named 60434.txt or 60434.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/6/0/4/3/60434/
+
+Produced by Greg Weeks, Mary Meehan and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for the eBooks, unless you receive
+specific permission. If you do not charge anything for copies of this
+eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given
+away--you may do practically ANYTHING in the United States with eBooks
+not protected by U.S. copyright law. Redistribution is subject to the
+trademark license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country outside the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you'll have to check the laws of the country where you
+  are located before using this ebook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
+trademark. Contact the Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org
+
+
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its
+volunteers and employees are scattered throughout numerous
+locations. Its business office is located at 809 North 1500 West, Salt
+Lake City, UT 84116, (801) 596-1887. Email contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at www.gutenberg.org/contact
+
+For additional contact information:
+
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works.
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our Web site which has the main PG search
+facility: www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

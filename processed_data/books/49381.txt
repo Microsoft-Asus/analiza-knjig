@@ -1,0 +1,4303 @@
+ï»¿Project Gutenberg's Humoresken (Zweites BÃ¤ndchen), by Ernst Eckstein
+
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll have
+to check the laws of the country where you are located before using this ebook.
+
+
+
+Title: Humoresken (Zweites BÃ¤ndchen)
+       Wider den Strom. - Die Feuerspritze. - Eine Abendwanderung.
+       - Der alte Schreiber.
+
+Author: Ernst Eckstein
+
+Release Date: July 7, 2015 [EBook #49381]
+
+Language: German
+
+Character set encoding: UTF-8
+
+*** START OF THIS PROJECT GUTENBERG EBOOK HUMORESKEN (ZWEITES BÃNDCHEN) ***
+
+
+
+
+Produced by The Online Distributed Proofreading Team at
+http://www.pgdp.net
+
+
+
+
+
+
+
+
+
+    Anmerkungen zur Transkription
+
+
+    Im Original gesperrter Text ist +so ausgezeichnet+.
+
+    Im Original in Antiqua gesetzter Text ist ~so ausgezeichnet~.
+
+    Im Original fetter Text ist =so ausgezeichnet=.
+
+    Weitere Anmerkungen zur Transkription finden sich am Ende des
+    Buches.
+
+
+
+
+[Illustration: Humoresken
+
+von
+
+Ernst Eckstein.]
+
+
+
+
+    Philipp Reclam's
+
+    Universal-Bibliothek.
+
+    Bis Dezember 1895 sind =3470= Nummern erschienen.
+
+    Jedes Werk ist einzeln kÃ¤uflich. -- Preis: 20 Pfennig die Nummer.
+
+    Ein vollstÃ¤ndiges Verzeichnis ist durch jede Buchhandlung gratis
+    zu beziehen.
+
+
+    Neueste Erscheinungen:
+
+    3434. =Musiker-Biographien.= 18. Band: =Cherubini=. Von =Maxim.
+        Emil Wittmann=.
+
+    3435. =Wagner, O.=, Der stille Portier. Berliner Lebensbild mit
+        Gesang in 1 Aufz.
+
+    3436. =Staack, S. C.=, Die Else vom Erlenhof. VolksstÃ¼ck aus dem
+        Schwarzwalde in fÃ¼nf AufzÃ¼gen.
+
+    3437. =Bornstein, Arthur=, Der Theaterarzt und andere Humoresken.
+
+    3438. =Hebbel, Friedrich=, Demetrius. Trauerspiel in fÃ¼nf AufzÃ¼gen
+        und einem Vorspiel. ErgÃ¤nzt und fÃ¼r die BÃ¼hne bearbeitet von
+        =Heinrich Teweles=.
+
+    3439. =Neera=, Die Strafe. ErzÃ¤hlung. Frei nach dem Italienischen
+        von =~Dr.~ Siegfried Lederer=.
+
+    3440. =Peschkau, Emil=, Moderne Probleme. Ein Zeitbrevier.
+
+    3441. =Stobitzer, Heinrich=, Die Barbaren. Lustspiel in vier
+        AufzÃ¼gen.
+
+    3442. =Webers Demokrit.= 3. Band: Das Weib.
+
+    3443. =Arnold, Friedrich=, Unsere einheimischen StubenvÃ¶gel.
+        Schilderungen von deren Frei- und Gefangenleben, Anleitung zu
+        ihrer Wartung und Pflege. 2. BÃ¤ndchen. Die KÃ¶rnerfresser. Mit
+        einer Abbildung.
+
+    3444. =Olden, Hans=, Thielemanns. Lustspiel in vier AufzÃ¼gen.
+
+    3445. =SiklÃ³sy, J.=, Londoner Geschichten.
+
+    3446--50. =BrÃ¼der Grimm=, Kinder- und HausmÃ¤rchen. Vollst. Ausgabe.
+        3 Bd.
+
+    3451--53. =FÃ¼rst Bismarcks Reden.= Mit verbindender geschichtlicher
+        Darstellung herausgeg. v. =Philipp Stein=. 4. Bd.:
+        Bundeskanzler Graf Bismarck. 1868--71. (Bis zur Errichtung des
+        Deutschen Kaiserreichs.)
+
+    3454. =VoÃ, Richard=, Die blonde Kathrein. Ein MÃ¤rchenspiel nach
+        Andersen in drei Teilen. Mit dem Bildnis des Verfassers.
+
+    3455/56. =PetÃ¶fi, Alexander=, Prosaische Schriften. Aus dem
+        Magyarischen von =~Dr.~ Adolph Kohut=.
+
+    3457. =Werther, Julius v.=, Der Kriegsplan. Histor. IntriguenstÃ¼ck
+        i. 4 AufzÃ¼gen.
+
+    3458. =Schlicht, Frhr. von=, Militaria. Heitere Soldatengeschichten.
+
+    3459. =Kipling, R.=, Schlichte Geschichten aus Indien. Nach dem
+        Englischen von =Hans Helling=.
+
+    3460. =Heine, Heinrich=, Ratcliff. Eine Operndichtung. Vollst.
+        Buch. Herausgegeben von =C. Friedr. Wittmann=. 30. Bd.
+
+    3461. =BÃ¶tticher, Georg=, Neue Allotria.
+
+    3462. =Marschner=, Hans Heiling. =VollstÃ¤ndiges Opernbuch.= 31. Bd.
+
+    3463. =MikszÃ¡th, Koloman=, Gesammelte ErzÃ¤hlungen. Aus d.
+        Ungarischen Ã¼bersetzt von =C. Langsch=. 1. BÃ¤ndchen.
+
+    3464/65. =Emerson=, ReprÃ¤sentanten d. Menschengeschlechts. Aus dem
+        Englischen Ã¼bersetzt und mit biographischer Einleitung versehen
+        von =O. DÃ¤hnert=.
+
+    3466. =Weiser, Karl=, Penelope. Lustspiel in fÃ¼nf AufzÃ¼gen.
+
+    3467. =Scott, Walter=, Des letzten MinnesÃ¤ngers Sang. Aus d.
+        Englischen Ã¼bersetzt von =C. Cornelius=.
+
+    3468--70. =Das Buch des Propheten Jesaja.= Aus dem Grundtext
+        Ã¼bersetzt und mit ErlÃ¤uterungen versehen von =Franz Herrmann=.
+        Mit 2 Karten.
+
+
+    =Einband-Decken= in Ganzleinen zur Universal-Bibliothek (wie
+    dieselben zu Reclam's Miniaturausgaben) ohne Titeldruck in 9
+    GrÃ¶Ãen, fÃ¼r BÃ¤nde im Umfang von 5, 8, 12, 16, 20, 25, 30, 35 u.
+    42 Bogen, sind, pro StÃ¼ck 30 Pf., durch alle Buchhandlungen zu
+    beziehen.
+
+
+
+
+    Humoresken
+
+    von
+
+    Ernst Eckstein.
+
+
+    Zweites BÃ¤ndchen.
+
+    Wider den Strom. -- Die Feuerspritze. -- Eine Abendwanderung.
+    Der alte Schreiber.
+
+
+    Leipzig.
+
+    Druck und Verlag von Philipp Reclam jun.
+
+
+
+
+Vorbemerkung.
+
+
+Die erste der hier folgenden humoristischen Kleinigkeiten, die
+Novellette Â»Wider den StromÂ«, basirt auf einer allerdings nicht
+streng beglaubigten Mittheilung Pigault-Lebruns, der uns irgendwo die
+betreffenden Briefe Napoleons und JÃ©rÃ´me's reproducirt, und Ã¼ber die
+Straf-Mission des Generals Rapp kurz, aber energisch Bericht erstattet.
+
+Der zweite Scherz, Â»Die Feuerspritze von GressinetÂ«, beruht auf freier
+Erfindung. Wenn verschiedne Kritiker, die den harmlosen Schwank s.
+Z. mit Referaten beehrt haben, in dem Streite zwischen Clatou und
+Gressinet eine Â»Satire auf das politische Parteiwesen im AllgemeinenÂ«
+erkennen wollten, so lass' ich's gelten; daÃ einer dieser Herren
+jedoch so weit ging, hinter jedem der hier geschilderten SpieÃbÃ¼rger
+eine bekannte TagespersÃ¶nlichkeit zu vermuthen, -- das ist zu viel des
+interpretirenden Scharfsinns. Die Separatausgabe der Â»Feuerspritze von
+GressinetÂ« war mit dem Motto von Gustav Droz geschmÃ¼ckt: Â»~... petite
+fantaisie sans prÃ©tention, qui veut Ãªtre lue, comme elle a Ã©tÃ© Ã©crite;
+gaiement, au coin du feu, et les pieds sur les chenets~.Â« Hiermit ist
+in der That Alles gesagt.
+
+Numero drei endlich, -- Â»Eine AbendwanderungÂ«, -- erhebt nur die
+AnsprÃ¼che eines psychologischen Stimmungsbildes.
+
+            =E.=
+
+
+
+
+Wider den Strom.
+
+Eine Erinnerung an die lustigen Tage der WilhelmshÃ¶he.
+
+
+Es war im August des Jahres 1810.
+
+Durch die weitgeÃ¶ffneten Fenster des kÃ¶niglichen Schlosses wehte eine
+erquickende AbendkÃ¼hle. In einem der oberen Eckzimmer saÃ JÃ©rÃ´me, der
+glÃ¼ckliche Beherrscher des KÃ¶nigreiches Westphalen, und blickte hinÃ¼ber
+nach seiner guten Hauptstadt Kassel, deren ThÃ¼rme sich im Golde des
+scheidenden Tages badeten.
+
+Er war sonst kein SchwÃ¤rmer, der kleine Bruder des groÃen Eroberers.
+Heute indeÃ schien das bezaubernde Landschaftsbild, das sich in
+leuchtender Pracht vor ihm entfaltete, auf seine kÃ¶nigliche Seele
+einen auÃergewÃ¶hnlichen Eindruck hervorzubringen. TrÃ¤umerisch neigte
+er das Haupt rÃ¼ckwÃ¤rts wider die Lehne des Ã¼ppigen Fauteuils. Die
+HÃ¤nde vor dem Magen gefaltet, die FÃ¼Ãe auf einem elastischen Tabouret
+ausgestreckt -- so saÃ er da, ein personificirtes ~Dolce-far-niente~,
+eine verkÃ¶rperte Lebensregel Epikurs, ein FÃ¼rst nach dem Herzen Gottes.
+Und doch lag ein leiser Schatten von Wehmuth auf diesem behÃ¤bigen
+Antlitz, eine dÃ¤mmernde NÃ¼ance seelischer Verstimmung, ein Hauch von
+TrÃ¼bsinn, der seltsam mit der herrlichen Scenerie der nÃ¤chsten und
+fernsten Umgebung contrastirte.
+
+PlÃ¶tzlich rang sich aus dem Busen des KÃ¶nigs ein tiefer Seufzer los.
+
+Â»Befehlen Ew. MajestÃ¤t?Â« erklang es im Hintergrunde des Gemaches.
+
+JÃ©rÃ´me wandte unmerklich den Kopf.
+
+Â»Nichts, mein lieber Pigault ...Â« stotterte er; Â»ich dachte nur ...Â«
+
+Pigault-Lebrun, der Bibliothekar und Vorleser des KÃ¶nigs, der
+sich bisher in bescheidener Verborgenheit gehalten hatte, um die
+Meditationen, beziehungsweise die Verdauung seines hohen Gebieters
+nicht zu stÃ¶ren, trat ein paar Schritte nÃ¤her.
+
+Er durfte dies wagen, denn niemand bei Hofe genoÃ das Vertrauen
+JÃ©rÃ´me's in gleichem MaÃe wie er. Eine Bibliothek existirte nicht; vom
+Vorlesen war der KÃ¶nig kein Freund: Pigault-Lebrun hatte also eine sehr
+leichte AmtsfÃ¼hrung, und er verwendete die vierundzwanzig MuÃestunden,
+Ã¼ber die er tÃ¤glich verfÃ¼gte, nach Abzug eines sechsstÃ¼ndigen
+Schlafes, ausschlieÃlich im Interesse des allerhÃ¶chsten AmÃ¼sements.
+Italienische NÃ¤chte, Feuerwerke, BÃ¤lle, Festessen, musikalische
+Unterhaltungen, Liebesabenteuer, kurz die gesammten Regierungssorgen
+des westphÃ¤lischen Hofes standen unter seiner obersten Leitung, und da
+er ein unvergleichliches VergnÃ¼gungsgenie entwickelte, so schenkte ihm
+JÃ©rÃ´me den ganzen Schatz seiner fÃ¼rstlichen Liebe.
+
+Pigault-Lebrun trat also vor und sagte mit melodischer Stimme:
+
+Â»Ah, Sire, Sie sind nachdenklich? Sollte jemand so unglÃ¼cklich gewesen
+sein, Dero MiÃfallen zu erregen?Â«
+
+Seine MajestÃ¤t schÃ¼ttelte das Haupt.
+
+Â»Nein, Pigault,Â« entgegnete er langsam; Â»ich bin mit dir und allen
+meinen Getreuen vollkommen zufrieden; allein, siehst du ...Â«
+
+Er stockte.
+
+Pigault-Lebrun nÃ¤herte sich abermals um ein paar Schritte. Er konnte
+jetzt dem KÃ¶nig voll ins Gesicht sehen. Der eigenthÃ¼mliche Schleier von
+Melancholie, der auf diesen sonst so heiteren ZÃ¼gen ruhte, berÃ¼hrte ihn
+peinlich.
+
+Â»Eure MajestÃ¤t sind verstimmt,Â« sagte er sorglich. Â»Fanden Sie die
+heutige Tafel nicht ganz nach Dero Geschmack ...? Ich werde sofort die
+Entlassung des KÃ¼chenmeisters anordnen.Â«
+
+Â»Beileibe nicht,Â« flÃ¼sterte JÃ©rÃ´me. Â»Meine KÃ¶che sind Meister ihrer
+Kunst, und wenn die Etikette nicht wÃ¤re, ich wÃ¼rde sie sÃ¤mmtlich in den
+erblichen Grafenstand erheben.Â«
+
+Â»So hat Ihnen die KÃ¶nigin eine Scene gemacht? Ah, Sire, ich bin sicher
+... die KÃ¶nigin ... Ich kenne die Eifersucht Ihrer MajestÃ¤t ...Â«
+
+Â»Du irrst dich, mein Freund! ... Seitdem der Kaiser, unser gestrenger
+Bruder, die kleine Helene mit Gewalt von dannen gefÃ¼hrt hat, ist die
+KÃ¶nigin mit mir ausgesÃ¶hnt. Sie hegt, Dank unserer Vorsicht, nicht den
+geringsten Verdacht mehr ... Ah, es war ein niedertrÃ¤chtiger Streich
+von meinem Herrn Bruder!Â«
+
+Â»Ich wage nicht zu widersprechen, Sire. IndeÃ, bedenken Sie, die
+Etiquette! Sie sind KÃ¶nig, Sie mÃ¼ssen wenigstens den Schein wahren.
+Die kleine Frau hatte Ihre MajestÃ¤t ja vollstÃ¤ndig verdrÃ¤ngt ... Der
+ganze Hof lag Helenen zu FÃ¼Ãen, und Ihre legitime Gemahlin zog sich
+ganz und gar aus der Ãffentlichkeit zurÃ¼ck ... Der Kaiser ist ja auch
+kein Ausbund von Tugend, aber er hÃ¤lt doch darauf, daÃ die Welt nicht
+scandalisirt wird ... verzeihen Sie diesen Ausdruck ...Â«
+
+Das Antlitz des KÃ¶nigs war mit jedem Worte seines Vertrauten finsterer
+und erregter geworden. Er stÃ¼tzte den Kopf in die Hand und blickte eine
+Minute lang starr vor sich hin.
+
+Â»Pigault,Â« sagte er endlich, Â»seien wir aufrichtig! Was hÃ¤ltst du von
+meinem VerhÃ¤ltnis zu meinem kaiserlichen Bruder?Â«
+
+Â»Die Frage ist schwer zu beantworten, Sire,Â« erwiderte der Bibliothekar.
+
+Â»Keine Phrasen, mein Freund ... LaÃ jetzt einmal das langweilige
+GeschwÃ¤tz von Sire und MajestÃ¤t und steh' mir ordentlich Rede ...
+Siehst du, wie ich da so hinausschaute in das herrliche Land, das ich
+mein nennen kÃ¶nnte, wenn nicht ... wenn ... wenn es eben mein wÃ¤re ...Â«
+
+Â»Ich verstehe Sie nicht; sind Sie nicht KÃ¶nig?Â«
+
+Ein bitteres LÃ¤cheln spielte um JÃ©rÃ´me's Lippen.
+
+Â»KÃ¶nig!Â« wiederholte er hÃ¶hnisch; Â»ja, KÃ¶nig, wie der KÃ¶nig im
+Schachspiel, eine Puppe, die durch die erste, beste Laune einer hÃ¶hern
+Potenz matt gesetzt werden kann.Â«
+
+Â»Wie meinen Sie das, Sire?Â« stotterte Pigault-Lebrun.
+
+JÃ©rÃ´me machte eine Bewegung des MiÃbehagens.
+
+Â»Pigault,Â« sagte er, Â»ich bitte dich, stell' dich nicht dÃ¼mmer als
+du bist. Du willst mich schonen. Du fÃ¼rchtest meine Eitelkeit zu
+verletzen. Das lass' ich gelten, wenn wir im Kreise unserer HÃ¶flinge
+sind. Hier aber ist die Maske Luxus. Ich fordere deine Meinung, und
+zwar ohne RÃ¼ckhalt, verstehst du?Â«
+
+Â»Zu Befehl, Sire. Fragen Sie!Â«
+
+Â»Du weiÃt,Â« fuhr der KÃ¶nig fort, Â»daÃ ich trotz aller Herrlichkeit nur
+der elende Sclave meines Bruders bin ...Â«
+
+Â»O, Sire ...Â«
+
+Â»Aber, ich gestehe dir's offen ... ich fange nachgerade an, des
+Possenspiels mÃ¼de zu werden. Es ist weit gekommen, wenn dieser
+... dieser Tyrann sich erlauben darf, in meine PrivatverhÃ¤ltnisse
+einzugreifen ... Ich bin fest entschlossen, bei der ersten Gelegenheit
+ein eclatantes Exempel zu statuiren ... Willst du mich dabei
+unterstÃ¼tzen?Â«
+
+Â»Ich stehe jederzeit zu Eurer MajestÃ¤t VerfÃ¼gung,Â« lautete Pigaults
+diplomatische Antwort.
+
+Â»Was hieltest du zum Beispiel davon, wenn ich den Prinzen von Paderborn
+kurzer Hand zum Teufel jagte? Der Kerl ennuyirt mich so wie so mit
+seinem GeschwÃ¤tz von Kirchenverfassung und Clerus mehr als ich sagen
+kann, und die Geschichte wÃ¼rde stark nach UnabhÃ¤ngigkeit schmecken!Â«
+
+Â»Aber die Folgen?Â«
+
+Der KÃ¶nig warf sich trotzig in die Brust.
+
+Â»Pah,Â« entgegnete er, Â»der Kaiser wird sich fÃ¼gen, wenn er sieht, daÃ
+ich standhaft bin. Was kann er machen?Â«
+
+Â»Sire,Â« sagte Pigault in bedÃ¤chtigem Tone, Â»ich glaube, Sie tÃ¤uschen
+sich selbst ... Sie wissen nur zu gut, daÃ Napoleon nicht mit sich
+spaÃen lÃ¤Ãt, und was Ihre eigene Standhaftigkeit anbetrifft, so
+verzeihen Sie, wenn ich keine allzuhohe Meinung davon habe ...Â«
+
+Â»Du bist aufrichtig.Â«
+
+Â»Ich bitte Eure MajestÃ¤t, mich nicht miÃzuverstehen. Aber Ihre
+angeborene HerzensgÃ¼te, Ihre Friedensliebe ...Â«
+
+Â»Schon recht,Â« murmelte JÃ©rÃ´me, Â»spare deine Beredsamkeit! Ich glaube
+selbst, der Streich wÃ¤re als erster Schritt zur Emancipation ein wenig
+verwegen ... Aber weiÃt du nichts Besseres?Â«
+
+In diesem Augenblick trat ein KammerjÃ¤ger in das Gemach und meldete in
+tiefster Devotion:
+
+Â»Der pariser Courier!Â«
+
+Instinctiv fuhr der KÃ¶nig von seinem Sessel auf. Es hÃ¤tte wenig gefehlt
+und er wÃ¤re selbst in das Vorzimmer geeilt, um die Briefschaften in
+Empfang zu nehmen. Er besann sich jedoch noch zur rechten Zeit und
+setzte sich wieder, wÃ¤hrend Pigault-Lebrun von dannen eilte, um nach
+einigen Secunden mit einer schweren Fuhre von Papieren zurÃ¼ckzukehren.
+
+Â»Da wir nichts Wichtigeres zu thun haben,Â« sagte JÃ©rÃ´me mit schlecht
+erkÃ¼nstelter Gleichgiltigkeit, Â»so kannst du die Geschichte einmal
+durchsehen und mir das AmÃ¼santeste vorlesen.Â«
+
+Pigault setzte sich und begann seine Musterung.
+
+Â»Depesche des Cultusministeriums ...Â«
+
+Â»Weg damit!Â«
+
+Â»Das Ministerium der auswÃ¤rtigen Angelegenheiten an die kÃ¶nigliche ...Â«
+
+Â»Weiter, weiter!Â«
+
+Â»An Ihre MajestÃ¤t die KÃ¶nigin.Â«
+
+Â»Von wem?Â«
+
+Â»Nicht zu errathen. Vermutlich eine Busenfreundin ...Â«
+
+Â»Weiter ...Â«
+
+Â»Ein Brief des Kaisers an Eure MajestÃ¤t.Â«
+
+Â»Schon wieder ... Was kann er wollen? Gieb her ... Oder nein ... Lies
+vor ... Du weiÃt, ich finde mich in diesen KrÃ¤hfÃ¼Ãen nicht zurecht ...Â«
+
+Pigault-Lebrun entfaltete das Schreiben und begann wie folgt:
+
+        Â»Mein Bruder JÃ©rÃ´me Napoleon,
+                KÃ¶nig von Westphalen!Â«
+
+Â»Wie?Â« fragte JÃ©rÃ´me, Â»âºmein Bruderâ¹ schreibt er? Nicht, âºmein +lieber+
+Bruderâ¹? Das wird mir wieder eine saubere Epistel sein! Weiter!Â«
+
+Der Bibliothekar fuhr fort.
+
+Â»Alles, was ich von Ihnen erfahre, liefert mir den Beweis, daÃ meine
+RathschlÃ¤ge, meine Anordnungen, meine Befehle nicht den geringsten
+Eindruck auf Sie machen. Die GeschÃ¤fte sind Ihnen lÃ¤stig. Die Pflicht
+der ReprÃ¤sentation ennuyirt Sie. Mein Bruder, bedenken Sie, daÃ das
+Metier eines KÃ¶nigs gelernt sein will! Ein SouverÃ¤n ohne die gehÃ¶rige
+ReprÃ¤sentation ist ein Unding. Sie lieben die Freuden der Tafel. Sie
+lieben die Frauen. Beides wird Sie zu Grunde richten. Machen Sie's wie
+ich: bleiben Sie eine halbe Stunde bei Tische und lassen Sie die Weiber
+-- Weiber sein!Â« ...
+
+Â»Diese UnverschÃ¤mtheit!Â« stammelte der KÃ¶nig in hÃ¶chster Aufregung.
+Â»Was hat er sich darum zu kÃ¼mmern, ob ich mein Leben genieÃe oder
+nicht! So was ist in der Geschichte noch nicht dagewesen! Ich mÃ¶chte
+wissen, wozu ich KÃ¶nig bin, wenn ich mich nicht amÃ¼siren soll! Gieb
+Acht, Pigault, es ist wieder auf eine von meinen ... Freundinnen
+abgesehen!Â«
+
+Â»Ach, ich glaube nicht daran ... Wir gehen zu vorsichtig zu Werke ...
+Gilt die reizende Caroline nicht allenthalben fÃ¼r meine Gemahlin? ...
+Und die deutsche GrÃ¤fin, die wir aus MÃ¼nchen geholt haben, hÃ¤lt man sie
+nicht allgemein fÃ¼r die Frau Ihres Leibarztes ...?Â«
+
+Â»Aber die kleine Heberti, die TÃ¤nzerin?Â«
+
+Â»Pah! haben wir sie nicht als Kammerfrau bei der Justizministerin
+untergebracht? Kein Gedanke, Sire! Niemand kann ernstlichen Verdacht
+geschÃ¶pft haben!Â«
+
+Â»Du siehst alles im rosigsten Lichte. Leider weiÃ ich nur zu genau, daÃ
+jeder meiner Schritte Ã¼berwacht wird. Wer zÃ¤hlt die Spione, die mein
+liebenswÃ¼rdiger Bruder besoldet? Nirgends sind wir sicher, nicht einmal
+mehr bei unseren intimen Soupers ...Â«
+
+Â»O, Sire, Sie sind Pessimist. Im Kreise Ihrer Vertrauten findet sich
+kein VerrÃ¤ther!Â«
+
+Â»Ich wollte, du hÃ¤ttest Recht. Aber nun lies einmal weiter! Ich bin
+doch begierig zu hÃ¶ren, wo das hinauslÃ¤uft.Â«
+
+Pigault-Lebrun fuhr in der LectÃ¼re fort:
+
+Â»Der Prinz von Paderborn, den ich Ihnen zum AumÃ´nier gegeben habe,
+schreibt meinem Cultusminister, Sie gingen nie darauf ein, wenn er mit
+Ihnen von kirchlichen Angelegenheiten sprechen wolle. Das ist nicht in
+der Ordnung. Man muÃ sich mit allem befassen, sogar mit der Religion.Â«
+
+Â»Es ist zu stark! Ich soll mich von dem langweiligen Tropf anschnattern
+lassen, blos weil mein Herr Bruder die Marotte hat, das gehÃ¶re zum
+Handwerk! Aber warte nur! Du sollst mich kennen lernen! -- Weiter!Â«
+
+Â»Sie haben Ihren Kammerherrn Merfeldt nach Hannover versetzt, weil er
+Ihnen, wie Sie sich ausdrÃ¼ckten, mit seinen bestÃ¤ndigen Predigten Ã¼ber
+die Etiquette lÃ¤stig fiel. Ich mÃ¶chte wissen, wie Sie Ihre Rolle als
+KÃ¶nig spielen wollen, wenn Ihnen der Souffleur fehlt. Ich wÃ¼nsche, daÃ
+Sie besagten Kammerherrn sofort zurÃ¼ckberufen, und zwar so, als thÃ¤ten
+Sie dies aus freien StÃ¼cken!Â«
+
+Â»Sehr gut, sehr gut!Â« sagte der KÃ¶nig erbittert. Â»Ich sehe wohl, daÃ
+mein EntschluÃ, diesem unwÃ¼rdigen Zustand ein Ende zu machen, nicht zu
+frÃ¼h kommt! -- Weiter!Â«
+
+Â»Sie vernachlÃ¤ssigen die KÃ¶nigin. Ist sie Ihnen etwa nicht vornehm
+genug? -- Warum berÃ¼cksichtigen Sie nicht meine WÃ¼nsche? Ich erwarte
+unter allen UmstÃ¤nden, daÃ ich demnÃ¤chst von der bevorstehenden Geburt
+eines Prinzen hÃ¶re ... Meine weiteren Anordnungen Ã¼bermittle ich dem
+Minister SimÃ©on. Er wird Sie davon in Kenntnis setzen. Ich verbleibe
+Ihr wohlgewogener Bruder
+
+        Napoleon.Â«
+
+Der KÃ¶nig war bei den letzten Phrasen vom Fauteuil aufgesprungen. Sein
+Antlitz bedeckte sich mit einer brennenden ZornesrÃ¶the. Er ballte die
+beiden FÃ¤uste und rang sichtlich nach Athem.
+
+Â»Pigault!Â« rief er. Â»Du weiÃt, ich verstehe nicht viel von Stylistik
+und derartigem gelehrten Krame ... Aber du ... Du bist ein Genie ... Du
+kennst alle Kniffe der Redekunst ... Du bist, wie man zu sagen pflegt,
+mit allen Hunden gehetzt ...Â«
+
+Â»Eure MajestÃ¤t haben eine zu schmeichelhafte Meinung von mir,Â«
+entgegnete der Bibliothekar mit einer artigen Verbeugung, indem er den
+Brief des franzÃ¶sischen Imperators wieder zusammenfaltete.
+
+Â»Pigault!Â« fuhr der KÃ¶nig fort, Â»du bist der Mann dazu: du muÃt mir auf
+dieses Schandgesudel eine Antwort verfassen, die sich gewaschen hat!Â«
+
+Â»Aber Sire, bedenken Sie ...Â«
+
+Â»Keine Ausrede; -- ich gebe dir mein kÃ¶nigliche Wort darauf, daÃ ich
+dich nicht verrathen werde. -- Setze mir eine Epistel auf, die der
+Kaiser nicht hinter den Spiegel stecken wird! -- Ich werde den Brief
+abschreiben, und dir das Original zurÃ¼ckerstatten. Kein sterblicher
+Mensch erfÃ¤hrt, daÃ du der Urheber bist!Â«
+
+Â»Wenn Eure MajestÃ¤t mir in der That versprechen ...Â«
+
+Â»Mein Wort darauf, Pigault, mein kÃ¶nigliches Ehrenwort! Ich wiederhole
+dir's: niemand soll den wahren Zusammenhang ahnen.Â«
+
+Â»Gut denn, Sire. Allein ich wage nochmals einzuwenden ... Der Streich
+kÃ¶nnte doch seine Ã¼blen Folgen haben!Â«
+
+Â»Unsinn! Ich bin SouverÃ¤n und brauche mir die Ungezogenheiten eines
+fremden Machthabers nicht gefallen zu lassen. Ich will unabhÃ¤ngig sein:
+eine bessere Gelegenheit, diesen EntschluÃ zu bethÃ¤tigen, finde ich
+nicht wieder. Also ans Werk!Â«
+
+Â»Morgen, Sire, wenn Sie gestatten. Zu einer so wichtigen Arbeit bedarf
+man der Sammlung.Â«
+
+Â»Wie du willst. Aber je eher, je besser. Eine prompte Antwort
+verdoppelt den Eindruck.Â«
+
+Â»Morgen frÃ¼h um elf sind Sie im Besitz des Brouillons.Â«
+
+Â»Vortrefflich. Und nun wollen wir uns die Grillen aus dem Kopfe
+schlagen. Was hast du fÃ¼r heute Abend arrangirt?Â«
+
+Â»Eine glÃ¤nzende ~FÃªte~ im Park ... ~Lampions, feu d'artifice~,
+Ballet ...Â«
+
+Â»Ah, sehr gut. Die Luft ist mild. Wir werden uns kÃ¶stlich amÃ¼siren.Â«
+
+Â»Um welche Zeit werden Eure MajestÃ¤t herunterkommen?Â«
+
+Â»Gegen zehn Uhr. Lassen Sie mir vorher ein Bad rÃ¼sten.Â«
+
+Â»Poulet?Â«
+
+Â»Nein, Burgunder. Auf Wiedersehn.Â«
+
+       *       *       *       *       *
+
+Des andern Tags in der FrÃ¼he, als der Beherrscher Westphalens noch
+tief in den Federn lag, setzte sich der gewiegte Bibliothekar an sein
+BÃ¼reau, breitete den kaiserlichen Mahn- und Warnungsbrief zu seiner
+Linken auf die Platte aus, und studirte Phrase fÃ¼r Phrase, Wort fÃ¼r
+Wort, Silbe fÃ¼r Silbe.
+
+Er wollte den Stil des gewaltigen Correspondenten an der Seine in
+seiner ganzen gedrungenen UrsprÃ¼nglichkeit und Derbheit, in seiner
+ganzen hochfahrenden NaivetÃ¤t und Frische nachahmen, und jede Zeile des
+kaiserlichen Schreibens mit gleicher MÃ¼nze heimzahlen. Nachdem er etwa
+eine Viertelstunde lang hin und her gesonnen, ergriff er die Feder und
+lieÃ sie hastig Ã¼ber das Papier gleiten. In weniger als zehn Minuten
+war die Arbeit vollendet. Pigault konnte sich nicht enthalten, Ã¼ber das
+wunderliche Product zu lÃ¤cheln. Der Gedanke, daÃ er, der bescheidene
+Vorleser Seiner westphÃ¤lischen MajestÃ¤t, dem gefÃ¼rchteten Machthaber
+Napoleon Bonaparte so vermessene Dinge sagte, berÃ¼hrte ihn hÃ¶chst
+humoristisch. Doch war dieser Empfindung eine betrÃ¤chtliche Dosis von
+Sorge beigemischt. Er selbst hatte es dem KÃ¶nige vorgestellt: Napoleon
+lieÃ nicht mit sich spaÃen. Wehe dem unglÃ¼cklichen Bibliothekar, wenn
+es ans Tageslicht kam, wer der authentische Verfasser dieses unerhÃ¶rten
+ActenstÃ¼ckes war! Der CÃ¤sar, dessen vernichtender Zorn den BuchhÃ¤ndler
+von NÃ¼rnberg in den Abgrund geschleudert, er konnte auch den Vertrauten
+JÃ©rÃ´me's zermalmen, wenn er beim Empfange des Briefes irgend wie
+miÃlicher Laune war. Im besten Falle zog die Entdeckung eine mehr oder
+weniger empfindliche Freiheitsstrafe nach sich; und wahrlich, wenn man
+eine Zeit lang auf dem prÃ¤chtigen SchloÃ der Wilhelms- oder, wie sie
+jetzt hieÃ, der NapoleonshÃ¶he ~in dulci jubilo~ gelebt hatte, dann
+spÃ¼rte man wenig Lust, dieses Paradies mit einem Kerker zu vertauschen!
+
+Pigault-Lebrun wurde ordentlich trÃ¼bsinnig, als diese Gedanken durch
+seine Seele zogen. Langsam klappte er die Schreibmappe zu, steckte
+das Manuscript sorgfÃ¤ltig in die Tasche und wandelte dann die Treppe
+hinunter in den Park, um die frische Morgenluft zu genieÃen.
+
+Er mochte so eine Stunde zwischen dem duftenden Strauchwerk der Anlagen
+auf- und abgeschritten sein, als ihm einfiel, daÃ er vergessen hatte,
+den Brief des Kaisers zu sich zu nehmen. Rasch eilte er nach seinem
+Zimmer. Auf dem Vorplatze begegnete er dem AumÃ´nier, dem Prinzen von
+Paderborn.
+
+Â»Ah, schon so frÃ¼h, HochwÃ¼rden?Â« sagte er in einem Tone, der sein
+lebhaftes Befremden verrieth.
+
+Â»Ja wohl, Herr Bibliothekar,Â« entgegnete der Prinz lÃ¤chelnd. Â»Ich
+dachte, es sei eine SÃ¼nde, den herrlichen Morgen zu versÃ¤umen. Ãbrigens
+hÃ¶ren Sie? Da schlÃ¤gt es neune! So gar frÃ¼he ist's also nicht mehr! Sie
+haben wohl eine Promenade gemacht?Â«
+
+Pigault-Lebrun erwiderte ein paar nichtssagende Worte, und begab sich
+in sein Gemach. Dort angelangt, steckte er den pariser Brief in sein
+Portefeuille, zÃ¼ndete sich eine Cigarre an und legte sich langwegs auf
+das Sopha, in der Absicht, die Zeit bis zum Erwachen seines Gebieters
+mit der LieblingsbeschÃ¤ftigung des westphÃ¤lischen Hofes, mit Nichtsthun
+hinzubringen.
+
+Der AumÃ´nier wollte ihm nicht aus dem Kopfe. Was hatte der geistliche
+Herr da auf dem Vorplatz verloren? Seine Wohnung lag auf dem
+entgegengesetzten FlÃ¼gel des Schlosses.
+
+Â»Ich kann diese Gesellen, die Ã¼berall herumschnuppern, in den Tod
+nicht ausstehen,Â« murmelte der Bibliothekar vor sich hin. Â»SchlieÃlich
+lÃ¤uft doch alles auf die leidige Spionage hinaus. Der KÃ¶nig hat Recht.
+Hier ist keiner Seele mehr zu trauen. Ich mÃ¶chte wohl wissen, ob unser
+Verdacht betreffs des Ceremonienmeisters und des Justizministers
+begrÃ¼ndet ist ...Â«
+
+Pigault Ã¼berlieÃ sich wÃ¤hrend einer halben Stunde dem Spiele seiner
+ausschweifenden Phantasie. Er durchmusterte im Geiste die ganze
+Hofgesellschaft und schÃ¼ttelte von Zeit zu Zeit den Kopf wie ein
+Mensch, der mit sich selbst nicht im Reinen ist.
+
+Ein plÃ¶tzliches Klopfen riÃ ihn aus seinen TrÃ¤umen.
+
+Ein kÃ¶niglicher Lakai trat in das Zimmer und meldete, daÃ Seine
+MajestÃ¤t den Herrn Bibliothekar zu sprechen wÃ¼nsche.
+
+Â»Unser allerdurchlauchtigster KÃ¶nig befinden sich noch im Bett,Â« fÃ¼gte
+der Mann hinzu.
+
+Pigault-Lebrun beeilte sich, dem Befehle seines Gebieters Folge zu
+leisten. Er traf den KÃ¶nig in bester Laune.
+
+Â»Nimm hier auf dem Sessel Platz,Â« sagte JÃ©rÃ´me leutselig, indem er sich
+halb in den Kissen aufrichtete. Â»Hast du dein Versprechen erfÃ¼llt?Â«
+
+Â»Wie sollte ich nicht?Â« entgegnete der Angeredete halblaut. Â»Aber wenn
+Eure MajestÃ¤t mir wohl wollen, so lassen Sie uns leise reden ... Sie,
+als gekrÃ¶ntes Haupt, haben bei der Affaire verhÃ¤ltnismÃ¤Ãig wenig zu
+riskiren, wÃ¤hrend ich ...Â«
+
+Â»Schon recht!Â« unterbrach ihn der KÃ¶nig mit gedÃ¤mpfter Stimme. Â»Wenn
+es dich beruhigt, so kÃ¶nnen wir unsere BÃ¤sse moderiren; allein ich
+versichere dich, deine Besorgnisse sind unbegrÃ¼ndet. Die WÃ¤nde sagt
+man, haben Ohren. In meinem Schlafzimmer trifft das Sprichwort nicht
+zu. Die beiden JÃ¤ger im Vorgemach sind treu wie Gold, die SÃ¤le rechts
+und links stehen leer ...Â«
+
+Â»Man kann nie wissen, Sire,Â« erwiderte Pigault, Â»durch welche Spalte
+der Teufel Einen beim Schopfe packt.Â«
+
+Â»Du bist heute ein wahrer Philosoph, ganz gegen deine sonstige
+Gewohnheit. Doch zur Sache. Du hast das Manuscript bei dir?Â«
+
+Â»Ja wohl, Sire.Â«
+
+Â»Deutlich geschrieben? Du weiÃt, unleserliche Handschriften sind meine
+schwache Seite.Â«
+
+Â»Ich glaube, Eure MajestÃ¤t werden zufrieden sein.Â«
+
+Â»Zeig' einmal her.Â«
+
+Der Bibliothekar zog das Papier aus der Tasche und reichte es dem KÃ¶nig
+dar.
+
+Â»Hm, hm,Â« sagte JÃ©rÃ´me, Â»das kÃ¶nnte etwas deutlicher sein ... hm, hm
+... da unten kommen ja schmÃ¤hliche SchnÃ¶rkel und KratzfÃ¼Ãe ...Â«
+
+Â»Das Manuscript ist allerdings sehr schnell hingeworfen,Â« bemerkte
+Pigault lÃ¤chelnd.
+
+Â»WeiÃt du was, du kannst mir das Ding einmal vorlesen, dann werd' ich
+wohl so leidlich damit zu Stande kommen.Â«
+
+Â»Wie Eure MajestÃ¤t befehlen. Allein Sie erlauben, daÃ ich mich etwas
+nÃ¤her zu Ihnen heransetze, um nicht genÃ¶thigt zu sein, allzusehr die
+Stimme zu erheben.Â«
+
+Â»Gott, bist du heute Ã¤ngstlich,Â« lachte der KÃ¶nig. Â»Du hast wohl
+etwas Katzenjammer von gestern? Apropos, das Ballet war famos, ganz
+magnifique, auf Ehre. Ich hÃ¤tte fast vergessen, dir mein Compliment zu
+machen.Â«
+
+Â»Eure MajestÃ¤t sind zu gÃ¼tig. Wenn Sie gestatten, werde ich jetzt
+beginnen.Â«
+
+Â»Nun denn, leg' los, alter Junge!Â«
+
+Pigault-Lebrun setzte sich dicht an das Kopf-Ende des kÃ¶niglichen
+Bettes, entfaltete sein Manuscript und las mit flÃ¼sternder Stimme wie
+folgt:
+
+Â»Mein Bruder Napoleon, Kaiser der Franzosen!Â«
+
+Â»âºMein Bruderâ¹?Â« fragte der KÃ¶nig. Â»Nicht âºmein +erhabener+ Bruderâ¹?
+Das ist zu stark!Â«
+
+Â»Sire,Â« entgegnete Pigault, Â»Ihre deutschen Unterthanen haben ein
+SprÃ¼chwort, das zwar nicht hoffÃ¤hig, aber sehr tiefsinnig und kernig
+ist. Das SprÃ¼chwort heiÃt: âºWurst wider Wurstâ¹. Verstehen Sie, was das
+sagen will?Â«
+
+Â»So ziemlich. Aber ich finde ...Â«
+
+Â»HÃ¶ren Sie weiter. -- Wenn Sie an meiner Fassung etwas auszusetzen
+haben, so werden wir nachher die erforderlichen Ãnderungen vornehmen.
+-- Also: âºMein Bruder Napoleon, Kaiser der Franzosen! Ich habe Ihre
+RathschlÃ¤ge empfangen. -- Ich achte sie. -- Was Ihre Befehle betrifft,
+so bin ich KÃ¶nig. Ich gebe Befehle, aber ich erhalte keine ...â¹Â«
+
+Â»Stark, sehr stark!Â« murmelte der KÃ¶nig; Â»aber gut, sehr gut!Â«
+
+Der Bibliothekar las weiter:
+
+Â»âºSie werfen mir vor, ich sei ein Freund von langem Tafeln. Ich
+gestehe, daÃ ich die substantielleren GenÃ¼sse eines wohlassortirten
+Tisches dem eitlen Jagen nach Gloire vorziehe. -- Ich bin Gourmand,
+ohne ein VielfraÃ zu sein: ich glaube nicht, daÃ ich hierdurch meiner
+kÃ¶niglichen WÃ¼rde etwas vergebe. Was die Weiber anlangt, so weiÃ ich in
+der That nicht, was gerade Sie mir in diesem Punkte vorhalten kÃ¶nnten.
+Sie beklagen sich Ã¼ber mein Verhalten gegen die KÃ¶nigin: Eure MajestÃ¤t
+konnte mich zwingen, sie zu heirathen, aber nicht, sie zu lieben.
+-- Sie fragen, ob die KÃ¶nigin mir nicht vornehm genug ist. -- Eure
+MajestÃ¤t haben mir hundertmal wiederholt, nichts sei fÃ¼r den Bruder
+eines Napoleon zu groÃ und zu vornehm: ich dagegen habe mich nie mit
+einer groÃen Dame vermÃ¤hlen wollen. -- Sie werfen mir vor, ich halte
+nicht genug auf eine meiner Stellung entsprechende ReprÃ¤sentation. --
+Wissen Sie, das ReprÃ¤sentiren ist erstens langweilig, und zweitens
+vertrÃ¤gt es sich nicht recht mit meiner Figur und meiner TournÃ¼re --
+zwei Dinge, die in unserer Familie nicht besonders imposant genannt
+werden kÃ¶nnenâ¹ ...Â«
+
+Â»Das ist ein malitiÃ¶ser Hieb, der ihn schwer Ã¤rgern wird,Â« sagte JÃ©rÃ´me
+mit hÃ¤mischem LÃ¤cheln. Â»Du bist in der That ein beiÃender Satiriker,
+Pigault. -- Ich sehe, ich darf mich in Acht nehmen, daÃ ich bei dir
+nicht in Ungnade falle.Â«
+
+Der Bibliothekar muÃte laut auflachen.
+
+Â»HÃ¶ren Sie nur weiter, Sire! -- âºÃbrigens habe ich meine Hofhaltung
+ganz nach dem Vorbilde der Ihrigen eingerichtet. Ich kleide mich, wie
+Sie: was wollen Sie mehr? -- Der Prinz von Paderborn bringt mich mit
+seinen ewigen Predigten und endlosen Messen zum GÃ¤hnen. Ich werde ihn
+behalten, da Eure MajestÃ¤t mir ihn gegeben; aber nichts verpflichtet
+mich dazu, mit ihm Ã¼ber Kirchenangelegenheiten und andere Dinge zu
+sprechen, von denen ich nichts verstehe und nichts verstehen will.
+Ich Ã¼berlasse das dem Herrn Cultusminister. -- Was Merfeldt anlangt,
+so habe ich ihn zum PrÃ¤fecten von Hannover ernannt, denn er ist ein
+vorzÃ¼glicher Verwaltungsbeamter, ohne ein angenehmer Chambellan zu
+sein. Im Ãbrigen liebe ich es, die fÃ¼r meinen persÃ¶nlichen Dienst
+bestimmten Personen ganz nach meinen augenblicklichen BedÃ¼rfnissen
+auszuwÃ¤hlen. Gezeichnet: JÃ©rÃ´me Napoleon.â¹Â«
+
+Â»âºGezeichnetâ¹ ...?Â« rief der KÃ¶nig. Â»Aber das ist ja der brutalste
+Kanzleistil.Â«
+
+Â»So schreiben wir: âºGenehmigen Sie die Versicherung meiner
+vorzÃ¼glichsten Hochachtung.â¹Â«
+
+Â»Mit dieser Formel begrÃ¼Ãt man seine Untergebenen.Â«
+
+Â»âºIhr treuverbundner Bruderâ¹ ... Was halten Sie davon?Â«
+
+Â»Sehr gut! Das sagt eigentlich gar nichts! Schreiben wir: âºIhr
+treuverbundener Bruder.â¹Â«
+
+Der KÃ¶nig lieÃ sich nunmehr das Manuscript ins Bett reichen, und
+studirte es mit vielem Eifer. Hierauf legte er's unter das Kopfkissen
+und bedeutete dem Bibliothekar sich zu entfernen.
+
+JÃ©rÃ´me lieÃ sich ankleiden und hatte nach eingenommenem Dejeuner nichts
+Eiligeres zu thun, als den Brief Pigault's zu copiren. -- Er zerriÃ
+zwei, drei Bogen, bis der vierte zu seiner Zufriedenheit ausfiel. --
+Als er das kÃ¼hne SchriftstÃ¼ck siegelte, spielte ein schadenfrohes
+LÃ¤cheln um seine Lippen.
+
+Â»Kein Zweifel,Â« murmelte er vor sich hin, Â»dieser SchrÃ¶pfkopf wird
+ziehen! Ich gÃ¤be etwas darum, wenn ich sein verblÃ¼fftes Gesicht, seinen
+brennenden Ãrger genieÃen kÃ¶nnte! -- FrÃ¼her oder spÃ¤ter muÃte die
+Sache ja doch einmal zum Brechen kommen! -- Ich will dem erstaunten
+Europa zeigen, daÃ ich nicht bin, was ich scheine. SelbstÃ¤ndigkeit,
+UnabhÃ¤ngigkeit, WÃ¼rde, -- das sind doch wohl die unerlÃ¤Ãlichen
+Vorbedingungen der Achtung, deren sich ein Thron zu erfreuen wÃ¼nscht!
+Zum SchleppentrÃ¤ger meines Herrn Bruders halte ich mich zu gut.
+Entweder oder! Der WÃ¼rfel ist gefallen!Â«
+
+In dieser selbstbewuÃten Stimmung Ã¼berreichte er den Brief einem seiner
+KammerjÃ¤ger zur sofortigen Ãbermittelung an den Courier.
+
+Wenige Stunden spÃ¤ter war das verhÃ¤ngnisvolle ActenstÃ¼ck unterwegs.
+
+JÃ©rÃ´me! JÃ©rÃ´me!
+
+       *       *       *       *       *
+
+Vierzehn Tage waren verflossen.
+
+Von den ThÃ¼rmen der Stadt Kassel schlug es Mitternacht. Die braven
+Unterthanen des westphÃ¤lischen Gewalthabers schliefen den Schlaf der
+Gerechten. Melancholisch wandelte der WÃ¤rter durch die menschenleeren
+Gassen und entlockte seiner kurzen Weichselrohrpfeife eine qualmende
+Wolke nach der andern.
+
+Nicht ganz so lautlos ging es in dem sogenannten blauen Salon der
+NapoleonshÃ¶he zu. Hier saÃ eine kleine, aber gewÃ¤hlte Gesellschaft um
+eine reichgedeckte Tafel. Man war beim Dessert. PrÃ¤chtige FrÃ¼chte,
+hochfeines GebÃ¤ck, perlender Champagner und andere unerlÃ¤Ãliche
+Ingredienzen eines luxuriÃ¶sen Mahles verbreiteten einen berauschenden
+Duft. Die GlÃ¤ser klirrten in verwegner Ungezwungenheit wider einander.
+Das lÃ¤rmende Chaos der Stimmen wurde nur durch die Salven eines
+schallenden GelÃ¤chters oder durch die KlÃ¤nge eines lustigen Refrains
+unterbrochen. Mit einem Worte, der blaue Salon war wieder einmal Zeuge
+eines jener intimen Soupers, die gegen elf Uhr begannen und gewÃ¶hnlich
+bis drei, vier Uhr Morgens dauerten.
+
+Â»Die Gesundheit des KÃ¶nigs!Â« rief jetzt eine kleine, blauÃ¤ugige Dame in
+prachtvoller Toilette.
+
+Sie ergriff das Glas, setzte es an den Mund und leerte es auf einen Zug.
+
+Â»SÃ¼Ãer Engel!Â« hauchte der KÃ¶nig, indem er den Arm um ihre Taille
+legte. Â»DafÃ¼r sollst du einen KuÃ haben.Â«
+
+Die Dame strÃ¤ubte sich.
+
+Â»Herr Gott, wie sprÃ¶de!Â« lachte JÃ©rÃ´me. Â»Was fÃ¤llt dir ein, Lili? Wir
+sind ja hier unter uns! Nicht wahr, FÃ¼rstenberg, unsere kleine Heberti
+braucht Euretwegen ihren GefÃ¼hlen keinen Zwang anzuthun?Â«
+
+Die Gesellschaft kicherte.
+
+Â»Unsere liebenswÃ¼rdige Freundin,Â« versetzte der Angeredete, Â»wÃ¤re
+im hÃ¶chsten Grade thÃ¶richt, wenn sie sich aus irgend welcher Ã¤uÃern
+RÃ¼cksicht den schmeichelhaften Gunstbezeugungen Eurer MajestÃ¤t
+widersetzen wollte.Â«
+
+Â»Wir sind ja, Gott sei Dank, keine deutschen Philister,Â« fÃ¼gte der Graf
+Winzingerode hinzu.
+
+Â»Da hÃ¶rst du's, Lili. FÃ¼rstenberg, zeigen Sie der Kleinen, wie die
+Sache gemacht wird. KÃ¼ssen Sie Ihre Melanie!Â«
+
+Der Cavalier, der trotz des ihm aufgenÃ¶thigten deutschen Namens ein
+echter Pariser geblieben war, schlang den Arm ohne weiteres um den
+blendenden Nacken seiner Nachbarin, und kÃ¼Ãte ihr die rothen Lippen,
+daÃ es laut durchs Gemach schallte.
+
+Â»Ah, das ist Unrecht, lieber FÃ¼rstenberg,Â« rief Pigault-Lebrun mit
+komischem Stirnrunzeln. Â»Sie machen unser Einem, der nicht so glÃ¼cklich
+ist, wie Sie, das Herz schwer.Â«
+
+Â»Es thut jeder, was er kann; nicht wahr, Melanie?Â«
+
+Â»~Eh bien~, Lili?Â« fragte der KÃ¶nig.
+
+Â»Ich habe Ihnen gesagt, daÃ ich Sie zwei Tage lang auf schmale Kost
+setze,Â« lautete die schnippische Antwort.
+
+Â»Wie? was?Â« erklang es im Chor. Â»Ein Zwist, ein Streit? Ich hÃ¤tte bald
+gesagt, eine eheliche Differenz?Â«
+
+Â»Unser TÃ¤ubchen ist eigensinnig,Â« rief JÃ©rÃ´me, ein Glas Schaumwein
+hinunterstÃ¼rzend.
+
+Â»Nein, nein, nur standhaft!Â« entgegnete FrÃ¤ulein Heberti.
+
+Â»ErzÃ¤hlen Sie! Was ist vorgefallen?Â«
+
+Â»Sehr einfach,Â« sagte die kleine Dame. Â»Ich habe Seine MajestÃ¤t um eine
+GefÃ¤lligkeit ersucht und bin abschlÃ¤gig beschieden worden.Â«
+
+Â»Ah, unerhÃ¶rt, Sire,Â« lachte Winzingerode. Â»Wie kÃ¶nnen Sie einem
+solchen Engel was abschlagen?Â«
+
+Â»Ein KÃ¶nig, meine Herren,Â« erwiderte JÃ©rÃ´me, Â»ist nicht in allen Dingen
+souverain! Es giebt gewisse RÃ¼cksichten ...Â«
+
+Â»Aber um was handelt es sich denn? Wir wissen ja noch gar nicht ...Â«
+
+Â»Eine Bagatelle,Â« schmollte Lili. Â»Ich bat den KÃ¶nig um die Entlassung
+des Grafen von Paderborn ...Â«
+
+Â»Ah, der AumÃ´nier,Â« sagte FÃ¼rstenberg; Â»eine unangenehme
+PersÃ¶nlichkeit.Â«
+
+Â»Ein Spion,Â« ergÃ¤nzte FrÃ¤ulein Heberti.
+
+Â»Wo denkst du hin, Lili!Â« stotterte JÃ©rÃ´me.
+
+Â»Ein Spion, sage ich. Unser Aller Interesse erfordert, daÃ Sie ihm
+schleunigst den LaufpaÃ geben.Â«
+
+Â»Das ist unmÃ¶glich.Â«
+
+Â»UnmÃ¶glich? Sind Sie nicht KÃ¶nig ...?Â«
+
+Â»Das sagst du wohl ... -- aber ...Â«
+
+Â»Was âºaberâ¹! Es giebt kein aber!Â«
+
+Â»Aber bedenke doch ... Du weiÃt ... Seine MajestÃ¤t der Kaiser ...!Â«
+
+Â»Der Kaiser! Was hat Ihnen der Kaiser zu sagen?Â«
+
+Â»Er hat ... er ist ... bedenke nur ...Â«
+
+Â»Ah, Sire!Â« rief das MÃ¤dchen mit einem Ausdruck des Stolzes, der
+ihre ZÃ¼ge wunderbar hob, Â»Sie scheinen nicht zu wissen, daÃ wir
+Frauen von dem Geliebten in erster Linie Entschlossenheit, Energie,
+UnabhÃ¤ngigkeit, Muth fordern, wenn unsere Neigung nicht wanken soll ...Â«
+
+Die GÃ¤ste blickten einander an, als wollten sie sich fragen, ob diese
+Rede der kleinen Ex-TÃ¤nzerin Scherz oder Ernst sei?
+
+Es trat eine peinliche Pause ein. Der KÃ¶nig war sichtlich unangenehm
+berÃ¼hrt. Niemand wollte das Schweigen brechen. Man fÃ¼rchtete, den
+miÃlichen Eindruck, den Lili's Strafpredigt hervorgebracht hatte, durch
+eine ungeschickte Bemerkung noch zu verschlimmern. --
+
+Â»FrÃ¤ulein Heberti,Â« sagte endlich JÃ©rÃ´me, nicht ohne Bitterkeit, Â»ich
+hoffe Ihnen baldigst, vielleicht schon morgen, den Beweis zu liefern,
+daÃ Ihre VorwÃ¼rfe die Adresse verfehlt haben. Wenn ich in einzelnen
+wichtigen Angelegenheiten auf meinen kaiserlichen Bruder RÃ¼cksicht
+nehme, so geschieht dies aus freien StÃ¼cken. DaÃ ich im rechten
+Augenblick unabhÃ¤ngig, energisch, entschlossen zu sein verstehe,
+sollten Sie Ã¼berhaupt niemals bezweifelt haben. Da Sie indeÃ solchen
+hÃ¶chst seltsamen Zweifeln Raum geben, so gereicht es mir in der That
+zur Genugtuung, daÃ ich, wie gesagt, binnen wenigen Tagen in der
+Lage sein werde, Sie eines Bessern zu belehren. Merken Sie sich das,
+FrÃ¤ulein Heberti!Â«
+
+Der KÃ¶nig hatte diesen langen Discurs mit voller WÃ¼rde, und so laut
+und deutlich vom Stapel gelassen, daÃ Lili fast erschreckt die Augen
+niederschlug. Sie mochte fÃ¼hlen, daÃ sie zu weit gegangen.
+
+JÃ©rÃ´me warf seinem Bibliothekar einen selbstbewuÃten,
+verstÃ¤ndnisinnigen Blick zu.
+
+Dem guten Pigault fiel die Epistel, auf welche der KÃ¶nig anspielte,
+heiÃ auf die Seele. Jeden Tag konnte die Antwort eintreffen; der
+Bibliothekar verhehlte sich nicht, daÃ diese Aussicht einen hÃ¶chst
+beklemmenden EinfluÃ auf seine Lebensgeister ausÃ¼bte.
+
+In diesem Augenblick ertÃ¶nte im Vorzimmer ein lebhafter Wortwechsel.
+
+Befremdet horchte man auf.
+
+Â»Ich habe die gemessensten Befehle ...Â« sagte einer der kÃ¶niglichen
+HofjÃ¤ger.
+
+Â»Und ich habe noch gemessenere,Â« entgegnete eine krÃ¤ftige Stimme.
+Â»Machen Sie keine UmstÃ¤nde! Im Namen Seiner MajestÃ¤t des Kaisers der
+Franzosen, lassen Sie mich vor!Â«
+
+JÃ©rÃ´me erbleichte. Pigault-Lebrun griff nach dem Glase, um seine
+Verwirrung zu verbergen.
+
+Â»So erlauben Sie wenigstens, daÃ ich Seine westphÃ¤lische MajestÃ¤t zuvor
+benachrichtige,Â« stotterte der KammerjÃ¤ger. Â»Wen darf ich anmelden?Â«
+
+Â»Den Gouverneur von Danzig!Â« lautete die Antwort.
+
+Eine halbe Minute spÃ¤ter Ã¶ffnete sich die ThÃ¼r des blauen Salons,
+und der Gouverneur, begleitet von einem Gardeofficier, betrat das
+Allerheiligste.
+
+Alles war sprachlos.
+
+Der Botschafter des Imperators verneigte sich voll ritterlicher Anmuth
+und wandte sich dann an den KÃ¶nig.
+
+Â»Sire,Â« sagte er, Â»ich habe mich eines hÃ¶chst unangenehmen Auftrags zu
+entledigen.Â«
+
+JÃ©rÃ´me ward fahl wie der Kalk an der Wand. Pigault-Lebrun saÃ da wie
+ein armer SÃ¼nder und nestelte an seinen Manschetten.
+
+Â»Ich habe diesen Auftrag,Â« fuhr der Gouverneur fort, Â»von Ihrem
+erhabenen Bruder, dem Kaiser der Franzosen. Ich verlieÃ Seine MajestÃ¤t
+in einem Zustande der Erregtheit und des Zornes, den ich nicht zu
+schildern vermag ...Â«
+
+Â»Aber ich bitte, mein Herr,Â« rief FÃ¼rstenberg, indem er die Arme vor
+der Brust kreuzte, Â»dies ist weder die Zeit noch der Ort, solche
+AuftrÃ¤ge auszurichten.Â«
+
+Â»Ich bedaure,Â« entgegnete der Angeredete kalt, Â»daÃ ich so unglÃ¼cklich
+bin, Ihre geselligen Freuden zu unterbrechen, allein ich handle nach
+dem ausdrÃ¼cklichen Befehl meines hohen Gebieters.Â«
+
+Der KÃ¶nig war so vollstÃ¤ndig auÃer Fassung gerathen, daÃ er vergaÃ dem
+Gouverneur einen Stuhl, geschweige denn ein Glas Wein anzubieten. Statt
+dessen hatte er selbst den Becher ergriffen und einen krÃ¤ftigen Schluck
+der Verzweiflung gewagt.
+
+Winzingerode schleuderte dem fremden Eindringling finstere Blicke zu.
+
+Die kleine Heberti betrachtete bald den Gouverneur, bald ihren
+kÃ¶niglichen GÃ¶nner. Ein spÃ¶ttisches LÃ¤cheln zuckte um ihre rosigen
+Lippen.
+
+Â»Sire,Â« fuhr der Gesandte fort, Â»ich hoffe, Sie werden den Botschafter
+nicht die Unannehmlichkeiten der Botschaft entgelten lassen ... und mir
+verzeihen, wenn ich Ihnen hier, laut den gestrengen Instructionen, die
+ich empfangen habe, folgenden eigenhÃ¤ndig geschriebenen Cabinetsbefehl
+des Kaisers vorlese ...Â«
+
+Â»O, durchaus nicht,Â« stammelte JÃ©rÃ´me in hÃ¶chster Seelenangst; Â»das
+heiÃt ... Sie wissen ... KÃ¶nnten wir nicht dort in das Zimmer treten?Â«
+
+Â»Ich bedaure, Sire ... Die Anordnungen Seiner MajestÃ¤t sind sehr
+formell. Sie mÃ¼ssen schon gestatten, daÃ diese Herrschaften
+unfreiwillige Zeugen einer Scene sind, die mir ebenso fatal ist, als
+Ihnen selbst, Sire.Â«
+
+Der KÃ¶nig senkte das Haupt, wie Einer, der entschlossen ist, alles ohne
+Widerstand Ã¼ber sich ergehen zu lassen.
+
+Â»Aber das ist unerhÃ¶rt,Â« sagte FÃ¼rstenberg.
+
+Der Gouverneur zuckte die Achseln. Â»Ich wiederhole Ihnen, es ist nicht
+meine Schuld,Â« entgegnete er. Â»Das Decret lautet wie folgt:
+
+Â»âºCabinetsbefehl des Kaisers. Unser Aide-de-Camp, der General Rapp,
+Gouverneur von Danzig, wird sofort nach Cassel abreisen und daselbst
+den Obersten MÃ¼ller, Kommandanten der kÃ¶niglichen Garden, zu sich
+citiren. Er wird mit besagtem MÃ¼ller unverzÃ¼glich zum KÃ¶nig gehen und
+Seine MajestÃ¤t diesem Officier zur Bewachung Ã¼bergeben. Der KÃ¶nig wird
+achtundvierzig Stunden im Arrest bleiben. Pigault-Lebrun, der Verfasser
+des flegelhaften Briefes, den unser Bruder uns geschrieben hat, wird
+zwei Monate lang ins GefÃ¤ngnis gesteckt und dann unter sicherer
+Bedeckung nach Frankreich transportirt werden. Wir ertheilen unserm
+Aide-de-Camp Generalvollmacht, die westphÃ¤lischen Truppen in Anspruch
+zu nehmen, falls man sich in wahnwitziger Verblendung der AusfÃ¼hrung
+unserer Befehle widersetzen sollte. Gezeichnet: Napoleon.â¹Â«
+
+JÃ©rÃ´me sank vernichtet in seinen Fauteuil zurÃ¼ck. Pigault-Lebrun
+runzelte die Brauen und ballte die FÃ¤uste. FÃ¼rstenberg und Winzingerode
+sperrten Mund und Nase auf. Melanie weinte. Die kleine Heberti warf
+einen Blick der grenzenlosesten Verachtung auf ihren Liebhaber und
+erhob sich stolz aus dem Sessel.
+
+Â»So haben wir hier weiter nichts zu suchen!Â« sagte sie kalt. Â»Herr
+Commandant, thun Sie Ihre Pflicht.Â«
+
+Der Aide-de-Camp des Kaisers verabschiedete sich, und JÃ©rÃ´me schwankte
+in Begleitung des Obersten MÃ¼ller nach seinen GemÃ¤chern, um sie erst
+nach abgebÃ¼Ãter Strafe wieder zu verlassen. Die ErmÃ¤chtigung, die
+der Kaiser dem General Rapp ertheilt hatte, im Nothfalle Truppen zu
+requiriren, war eine Ã¼berflÃ¼ssige MaÃregel. Der gute JÃ©rÃ´me parirte
+wie ein wohlerzogenes Kind; seine friedliche Seele war himmelweit
+entfernt von jener âºwahnwitzigen Verblendungâ¹, die das allerhÃ¶chste
+Decret vorsehen zu mÃ¼ssen glaubte. Ah, hÃ¤tten die ehrfurchtsvollen
+Unterthanen des KÃ¶nigs von dem unerhÃ¶rten Schauspiele, dessen Theater
+der kÃ¶nigliche Palast, dessen leidender Held ihr vielgeliebter JÃ©rÃ´me
+war, eine dÃ¤mmernde Ahnung gehabt! Es ist doch gut, daÃ der PÃ¶bel nicht
+in alle Geheimnisse der Diplomatie eingeweiht wird!
+
+Pigault-Lebrun wurde in den Kerker geworfen. Eine nachtrÃ¤gliche
+Ordre des Kaisers verbot dem gesammten Hofpersonal, den Gefangenen
+zu besuchen. Der KÃ¶nig schrieb seinem gestrengen Bruder einen
+demÃ¼thigen Brief, in welchem er hundertmal um Verzeihung bat und um
+die Freilassung seines Vertrauten flehte. Umsonst. Der Kaiser lieÃ
+ihm antworten, Pigault werde seine zwei Monate absitzen und alsdann
+unverzÃ¼glich das Land verlassen. Nach langem Betteln gestattete er dem
+KÃ¶nig, den Bibliothekar bei sich zu behalten, falls derselbe gesonnen
+sei, einen weitern Monat hindurch im GefÃ¤ngnis zu schmachten. Pigault
+war mit Freuden bereit. Das Leben am westphÃ¤lischen Hofe bedÃ¼nkte ihm
+jedes Opfers werth.
+
+Am 22. November 1810 war seine Marterzeit vorÃ¼ber. BlaÃ und abgemagert
+trat er vor seinen Gebieter und lÃ¤chelte ein schmerzliches LÃ¤cheln.
+
+Â»Nicht wahr, Sire,Â« sagte er, Â»kÃ¼nftighin besinnen wir uns zweimal, ehe
+wir einen Brief zur Post geben?Â«
+
+JÃ©rÃ´me seufzte.
+
+Â»Du hast schwer gebÃ¼Ãt, mein Freund,Â« flÃ¼sterte er niedergeschlagen;
+Â»aber auch mich traf ein trÃ¼bes VerhÃ¤ngnis ...Â«
+
+Â»Ah, Sire, die achtundvierzig Stunden ...?Â«
+
+Der KÃ¶nig schritt nach seinem Pulte und nahm ein rosenrothes Billet
+heraus.
+
+Â»Da, lies!Â« sagte er. Â»Das schrieb mir die liebste, die reizendste, die
+treueste meiner Freundinnen am Tage nach deiner Verhaftung.Â«
+
+Pigault las. Das Billet lautete:
+
+        Â»Sire,
+
+Ich verlasse Sie und Ihr Land fÃ¼r immer. Ich habe mich aufs KlÃ¤glichste
+in Ihnen getÃ¤uscht. Wenn ich die Pflichten, die uns die Selbstachtung
+und die RÃ¼cksicht auf das Ã¶ffentliche Urtheil auferlegt, mit FÃ¼Ãen
+trat; wenn ich bei einem Ihrer HÃ¶flinge Sclavendienste that: so geschah
+dies nur, weil ich Sie liebte -- so wahr und glÃ¼hend wie nur ein Weib
+zu lieben vermag! Dies Bekenntnis wird mich in Ihren Augen, wenn nicht
+rechtfertigen, so doch entschuldigen. Aber ich kannte Sie nicht. Ich
+hielt Sie fÃ¼r edel, fÃ¼r stolz, fÃ¼r ritterlich. Ich habe mich vom
+Gegentheil Ã¼berzeugt. Ich verachte Sie.
+
+            Elise Heberti.Â«
+
+Pigault-Lebrun versetzte kein Wort. Gesenkten Blickes gab er dem KÃ¶nig
+das Schreiben zurÃ¼ck.
+
+JÃ©rÃ´me schloÃ es wieder ein und sagte dann tonlos zu seinem
+Bibliothekar:
+
+Â»Es lÃ¤Ãt sich halt nicht gegen den Strom schwimmen! Dein SprÃ¼chwort:
+âºWurst wider Wurstâ¹ mag fÃ¼r unsere hessischen Bauern passen, aber nicht
+fÃ¼r die Familie Bonaparte.Â«
+
+Sprach's, ging hin, und blieb ein gehorsamer Bruder.
+
+
+
+
+Die Feuerspritze.
+
+
+Erstes Kapitel.
+
+Das StÃ¤dtchen Clatou, einige Meilen von St. Quentin gelegen, erfreute
+sich unter dem milden Scepter seines BÃ¼rgermeister seit undenklichen
+Zeiten eines blÃ¼henden Wohlstandes und einer HÃ¶he der geistigen Cultur,
+um die es von der Gemeinde Ulrichstein im hessischen Vogelsberge
+ohnstreitig glÃ¼hend beneidet worden wÃ¤re, wenn sich der Ruf von
+seiner Existenz Ã¼berhaupt bis Ã¼ber die Grenzen des Departements
+verbreitet hÃ¤tte. Aber die Clatounesen waren von der Giltigkeit
+jener altgriechischen These, die den Ruhm fÃ¼r eitel Wind erklÃ¤rt, so
+aufrichtig Ã¼berzeugt, daÃ sie in keiner Weise nach irdischem Glanze
+haschten, sondern schlicht und recht in den Tag hinein lebten; wiewohl
+ihre VerhÃ¤ltnisse ihnen reichlich gestattet hÃ¤tten, alle vier Wochen
+eine lobende ErwÃ¤hnung im Â»FigaroÂ« zu bezahlen. Still und zurÃ¼ckgezogen
+pflagen sie ihrer Privatangelegenheiten und kÃ¼mmerten sich weder um
+die aufregenden Dispute des Pariser ~Corps LÃ©gislatif~, noch um die
+politischen SchachzÃ¼ge Beust's und Bismarck's. Der Name Jules Favre's
+war kaum jemals Ã¼ber die Lippen eines Clatounesen gekommen, und von
+der Neugestaltung Deutschlands hatte nur Herr Clamard, der Maire, eine
+chaotisch dÃ¤mmernde Vorstellung. Kurz, Clatou, das weise und gerechte
+StÃ¤dtchen unweit von St. Quentin, trug keine Schuld an dem schÃ¤ndlichen
+Friedensbruch, den Frankreich so theuer bezahlen sollte ...
+
+Im Laufe der sechziger Jahre zweigte sich von Clatou eine kleine
+Colonie ab.
+
+Die neue GrÃ¼ndung nannte sich Gressinet. Sie blieb zwar mit der
+Mutterstadt in regem Wechselverkehr, allein schon nach kurzer Frist
+entwickelten sich im SchooÃe der Tochter jene EmancipationsgelÃ¼ste,
+die vor einem Jahrhundert auf der westlichen ErdhÃ¤lfte die LosreiÃung
+Nordamerika's von England zur Folge hatten ...
+
+Ahmte indessen Gressinet das glorreiche Beispiel der Union nach, so
+befolgte Clatou -- und insbesondere Herr Clamard, der BÃ¼rgermeister
+-- die Haltung GroÃbritanniens und verweigerte den Rebellen jegliches
+ZugestÃ¤ndnis.
+
+Vor allem bestritt der Maire ihnen das Recht, sich eine Gemeinde zu
+nennen.
+
+Â»Ihr gehÃ¶rt zu +unsrer+ Gemeinde,Â« hieÃ es in seinen amtlichen
+Manifesten, -- Â»ihr seid +mir+ zinspflichtig, und jede gegentheilige
+Bestrebung ist als ein Akt der Insurrection und des Hochverraths zu
+betrachten.Â«
+
+Die Gressineter protestirten. Einer der ihrigen, Jules Pierrot, der
+ein Jahr lang als Handlungsdiener in Paris gewesen, verfaÃte ein
+Gegenmanifest, in welchem das Selbstbestimmungsrecht der Nationen
+nachdrÃ¼cklich betont und das Axiom ausgesprochen war, daÃ man im
+neunzehnten Jahrhundert nach anderen GrundsÃ¤tzen regieren mÃ¼sse, als im
+fÃ¼nfzehnten.
+
+Diese Phrase vom neunzehnten Jahrhundert muÃte den Maire in der
+tiefsten Tiefe seines amtlichen BewuÃtseins verletzt haben, denn er
+antwortete in einem neuen ErlaÃ, es komme hier durchaus nicht auf
+den Unterschied zwischen dem Mittelalter und der Neuzeit an, wie von
+gewisser Seite heuchlerischer Weise behauptet werde, sondern auf die
+Frage, ob die Verfassung gehalten oder gebrochen werden solle. Er,
+der Maire, werde dem Gesetze die gebÃ¼hrende Achtung verschaffen und
+jedermann, der es Ã¼bertrete, ohne Ansehen der Person vor die Schranken
+der Tribunale citiren.
+
+Die Gressineter schÃ¤umten vor Wuth. LieÃ sich von jetzt ab ein
+Clatounese in Gressinet blicken, so wurde er von den beleidigten
+Patrioten dergestalt miÃhandelt, daÃ er fÃ¼r die nÃ¤chsten drei
+Wochen arbeitsunfÃ¤hig war. Zur Revanche Ã¼berfielen die Clatounesen
+eines schÃ¶nen Tages den HauptrÃ¤delsfÃ¼hrer der Gressineter, den
+Handlungsdiener Jules Pierrot, mit SteinwÃ¼rfen. Pierrot rettete
+sich nur durch die schleunigste Flucht. Ganz auÃer Athem, von
+SchweiÃ triefend wie ein gehetzter Eber, mit Staub bedeckt und am
+Hinterhaupte nicht unbedeutend verletzt, langte er in Gressinet an,
+-- eine lebendige Aufforderung zum Kreuzzug gegen die freveltrotzigen
+Clatounesen.
+
+Sofort eilte er zu seinem Busenfreunde, dem Schulmeister ...
+
+Henri JÃ©rÃ´me Croquepeu, den die Gressineter -- dem Maire von Clatou
+zum Trotz -- aus eigenen Mitteln bezahlten, war nÃ¤chst Pierrot der
+eifrigste und angesehenste Vertreter der SelbststÃ¤ndigkeitsidee.
+
+Er empfing den Gesinnungsgenossen mit den Zeichen der hÃ¶chsten
+Verwunderung.
+
+Â»Ist's mÃ¶glich, Jules? Sie haben es gewagt ...? Aber das ist ja
+himmelschreiend, diabolisch, infernalisch, kymmerisch!Â«
+
+Â»Croquepeu,Â« erwiderte Jules mit halberstickter Stimme, indem er sich
+das Taschentuch auf die Wunde legte, Â»Croquepeu, -- sieh her! Dieses
+Blut heischt eine furchtbare Rache! -- Sprich, Schulmeister, hast du je
+geliebt ...?Â«
+
+Â»Wie so?Â«
+
+Â»Hast du nie anbetend vor einem Wesen gekniet, dessen LÃ¤cheln ...
+dessen Blicke ...Â«
+
+Â»Ah, so! Jetzt erst begreife ich, was du sagen willst. Du meinst, ob
+niemals Eros mein Herz berÃ¼hrt ...? Du muÃt dich deutlicher ausdrÃ¼cken.Â«
+
+Â»Nun denn ... antworte mir! Wenn deine Brust niemals in heiligen
+Flammen stand, so fehlt dir das VerstÃ¤ndnis fÃ¼r den Schmerz, der mir
+siedend durch alle Adern geht ... Sprich, Kindertyrann!Â«
+
+Â»Ja, Jules! Ich war achtzehn Jahre alt, -- da liebte ich Eugenien, die
+Tochter des Dorfschmieds ... Ich darf wohl sagen: auch ich war ihr
+nicht gleichgiltig, -- aber ach! Du weiÃt! Die VerhÃ¤ltnisse ... Die
+UmstÃ¤nde ... Sie hat einen anderen geheirathet ...Â«
+
+Â»Gut! So wirst du erfassen, welch ein wahnsinniger Zorn meine
+empfindsamen Nerven durchtobt. HÃ¶re mich an! Ich liebe ...Â«
+
+Â»Nicht mÃ¶glich? Seit wann ...?Â«
+
+Â»Seit vier Wochen. Sie ist ein Engel ...! Ach, Schulmeister, ich sage
+dir, wenn sie einen mit ihren groÃen, himmelblauen Augen so Ã¼ber die
+Achsel ansieht, -- das Herz mÃ¶chte einem zerspringen wie eine reife
+Kastanienschale! Aber leider, leider giebt es nichts Vollkommenes auf
+der Welt!Â«
+
+Â»Schielt sie?Â«
+
+Â»Du bist verrÃ¼ckt.Â«
+
+Â»So findest du keine Gegenliebe?Â«
+
+Â»Croquepeu, du wirst beleidigend ...Â«
+
+Â»Je nun, so erklÃ¤re dich nÃ¤her ... Ãberhaupt weiÃ ich nicht, was deine
+Liebe mit dem clatounesischen Attentat zu thun hat.Â«
+
+Â»Schulmeister! Meine Geliebte vereinigt alle guten Eigenschaften des
+Leibs und der Seele ... aber sie ist eine Clatouneserin!Â«
+
+Â»Heiliger Antonius Paduensis! Das ist allerdings ein bedenklicher
+Ãbelstand! Und wer ist's, Pierrot? Wohl gar Louison, die Tochter des
+Notars? Herr Brassou ist ein glÃ¼hender Feind unserer Autonomie; er haÃt
+dich als den gefÃ¤hrlichsten Verfechter unserer municipalen Rechte: nie
+und nimmer wird er einwilligen, daÃ seine Louison ...Â«
+
+Â»So laÃ mich doch nur zum Worte kommen, geschwÃ¤tziger RuthenfÃ¼rst!
+Louison ist mir so gleichgiltig wie dem Heiden der Sonntag. Meine
+Angebetete heiÃt Marion Leclerc.Â«
+
+Â»Alle GÃ¶tter der Ober- und Unterwelt! Die MÃ¼ndel des BÃ¼rgermeisters?
+Pierrot, bist du bei Troste? Da wÃ¤re noch eher daran zu denken, daÃ
+der Notar dir seine Louison gÃ¤be!Â«
+
+Â»VorlÃ¤ufig handelt es sich gar nicht um Geben oder Nichtgeben. Alles
+das wird sich spÃ¤ter finden. Marion liebt mich. Im Nothfall entfÃ¼hre
+ich sie ...Â«
+
+Â»Himmel! Das wird einen saubern Skandal absetzen!Â«
+
+Â»Mir gleich. ZunÃ¤chst aber gilt es, meine Ehre wieder herzustellen.
+Denke dir, Croquepeu: die Geliebte meines Herzens war Zeuge des
+entsetzlichen Auftrittes! ... Sie sah, wie ich fliehen muÃte! O, ich
+hÃ¤tte vor Wuth und Scham bersten mÃ¶gen! -- Aber die SteinwÃ¼rfe lieÃen
+mir keine Wahl; sie wÃ¼rden mich zu Brei zermalmt haben. Begreifst du,
+Knaben-Despot, was es heiÃt, vor den Augen seiner Geliebten die Rolle
+eines Feiglings spielen zu mÃ¼ssen?Â«
+
+Â»Ah, ich weiÃ es nur zu gut! Unter uns gesagt, Pierrot, -- du erzÃ¤hlst
+es nicht weiter -- ich bin Ã¼berzeugt, Eugenie heirathete nur darum
+den Epicier, weil er mich einst vor ihren Blicken ohrfeigte, ohne daÃ
+ich meinerseits ... Du verstehst! Es fehlt mir im allgemeinen nicht
+an Courage, aber Raoul war ein baumlanger Kerl, und so dachte ich,
+besser eine geringe Injurie einstecken, als sich einer tÃ¶dtlichen
+KÃ¶rperverletzung aussetzen. Aber, wie gesagt, das beklemmende GefÃ¼hl
+von damals ist mir noch sehr wohl erinnerlich ... Haben sie dich auch
+geohrfeigt?Â«
+
+Â»Das nicht. Allein ich muÃte Fersengeld geben, wie ein Ãpfeldieb, und
+das HohngelÃ¤chter der Clatouneserinnen verfolgte mich bis an die Grenze
+des Weichbildes. Man macht eine erbÃ¤rmliche Figur, Croquepeu, wenn
+man so durch die StraÃen sprengt und von den ungezogenen Gamins mit
+Pflaumen und Chausseesteinen geworfen wird! Ich bedarf einer glÃ¤nzenden
+Genugthuung, sonst bin ich in den Augen Marion's fÃ¼r allezeit
+discreditirt. Willst du mir beistehen?Â«
+
+Â»Was kann ich thun?Â«
+
+Â»Berufe die angesehensten BÃ¼rger fÃ¼r heute Abend in die Scheune
+des alten Grimmont! Ich werde ihnen den Fall vortragen und ihre
+UnterstÃ¼tzung in Anspruch nehmen.Â«
+
+Â»Gut. Auf sieben Uhr.Â«
+
+Â»Und nun begleite mich in die Weinstube; ich verdurste bald. Um halb
+zwei muÃ ich ins GeschÃ¤ft; also laÃ uns die Frist benutzen! Du wirst
+deine Einladungen dringlicher vorbringen, wenn du erst ein paar Tropfen
+Rebenblut in den Adern spÃ¼rst.Â«
+
+Sie gingen zur Schenke und leerten einige GlÃ¤ser auf das Wohl
+Gressinet's. Dann verfÃ¼gte sich Jules Pierrot, der Handlungsdiener, in
+sein bescheidenes Magazin, wÃ¤hrend Croquepeu von Haus zu Haus wanderte
+und die BÃ¼rger zu einer wichtigen Berathung nach der Scheune entbot.
+
+
+Zweites Kapitel.
+
+FÃ¼nf Minuten nach sieben war die Versammlung vollzÃ¤hlig.
+
+Pierrot ergriff das Wort und schilderte in den lebhaftesten Farben
+die erlittene Unbill. Er forderte die Gressineter auf, diese blutige
+Beleidigung durch eine exemplarische Bestrafung der Mutterstadt
+glorreich zu sÃ¼hnen.
+
+Nach lÃ¤ngeren Debatten faÃte man den BeschluÃ, Clatou am nÃ¤chsten
+Sonntag wÃ¤hrend der Kirche zu Ã¼berfallen, dem Haupturheber des
+frevelhaften Attentates die Fenster einzuwerfen und einen etwaigen
+Widerstand mit bewaffneter Hand zu bewÃ¤ltigen ...
+
+Das war eine verwegene Idee. Ihre Annahme lÃ¤Ãt sich nur aus der
+krankhaften Steigerung des intermunicipalen Hasses erklÃ¤ren, der bei
+den Gressinetern die Stimme der Vernunft vÃ¶llig Ã¼bertÃ¤ubte. O, hÃ¤ttet
+ihr den Plan Jules Pierrot's verworfen! Ihr wÃ¼rdet ihm und euch viel
+Trauer und Herzeleid erspart haben!
+
+Der verhÃ¤ngnisvolle Sonntag kam heran. Die Glocken von Clatou hatten
+langsam ausgelÃ¤utet. Die gesammte BÃ¼rgerschaft -- mit der einzigen
+Ausnahme eines lÃ¼derlichen Zecherkleeblatts und verschiedener
+Greise, WÃ¶chnerinnen und Kranken -- befand sich im Gotteshause. Herr
+Laloupon, der Geistliche, predigte Ã¼ber die Bibelstelle: Â»Selig sind
+die Friedfertigen --Â« und erging sich in eifrigen Angriffen auf die
+StÃ¶rer der Ã¶ffentlichen Ordnung. Die Clatounesen schmunzelten, denn sie
+fÃ¼hlten, daÃ Herr Laloupon auf die Gressineter stichelte.
+
+Da zog aus den Thoren der rebellischen Colonie eine Schaar von fÃ¼nfzig
+oder sechzig krÃ¤ftigen Burschen -- so ziemlich die ganze waffenfÃ¤hige
+Mannschaft des Pflanzdorfes -- und wandte sich in raschem Halbtrabe dem
+arglosen Clatou zu.
+
+Nach fÃ¼nf Minuten war die Mutterstadt erreicht. Jean, der alte
+stelzfÃ¼Ãige Polizist, wurde Ã¼ber den Haufen gerannt. Dann plÃ¶tzlich
+klirrte ein Hagel von Steinen wider die FaÃ§ade eines der stattlichsten
+HÃ¤user der HauptstraÃe, und ein lautes Hurrah des RÃ¤chercorps
+verkÃ¼ndete, daÃ die Salve von wunderbarster Wirkung gewesen.
+
+Alsbald regte es sich in den Hallen der Kirche. Die Weiber und Kinder
+erhoben ein klÃ¤gliches Angstgeschrei. Die MÃ¤nner rÃ¼steten sich zur
+Gegenwehr. Die clatounesische Ãbermacht gestattete keinen Zweifel
+Ã¼ber den Ausgang des Handgemenges. Jules Pierrot, der unter den
+Vordersten war, wurde an der Kirchentreppe von einem gigantischen
+Schlossergesellen in Bearbeitung genommen. Zu seinem wahnwitzigsten
+Entsetzen bemerkte er unter den Damen, die sich nach der Pforte des
+Gotteshauses drÃ¤ngten, Marion Leclerc, die Geliebte seines Herzens.
+Sie sollte jetzt zum zweiten Male mit ansehen, wie ihr treuer Cavalier
+von pÃ¶belhaften FÃ¤usten miÃhandelt wurde. Jules Pierrot rang wie ein
+Verzweifelter; aber der Schlossergeselle war ein Hercules, legte ihn
+Ã¼ber das Knie und erteilte ihm eine Lection, wie sie Herr Croquepeu,
+der Schulmeister, seinen ZÃ¶glingen nicht kunstgerechter hÃ¤tte
+angedeih'n lassen kÃ¶nnen. Ãhnlich wie dem Liebhaber Marion's erging es
+den meisten Gressinetern; nur Wenige schlugen sich rÃ¼hmlich durch und
+erreichten die Colonie; die Ãbrigen wurden schauderhaft zerwalkt und
+dann in Masse nach der Â»ViolineÂ«, das heiÃt nach der Wache gebracht.
+
+Herr Clamard, der Maire, rieb sich die HÃ¤nde. Die Gressineter
+knirschten vor Schmerz und Erbitterung. Herr Laloupon, der Pfarrer,
+lieÃ ein Tedeum anstimmen.
+
+Drei Tage spÃ¤ter wurden sÃ¤mmtliche an dem Krawall betheiligten
+Colonisten mit mehreren Wochen PolizeigefÃ¤ngnis bestraft.
+
+
+Drittes Kapitel.
+
+Auch dieses Leid trug dazu bei, den Zorn der Gressineter zum Paroxysmus
+zu steigern.
+
+Als die GemaÃregelten die Freiheit wieder erlangt hatten, berief Jules
+Pierrot die BÃ¼rgerschaft des unglÃ¼cklichen Pflanzdorfes zu einer
+abermaligen Generalversammlung in die Scheune des ehrwÃ¼rdigen Herrn
+Grimmont.
+
+Die Eingeladenen erschienen mit mathematischer PÃ¼nktlichkeit. Drei
+oder vier der besiegten SonntagskÃ¤mpfer trugen noch die Spuren ihrer
+Niederlage in den finster blickenden Gesichtern. Ãber der ganzen
+~corona civium~ lagerte eine dÃ¼stere, unheilschwangere Stimmung.
+
+Jules Pierrot ergriff das Wort.
+
+Â»MitbÃ¼rger!Â« sagte er langsam und feierlich. Â»Die WÃ¼rfel sind gefallen!Â«
+
+Ein dumpfes Murmeln ging durch die Reihen der ZuhÃ¶rer.
+
+Â»Eine schamlose Vergewaltigung, wie wir sie in den Annalen unserer
+vaterlÃ¤ndischen Geschichte nicht zum zweiten Male verzeichnet finden,
+hat die letzten Bande der PietÃ¤t, die uns an das verabscheuungswÃ¼rdige
+Clatou knÃ¼pfen mochten, fÃ¼r alle Zeiten zerrissen!Â«
+
+Lange anhaltender Applaus.
+
+Â»MitbÃ¼rger!Â« fuhr Pierrot fort, Â»wir mÃ¼ssen Clatou moralisch
+vernichten ...Â«
+
+Athemlose Spannung.
+
+Â»Es genÃ¼gt hinfÃ¼r nicht mehr, daÃ sich Gressinet eine Gemeinde +nennt+:
+wir mÃ¼ssen eine Gemeinde +werden+! Setzen wir Gut und Blut an die
+Erreichung dieses glorreichen Zieles!Â«
+
+Â»Hoch! hoch!Â« schrieen die Gressineter in donnerndem Chorus.
+
+Â»Patrioten! Suchen wir Clatou zu verdunkeln, zu Ã¼berflÃ¼geln, zu
+zermalmen! Clatou besitzt eine Schule mit zwei Elementarlehrern:
+stellen wir, dem Tyrannen Clamard zum Hohne, drei Elementarlehrer mit
+je zweihundert Franken Gehalt und freiem Holz an!Â«
+
+Â»UnterstÃ¼tzt! UnterstÃ¼tzt!Â« riefen drei oder vier der eifrigsten
+Vaterlandsfreunde. Â»Ich zeichne zehn Franken!Â« -- Â»Ich zwÃ¶lf!Â« -- Â»Ich
+fÃ¼nfundzwanzig!Â«
+
+Â»Aber nicht genug,Â« fuhr Pierrot fort, Â»daÃ wir im Punkte der
+Intelligenz die Clatounesen Ã¼berholen mÃ¼ssen: es gilt auch die
+municipalen Institute dergestalt zu entwickeln, daÃ man hÃ¶heren Ortes
+unsere Reife erkennt und, Herrn Clamard zum Trotz, unsere Berechtigung,
+als selbststÃ¤ndige Gemeinde aufzutreten, +amtlich sanctionirt!+Â«
+
+Â»Sehr wahr! HÃ¶rt, hÃ¶rt!Â«
+
+Â»BÃ¼rger! Zu den wichtigsten Errungenschaften eines municipalen
+Gemeinwesens gehÃ¶rt unstreitig der Besitz einer unabhÃ¤ngigen
+Feuerspritze! Schaffen wir eine Feuerspritze an!Â«
+
+Â»Hoch! hoch!Â« schrieen die begeisterten Gressineter. Â»Es lebe Jules
+Pierrot! Hoch! hoch!Â«
+
+Â»Aber eine Feuerspritze kostet ein Heidengeld!Â« bemerkte einer der
+Versammelten.
+
+Â»Das ist wahr!Â« versetzte ein Zweiter.
+
+Â»Sehr richtig!Â« murmelte ein Dritter.
+
+Â»Patrioten!Â« schrie Pierrot ... Â»Wo es die Ehre Gressinet's gilt,
+da ist keine Ausgabe unerschwinglich! Denkt euch Ã¼brigens nur einmal
+folgenden Fall! Die Clatounesen, von dem leidenschaftlichen Drange
+ihres Hasses getrieben, nahen uns eines schÃ¶nen Tages mit Fackeln und
+PechkrÃ¤nzen! Sie zÃ¼nden uns insgeheim das Haus Ã¼ber dem Kopfe an! ...
+BÃ¼rger! Was soll aus uns werden, wenn wir unter sothanen UmstÃ¤nden
+keine Feuerspritze besitzen?Â«
+
+Â»Er hat Recht! Wir sind es nicht nur unserer Ehre, sondern mehr noch
+unserer Sicherheit schuldig, nichts zu versÃ¤umen, was die schmachvollen
+PlÃ¤ne der Clatounesen vereiteln kann! ~Vae victis~, sagt der Lateiner!
+Schaffen wir eine Spritze an!Â«
+
+Es war Croquepeu, der Schulmeister, der durch diesen pathetischen
+Mahnruf die Versammelten elektrisirte und einen neuen Sturm des
+Beifalls entfesselte.
+
+Â»Ich bitte noch fÃ¼r einige Augenblicke um eure Aufmerksamkeit!Â«
+
+Â»Reden Sie, reden Sie! Ruhe! Jules Pierrot hat das Wort! Wollt ihr
+still sein dahinten? Reden Sie!Â«
+
+Â»Meine Freunde! Wir leben im neunzehnten Jahrhundert ...Â«
+
+Â»Sehr wahr! Bravo!Â«
+
+Â»Ruhe! Ruhe!Â«
+
+Â»Das neunzehnte Jahrhundert ist das Jahrhundert der Bildung, der
+Intelligenz, des allgemeinen Stimmrechts, der Ã¶ffentlichen Meinung! Was
+aber ist der bedeutsamste Hebel der Ã¶ffentlichen Meinung ...Â«
+
+Â»Die Weiber!Â« schrie im Hintergrund eine volltÃ¶nende BaÃstimme ...
+
+Â»Die Presse!Â« vollendete Jules Pierrot mit theatralischer WÃ¼rde. Â»Ja,
+meine MitbÃ¼rger, die Journalistik ist heutzutag' eine GroÃmacht. In
+Paris, unsrer heiligen Metropole, habe ich ihren EinfluÃ kennen und
+achten gelernt. MÃ¤nner von Gressinet! GrÃ¼nden wir eine Zeitung!Â«
+
+Lautlose Stille.
+
+Â»Aha, ein Wochenblatt,Â« meinte endlich Goguenard, der Weinwirth ...
+Â»Ich bin dabei, lieber Herr Jules!Â«
+
+Â»Ein Journal?Â« rief der KrÃ¤mer LÃ©on ... Â»Das wird amÃ¼sant. Ich mache
+mit, lieber Pierrot!Â«
+
+Â»GrÃ¼nden wir eine Zeitung!Â« sagte jetzt auch Croquepeu, indem er
+sich nach MÃ¶glichkeit in die Brust warf. Â»Clatou besitzt seit einem
+Jahre den âºClatouneser Beobachterâ¹! Schaffen wir ein Organ, das die
+schamlosen Verleumdungen dieses âºBeobachtersâ¹ energisch zurÃ¼ckweisen
+und der staunenden Welt zeigen kann, daÃ der alte glorreiche Sinn der
+Gressineter noch nicht ausgestorben ist, daÃ wir die Standarte der
+Wahrheit hochhalten, und die angestammten Rechte eines freien Volkes
+unbeugsam zu wahren wissen!Â«
+
+Die Versammlung applaudirte begeistert. Man schritt zur Abstimmung.
+SÃ¤mmtliche AntrÃ¤ge Pierrot's wurden mit groÃer MajoritÃ¤t angenommen.
+
+Goguenard, der Weinwirth, trat an die Spitze der Spritzencommission.
+
+LÃ©on, der KrÃ¤mer, erklÃ¤rte sich bereit, die Collecte fÃ¼r die
+Schulmeister zu leiten.
+
+Das zu grÃ¼ndende Journal wurde dem Antragsteller persÃ¶nlich Ã¼berlassen.
+
+Es sollte vorlÃ¤ufig dreimal monatlich erscheinen und in St. Quentin auf
+Gemeindekosten gedruckt werden.
+
+Man setzte schlieÃlich als Titel die geschmackvolle Bezeichnung: âºDer
+unverzagte Streiter von Gressinetâ¹ fest und verpflichtete den Redacteur
+Pierrot, in jeder Nummer eine eclatante Schandthat der Clatounesen dem
+Urtheile Europa's Preis zu geben.
+
+Hierauf erklÃ¤rte Jules die Versammlung fÃ¼r aufgehoben. Jean-Baptiste
+Grimmont, der Ãlteste im Rathe, umarmte den kÃ¼hnen JÃ¼ngling unter
+lautem Schluchzen, blickte zum Himmel auf und sprach:
+
+Â»Ich danke dir, Herr, daÃ du mich aufbehalten hast, diese Freude noch
+zu erleben! Ich werde jetzt, so du gebeutst, gern in die Grube fahren.Â«
+
+Jules Pierrot war sichtlich gerÃ¼hrt. Ein leises Zucken spielte wie
+Wetterleuchten um die sonst so mannhaften Lippen.
+
+Â»EhrwÃ¼rdiger Freund!Â« sagte er mit tremulirender Stimme ... Â»ich thue
+nur meine Pflicht! Nicht an mich dÃ¼rfen Sie sich wenden, wenn Sie
+Ihren GefÃ¼hlen Ausdruck verleihen wollen, sondern an das Volk, an die
+gesammte BÃ¼rgerschaft. Wir alle sind ja von dem gleichen Gedanken
+beseelt, der in den heiligen Worten gipfelt: VorwÃ¤rts mit Gott fÃ¼r
+unser geliebtes, glorreiches Gressinet!Â«
+
+
+Viertes Kapitel.
+
+Die Angelegenheiten der jungen Gemeinde nahmen von dieser Stunde an in
+der That einen Aufschwung, der den Segen des Himmels deutlich erkennen
+lieÃ.
+
+Die Schulmeister wurden engagirt, wiewohl man den vorgeschlagenen
+Gehalt nachtrÃ¤glich auf siebzig Franken jÃ¤hrlich verringerte.
+
+Die Feuerspritze wurde gekauft und in der Scheuer Grimmont's sorgfÃ¤ltig
+untergebracht.
+
+Die erste Nummer des âºUnverzagten Streiters von Gressinetâ¹ erschien
+in Klein-Octav und erfreute sich des allgemeinsten Beifalls. Der
+Leitartikel, von Croquepeu verfaÃt, behandelte das mehrfach erwÃ¤hnte
+Steinwurf-Attentat der Clatounesen unter dem pittoresken Titel: âºWie
+man in Clatou das Recht freier BÃ¼rger achtet!â¹; -- wÃ¤hrend Jules
+Pierrot unter der Rubrik: âºClatounesische LÃ¼genâ¹ nachzuweisen suchte,
+daÃ in ganz Clatou kein vorurtheilsloser Ehrenmann lebe, und daÃ
+insbesondere die Justiz viel zu wÃ¼nschen lasse.
+
+Bereits wenige Tage nach erfolgtem Ankauf der Feuerspritze begann
+Gressinet mit den Ãbungen.
+
+Es war ein feierlicher Moment, als die BÃ¼rgerschaft sich vor das
+roth und blau lackirte Instrument spannte und vor das Dorf auf die
+Â»GemeindewieseÂ« marschirte, wo das erste Probespritzen stattfinden
+sollte.
+
+Croquepeu dichtete aus AnlaÃ dieses bedeutsamen Ereignisses eine
+Cantate, deren Refrain also lautete:
+
+    Â»So fÃ¼rchten wir nie des Verrathes Brand:
+    wir spritzen fÃ¼r Freiheit und Vaterland.Â«
+
+Unter den weihevollen KlÃ¤ngen einer groÃen Harmonika wurden die ersten
+StÃ¶Ãe geleistet. Das Pumpwerk Ã¼bertraf an Promptheit und Energie alle
+Erwartungen. Diese Spritze zu bedienen, war eine Lust, eine ideale
+BeschÃ¤ftigung, die an das freie Schaffen des gottbegnadeten KÃ¼nstlers
+erinnerte.
+
+Die Gressineter waren just in der besten Arbeit, als unvorsichtiger
+Weise Herr Laloupon, der Pfarrer von Clatou, vorÃ¼berging. Alsbald
+erinnerte man sich des Tedeums, das dieser entartete Priester aus
+cynischer Freude Ã¼ber die MiÃhandlung des Gressinetischen RÃ¤chercorps'
+hatte anstimmen lassen. Eine diabolische Wuth bemÃ¤chtigte sich aller
+GemÃ¼ther. Croquepeu, der die Spitze des Schlauches hielt, wechselte mit
+Jules Pierrot einen Blick des VerstÃ¤ndnisses, wartete, bis der Pfarrer
+etwa zehn Meter entfernt war, und richtete dann den straffen Strahl mit
+seiner vollen Vehemenz auf die unteren RÃ¼ckenwirbel des Dahinwandelnden.
+
+Die Wirkung war colossal. Der Diener der Kirche wurde nicht nur
+vollstÃ¤ndig durchnÃ¤Ãt, sondern auch empfindlich contusionirt.
+ZornglÃ¼hend hinkte er nach Hause und sandte alsbald dem Maire ein
+langes Klageschreiben, worin er um Genugthuung fÃ¼r die erlittene
+Injurie bat, Gott zum Zeugen fÃ¼r die fortschreitende Entartung des
+Menschengeschlechts anrief, und die Gressineter mit den Philistern und
+anderen heidnischen VÃ¶lkerschaften verglich.
+
+Des anderen Tages schickte der BÃ¼rgermeister zwei berittene Gensdarmen
+aus und lieÃ die Feuerspritze im Namen des Gesetzes confisciren.
+
+Alle Reclamationen der Betroffenen blieben erfolglos. Der Maire
+gab zur Antwort, Gressinet gehÃ¶re zur Gemeinde Clatou, und sobald
+es in Gressinet brenne, werde er, Clamard, von Amtswegen fÃ¼r die
+erforderlichen LÃ¶schmaÃregeln Sorge tragen. Eine eigene Spritze sei
+subordinationswidrig.
+
+Der âºUnverzagte Streiter von Gressinetâ¹ brachte in seiner nÃ¤chsten
+Nummer einen Leitartikel, betitelt: âºWo soll das enden?â¹ Herr Clamard
+war in besagtem Aufsatze auf's Leidenschaftlichste angegriffen.
+Croquepeu schloÃ mit der bedeutsamen Wendung: Â»Und so werden wir,
+angesichts der obwaltenden VerhÃ¤ltnisse, hÃ¶heren Ortes das Recht
+suchen, das uns von maÃgebender Seite in einer so durchaus nicht nÃ¤her
+zu qualificirenden Weise verweigert wird.Â«
+
+Diese Drohung des âºUnverzagten Streiters von Gressinetâ¹ ward noch in
+derselben Woche verwirklicht.
+
+Jules Pierrot verfaÃte eine Adresse an den Sous-PrÃ©fet, die sich
+alsbald mit Unterschriften bedeckte.
+
+Das ebenso klar als taktvoll gehaltene Document hob die Wichtigkeit
+einer municipalen Entwickelung Gressinets aufs NachdrÃ¼cklichste hervor
+und betonte die hohe culturgeschichtliche Bedeutung gut organisirter
+LÃ¶sch-Apparate. Dann ging die Adresse auf den speciellen Fall ein und
+erhÃ¤rtete mit allen Mitteln der Logik, daÃ Herr Clamard, der Maire,
+sich eines Gewaltstreiches schuldig gemacht habe, um dessen geneigte
+Abstellung man um so dringender bitte, als bereits die Presse anfange,
+die Angelegenheit in unangenehmer Weise zu interpretiren. Die Ehre
+Gressinet's erheische eine schleunige und glÃ¤nzende Satisfaction.
+
+Leider hatte der UnterprÃ¤fect eine Nichte der SchwÃ¤gerin des
+angeheirateten Onkels des BÃ¼rgermeister zur Frau.
+
+Die Petition wurde zurÃ¼ckgewiesen.
+
+Man wandte sich nun mit einer neuen Beschwerde an den PrÃ¤fecten.
+
+Leider war der PrÃ¤fect ein Duzbruder des UnterprÃ¤fecten.
+
+So machten denn die Gressineter abermals Fiasco.
+
+Das journalistische Organ der jungen Gemeinde fÃ¼hrte indeÃ nicht
+umsonst den Titel: âºDer unverzagte Streiterâ¹! Die wackern BÃ¼rger
+lieÃen sich durch das mehrmalige Fehlschlagen ihrer Hoffnungen nicht
+abschrecken.
+
+Es war seit einiger Zeit das dunkle GerÃ¼cht nach Gressinet gedrungen,
+Napoleon III. und sein Gouvernement seien liberal geworden.
+
+Die Gressineter wuÃten zwar nicht genau, was sie sich unter diesem
+âºLiberalismusâ¹ zu denken hatten, aber eine instinctive Ahnung sagte
+ihnen, Liberalismus sei etwas Ãhnliches wie LiberalitÃ¤t; und da
+Ã¼berdies Jules Pierrot versicherte, in Paris sei jeder anstÃ¤ndige
+Mensch liberal und der Kaiser folge nur dem Gebote der Ã¶ffentlichen
+Meinung, wenn er sich gleichfalls zum Liberalismus bekehrt habe,
+so beschloÃ man, die Sache bis aufs ÃuÃerste zu treiben und in
+Angelegenheiten der Feuerspritze eine Adresse an Se. Excellenz den
+Minister des Innern aufzusetzen.
+
+Am 14. Juli 1870 ging also ein recommandirtes Sendschreiben nach
+Paris ab. Nachschriftlich war dem Document die Bitte um recht baldige
+Erledigung beigefÃ¼gt, da es ja leicht einmal in Gressinet brennen
+kÃ¶nne, und die BÃ¼rgerschaft alsdann in die grÃ¶Ãte Verlegenheit gerathen
+wÃ¼rde, wenn keine Spritze zur Hand sei.
+
+Die Patrioten warteten von Tag zu Tag, aber es kam keine Antwort. Wohl
+aber erschreckte sie eines schÃ¶nen Morgens die Nachricht, daÃ der groÃe
+Staatsmann Emil Ollivier an PreuÃen den Krieg erklÃ¤rt habe.
+
+Â»O weh,Â« sprach Croquepeu, als er am Abend nach dieser verhÃ¤ngnisvollen
+Botschaft mit Jules Pierrot in der Weinschenke des wÃ¼rdigen Goguenard
+saÃ, Â»da sieht's schlecht aus mit unserer Petition! Die Herren in Paris
+werden jetzt an grÃ¶Ãere Dinge zu denken haben, als an Gressinet und die
+Feuerspritze.Â«
+
+Â»Pah,Â« erwiderte Goguenard, Â»haben wir nicht ausdrÃ¼cklich um rasche
+Erledigung gebeten? Es ist ja doch wahrhaftig keine groÃe MÃ¼he, ein
+âºGenehmigtâ¹ an den Rand zu schreiben, und das Ding auf die Post zu
+geben.Â«
+
+Â»Goguenard, Goguenard, ich verstehe mich besser auf diese SpÃ¤Ãe. Unsere
+Spritze ist fÃ¼r immer zu den Todten geworfen.Â«
+
+Â»Unsinn! Wie lange wird denn der Krieg dauern! Die paar Kosacken nehmen
+wir auf den kleinen Finger. Nun, und wenn sie erst wieder Frieden
+gemacht haben und die rothen BÃ¤nder vertheilen, hernach wird auch
+unsere Spritze erledigt. Man muÃ die Geduld nicht verlieren. Nicht
+wahr, Herr Jules?Â«
+
+Â»Hm, hm,Â« versetzte Jules Pierrot, -- Â»ich glaube zwar auch, daÃ wir in
+hÃ¶chstens vierzehn Tagen PreuÃen so ziemlich erobern werden, aber mit
+dem FriedenschlieÃen geht's nicht immer so glatt, wie man denkt. Als
+ich in Paris war, da schlugen sich die Deutschen drÃ¼ben Ã¼ber dem Rhein.
+Nun, die Geschichte hat auch nicht lange gedauert, was die eigentliche
+KriegfÃ¼hrung betraf; aber bis alles wieder im Reinen war, ist doch
+manches Quart die Seine hinuntergeflossen. Ich meinestheils wÃ¤re der
+Ansicht, wir warteten gar nicht ab, was das Ministerium beschlieÃt,
+sondern holten uns die Spritze auf eigene Faust.Â«
+
+Â»Das ist ein Gedanke!Â« rief Croquepeu. Â»WeiÃ Gott, Jules, du hast
+mitunter prÃ¤chtige EinfÃ¤lle! Wo steht die Spritze?Â«
+
+Â»Im Hinterhofe des Maire,Â« versicherte Goguenard. Â»Aber schwer wird
+sie zu kriegen sein. Der Hof ist ummauert und vor der ThÃ¼r liegt ein
+SchloÃ, das seine vier Kilogramme wiegt. Nein, Kameraden, so wird
+nichts ausgerichtet!Â«
+
+Â»Nicht heute, nicht morgen, aber vielleicht in einigen Wochen,Â«
+erwiderte Jules mit WÃ¼rde. Â»Ich will euch was sagen. Es gilt hier vor
+allen Dingen, die richtige Gelegenheit auszukundschaften. Ich will
+spioniren.Â«
+
+Â»Aha!Â« schmunzelte Croquepeu mit einem verstÃ¤ndniÃreichen Augenzwinkern.
+
+Â»Goguenard,Â« sagte Jules, Â»da Sie uns eigentlich auf diese Idee
+gebracht haben, so sollen auch Sie erfahren, was ich bis jetzt nur
+meinem vertrautesten Freunde, dem hier anwesenden Schulmeister Henri
+JÃ©rÃ´me Croquepeu mitgetheilt habe ...Â«
+
+Der Weinwirth horchte auf.
+
+Â»Ja, Meister Goguenard,Â« fuhr Jules mit geheimnisvoller Betonung
+fort, -- Â»ich bin der Mann, der die VerhÃ¤ltnisse in dem Clamard'schen
+Hinterhofe grÃ¼ndlich in Augenschein nehmen und den geeigneten Moment
+der That mit ZuverlÃ¤ssigkeit berechnen kann. Sie sind discret,
+Goguenard ...Â«
+
+Der wackere BÃ¼rger legte zur Betheuerung seiner Verschwiegenheit die
+rechte Hand in die Herzgrube.
+
+Â»Nun denn ...Â« flÃ¼sterte Jules, Â»ich bin der Verlobte der schÃ¶nen
+Marion Leclerc ...Â«
+
+Â»Nicht mÃ¶glich!Â« rief Goguenard. Â»Sie, Herr Jules, der feurigste
+Patriot, der glÃ¼hendste Gegner der Clatounesen, der ... wie soll ich
+nur sagen ... Sie, der Chef der ganzen Agitation ...Â«
+
+Â»Liebster Freund,Â« versetzte Jules bedeutungsvoll, Â»es giebt
+Angelegenheiten, in denen die Parteiunterschiede aufhÃ¶ren. Nehmen sie
+z. B. einmal an, die PreuÃen trÃ¼gen Ã¼ber unsere glorreichen Heere den
+Sieg davon ...Â«
+
+Â»Pah!Â« lachte Goguenard.
+
+Â»Nun natÃ¼rlich, es ist nur eine Annahme! Aber gesetzt den Fall ... die
+feindlichen Armeen Ã¼berschwemmten unser Departement ... Glauben Sie,
+daÃ im Angesicht des gemeinsamen Gegners der Zwist der Gressineter
+und Clatounesen fortbestehn wÃ¼rde? Goguenard! Ich bin Gressineter mit
+Leib und Seele! Sie kennen meine Thaten, -- ich brauche daher keine
+Ã¼berflÃ¼ssigen Worte zu machen! Aber so unversÃ¶hnlich wir auch die
+verrÃ¤therischen Bewohner von Clatou hassen -- eins werden wir doch
+nie und nimmer vergessen: sie sind Franzosen! Gegen die Bajonnete der
+PreuÃen wÃ¼rden wir selbst die Clatounesen bis auf den letzten Mann
+vertheidigen. Habe ich Recht?Â«
+
+Â»Ohnstreitig!Â« rief Croquepeu begeistert, wÃ¤hrend er das volle Glas zum
+Mund fÃ¼hrte.
+
+Â»Wenn's die beiden Herrn sagen, dann muÃ es wohl wahr sein,Â« versetzte
+Goguenard nachdenklich ...
+
+Â»Nun, sehen Sie wohl: wie's im Krieg ist, so ist es auch mit der Liebe.
+Amor fragt nicht lange, ob sein Gegenstand diesseits oder jenseits der
+Gemarkung wohnt. Kurz und gut, Marion ist meine Braut ...Â«
+
+Â»Aber ihr Vormund?Â« fragte Goguenard mit hochgezogener Braue.
+
+Â»Das ist's eben!Â« erwiderte Jules. Â»Just mit RÃ¼cksicht auf den Herrn
+Maire habe ich diese Gelegenheit benutzt, um Sie in mein GeheimniÃ
+einzuweihen ...Â«
+
+Â»Wie so?Â«
+
+Â»HÃ¶ren Sie mich an. Ich schleiche mich jeden Mittwoch und jeden
+Sonnabend als Fuhrknecht verkleidet nach der Mairie und verplaudere
+ein StÃ¼ndchen mit meiner Herzallerliebsten. Der Alte ist dann nicht
+zu Hause, und Marion weiÃ es stets so einzurichten, daÃ mir auch
+im Treppenbau niemand begegnet. Von ihrem Fenster aus kann man
+den Hinterhof Ã¼berblicken. Wenn ich mich bis jetzt gehÃ¼tet habe,
+hinauszugaffen, so geschah dies aus leicht begreiflicher Vorsicht.
+Jetzt, da ich weiÃ, welche Interessen auf dem Spiele stehen, werde
+ich die Sache riskiren und die VerhÃ¤ltnisse auskundschaften. Die
+Feuerspritze von Gressinet wird gerettet werden, und Sie, Meister
+Goguenard, sollen die Lorbeeren des glorreichen Unternehmens unverkÃ¼rzt
+einheimsen.Â«
+
+Â»Mit VergnÃ¼gen! Ich bin zu allem bereit. Gressinet geht mir Ã¼ber Leib
+und Leben.Â«
+
+Â»O, es ist keine Gefahr vorhanden,Â« fuhr Jules fort. Â»Wenn Sie sich an
+die Spitze von vier, fÃ¼nf geriebenen Burschen stellen, so wird es Ihnen
+ein Leichtes sein, die Angelegenheit zum gewÃ¼nschten Ziele zu fÃ¼hren.
+Ich meinestheils verzichte auf jeden Ruhm. Sie, lieber Goguenard, Sie
+allein werden den Gressinetern das geraubte Kleinod zurÃ¼ckerobert
+haben.Â«
+
+Â»Das lÃ¤Ãt sich hÃ¶ren. Sie sind in der That ein groÃmÃ¼thiger Charakter,
+Herr Jules.Â«
+
+Â»Nicht wahr, Croquepeu,Â« sagte Pierrot eifrig, Â»die Perspektive,
+die ich da unserem trefflichen Weinwirth erÃ¶ffne, darf geradezu als
+glÃ¤nzend bezeichnet werden?Â«
+
+Â»Als kymmerisch, als phÃ¤nomenal,Â« bestÃ¤tigte der diensteifrige
+Schulmeister.
+
+Â»Das wÃ¤re denn abgemacht!Â« rief Jules. Â»Und nun, mein wackerer
+Goguenard, bitte ich Sie um einen Gegendienst!Â«
+
+Â»Reden Sie!Â«
+
+Â»Marion's Vormund, der Tyrann von Clatou, ist natÃ¼rlich +mir+ vor allen
+Gressinetern spinnefeind ...Â«
+
+Â»Das gereicht Ihnen nur zur Ehre, Herr Jules.Â«
+
+Â»Er wird mir das MÃ¤dchen nie und nimmer gutwillig zur Frau geben ...Â«
+
+Â»Das glaub' ich selbst.Â«
+
+Â»Aber Marion liebt mich, und mein EntschluÃ, sie zu heirathen, steht so
+felsenfest, daÃ kein Himmel und keine HÃ¶lle ihn erschÃ¼ttern werden.Â«
+
+Â»LÃ¶blich, sehr lÃ¶blich, Herr Jules.Â«
+
+Â»Da ich nun das Ziel meiner WÃ¼nsche auf dem gewÃ¶hnlichen Weg nicht
+erreichen kann, da eine friedliche Vereinbarung nicht mÃ¶glich ist --Â«
+
+Â»So machen Sie's wie der Kaiser und erklÃ¤ren den Krieg!Â«
+
+Â»So ist's! Ich werde Marion entfÃ¼hren.Â«
+
+Â»Alle Wetter!Â«
+
+Â»Ja, wÃ¼rdiger Weinverzapfer! Ich bin nicht gesonnen, demÃ¼thig
+den Nacken zu beugen und zu entsagen, wo der Kampf mir die Krone
+verschaffen kann. Marion hat bereits eine Ahnung von meinem Vorhaben
+... Ich zweifle nicht, daÃ sie mir folgen wird, -- folgen -- folgen --
+bis an das Ende der Welt.Â«
+
+Jules Pierrot streckte den rechten Arm aus, um anzudeuten, wie
+unendlich weit Marion ihm folgen wÃ¼rde. Goguenard nickte bedÃ¤chtig mit
+dem rÃ¶thlich schillernden Haupte, wÃ¤hrend Croquepeu von neuem das Glas
+zum Mund fÃ¼hrte.
+
+Â»Und was kann ich bei dieser Angelegenheit thun?Â« fragte der Weinwirth
+nach einer Pause.
+
+Â»HÃ¶ren Sie weiter,Â« versetzte Jules. Â»Ich werde also Marion aus dem
+Kerker der Mairie mit Gewalt befreien, und zwar in derselben Nacht, in
+welcher Sie, an der Spitze Ihrer Getreuen, die Feuerspritze erobern ...Â«
+
+Â»Und da soll ich das MÃ¤del wohl auf die Spritze setzen?Â« fragte
+Goguenard im Ton eines Mannes, dem eine bedeutsame Idee aufdÃ¤mmert.
+
+Â»Unsinn! Marion wird mit der Expedition, die Sie commandiren, nicht
+in die mindeste BerÃ¼hrung kommen. Ich besorge die EntfÃ¼hrung meiner
+Geliebten auf eigene Faust. Nein! Sie sollen dem reizenden Kind ein
+Versteck gewÃ¤hren. Ihre Frau ist klug und verschwiegen; es wird ihr ein
+Leichtes sein, die Kleine so lange zu verbergen, bis der BÃ¼rgermeister
+seine Einwilligung gegeben hat. Ist Marion erst in Sicherheit, dann
+werde ich Herrn Clamard schon auftrumpfen. Das Spiel ist dann so gut
+wie gewonnen.Â«
+
+Â»Mein Haus steht Ihnen und Ihrer Dame jederzeit zur VerfÃ¼gung,Â«
+erwiderte Goguenard, indem er Herrn Jules freundschaftlich die Hand
+reichte. Â»Sobald der Moment gekommen ist, winken Sie! Ich werde die
+Feuerspritze im Sturm nehmen und FrÃ¤ulein Marion so meisterhaft
+verstecken, daÃ alle HÃ¤scher des Tyrannen von Clatou nicht im Stande
+sein sollen, das Geheimnis zu entrÃ¤thseln.Â«
+
+Â»Ich danke Ihnen, Goguenard! Also es bleibt dabei! VorwÃ¤rts mit Gott
+fÃ¼r Freiheit und Gressinet!Â«
+
+Â»Und Marion Leclerc!Â« ergÃ¤nzte der Wirth mit einem vielsagenden
+LÃ¤cheln. Â»Erst freilich kommt der Patriotismus -- aber gleich dahinter
+folgt Amor! Nicht wahr, Verehrtester? Die Liebe glÃ¼ht fast ebenso heiÃ
+wie das PflichtgefÃ¼hl?Â«
+
+Â»Sie sind ein kleiner SchwerenÃ¶ther!Â« sagte Jules, indem er sich erhob.
+Â»Komm, Croquepeu, wir haben heute genug geleistet! LaÃ uns den Rest des
+Abends unserm Journal widmen!Â«
+
+Croquepeu leerte sein Glas, hing seinen Arm in den des Handlungsdieners
+und verlieÃ in bedenklichem Menuetschritt die Schenke des wÃ¼rdigen
+Goguenard, der artig sein KÃ¤ppchen lÃ¼ftete und seinen scheidenden
+GÃ¤sten und Gesinnungsgenossen ein lebhaftes Â»Auf Wiedersehn!Â« nachrief.
+
+
+FÃ¼nftes Kapitel.
+
+Mehr als zwei Monate waren verflossen. Der groÃe Tag von Sedan hatte
+das Ã¼bermÃ¼thige Frankreich belehrt, daÃ man nicht ungestraft mit
+dem GlÃ¼ck einer friedlichen Nation spielt. Unaufhaltsam drangen die
+siegreichen Heere der Deutschen vorwÃ¤rts. Paris, die Metropole,
+in deren SchooÃ das frevelhafte Unterfangen der KriegserklÃ¤rung
+herangereift war, Paris, die eigentliche Urheberin des fluchwÃ¼rdigen
+Verbrechens, war bereits von dem ehernen Ringe der Belagerung
+vollstÃ¤ndig umzingelt. Immer neue Heeresmassen wÃ¤lzten sich von Osten
+her Ã¼ber das unglÃ¼ckliche Land, das seinen Ãbermuth nun so furchtbar
+zu bÃ¼Ãen hatte. Fast jeder Tag brachte die Nachricht von einem neuen
+Erfolge der deutschen Waffen. Wo der Adler der Hohenzollern sich
+zeigte, da zerstoben die demoralisirten Schaaren der Gallier wie Spreu
+vor dem Winde und trugen die blasse Angst und das zitternde Entsetzen
+weiter in die Reihen ihrer zagenden BrÃ¼der. Ganz Frankreich befand
+sich in einem Zustande der Aufregung, der Wuth, der Verzweiflung,
+dessen dÃ¼stere FÃ¤rbung nur mit der Feder eines Dante nachgemalt werden
+kÃ¶nnte.
+
+Auch Gressinet fÃ¼hlte sich zum ersten Male als Mitglied eines groÃen
+gemeinsamen Vaterlandes und schrie mit Jules Favre: Â»Keinen FuÃ breit
+unseres Bodens! Keinen Stein unserer Festungen!Â« Der âºUnverzagte
+Streiter von Gressinetâ¹ beschÃ¤ftigte sich eifrig mit der Frage, was
+zu thun sei, wenn man die PreuÃen wieder Ã¼ber den Rhein getrieben
+habe, und verfocht die Ansicht, man mÃ¼sse sich mit der Annexion der
+bayerischen Pfalz begnÃ¼gen, da eine Eroberung preuÃischen Gebietes zu
+erneuten Kriegen AnlaÃ geben wÃ¼rde. Ja, Croquepeu ging schlieÃlich so
+weit, den Verzicht auf jede Grenz-Erweiterung zu empfehlen, und die
+Entrichtung einer KriegsentschÃ¤digung von acht Milliarden als diejenige
+Bedingung zu bezeichnen, deren ErfÃ¼llung den besiegten Barbaren am
+leichtesten fallen wÃ¼rde. Dem bekannten SprÃ¼chworte von den goldenen
+BrÃ¼cken zufolge, mÃ¼sse er als echter Patriot immer wieder auf diese
+acht Milliarden zurÃ¼ckkommen. Â»Frankreich,Â« so schloÃ Croquepeu eines
+Tags wÃ¶rtlich, Â»ist das Land der GroÃmuth ~par excellence~! Zeigen
+wir dem staunenden Europa, daÃ wir trotz der schmachvollen Ãbergriffe
+unserer Feinde diese unsere Nationaltugend nicht verlernt haben!Â«
+
+Bildeten indeÃ die kriegerischen Ereignisse einen hochwichtigen Faktor
+in den Materien des âºUnverzagten Streiters von Gressinetâ¹, so ward
+um dieser Ã¤uÃeren Angelegenheit willen das Innere des Gressineter
+Gemeinwesens keineswegs von der Tagesordnung verwiesen. Im Gegentheil.
+Die municipale Fehde mit Clatou wogte jetzt lebhafter denn je. Der
+âºUnverzagte Streiterâ¹ behauptete, es sei ein evidenter Mangel an
+Vaterlandsliebe, wenn der Maire sogar im Angesichte des Feindes
+sich weigere, die SelbststÃ¤ndigkeit Gressinets anzuerkennen und die
+Feuerspritze herauszugeben; -- wÃ¤hrend der âºClatouneser Beobachterâ¹
+die Emancipationsbestrebungen der Gressineter unter den obwaltenden
+VerhÃ¤ltnissen zwiefach hochverrÃ¤therisch und unpatriotisch fand und die
+Einwohner der Colonie als Â»Spione Bismarck'sÂ« verdÃ¤chtigte ...
+
+-- -- Jules Pierrot hatte bisher vergeblich auf eine gÃ¼nstige
+Gelegenheit zu der geplanten Doppel-Eroberung gelauert. Hundertmal
+fragte Goguenard, ob er noch nicht Â»marschirenÂ« kÃ¶nne, und hundertmal
+erwiderte Jules achselzuckend: Â»Noch nicht, aber bald!Â«
+
+Jetzt endlich schien der entscheidende Augenblick gekommen ...
+
+Es war am 29. September, Abends neun Uhr. Herr Clamard, der
+BÃ¼rgermeister, war in Amtsangelegenheiten nach St. Quentin gereist;
+sein Adjunkt lag an einem Bronchialkatarrh ernstlich darnieder; der
+Schreiber war bei dem Notar Brassou zur Kindtaufe geladen; und der
+Bureaudiener konnte als taub und altersschwach nicht in Betracht
+kommen. Die Haupt-PersÃ¶nlichkeit, die bis zur Stunde die PlÃ¤ne der
+Gressineter vereitelt hatte, Fanchon, die pflichttreue KÃ¶chin, war des
+Tags zuvor ihres Amtes entlassen worden. An ihrer Stelle figurirte
+jetzt eine alte BÃ¤uerin, Namens MarguÃ©rite, die sich vermittelst
+eines Hundert-SousstÃ¼cks Ã¼berreden lieÃ, die SchlÃ¼ssel zum Hinterhofe
+herauszugeben und die Expedition Goguenards gewÃ¤hren zu lassen.
+
+Die Glocken von Clatou hatten also, wie gesagt, die neunte Abendstunde
+verkÃ¼ndigt. Die Einwohnerschaft des StÃ¤dtchens dachte allmÃ¤hlich
+an's Schlafengehen. Die Nacht war dÃ¼ster und wolkig. Ãber der ganzen
+Landschaft lagerte es wie die Vorahnung bedeutsamer Ereignisse.
+
+Da traten aus der Weinschenke des BÃ¼rgers Goguenard sieben MÃ¤nner ins
+Freie.
+
+Sie trugen blaue Blousen und niedrige MÃ¼tzen mit kurzen Schildern
+aus grÃ¼n lackirtem Leder. Ihre ZÃ¼ge athmeten eine unverkennbare
+Entschlossenheit.
+
+Sie wandelten schweigend nach der Â»GemeindewieseÂ«. Dort angelangt
+machten sie Halt und schÃ¼ttelten sich, wie zur Erneuerung eines
+brÃ¼derlichen Bundes, die HÃ¤nde.
+
+Â»Patrioten,Â« sagte Jules Pierrot, Â»ich Ã¼berlasse euch jetzt dem
+Commando dieses trefflichen Weinwirths! Gressinet erwartet, daÃ
+Jedermann seine Pflicht thue!Â«
+
+Ein beifÃ¤lliges Murmeln flog durch die Reihen der Verschworenen.
+
+Â»Ich gehe voran,Â« fuhr Pierrot fort, Â»und sorge dafÃ¼r, daÃ ihr die
+Pforte offen findet. Nach gelungener That treffen wir uns wieder hier
+auf der Gemeindewiese!Â«
+
+Â»So sei es!Â« flÃ¼sterten die entschlossenen BlousenmÃ¤nner.
+
+Â»Also auf Wiedersehn!Â«
+
+Jules eilte hastig von dannen.
+
+Â»Es ist noch frÃ¼h,Â« sagte Goguenard, als der Handlungsdiener im Dunkel
+des Septembernebels verschwunden war. Â»Vor zehne dÃ¼rfte es kaum rathsam
+erscheinen, ans Werk zu gehen.Â«
+
+Â»Wenn ich mir eine Bemerkung erlauben darf,Â« versetzte Croquepeu, Â»so
+wÃ¼rde ich vorschlagen, die Sache auf Mitternacht zu verschieben. Unserm
+Pierrot wird bei seiner Marion die Zeit wohl nicht allzu lang werden,
+-- und Ã¼bertriebene Vorsicht ist stets besser als Leichtsinn.Â«
+
+Â»In der That,Â« meinte ein Anderer, Â»es wÃ¤re Ã¤uÃerst fatal, wenn wir
+vorzeitig entdeckt wÃ¼rden. Haben wir die Spritze nur einmal aus Clatou
+heraus, dann wollen wir schon dafÃ¼r sorgen, daÃ sie den Clatounesen
+nicht wiederum in die HÃ¤nde fÃ¤llt. Aber ein ungelegener Allarm, ehe die
+Eroberung vollbracht ist, -- und alles ist unwiderruflich verloren.
+Bedenkt, BrÃ¼der, was auf dem Spiele steht!Â«
+
+Nach langem Hin- und Herreden wurde dieser Antrag genehmigt. Da man
+indeÃ keine Lust verspÃ¼rte, die Geisterstunde unter freiem Himmel zu
+erwarten, so kehrte man in die Goguenard'sche Weinschenke zurÃ¼ck und
+becherte, bis die Kuckuksuhr Ã¼ber dem zinnbeschlagenen Ecktische elf
+rief. Dann begaben sich die Verschworenen in Goguenards PrivatgemÃ¤cher,
+um nicht die Aufmerksamkeit des von dem Clatouneser Maire besoldeten
+Polizeidieners zu erregen, und harrten daselbst unter begeisterten
+GesprÃ¤chen des ersehnten Glockenschlags.
+
+Endlich! Zu je zweien schlichen sie Ã¼ber die Schwelle und eilten dann
+gerÃ¤uschlos der Wiese zu ... Croquepeu hatte diesen Modus befÃ¼rwortet
+... Von der Wiese aus nahm Goguenard mit zwei handfesten Burschen
+die Richtung nach dem sÃ¼dlichen Thore von Clatou, wo die Mairie lag,
+wÃ¤hrend Croquepeu mit den Andern von Westen her operirte.
+
+Alles ging nach Wunsch. Die BÃ¼rgerschaft von Clatou lag ahnungslos in
+den Federn. Die StraÃen waren wie ausgestorben. Im Vorhofe der Mairie
+athmete keine Seele. Goguenard war mit den Seinen zuerst am Platze.
+Zwei Minuten spÃ¤ter kam Croquepeu. Die Pforte nach dem Hinterhofe
+stand offen. Die Verschworenen drangen ein, packten die roth und blau
+lackirte Feuerspritze mit einem halb unterdrÃ¼ckten Jubelruf bei der
+Deichsel und zogen sie langsam ins Freie. Nach kurzer Frist war das
+sÃ¼dliche Thor erreicht. Niemand hatte den kÃ¼hnen Griff der Gressineter
+bemerkt. Jetzt, im offenen Felde angelangt, setzte sich die Colonne in
+Trab. Etwa drei Minuten lang brauste die wilde Jagd durch die neblige
+DÃ¤mmerung dahin, -- unheimlich, gespenstisch, wie eine Schaar von
+ruh'losen Geistern. Dann machten sie Halt.
+
+Â»Triumph, Triumph!Â« jauchzte Croquepeu. Â»Nicht fÃ¼nfzig Franken nÃ¤hme
+ich fÃ¼r diese beseligende Wollust des SiegesbewuÃtseins!Â«
+
+Â»BÃ¼rger!Â« sagte Goguenard, Â»wir haben unsere Schuldigkeit gethan! Wir
+kÃ¶nnen stolz auf uns sein!Â«
+
+Â»Aber nun schafft die Beute in Sicherheit!Â« mahnte Croquepeu. Â»Die
+Geschichte kann schneller entdeckt werden, als wir uns trÃ¤umen lassen,
+und es wÃ¤re doch bitter ...Â«
+
+Â»Herr Schullehrer,Â« versetzte Goguenard mit Nachdruck, Â»jetzt, wo
+wir das Ding einmal haben, soll es uns eine Armee von Teufeln nicht
+wiederum aus den HÃ¤nden reiÃen! Uebrigens bin ich ganz Ihrer Ansicht,
+daÃ wir das kostbare Kleinod sofort nach dem verabredeten Versteck
+bringen. Hier auf der Gemeindewiese kÃ¶nnen wir die Spritze nicht
+lÃ¤nger stehen lassen. He, Leute, -- ihr Beiden da --, ihr kÃ¶nntet euch
+vorspannen und das Symbol unserer communalen SelbstÃ¤ndigkeit, wie der
+Herr Schullehrer sagt, hinÃ¼berfahren -- ihr wiÃt ja, wohin.Â«
+
+Die beiden Vaterlandsfreunde nickten, griffen zu und verschwanden mit
+der Feuerspritze von Gressinet hinter dem Buschwerk.
+
+Â»Aber wo bleibt unser Pierrot?Â« fragte Croquepeu, als das Knirschen der
+RÃ¤der in der Ferne verhallt war.
+
+Â»Hier ist er, ihr UnglÃ¼ckseligen!Â« erwiderte eine athemlose Stimme.
+
+Es war Jules selber, der querfeldein der Gemeindewiese zueilte.
+
+Nach wenigen Secunden stand er mitten unter den Verschworenen.
+
+Â»Nein! daÃ ich so was erleben muÃ! Goguenard, Weinwirth, wo haben
+Sie Ihre fÃ¼nf Sinne gehabt? Ich warte wie ein Narr eine, zwei, drei
+Stunden, aber kein Goguenard lÃ¤Ãt sich blicken!Â«
+
+Â»Sehr einfach ...Â« versetzte der Angeredete.
+
+Jules lieÃ ihn nicht zum Worte kommen.
+
+Â»Sehr einfach!Â« wiederholte er in gereiztem Crescendo. Â»Eine schÃ¶ne
+Einfachheit, die mir meinen ganzen Plan verpfuscht hat! Es ist
+unerhÃ¶rt!Â«
+
+Â»Aber so erlauben Sie doch ...Â«
+
+Â»Und du, Croquepeu! Wahrhaftig, ich habe dich fÃ¼r einen zuverlÃ¤ssigen
+Menschen gehalten! SchnÃ¶de Verblendung! Nichts ist diesem Jahrhundert
+mehr heilig! Wir leben in der Aera des Schwindels, des Betrugs und der
+Dummheit ...Â«
+
+Â»Aber was ist denn passirt? Die Spritze ist in sicherem Gewahrsam. Und
+wo hast du deine Marion?Â«
+
+Â»Satanischer Schulmeister, das ist es ja!Â« wetterte Jules im hÃ¶chsten
+Zorne. Â»Lautete unsere Verabredung nicht auf halb zehn? Solltet ihr
+nicht erst die Spritze holen? Wollte ich nicht alsbald mit Marion
+nachkommen?Â«
+
+Â»Nun, und? -- Ich wiederhole dir, die Spritze ist gerettet.Â«
+
+Â»Aber ihr habt mir durch eure himmelschreiende UnpÃ¼nktlichkeit
+das ganze Spiel verdorben! Warum in Teufels Namen kommt ihr nicht
+rechtzeitig? Alles war in schÃ¶nster Ordnung. Marion hatte Ja gesagt.
+Schluchzend lag sie in meinen Armen und schwur mir, sie werde mich bis
+ans Ende der Welt begleiten ...Â«
+
+Â»Nun, und ...?Â«
+
+Â»Nun, ich war selig und gewÃ¤rtigte in jedem Augenblick eurer Ankunft.
+Ich konnte doch nicht vorher durchgehen. Eine derartige Verwegenheit
+hÃ¤tte die Rettung der Feuerspritze compromittirt, denn die alte
+MarguÃ©rite war zwar mit der EntfÃ¼hrung dieses Instrumentes, nicht aber
+mit der ihrer jungen Gebieterin einverstanden ...Â«
+
+Â»Aber ich verstehe immer noch nicht.Â«
+
+Â»O menschliche BeschrÃ¤nktheit! WÃ¤ret ihr nun gleich zur Stelle gewesen,
+so wÃ¼rde Alles wie am SchnÃ¼rchen gegangen sein. Aber nein! Minute um
+Minute verrinnt. Ich horche: nichts! Ich lausche: nichts! Ich gucke:
+nichts! Absolut nichts! Nun, Marion konnte doch nicht von neun bis
+zwÃ¶lf unausgesetzt in meinen Armen liegen und schluchzen. Sie geht
+also nach dem nÃ¤chsten Fauteuil und nimmt Platz. Ich nehme auch Platz.
+Nun fÃ¤ngt mir das MÃ¤del an, zu Ã¼berlegen. Sie malt sich die Folgen
+ihrer Flucht immer lebhafter und bedenklicher aus. Sie blickt ernst
+und ernster ... âºWas fehlt dir, Marion?â¹ frag' ich besorgt. âºAch
+nichts, liebster Jules!â¹ stammelt sie verlegen und Ã¤ngstlich. Immer
+schweigsamer starrt sie in die Ecke ... Es schlÃ¤gt zehn ... Es schlÃ¤gt
+elf ... âºAch, Jules, ... mir ist so bange ...!â¹ âºWarum denn?â¹ -- âºAch,
+Jules, was wird der Onkel sagen?â¹ ... Und so ach-JÃ¼lt sie mir weiter,
+bis ich im Hof eure Tritte hÃ¶re ... âºAuf, Geliebte! Der Moment ist da!â¹
+ruf' ich in unterdrÃ¼cktem Jubeltone. Ja wohl! Hat sich was zu jubeln!
+âºAch Jules,â¹ sagt sie, âºach Gott, ach, ich getrau' mir's nicht ... Ach
+Jules, es ist SÃ¼nde! Ach, der Onkel bringt mich um ... Nein, nein, ich
+thu's nicht, ich thu's nicht!â¹ Vergeblich demonstrir' ich ihr vor,
+daÃ Liebe kein Verbrechen sei; daÃ es sich ja nur um einen listigen
+Schachzug handle, der uns die Partie gewinnen solle ... Sie bleibt bei
+ihrem âºNein, nein, ich thu's nicht!â¹ -- und damit Basta!Â«
+
+Â»O Weiber, Weiber!Â« rief Croquepeu pathetisch.
+
+Â»Ja, jetzt hast du gut Ã¼ber Weiber schimpfen, du pflichtvergessener
+Kinderfuchtler! Wer ist denn an der ganzen Geschichte Schuld? Ihr! Ihr!Â«
+
+Â»Aber wir dachten ...Â«
+
+Â»Ihr habt nichts zu denken! Ein Mann, ein Wort! Wer sich verabredet,
+der hat seinem Versprechen zu genÃ¼gen, sonst ist er nicht werth, BÃ¼rger
+von Gressinet zu sein.Â«
+
+Â»Nun, da hast du sie also sitzen lassen?Â« fragte der Schulmeister
+neugierig.
+
+Â»Sitzen lassen? Wie verstehst du das? Meiner Liebe thut das nicht
+Abbruch. Im Gegentheil! Ich weiÃ die Motive des MÃ¤dchens zu
+wÃ¼rdigen ...Â«
+
+Â»Aber sagen Sie einmal, Herr Jules,Â« rief jetzt einer der Umstehenden,
+Â»das ist ja das erste Wort, das wir hÃ¶ren! Was? Sie haben mit einer
+Clatouneserin zu schaffen?Â«
+
+Â»Ja, Kameraden. Hat Goguenard euch nicht heute Nachmittag in dieses
+GeheimniÃ eingeweiht? Ich autorisirte ihn.Â«
+
+Â»Ja, er hat uns davon erzÃ¤hlt, aber ich dachte, es wÃ¤re nur eine Finte,
+um uns desto eifriger auf's Gelingen erpicht zu machen. Nein, Herr
+Jules, -- eine Clatouneserin! Das ist stark fÃ¼r einen Patrioten.Â«
+
+Â»BÃ¼rger, Sie reden, wie Sie's verstehen! Aber vergeuden wir nicht die
+Zeit mit unnÃ¶thigem GeschwÃ¤tz! Macht, daÃ ihr heim kommt! Der Maire ist
+da!Â«
+
+Â»Was? wie? wo? ist's mÃ¶glich?Â« klang es im Chore.
+
+Â»Ja, nicht nur mÃ¶glich, sondern thatsÃ¤chlich. Ihr laÃt mich ja nicht
+ausreden. Aber wenden wir uns dem Dorfe zu. Der Tyrann kÃ¶nnte den Raub
+der Spritze noch in dieser Nacht entdecken ... Es ist besser, wir sind
+vorsichtig ...Â«
+
+Die Colonne setzte sich in Marsch.
+
+Â»Also,Â« fuhr Pierrot fort -- Â»ich will eben Marion noch einmal bei
+ihrer Liebe zu mir beschwÃ¶ren ... da Ã¶ffnete sich die ThÃ¼re, und herein
+tritt Herr Clamard, der BÃ¼rgermeister von Clatou!Â«
+
+Â»Ha! oh! ah!Â«
+
+Â»Ja wohl! der BÃ¼rgermeister! Ich glaube, der Schlag soll mich rÃ¼hren.
+Wie er mich erblickt, kreuzt er die Arme vor der Brust, runzelt die
+Stirne und fragt mit fÃ¼rchterlicher Stimme: âºWas thun Sie hier?â¹
+Ich stammle einige Worte der Erwiderung und platze endlich mit dem
+Bekenntnis heraus: âºIch liebe Marion Leclerc!â¹Â«
+
+Â»Welcher Muth! Dem das so ins Gesicht zu sagen!Â« unterbrach Croquepeu
+den Bericht seines Freundes.
+
+Â»Es fehlt mir +nie+ an Courage,Â« versetzte Jules Pierrot nachdrÃ¼cklich.
+
+Â»Das weiÃ der Himmel und Clatou!Â« rief Goguenard.
+
+Â»Nun,Â« fuhr Pierrot fort, Â»ich gesteh' also meine Neigung ... Da hÃ¤ttet
+ihr den WÃ¼therich sehn sollen! -- âºWas?â¹ ruft er ... âºSie lieben meine
+Nichte? Ei, so machen Sie doch so schnell als mÃ¶glich, daÃ Sie die
+Treppe hinunter kommen, sonst lass' ich Sie vor die ThÃ¼re werfen, daÃ
+Ihnen alle Knochen im Leibe knacken!â¹Â«
+
+Â»Im Leibe knacken!Â« wiederholte Goguenard. Â»Das ist eine Injurie, wie
+sie im Buche steht. Sie mÃ¼ssen den BÃ¼rgermeister belangen. Unter vier
+Wochen darf er nicht wegkommen.Â«
+
+Â»Eine Injurie!Â« versetzte Pierrot eifrig. Â»Das hab' ich auch gesagt.
+âºHerr Maire,â¹ sagte ich, âºSie reden da in einem Tone ...â¹ -- âºWas?â¹
+schreit er, âºich rede in einem Tone ...? Marion, du hast's gehÃ¶rt, der
+Spitzbube sagt, ich rede in einem Tone!â¹ -- âºAber Herr Maire!â¹ rufe
+ich, âºIhre Nichte erwiedert meine Liebe.â¹ -- Umsonst! -- âºHinaus!â¹
+donnert er in hÃ¶chster EntrÃ¼stung. âºEntweihen Sie nicht dieses Haus
+durch Ihre unsaubere Gegenwart! Nie werde ich meine Marion an einen
+Gressineter wegwerfen; lieber stecke ich sie in's Kloster! Hinaus,
+wiederhole ich, oder ich lasse Sie arretiren!â¹Â«
+
+Â»So eine UnverschÃ¤mtheit!Â« bemerkte Goguenard heftig.
+
+Â»Hat der Mensch denn kein Herz im Leibe?Â« seufzte Croquepeu. Â»Einen
+Liebenden so vor der Geliebten zu verunglimpfen!Â«
+
+Â»Das ist jetzt schon das dritte Mal!Â« sagte Jules, indem er die Faust
+ballte. Â»Erst die Steinwurf-Affaire, dann der Schlossergeselle, und
+jetzt der BÃ¼rgermeister in eigenster Person! Aber warte, verdammtes
+Nest! Rache!Â«
+
+Â»Und was geschah weiter?Â« fragte Goguenard.
+
+Â»Nun, was sollte ich thun? âºHerr Maire,â¹ sagte ich entschlossen, âºhÃ¶ren
+Sie mich an! Wenn Sie mir in dieser unerhÃ¶rten Manier auftrumpfen und
+mir in Gegenwart des Wesens, das ich mehr liebe, als Licht und Leben,
+so schroff die ThÃ¼r weisen, und Ã¼berhaupt in jeder Beziehung meine Ehre
+beleidigen, -- wissen Sie was, Herr Maire, was ich dann thue? Dann
+Ã¼berlass' ich Sie Ihrem Gewissen! Leben Sie wohl, Herr Maire!â¹Â«
+
+Â»Nun, und?Â«
+
+Â»Und dann ging ich.Â«
+
+Â»Armer Jules,Â« sagte Croquepeu. Â»Aber du hast's ihm doch wenigstens
+tÃ¼chtig heimgezahlt.Â«
+
+Â»Nicht wahr?Â«
+
+Â»GrÃ¼ndlich, auf Ehre! Leider wird dir das wenig helfen. Ich fÃ¼rchte, du
+muÃt deine Flamme aufgeben.Â«
+
+Jules seufzte.
+
+Â»Aufgeben, Croquepeu? Geh, du hast nie geliebt! Ich gestehe dir zwar,
+daÃ ich nicht mehr viel hoffe, -- aber aufgeben? Nein, Croquepeu! So
+lange ein Pulsschlag ...Â«
+
+Sie waren in Gressinet angelangt. Die Patrioten schÃ¼ttelten sich die
+HÃ¤nde, um sich zu trennen.
+
+Â»Jules,Â« sagte der Schulmeister, Â»nicht wahr, du verzeihst uns, daÃ wir
+dir, ohne es zu wollen, einen Strich durch die Rechnung gemacht haben?Â«
+
+Â»BÃ¼rger,Â« versetzte Jules, indem er die Rechte ausstreckte, Â»ich hege
+keinen Groll! So schwer ihr mich auch geschÃ¤digt habt, -- ich vergebe
+euch!Â«
+
+Und somit eilte er um die Ecke.
+
+
+Sechstes Kapitel.
+
+Des andern Tages las man an allen Mauern Clatou's und Gressinet's
+folgendes Manifest:
+
+
+        Â»+Einwohner!+
+
+Â»Ein schamloser Diebstahl ist in der Nacht von gestern auf heute
+innerhalb eures Weichbildes verÃ¼bt worden. Die s. Z. den Gressineter
+Insurgenten confiscirte Feuerspritze wurde, unter gewaltsamer
+Erbrechung der Pforten, aus dem Hinterhofe der Mairie entfÃ¼hrt, ohne
+daÃ es bis jetzt gelungen wÃ¤re, der ruchlosen ThÃ¤ter habhaft zu werden.
+
+Â»Einwohner der Gemeinde Clatou-Gressinet! Dieses unerhÃ¶rte Attentat
+auf die Gesellschaft bildet einen unauslÃ¶schlichen Schandfleck auf dem
+Ehrenschilde unserer geliebten Vaterstadt! Ich fordere daher alle guten
+BÃ¼rger auf, das Ihrige zur Entlarvung der MissethÃ¤ter beizutragen. In
+einem Augenblicke, wo Frankreich von einer PrÃ¼fung heimgesucht wird,
+wie sie in den Annalen unserer glorreichen Geschichte ohne Beispiel
+sein dÃ¼rfte, erscheint ein Verbrechen wie das vorliegende doppelt
+verwerflich. Soll dereinst die Chronik berichten, Clatou-Gressinet habe
+sich die durch die feindlichen Siege hervorgerufene Verwirrung zu Nutz
+gemacht, um dem Gesetze Hohn zu sprechen? Einwohner! Patrioten! Die
+Augen von ganz Europa sind auf euch gerichtet! Duldet nicht, daÃ man
+euren guten Namen ungestraft der Verachtung aller civilisirten Nationen
+Preis gebe! Frankreich ist, so tief es auch in diesem Augenblicke
+darniederliegt, das Land der Wahrheit, der Gerechtigkeit und der echten
+BÃ¼rgertugend. Thut das Eurige, um diesen Ruf aufrecht zu erhalten!
+
+Â»Der Weinwirth Goguenard, den der dringende Verdacht trifft, um das
+Attentat zu wissen, ist bereits in Haft genommen. Die unterzeichnete
+BehÃ¶rde sieht weiteren EnthÃ¼llungen von zehn bis vier Uhr im Bureau der
+BÃ¼rgermeisterei entgegen.
+
+        Der Maire von Clatou-Gressinet.
+            C. Clamard. â *
+        FÃ¼r die Ausfertigung: Coquerel, Adjunkt.Â«
+
+Die Clatounesen schÃ¤umten vor Wuth. Der desselbigen Abends erscheinende
+âºBeobachterâ¹ verlangte im Namen Frankreichs eine Â»exemplarische
+ZÃ¼chtigung dieser entarteten SÃ¶hne des VaterlandesÂ« und lieÃ ziemlich
+unverblÃ¼mt durch die Zeilen blicken, +wen+ er nach so mannigfachen
+Antecedentien fÃ¼r schuldig erachten mÃ¼sse ...
+
+Herr Clamard versÃ¤umte indessen nichts, was die aufgeregte Ã¶ffentliche
+Meinung beruhigen konnte. Schon in aller FrÃ¼he hatte er, wie sein
+Manifest besagte, den Weinwirth Goguenard verhaften lassen. Seine
+zweite MaÃnahme bezog sich auf den âºUnverzagten Streiter von
+Gressinetâ¹, der bereits vor mehreren Wochen unter dem Titel: Â»Wie
+lÃ¶schen wir?Â« einen hÃ¶chst bedenklichen Artikel gebracht hatte. Damals
+war jener Aufsatz nicht ernstlich beachtet worden: jetzt gewann er
+angesichts des heimtÃ¼ckischen Attentats eine sehr compromittirende
+FÃ¤rbung. Herr Clamard suspendirte den âºUnverzagten Streiterâ¹ von
+Amtswegen, belegte das redactionelle Material -- eine Schreibmappe,
+eine Scheere, ein TintenfaÃ, vier Hefte Conceptpapier, drei
+Stahlfedern, vier GÃ¤nsekiele und ein zweiklingiges Federmesser -- mit
+Beschlag und beauftragte die competenten BehÃ¶rden mit der Einleitung
+eines PreÃprocesses.
+
+Nach Erledigung dieser von dem Publikum mit grÃ¶Ãter Befriedigung
+aufgenommenen PrÃ¤liminarien ordnete Herr Clamard eine regelrechte
+Haussuchung bei sÃ¤mmtlichen BÃ¼rgern von Gressinet an.
+
+Â»Die Spritze soll und muÃ wiedergefunden werden!Â« sprach er zu seinen
+Leuten ... Â»Bedenkt, daÃ nicht nur die Ehre Clatou's, sondern auch die
+WÃ¼rde meines Amts auf dem Spiele steht! Ich werde Denjenigen, der mir
+die Spritze wiederbringt, zum Kreuz der Ehrenlegion vorschlagen.Â«
+
+Die Leute gingen und suchten. Sie kehrten ganz Gressinet um und um.
+Jede Schublade wurde aufgezogen; keine Rocktasche blieb undurchstÃ¶bert;
+unter jede Bettlade ward geschnÃ¼ffelt: umsonst! Die Spritze war
+nirgends aufzutreiben.
+
+Herr Clamard erlieÃ ein erneutes Manifest. Er sicherte Demjenigen, der
+Ã¼ber den Verbleib des vermiÃten Instruments irgend welche Anhaltspunkte
+zu geben vermÃ¶chte, eine Belohnung von 100 Francs zu. Aber unter den
+Patrioten Gressinet's fand sich kein VerrÃ¤ther. Die Spritze war und
+blieb verschwunden wie eine Stecknadel.
+
+Was half es dem Herrn BÃ¼rgermeister, daÃ Jules Pierrot und Croquepeu
+wegen Aufreizung zu einer verbrecherischen Handlung je vierzehn Tage
+ins dunkle VerlieÃ des stÃ¤dtischen Kerkers geworfen wurden?
+
+Was half es, daÃ der âºUnverzagte Streiterâ¹ verstummt war?
+
+Die Spritze war fort, und aller officieller und officiÃ¶ser Zorn des
+Pascha's war nicht im Stande, sie wieder herbeizuschaffen.
+
+
+Siebentes Kapitel.
+
+Wochen und Monate verstrichen. Der kÃ¼hne Dictator Gambetta --
+getreu seinem Grundsatze, lieber sein Vaterland zu ruiniren, als
+die erlittenen Niederlagen einzugestehen -- hatte den Krieg gegen
+die siegreichen deutschen Heere mit ebenso wenig GlÃ¼ck als Verstand
+fortgesetzt. In der NÃ¤he von St. Quentin stand der General Faidherbe an
+der Spitze der sogenannten Nord-Armee den kampferprobten Truppen des
+General GÃ¶ben gegenÃ¼ber. Das ganze Departement, Clatou und Gressinet
+nicht ausgenommen, zitterte und bebte; denn Jedermann fÃ¼hlte, daÃ es
+binnen kÃ¼rzester Frist zu einem entscheidenden Schlag kommen muÃte,
+und Frankreich hatte bereits zu oft die Wucht der deutschen Hiebe
+empfunden, als daÃ die siegesgewissen Phrasen der Delegation und ihrer
+Feldherren ernstlich hatten verfangen kÃ¶nnen.
+
+Eine klare, frostige Winternacht breitete ihre sternbeglÃ¤nzten Fittiche
+Ã¼ber den Erdball. Clatou und Gressinet hatten im Arme des Traumgottes
+ihre Zwistigkeiten und das UnglÃ¼ck ihres einst so Ã¼bermÃ¼thigen
+Vaterlandes ziemlich vergessen. Nur zuweilen fuhr ein Clatounese
+jÃ¤hlings zusammen und stammelte schlaftrunken die heroischen Worte:
+Â»Keinen Stein unserer Festungen!Â« Nur zuweilen entschlÃ¼pfte einem
+Gressineter der selbstzufriedene Ausruf: Â»Sie ist gerettet!Â«
+
+Der Mond schien hell; die Eiszapfen des stÃ¤dtischen Brunnens flimmerten
+feenhaft; breit und leer lagen die hartgefrorenen StraÃen, und an den
+Fensterscheiben malte die KÃ¤lte bereits in undurchsichtigen Schichten
+ihre phantastischen Blumen und Arabesken.
+
+Vom Thurme Clatou's schlug es drei ... Da horch! Klang das nicht aus
+der Ferne wie das Grollen eines herannahenden Gewitters? Horch! Wieder
+und wieder erneut sich der dumpfe, unheimliche Schall; immer nÃ¤her und
+nÃ¤her wÃ¤lzt sich das seltsame DrÃ¶hnen und Donnern!
+
+Jetzt wird es in Clatou lebendig. Allenthalben blitzt Kerzenschein
+durch die eisbedeckten Scheiben. Hie und da Ã¶ffnet sich ein Fenster,
+und lange, weiÃgekleidete Gestalten in wallenden ZipfelmÃ¼tzen strecken
+Ã¤ngstlich schnuppernd die Nasen ins Freie. Man klappert vor Frost und
+Entsetzen. Wilde FlÃ¼che auf Ollivier und Napoleon III. mischen sich mit
+dem Schreckensrufe: Â»Die PreuÃen!Â«
+
+Nach zehn Minuten ist die ganze Gemeinde Clatou auf den Beinen. Die
+Weiber stÃ¼rzen mit fliegenden Haaren und gerungenen HÃ¤nden auf die
+StraÃe. Die MÃ¤nner stehen stirnrunzelnd vor den HausthÃ¼ren und gaffen
+in die mondhelle Nacht hinein. Jetzt naht der WÃ¤chter und blÃ¤st Alarm.
+Der KÃ¼ster eilt nach der Kirche, um die Glocken zu lÃ¤uten. Bleich
+wie der Tod tritt der Herr Maire auf den Balkon seines âºPalastesâ¹
+und starrt hinunter in das rath- und trostlose GewÃ¼hl. Zwei der
+beherztesten Patrioten eilen vor das sÃ¼dliche Thor, um die Situation
+auszukundschaften.
+
+In Gressinet hat sich unterdessen die gleiche ComÃ¶die aufgespielt.
+Jules Pierrot und Croquepeu rennen in voller Nationalgarde-Uniform
+durch die StraÃen und rufen die BÃ¼rger nach der Scheune des alten
+Grimmont. Die Weiber schreien ganz in derselben Tonart wie die
+Clatouneserinnen, und die FamilienvÃ¤ter fluchen noch lauter als ihre
+Collegen in der Mutterstadt. Auch Gressinet sendet Kundschafter aus.
+
+Inzwischen kommt das Gefecht nÃ¤her und nÃ¤her. Es ist eine versprengte
+Abtheilung franzÃ¶sischer Truppen, die von einigen deutschen Bataillonen
+verfolgt und mit jeder Minute mehr in die Enge getrieben wird.
+Jetzt treffen die ersten FlÃ¼chtlinge in Clatou ein. Sie bringen die
+Schreckensnachricht, daÃ gestern eine groÃe Schlacht stattgefunden,
+die General Faidherbe verloren habe. Kaum hat man ihnen etwas Speise
+und Trank gereicht, als auch schon die ersten feindlichen Granaten
+aufs StraÃenpflaster einschlagen. Alles rennt, rettet und flÃ¼chtet.
+Der BÃ¼rgermeister verkriecht sich in den untersten Keller der Mairie;
+das VerlieÃ, in welchem der arme Goguenard noch immer von Amtswegen
+schmachtet, wird erbrochen, denn es ist bombenfest. Zehn, zwanzig,
+dreiÃig BÃ¼rger leisten mit einem Mal dem erstaunten Weinwirth
+Gesellschaft. Goguenard, nicht faul, benutzt die Gelegenheit zur Flucht
+und langt athemlos in Gressinet an, wo er zwar freundlich, aber ohne
+Enthusiasmus empfangen wird. Die Angst lÃ¤hmt alle anderen Empfindungen.
+
+Zitternd lauschen die Patrioten aus ihren Verstecken dem stets
+wachsenden SchlachtlÃ¤rm. Die ganze Schaar der flÃ¼chtigen Franzosen
+hat sich auf Clatou geworfen. Der Feind Ã¼berschÃ¼ttet die Stadt mit
+einem furchtbaren Hagel von Projektilen. Die Franzosen suchen sich zu
+verschanzen: ein eitles Beginnen. Nach Verlauf einer halben Stunde
+sind sie zum westlichen Thore hinausgeworfen. Mit Hurrah dringen die
+PreuÃen nach. Die Soldaten Gambetta's erkennen ihr Schicksal ... In
+BÃ©ricourt, eine Stunde westwÃ¤rts von Gressinet, werden sie umzingelt.
+Sie capituliren.
+
+Clatou athmet auf. Der Kampf ist vorÃ¼bergebraust. Aber, o Entsetzen!
+Welcher Anblick bietet sich der erschÃ¼tterten BÃ¼rgerschaft, als sie
+sich endlich aus den Kellern und VerlieÃen hervorwagt! Clatou brennt!
+In der Mairie, im Spritzenhause und an drei anderen Stellen haben die
+feindlichen Granaten gezÃ¼ndet. Sprachlos begaffen die Patrioten das
+drohende und immer weiter um sich greifende Unheil. Keiner rÃ¼hrt sich,
+keiner legt Hand an, um der Flammen Herr zu werden ...
+
+Â»BÃ¼rger!Â« ruft endlich Herr Clamard, der sich in der Mitte des
+Marktplatzes auf einen Stuhl gestellt hat, -- Â»BÃ¼rger! Ihr habt soeben
+einer drÃ¤uenden Gefahr mit einem Muthe, den die Geschichte anerkennen
+wird, ins Auge geschaut! Auf! LaÃt uns auch angesichts dieser noch
+schwereren Heimsuchung nicht verzagen! An die Spritzen!Â«
+
+Â»Das Spritzenhaus brennt,Â« erwidern die BÃ¼rger in zitternder
+Herzensangst.
+
+Â»An die Spritzen, sage ich, im Namen des Gesetzes!Â«
+
+Einige der Beherztesten eilen nach dem Spritzenhause. Wehklagend kehren
+sie zurÃ¼ck.
+
+Â»Die Spritzen liegen beide in TrÃ¼mmern!Â« rufen sie schon von Weitem.
+Â»Die Granaten haben alles kurz und klein geschlagen. Wir sind verloren.Â«
+
+Â»Man lÃ¤ute Sturm!Â« ruft Herr Clamard im Tone der hÃ¶chsten Verzweiflung
+... Â»Gott wird uns nicht verlassen, Patrioten!Â«
+
+Â»Wenn er nur lÃ¶schen wollte! Nur Einen ordentlichen Wolkenbruch! Aber
+bei dieser KÃ¤lte kann selbst der liebe Gott nicht regnen lassen. O
+heilige Jungfrau, -- wie sind wir geschlagen!Â«
+
+Da rasselt etwas Ã¼ber das StraÃenpflaster. Alles blickt auf. Ein Hurrah
+schallt den Angstbeklommenen entgegen. Â»Es lebe Frankreich!Â« tÃ¶nt es
+von zwanzig vaterlÃ¤ndisch gesinnten Lippen.
+
+... Hatte Jules Pierrot nicht einst zu Croquepeu gesagt: Â»Den PreuÃen
+gegenÃ¼ber sind wir alle Franzosen, alle SÃ¶hne einer groÃen, gemeinsamen
+Mutter!Â« --?
+
+Die Gressineter bewiesen jetzt durch die That, daÃ dieses erhebende
+Wort ihres StimmfÃ¼hrers keine gehaltlose Phrase war.
+
+Â»Die Feuerspritze von Gressinet!Â« jauchzten die Clatounesen ... Â»Rasch,
+rasch, ihr Wackeren, eh' es zu spÃ¤t wird!Â«
+
+MajestÃ¤tisch rollte die roth und blau lackirte Feuerspritze vor die
+Mairie. Im Nu war Wasser in HÃ¼lle und FÃ¼lle zur Hand. Die Gressineter
+hatten nicht umsonst den Pfarrer von Clatou zum Ziel ihres Strahles
+genommen! Mit derselben Accuratesse, die damals den Diener der Kirche
+verunglimpfte, richteten sie nun den rettenden Schlauch in die
+Flammen. Ha! wie zischte und knirschte das wÃ¼thende Element unter
+den gewaltigen Fluthen des rastlosen SprÃ¼hrohres! Wie prasselte das
+siegreiche NaÃ in die lodernden Sparren des Dachstuhls! Eimer um Eimer
+verschwand in dem Ã¶lgestrichenen Bauch der gebenedeiten Maschine, und
+Eimer um Eimer entlud sich in die immer schwÃ¤cher werdende Glut. Ganz
+Clatou bildete eine einzige groÃe Kette, die sich alle mÃ¶glichen und
+unmÃ¶glichen GefÃ¤Ãe von Hand zu Hand reichte ... Nach Verlauf einer
+Viertelstunde war die Mairie und ein daranstoÃendes Wohnhaus -- die am
+meisten gefÃ¤hrdeten Baulichkeiten des schwer geprÃ¼ften StÃ¤dtchens --
+glÃ¼cklich gerettet.
+
+Inzwischen hatte das Feuer freilich an den Ã¼brigen Punkten um sich
+gegriffen, aber das Schwierigste schien Ã¼berwunden ... An dem isolirt
+stehenden Spritzenhause war wenig gelegen; die beiden PrivathÃ¤user
+stieÃen dicht aneinander und konnten abwechselnd mit erfrischenden
+GÃ¼ssen bedacht werden. Ãberdies traf jetzt aus einem der benachbarten
+DÃ¶rfer Hilfe ein. Nach kurzer Frist arbeitete eine zweite Pumpe an der
+Seite der roth und blau lackirten Gressineterin, und ehe der metallene
+Mund der Glocken die sechste Morgenstunde verkÃ¼ndete, beschrÃ¤nkte
+sich der Brand auf einige qualmende Scheiter, die man vermittelst
+der stÃ¤dtischen Feuerhaken vom Firste eines der betroffenen HÃ¤user
+heruntergerissen hatte. Der angerichtete Schaden belief sich auf
+eine verhÃ¤ltnismÃ¤Ãig unbedeutende Summe: Clatou konnte mit seinen
+SchutzgÃ¶ttern zufrieden sein.
+
+Als die Spritze von Gressinet ihren letzten Strahl entsandt hatte, als
+Jules Pierrot, vor Eifer und Anstrengung glÃ¼hend, sein Taschentuch zog,
+um sich den SchweiÃ von der Stirn zu wischen, da trat Herr Clamard, der
+Maire, auf ihn zu, umarmte ihn im Angesicht des versammelten Volkes und
+sprach also:
+
+Â»BÃ¼rger der Gemeinde Clatou! BÃ¼rger der Gemeinde Gressinet! LaÃt uns
+alle Streitigkeiten, die uns bisher trennten, in diesem erhebenden
+Augenblicke zu Grabe tragen! Ihr, wackere Gressineter, habt Anspruch
+auf unseren wÃ¤rmsten, thatkrÃ¤ftigsten Dank. Ich erklÃ¤re euch hiermit
+feierlichst, daÃ ich mich an geeigneter Stelle verwenden werde, um eure
+communale SelbstÃ¤ndigkeit dauernd und in allen Punkten zu begrÃ¼nden.
+Ihr seid meiner vÃ¤terlichen Obhut entwachsen. Gut denn! Wenn ihr
+nicht lÃ¤nger meine Kinder sein kÃ¶nnt, so laÃt uns treue Freunde und
+engverbundene Nachbarn sein!Â«
+
+Donnernder Applaus. Die Gressineter sanken sich unter ThrÃ¤nen der
+RÃ¼hrung in die Arme und riefen: Â»Es lebe der Maire von Clatou! Es lebe
+Gressinet!Â«
+
+Â»BÃ¼rger!Â« fuhr der Maire fort, Â»es ist Sitte, die VersÃ¶hnung zweier
+VÃ¶lkerschaften durch das Weben zarter Privatbande so zu sagen
+symbolisch zu versinnlichen. BÃ¼rger! Seht diesen entschlossenen,
+charakterfesten, patriotischen jungen Mann! Ich bin Herrn Jules Pierrot
+in mehr als einer Beziehung eine Genugthuung schuldig. He, Marion, wo
+steckst du?Â«
+
+Marion trat vor. Ein zierliches, pelzverbrÃ¤mtes MÃ¤ntelchen umschloÃ
+die anmuthig-schlanke Gestalt mit vollendeter Grazie. Die RÃ¶the der
+jungfrÃ¤ulichen Verwirrung lieh der ganzen Erscheinung etwas BerÃ¼ckendes.
+
+Â»BÃ¼rger!Â« rief Monsieur Clamard mit immer steigendem Pathos, indem
+er mit der Linken die Hand seiner Nichte, mit der Rechten die des
+hochbeseligten Jules ergriff ... Â»BÃ¼rger! Die jungen Leute hier lieben
+sich ...Â«
+
+Â»Ah!Â« klang es im Kreis der erstaunten HÃ¶rer.
+
+Â»Seit lange verbindet sie eine ebenso innige, als tugendhafte Neigung
+... Wohlan, meine Kinder, im Namen des Gesetzes, ich verlobe euch!Â«
+
+Jules schwamm in Ã¼berschwÃ¤nglichen Wonnefluten. Marion reichte ihm die
+Rechte und flÃ¼sterte ihm bebend vor GlÃ¼ck und EntzÃ¼cken die Worte ins
+Ohr:
+
+Â»Nicht wahr, Jules, ich hatte doch Recht, als ich nicht mit dir
+durchgehen wollte? Ist's nicht so besser, mein Geliebter?Â«
+
+Jules Pierrot antwortete nicht. Sein Herz war voll zum Zerspringen.
+
+Der BÃ¼rgermeister hatte indessen noch nicht geendet.
+
+Â»Es versteht sich von selbst, meine wackeren Gressineter,Â« sagte er
+nachdrÃ¼cklich, -- Â»daÃ diese ruhmreiche Feuerspritze von jetzt ab euer
+unbestrittenes, rechtsgÃ¼ltiges Eigenthum bleibt. Wir unsererseits
+werden Sorge tragen, daÃ unsere zerstÃ¶rten Maschinen binnen kÃ¼rzester
+Frist durch neue ersetzt werden, damit wir auf alle FÃ¤lle gerÃ¼stet
+sind. MÃ¶chte es recht bald einmal bei euch brennen, damit wir euren
+heroischen Opfermuth wett machen und den Liebesdienst, den ihr uns
+geleistet habt, nach WÃ¼rden vergelten kÃ¶nnen!Â«
+
+Â»Hoch! hoch!Â« schrieen die begeisterten BÃ¼rgerschaaren.
+
+Â»Hoch! hoch!Â« jauchzten die Frauen und Jungfrauen.
+
+Der WÃ¤chter blies einen Tusch, und die StraÃenjungen pfiffen auf den
+Fingern, daÃ dem BÃ¼rgermeister die Ohren gellten.
+
+Seitdem lebt Clatou mit Gressinet in der rÃ¼hrendsten Eintracht. Marion
+ist die glÃ¼ckliche Gattin Pierrot's. Herr Laloupon, der einst so
+Ã¼bel mitgenommene Priester, hat die Ehe des liebenswÃ¼rdigen Paares
+eingesegnet und mit Zugrundelegung des ehedem in anti-gressinetischem
+Sinne ausgedeuteten Bibelwortes: Â»Selig sind die Friedfertigen!Â« eine
+ebenso ergreifende als wohlwollende Rede gehalten.
+
+Oft noch erinnern sich die BÃ¼rger von Clatou und Gressinet jener
+frostigen Schreckensnacht und der schauderhaften Attake der PreuÃen.
+Wenn sie dann alles durchgesprochen und recapitulirt haben, dann nicken
+sie bedÃ¤chtig mit den wÃ¼rdigen HÃ¤uptern und murmeln das altbekannte
+SprÃ¼chwort, dessen Wahrheit ihnen frÃ¼her nicht so recht einleuchten
+wollte:
+
+Â»~A quelque chose malheur est bon!~Â«
+
+MÃ¶chte es ihnen gleichwohl erspart bleiben, die deutschen Granaten zum
+zweiten Mal kennen zu lernen!
+
+
+
+
+Eine Abendwanderung.
+
+
+Da schlÃ¤gt die Wanduhr auf meinem Corridor sechs ... Schon seit mehr
+als einer Stunde sitze ich hier bei dem wuchtigen Quartband, ohne Ã¼ber
+die erste Seite hinauszukommen. Die Wahrheit geredet, es ist eine
+polizeiwidrige Thorheit, sich so gegen Laune und Behagen zum Studium
+zu zwingen. Diese ewigen Theorien! Diese unablÃ¤ssigen Philosopheme!
+Man verliert schlieÃlich vor lauter Ã¤sthetischer Fachbildung den
+unbefangenen Blick und den naturwÃ¼chsigen Geschmack. Eine Stunde vor
+der DanaÃ« Tizian's ist, alles in allem, fruchtbarer, als hundert
+ErwÃ¤gungen Ã¼ber die Gesetze der Farbengebung; und wer die SchÃ¶nheit
+nicht in den lebendigen Originalen bewundern kann, dem frommt kein
+Speculiren und GrÃ¼beln: sein Urtheil bleibt ewig laienhaft.
+
+Ist ein wahrhaft Ã¤sthetisch angelegtes Naturell Ã¼berhaupt mit dem
+Joch der Ehe vereinbar? Ich bin jetzt seit elf Monaten verheirathet.
+Meine Josephine ist die LiebenswÃ¼rdigkeit selber ... und doch trage
+ich das unbestimmte BewuÃtsein mit mir herum, daÃ ich vom Standpunkt
+des rein Menschlichen etwas eingebÃ¼Ãt habe. Ich bin so hÃ¤uslich, so
+philistrÃ¶s solide geworden, daÃ die Musen mich gewiÃ schon halb und
+halb zu den verlorenen SÃ¶hnen rechnen. Wenn ich bedenke ... ehedem ...
+die burschikose Ungebundenheit, die Frische der Weltanschauung, die
+genialische Lust an Abenteuern ... und jetzt ...! Bei Gott, ich glaube,
+es vergehen manchmal drei, vier Wochen, ohne daÃ ich einer einzigen
+gediegenen Kneiperei anwohne. Und nun lÃ¤Ãt sie mich seit einigen Tagen
+Ã¼berdem noch allein, anstatt, wie sonst, drÃ¼ben in der Ecke auf der
+kleinen Ottomane zu sitzen und meine Studien mit einer Handarbeit zu
+begleiten. Mein Geburtstag ist in der NÃ¤he, und da es eine Ãberraschung
+gilt, so verbleibt sie in ihrem Boudoir und hÃ¤lt eine strenge Clausur
+ein. Die gute Seele! Sie meint es so ehrlich, und es ist eigentlich
+undankbar, daÃ ich mich in dieser misanthropischen Stimmung befinde,
+aber die Thatsache ist nicht zu Ã¤ndern, und alle GefÃ¼hle der Zuneigung
+kÃ¶nnen mich nicht abhalten, diese ehrsame Monotonie des bÃ¼rgerlichen
+Daseins hin und wieder ein wenig farblos zu finden.
+
+Warum bin ich eigentlich so gutmÃ¼thig, mir diese aufgezwungene
+Einsamkeit gefallen zu lassen? Das Wetter ist herrlich, drei Grad
+KÃ¤lte und mondhell ... Bis zum Thee habe ich noch zwei Stunden Zeit.
+Wer weiÃ, ob mir da drauÃen nicht irgend etwas begegnet, was mich aus
+dem Cirkel meiner Alltagsempfindungen herausreiÃt. Apollo ist mein
+Zeuge, daÃ ich nur aus rein kÃ¼nstlerischen Gesichtspunkten, nur um
+diese schlichte Existenz etwas effectvoller zu coloriren, nur um der
+Ã¤sthetischen Anregung willen ... Doch ich thue gerade als bedÃ¼rfte
+ich vor mir selber einer Entschuldigung! LÃ¤cherlich! Ich kenne meine
+Pflichten, aber auch meine Rechte.
+
+Langsam richte ich mich empor, lege die ~Opera omnia~ meines
+Theoretikers bei Seite und fahre in meinen Ãberzieher. Den Hut
+setze ich ein wenig nach links auf's Ohr; das verleiht der ganzen
+Erscheinung etwas Keckes und SelbstbewuÃtes und wirkt indirect auf die
+GemÃ¼thsverfassung.
+
+So, und nun den Stock -- nicht jenes biedere, wuchtige Olivenholz mit
+der familienvÃ¤terlichen KrÃ¼cke, das ich gewÃ¶hnlich zu tragen pflege,
+sondern dieses elegante Bambusrohr, mit dem ich einst in den goldenen
+Tagen der sÃ¼Ãen Jugendeselei den alten Seligmann abgefuchtelt, als er
+mir in gar zu dringlicher Weise ein unangenehmes Papier prÃ¤sentirte.
+
+An der Gasflamme der Hausflur zÃ¼nde ich mir im Vorbeigehen eine Cigarre
+an, qualme ein paar bedeutungsvolle Rauchwolken wider die Decke und
+schreite dann elastischen Wandels durch die mÃ¤chtige Bogenpforte ins
+Freie.
+
+Ein herrlicher Abend! Friedlich krÃ¤uselt sich der Rauch Ã¼ber den
+Dachfirsten, wie versilberte WÃ¶lkchen, die unter dem Kusse des
+Mondscheins im Azur zerflieÃen. Die FaÃ§aden der SÃ¼dseite liegen fast
+in tagheller Beleuchtung: nur in den kleinen VorgÃ¤rten flimmert eine
+sanfte blÃ¤uliche DÃ¤mmerung. Es ist still hier drauÃen in dem einsamen
+Parkviertel, still wie in dem Dasein eines christlichen Ehemanns. Nur
+selten wandelt ein Ereignis in Gestalt eines sorgfÃ¤ltig frisirten
+LivrÃ©ebedienten oder eines DienstmÃ¤dchens Ã¼ber den hart gestampften
+BÃ¼rgersteig. Alles athmet eine behÃ¤bige Ruhe, eine zahlungsfÃ¤hige
+Sicherheit. Selbst das Rollen der Equipagen beschrÃ¤nkt sich hier auf
+bestimmte Stunden des Tages, und jetzt, um sechs Uhr, ist in dem ganzen
+Quartier keine Achse in Bewegung. Das Theater beginnt erst um sieben,
+und die Spazierfahrten endigen mit hereinsinkender DÃ¤mmerung.
+
+AllmÃ¤hlich fÃ¼hrt mich der Weg in belebtere Stadtviertel. Rechts und
+links tauchen Magazine und LÃ¤den auf. Die Zahl der FuÃgÃ¤nger vermehrt
+sich: auf dem Damm kreuzen sich die Droschken und Lastwagen. Noch zehn
+Minuten, und ich befinde mich mitten im Herzen des groÃstÃ¤dtischen
+Verkehrs. Hinter den glÃ¤nzend erleuchteten Spiegelscheiben winken
+mir alle SchÃ¤tze Europa's in geschmackvoller Anordnung. Ein wahres
+Chaos von Fuhrwerken nimmt die ganze LÃ¤nge und Breite der StraÃe ein.
+Die Schaaren der FuÃgÃ¤nger schieben sich in buntem Gewimmel an den
+blitzenden Etalagen vorÃ¼ber. Die ganze AtmosphÃ¤re summt und drÃ¶hnt von
+jenem unentwirrbaren Ineinanderklang hundert verschiedener GerÃ¤usche,
+deren Ensemble auf die Nerven des GroÃstÃ¤dters ebenso wohlthÃ¤tig wirkt,
+wie die Landluft auf das Naturell eines Dorfpastors.
+
+Von allen Seiten bestÃ¼rmen mich neue, bewegende EindrÃ¼cke. Nahezu
+sechs Wochen sind verflossen, seit ich zum letzten Mal eine abendliche
+Flanade Ã¼ber diese Trottoirs unternahm, und es war damals obendrein
+eine Ã¤uÃere Veranlassung, die mich hierher fÃ¼hrte, ein specieller
+Zweck -- was dem eigentlichen Esprit des Bummelns bekanntermaÃen
+zuwiderlÃ¤uft. Nein, ich begreife mich nicht! Sechs Wochen halte ich's
+aus da drÃ¼ben in meiner beschaulichen Einsamkeit, und hier wogt und
+brandet ein Ocean von Bildern und Stimmungen, wie ihn die Seele
+farbenprÃ¤chtiger nicht wÃ¼nschen kann.
+
+Ich setze meinen Hut noch um eine NÃ¼ance schiefer auf's Ohr, fasse den
+Stock in der Mitte und runzle die Stirn wie ein Ã¼bermÃ¼thiger Dandy, der
+im nÃ¤chsten Augenblick eine Welt zu erobern gedenkt.
+
+Jetzt begegnet mir eine Mutter mit zwei TÃ¶chtern. Wohlgebaute
+Blondinen im Stile Paolo Veronese's. Wahrhaftig, die eine hat ein
+ganz allerliebstes Gesichtchen: etwas geistlos, das ist wahr: aber du
+lieber Gott, am Ende ist der Geist nur ein Vorurtheil, und von der
+Leinwand wirkt das Ã¼ppige Incarnat eines blÃ¼henden Nackens jedenfalls
+energischer, als der seelische Duft einer feingeschnittenen Lippe. Beim
+Himmel, wenn ich ebensoviel Technik als VerstÃ¤ndnis besÃ¤Ãe, ich mÃ¶chte
+diese saftige Blondine malen, wie Tizian seine Catarina Cornari gemalt
+hat, als schlichtes PortrÃ¤t ohne irgend welche artistische Zuthat ...
+Und jetzt diese bÃ¼Ãende Magdalena ... So wahr ich lebe, das Original
+~in optima forma~ zu dem famosen GemÃ¤lde Murillo's! Es ist eine wahre
+Schande, daÃ ich mir seit Monaten eine so peinvolle Reserve auferlege,
+und lediglich aus RÃ¼cksicht ... Alle VorzÃ¼ge kÃ¶nnen sich doch nun
+einmal unmÃ¶glich in einer und derselben Person vereinigen. Josephine
+ist hÃ¼bsch, freundlich, aufmerksam, zÃ¤rtlich, liebenswerth, -- kurz,
+vom Standpunkt eines christlich germanischen Alltaglebens betrachtet,
+das Ideal einer jungen Frau. Aber in rein kÃ¼nstlerischer Beziehung,
+mit dem Auge eines Rafael oder eines Correggio gesehen ... Pah, man
+wird nothgedrungen einseitig, wenn man sich jeder anderweitigen
+Bewunderung enthalten will ...
+
+Nachdenklich setze ich meine Wanderung fort. Ein gelinder Groll
+gegen unsere sociale Ordnung spinnt seinen Nebelschleier um meine
+pessimistisch angekrÃ¤nkelte Seele. Warum nehmen es die Frauen auch
+nur so heillos Ã¼bel, wenn man gelegentlich eine ihrer Mitschwestern
+hÃ¼bsch findet! Ich erinnere mich noch des seltsamen Blickes, den mir
+Josephine zuwarf, als ich im verwichenen Herbst jene dunkelÃ¤ugige
+Unbekannte im Foyer des Victoriatheaters mit dem Lorgnon fixirte. FÃ¼r
+etwas Romantisches haben diese TÃ¶chter aus guter Familie absolut keinen
+Sinn. Als ob meine Neigung unter einer derartigen praktischen Studie
+im mindesten leiden kÃ¶nnte. Ein kÃ¼nstlerisch angelegtes Herz verlangt
+mehr als die bloÃe hÃ¤usliche GlÃ¼ckseligkeit, und schlieÃlich -- der
+Teufel weiÃ, wie es zugeht, aber das Factum bleibt unanfechtbar --
+schlieÃlich haben diese Unbekannten immer ein gewisses Etwas, das den
+uns so wohlbekannten Gattinnen abgeht, ein ~nescio quid~ von poetischem
+Zauber, einen Hauch von geheimnisvoller Novellestik, dessen nÃ¤here
+Definition ebenso unmÃ¶glich ist, wie die Analyse des SchÃ¶nen Ã¼berhaupt.
+
+Was ist das zum Beispiel fÃ¼r eine reizende, graziÃ¶se Gestalt, die da
+quer Ã¼ber die StraÃe kommt und jetzt in den Galanterieladen eintritt!
+Ein FÃ¼Ãchen zum EntzÃ¼cken, und eine Anmuth in jeder Bewegung, wie man
+sie eben nur bei Unbekannten findet.
+
+Ich trete an das Schaufenster. Ein Seufzer entringt sich meiner Brust,
+lang und gepreÃt, wie ein Passus aus Schopenhauer's Kapitel Ã¼ber das
+Leiden der Welt. Zwischen den FÃ¤chern und SchmuckkÃ¤stchen hindurch
+dringt mein Blick in das Innere des GewÃ¶lbes. Die schÃ¶ne Unbekannte
+kehrt mir den RÃ¼cken. Jetzt beugt sie sich Ã¼ber den Ladentisch, um
+eine Waare in Augenschein zu nehmen ... Wie pittoresk war diese Wendung
+des Armes! Und wie geschmackvoll sie gekleidet ist! Hier erkennt man
+so recht den Unterschied zwischen dem Schlicht-BÃ¼rgerlichen und dem
+Classisch-Poetischen. Mich dÃ¼nkt, ich habe eine Ã¤hnliche Jacke auch
+bei Josephinen gesehen: aber wie ganz anders war der Effect! Hier eine
+gewisse GenialitÃ¤t im Faltenwurf, dort eine nÃ¼chterne Accuratesse, eine
+ruhige Einfachheit, die fÃ¼r gewisse Charaktere ihren Reiz haben mag,
+aber auf die Dauer eine Ã¤sthetische LÃ¼cke lÃ¤Ãt. Kleider machen Leute,
+sagt das SprÃ¼chwort; mit der gleichen Berechtigung kann man die These
+umkehren. Dasselbe Gewand von verschiedenen Personen getragen ist nicht
+mehr dasselbe. Die IndividualitÃ¤t haucht dem KleidungsstÃ¼ck ihr ganzes
+Wesen ein. Ich glaube, Aspasia wÃ¤re im Stande einen Zwillichkittel so
+zu drapiren, daÃ er einen kÃ¶niglichen Purpur beschÃ¤mte.
+
+Und diese reizende Robe! Einfach und anspruchslos, und doch
+bedeutsam und charakteristisch. Diese stahlfarbene NÃ¼ance hat etwas
+Aristokratisches. Warum Josephine einen derartigen Stoff nicht gewÃ¤hlt
+hat? Aber es ist nun einmal nicht zu Ã¤ndern. Gewisse Dinge existiren
+nicht fÃ¼r die normale deutsche Hausfrau: man entdeckt sie nur fernab
+von dem Weichbilde des heimischen Herdes.
+
+Wie lange sie wÃ¤hlt und prÃ¼ft! Auch hierin offenbart sich ein
+distinguirter Charakterzug. Da ... da ... um ein Haar hÃ¤tte ich ihr
+Gesicht zu sehen bekommen. Das StÃ¼ckchen Wange, das mir in duftiger
+VerklÃ¤rung entgegengeleuchtet hat, erweckt eine unwiderstehliche
+Sehnsucht in mir, das ganze ambrosische Angesicht aus der nÃ¤chsten NÃ¤he
+zu schauen. Ich interessire mich jetzt so glÃ¼hend fÃ¼r diese schÃ¶ne
+KÃ¤uferin, daÃ es mich bereits nach ihrer Biographie gelÃ¼stet. Wo mag
+sie wohnen? Wie mag sie heiÃen? Das beste ist, ich lasse sie hier
+vorbeipassiren und gehe ihr dann nach, sittsam und in bescheidener
+Entfernung, wie es einem verheiratheten Ãsthetiker geziemt ... oder
+nein ... ich sehe nicht ein, weshalb ich so Ã¼bermÃ¤Ãig bescheiden sein
+sollte. Mein Naturell steht mit einem solchen Vorsatz in diametralem
+Widerspruch. ... Nun, wir werden ja sehen.
+
+Ah, da kommt mein trefflicher Freund Leo. Schon von fern lacht er mich
+mit dem ganzen Vollmond seines biederen Kneipgesichts an, als wollte er
+sagen: Â»Trifft man dich auch endlich wieder einmal unter den Lebenden?Â«
+
+Auch ich bin erfreut, dich zu sehen, wackerer Genosse meiner
+akademischen Ausschweifungen, unvergleichliches DanaidenfaÃ, in
+dessen bodenlosem Schlunde so manches Quart Lagerbier und so manche
+Punschbowle ein ruhmloses Ende gefunden.
+
+Er schÃ¼ttelt mir mit der grÃ¼bchenreichen Herkulesfaust die Rechte und
+brummt im tiefsten Basse eine Phrase freundschaftlichen EntzÃ¼ckens.
+
+Â»Wie jammerschade,Â« fÃ¼gt er nach einer Weile hinzu, Â»daÃ ich gerade
+jetzt nicht Herr meiner Zeit bin.Â«
+
+Er sieht auf die Uhr.
+
+Â»Ich muÃ meine Tante ins Concert fÃ¼hren,Â« seufzt er stirnrunzelnd, Â»und
+gewahre mit Schrecken, daÃ ich bereits eine Viertelstunde VerspÃ¤tung
+habe.Â«
+
+Â»Ah, die HofrÃ¤thin! Nun, sie molestirt dich selten genug, und als
+Erbtante verdient sie einige RÃ¼cksicht. Ich will dich bei Leibe nicht
+abhalten.Â«
+
+Noch einmal schÃ¼ttelt er mir die Hand und poltert dann fÃ¼rbaÃ Ã¼ber das
+Pflaster.
+
+Verflucht! In der Zwischenzeit ist mir meine schÃ¶ne Unbekannte
+entwischt. Hole der Henker alle Kneipkameraden und HofrÃ¤thinnen. Doch
+halt, dort biegt die Holdselige um die Ecke. Das war noch gerade Zeit,
+sonst hÃ¤tte ich den Engel fÃ¼r immer verloren. Auf und ihr nach!
+
+In weniger als einer Viertelminute habe ich mich ihr auf fÃ¼nfzehn
+Schritte genÃ¤hert. Es hÃ¤lt schwer, sie bei dem dichten MenschengewÃ¼hl
+im Auge zu behalten. Dabei schreitet sie tÃ¼chtig zu ... Ja, ja, solche
+novellistische Naturen sind stets gute FuÃgÃ¤ngerinnen. Im Sommer
+begegnet man ihnen auf dem Gipfel des Pilatus oder auf den Gletschern
+des Chamounithals. Ich kenne die Sorte ...
+
+Jetzt schwenkt sie seitwÃ¤rts ab. Aha, sie nimmt den Weg nach der
+GertraudenstraÃe quer Ã¼ber den Markt. Nun, um so besser; auf diese
+Weise entferne ich mich nicht von dem Parkviertel. Es ist sieben, ich
+habe also vollauf MuÃe, mein peripatetisches Abenteuer bis auf die
+Hefe auszukosten. Ich +muÃ+ jetzt erfahren, welche GÃ¶ttin in dieser
+reizenden HÃ¼lle wandelt, oder meine MiÃstimmung erklÃ¤rt sich in
+Permanenz!
+
+Wie seltsam doch mitunter der Zufall spielt! Da biegt sie richtig in
+die neue Anlage ein! Ich kann ihr also unter allen UmstÃ¤nden ohne
+Zeitverlust bis an ihre Wohnung folgen, und wenn sie am Ã¤uÃersten Ende
+der Stadt residirte. Wirklich, Fortuna ist mir hold. Es hÃ¤tte sich
+doch ebensogut treffen kÃ¶nnen, daÃ die kleine Zauberin mich nach dem
+Ludwigshain oder den BernstÃ¤dter Linden gelockt hÃ¤tte!
+
+Jetzt scheint sie bemerkt zu haben, daÃ ich ihr auf den Fersen bin.
+Sie hat leise den Kopf gewendet, sie beschleunigt ihre Schritte.
+Das ist entweder ein Zeichen von hohem sittlichem Ernst, oder von
+reizender Koketterie. Aber Gott sei Dank! Noch bin ich nicht so sehr
+zum Philister geworden, daÃ ich nicht im Stande wÃ¤re, eine solche
+Parforcepromenade auszuhalten. Noch habe ich mich von dem Embonpoint
+deutscher FamilienvÃ¤ter freizuhalten gewuÃt. Bei den GÃ¶ttern, diese
+Eilfertigkeit steht ihr entzÃ¼ckend. Wie fest und doch wie schmiegsam
+sie auftritt. Das ist eine Poesie des Wandels, an der sich ein Apollo
+berauschen kÃ¶nnte.
+
+Jetzt beginnt die Sache in der That humoristisch zu werden. Das
+rÃ¤thselhafte GeschÃ¶pf schlÃ¤gt immer entschiedener dieselbe Route
+ein, die ich wÃ¤hlen mÃ¼Ãte, wenn ich direct nach meiner heimischen
+WilhelminenstraÃe eilen wollte. WÃ¤re ich ein glÃ¤ubiger Romantiker aus
+der alten Schule, so dÃ¤chte ich jetzt an eine moralisch gesinnte Fee,
+an eine ideale Personificirung meines ehelichen Gewissens. Die schÃ¶ne
+Huldin wÃ¤re etwa Titania, die, von heiligem Schmerz erfÃ¼llt, ihren
+Liebling auf Irrwegen zu sehen, die Gestalt einer bestrickenden Sirene
+angenommen hÃ¤tte und mich nun, ohne daÃ ich es ahnte, zu den Laren des
+hÃ¤uslichen Herdes zurÃ¼ckfÃ¼hrte.
+
+So wahr ich selig werden will, da sind wir an der Ecke der
+WilhelminenstraÃe, und jetzt wendet sie sich nach links, -- ganz der
+Weg, den die alltÃ¤gliche Moral mir vorzeichnen mÃ¼Ãte. Am Ende ist sie
+eine von den schÃ¶nen EnglÃ¤nderinnen in Nummer 20, die ich bereits
+drei- oder viermal durch mein Taschenteleskop zu bewundern die Ehre
+hatte. Das wÃ¤re in der That ein hÃ¶chst pikantes Zusammentreffen! Wenn
+sie nur nicht so verteufelt liefe, -- daÃ ich ihr einmal ~en passant~
+ins Gesicht sehen kÃ¶nnte. Aber sie scheint instinktiv zu fÃ¼hlen, wie
+sehr sie mein Herz entzÃ¼ndet hat, und so scheut sie sich wohl vor
+einem Rencontre. Verdammt, daÃ der Weg an meiner Wohnung vorÃ¼berfÃ¼hrt.
+Es wÃ¤re mir doch unangenehm, wenn Josephine ... und wer garantirt
+mir dafÃ¼r? Bei Mondschein sitzt sie oft stundenlang am Fenster und
+vertieft sich in die wundersamen Lichtspiele ... Heute freilich ist sie
+beschÃ¤ftigt ...
+
+Aber was sehe ich? Bin ich von Sinnen? Da hÃ¼pft mein bezauberndes
+RÃ¤thsel in meine Hausflur und eilt meine Treppe hinan. Um aller
+Heiligen willen, was habe ich angestellt? GewiÃ eine gute Freundin
+Josephinens, die mich erkannt hat und mich nun ~in flagranti~ verklagen
+will. Soll ich ihr folgen? Oder ist es rationeller, so schnell als
+mÃ¶glich umzukehren? Aber nein, das wÃ¤re eine SchwÃ¤che, die den Edlen
+entwÃ¼rdigt. Was kann sie Ã¼berdies sagen? Es ist nur zu begreiflich,
+daÃ ich den nÃ¤chsten und bequemsten Weg nach meiner Wohnung einschlage,
+und die StraÃe ist Gemeingut. Nein, sie wÃ¼rde sich mit der geringsten
+Andeutung nur lÃ¤cherlich machen; sie muÃ etwas anderes in Petto haben;
+also vorwÃ¤rts!
+
+Ich stÃ¼rme ihr nach. Die CorridorthÃ¼re hat sich inzwischen bereits
+geschlossen. Ich klingle. Man Ã¶ffnet mir. Und wer Ã¶ffnet mir? Vor mir
+steht, in dem malerisch drapirten Tuchpaletot, in dem stahlblauen
+Promenadenkleide, das kleine Packet in der Hand, das sie auf der StraÃe
+getragen -- meine Frau!
+
+Sie schaut mir mit einem unbeschreiblich schelmischen Ausdruck ihrer
+dunkelbraunen Augen ins Angesicht, wÃ¼nscht mir Â»Guten AbendÂ«, und eilt
+dann, mir nochmals herzlich zunickend, in ihr Zimmer.
+
+Keines Wortes mÃ¤chtig, starre ich ihr nach; dann entledige ich mich
+stumm und gerÃ¤uschlos meines Ãberziehers, schleiche in mein Gemach
+und werfe mich in den Lehnstuhl. Die HÃ¤nde Ã¼ber der Brust gefaltet,
+suche ich mir meine lehrreichen Erlebnisse zurecht zu legen. Nur
+ungern gestehe ich mir's, aber die Wahrheit bricht schlieÃlich durch:
+ich bin wÃ¼thend, wÃ¼thend auf mich, wÃ¼thend auf Josephine, wÃ¼thend auf
+meine kÃ¼nstlerischen und nicht kÃ¼nstlerischen Bestrebungen, wÃ¼thend
+auf alles Bekannte und Unbekannte. Ich habe mich vor meiner eigenen
+reinen Vernunft so colossal blamirt, daÃ ich nicht weiÃ, ob ich jemals
+wieder in der Lage sein werde, mir die volle ursprÃ¼ngliche Hochachtung
+zu zollen. Mein ganzes Ich verfÃ¤llt in einen Zustand moralischer
+Zerrissenheit; ich mÃ¶chte mich ohrfeigen.
+
+Da legt sich ein Arm um meinen Nacken, zwei frische blÃ¼hende Lippen
+senken sich auf die meinen, und eine weiche Hand streichelt mir wie
+beschwichtigend Ã¼ber die Stirne.
+
+Der seltsame Bann ist gelÃ¶st. Noch immer verlegen, gewinne ich doch
+allgemach mein seelisches Gleichgewicht wieder. Josephine erwÃ¤hnt das
+Vorgefallene mit keiner Silbe, aber ich sehe es ihrem schalkhaften
+LÃ¤cheln an, daÃ sie meine ganze Thorheit durchschaut hat.
+
+Zwei Tage spÃ¤ter Ã¼berrascht sie mich mit den FrÃ¼chten ihres
+improvisirten Abendganges. Ein reizendes Geburtstagsgeschenk, viel
+sinniger und liebenswÃ¼rdiger, als es ein Mann verdient, der die
+poetischen Anregungen auÃer dem Hause sucht. Ich schlieÃe Josephine an
+mein Herz und schwÃ¶re mir insgeheim, mich nie wieder von den Launen
+einer selbstbetrÃ¼gerischen Verstimmung gÃ¤ngeln zu lassen. Der erste
+Versuch einer unerlaubten Romantik ist zu schmachvoll miÃglÃ¼ckt, als
+daÃ ich Lust verspÃ¼rte, mich zum zweiten Male auf's Glatteis zu wagen.
+
+
+
+
+Der alte Schreiber.
+
+Eine Studie nach der Natur.
+
+
+Mein Onkel Feodor war Rechtsanwalt in einer mitteldeutschen
+Provinzialstadt. In den letzten Jahren seines Lebens, als die einst
+so blÃ¼hende Advocatur merklich zur Neige ging, beschÃ¤ftigte er einen
+Scribenten mit Namen Trendler. Ich weiÃ nicht, ob der wÃ¼rdige Federheld
+noch lebt. Sollte er indeÃ die folgenden Zeilen zu Gesicht bekommen,
+so wird er gewiÃ einem strebsamen Collegen, der bei seinen indiscreten
+Studien die edelsten Zwecke verfolgt, die scheinbare Profanation zu
+Gute halten und lÃ¤chelnd vor sich hinmurmeln: Â»Ja, ja, das bin ich!Â«
+
+Also ~in medias res~!
+
+Ãber den Dachfirsten der Provinzialstadt leuchtet ein kalter, klarer
+Wintermorgen. In den beschneiten StraÃen erblickt man nur hin und
+wieder einen eilfertigen, theatralisch vermummten Barbier oder eine
+blaugefrorene KÃ¶chin.
+
+Es schlÃ¤gt neun. Mein Onkel sitzt bereits seit einer Stunde bei der
+Arbeit. Der lodernde Ofen verbreitet eine erquickliche WÃ¤rme. Die lange
+Pfeife lÃ¤Ãt ihre blauen Rauchkringel, wie OpferdÃ¼fte, zur angegrauten
+Decke emporsteigen. Auf dem eichengeschnitzten Schreibtisch herrscht
+eine gemÃ¼thliche Unordnung. Da prangt die chemische ZÃ¼ndmaschine
+neben dem Petschaftkasten; die Wasserflasche neben dem gestickten
+HauskÃ¤ppchen; die goldene Repetiruhr neben dem bunten Fidibusbecher.
+Die halbgeleerte Tasse steht dem Arbeitenden zur Linken. Eifrig
+raschelt die Feder Ã¼ber das dicke Conceptpapier.
+
+Da Ã¶ffnet sich die ThÃ¼re. Ein rÃ¶thliches Antlitz, dessen ZÃ¼ge etwas
+vom Geier haben, erscheint in der Spalte. Es ist Herr Trendler. Mit
+gekniffenen Ãuglein mustert er das Zimmer. Dann tritt er zwei Schnitte
+vor und spricht mit klangloser Stimme:
+
+Â»Guten Morgen, Herr Justizrath!Â«
+
+Mein Onkel wendet den Kopf.
+
+Â»Sie kommen wieder eine halbe Stunde zu spÃ¤t, Trendler. Wie oft soll
+ich Ihnen sagen, daÃ ich die PÃ¼nktlichkeit liebe?Â«
+
+Â»Entschuldigen Sie, Herr Justizrath, ich hatte mich gestern etwas
+spÃ¤ter zu Bett gelegt, weil ich noch den Bericht an das kÃ¶nigliche
+Obertribunal erledigen wollte ...Â«
+
+Trendler beginnt nun seinen Paletot auszuziehen. Er versucht es
+zunÃ¤chst mit dem linken Ãrmel. Auf der HÃ¤lfte des Weges erfaÃt ihn die
+Reue. Er tritt auf der linken Seite den RÃ¼ckweg an, und wirft sich
+auf die rechte. Nach einigem ZÃ¶gern kommt er mit der Entkleidung zu
+Stande, und verfÃ¼gt sich nun, den Ãberzieher sorgfÃ¤ltig an der Schlinge
+haltend, nach dem Nagel, wo er ihn langsam aufhÃ¤ngt, -- nicht ohne
+zuvor einige imaginÃ¤re StÃ¤ubchen von dem schadhaften Sammetkragen
+hinweg zu blasen. Der aufgehÃ¤ngte Paletot wird mit zÃ¤rtlicher Hingebung
+drapirt ... Die AuÃenseite muÃ nach innen gekehrt und vor jeder
+BerÃ¼hrung mit der atmosphÃ¤rischen Luft aufs Peinlichste geschÃ¼tzt und
+geschirmt sein ...
+
+Nach befriedigender LÃ¶sung der Paletot-Frage kommt die Reihe an den
+Rock. Unter den nÃ¤mlichen ManÃ¶vern, die wir beim Ãberzieher wahrnahmen,
+vertauscht Herr Trendler diesem Unter-KleidungsstÃ¼ck mit seinem
+sturmerprobten Amt- und Dienstkittel. Ist auch diese Metamorphose
+beendet, so hustet er dreimal mit steigender Heftigkeit und zieht das
+Taschentuch, um sich zu schneuzen.
+
+Â»Nun, Trendler, wird's bald?Â« fragt mein Onkel stirnrunzelnd.
+
+Â»Entschuldigen Sie, Herr Justizrath, ich wollte mich nur schneuzen,
+mit Respect zu vermelden. Ich habe einen starken Stockschnupfen, seit
+letzthin das Wetter so umgeschlagen hat!Â«
+
+Mein Onkel arbeitet weiter.
+
+Trendler begiebt sich in gemessenem Menuettschritt nach dem Ofen,
+ergreift die Feuerzange, und wÃ¼hlt in den BrÃ¤nden.
+
+Â»Donnerwerter, machen Sie doch keinen solchen Rauch!Â« ruft mein
+Onkel Ã¤rgerlich. Â»Das Feuer brennt, -- was haben Sie also dran
+herumzustochern?Â«
+
+Â»Verzeihen Sie, Herr Justizrath, ich dachte nur, wenn man das Feuer
+nicht rechtzeitig schÃ¼rt, so kÃ¶nnte es ausgehen. Erlauben Sie
+vielleicht, daÃ ich so ein kleines KlÃ¶tzchen auflege?Â«
+
+Â»Gut, so legen Sie auf, aber schnell! Sie haben da Ihren ganzen Tisch
+voll Arbeit!Â«
+
+Â»O, damit wollen wir schon fertig werden, was das anbelangt ...Â«
+
+Er blÃ¤st in die Flammen. Der Qualm schlÃ¤gt ihm ins Gesicht. Er schlieÃt
+die OfenthÃ¼r und tritt an den Spiegel.
+
+Â»Nun, was giebt's?Â« fragt mein Onkel.
+
+Â»Ach, Herr Justizrath, nehmen Sie's nicht Ã¼bel, es ist mir was ins
+Auge gekommen ... Gleich hab' ich's ... so ... Wie das einen genirt,
+man sollt's nicht glauben! ... Au, au ...! Das ganze Auge ist roth
+davon ...!Â«
+
+Â»Trendler! Der Teufel holt Sie, wenn Sie jetzt nicht an die Arbeit
+gehen! Wenn Sie was am Ofen auszusetzen haben, so rufen Sie die Magd!Â«
+
+Â»SchÃ¶n, Herr Justizrath.Â«
+
+Er Ã¶ffnet die StubenthÃ¼re.
+
+Â»Therese! Therese!Â«
+
+Â»Das zieht ja zum Tollwerden!Â« zÃ¼rnt der alte Herr in wachsendem
+MiÃmuth. Â»Wollen Sie augenblicklich zumachen! ...Â«
+
+Â»Die Magd scheint nicht da zu sein,Â« versetzt der Schreiber. Â»Ich will
+mal nachsehen!Â«
+
+Er begiebt sich nach der KÃ¼che. Drei, vier, fÃ¼nf Minuten verstreichen.
+Endlich erscheint die rothe Physiognomie wieder auf der Schwelle.
+
+Â»Die Magd ist nach dem Wochenmarkt gegangen,Â« stammelt er mit einem
+LÃ¤cheln der Genugthuung. Â»Da muÃ ich wohl selbst Hand anlegen, Herr
+Justizrath.Â«
+
+Mein Onkel antwortet nicht.
+
+Trendler verfÃ¼gt sich wieder an den Ofen. Er klappert und rasselt, und
+rasselt und klappert, bis das Feuer glÃ¼cklich verloschen ist.
+
+Â»Ich komme doch nicht so recht zu Stande damit, wenn man's bei Licht
+betrachtet. Wir mÃ¼ssen warten, bis die Therese vom Markt zurÃ¼ckkommt.Â«
+
+Â»Sie sind der grÃ¶Ãte Esel, der mir jemals in meiner Praxis aufgestoÃen.Â«
+
+Â»Aber, Herr Justizrath ...Â«
+
+Â»Setzen Sie sich! Ich habe keine Lust, mit Ihnen zu discutiren.Â«
+
+Schmollend faÃt er auf seinem Stuhle Posto. Noch einmal muÃ das
+Schnupftuch fÃ¼r die Unbilden der Witterung bÃ¼Ãen. Hierauf durchsucht
+er sÃ¤mmtliche Taschen der Weste, des Rocks und der Beinkleider. In der
+letzten findet er den SchlÃ¼ssel zur Schublade seines Schreibtisches.
+
+Er betrachtet das eiserne Instrument von allen Seiten. Dann blÃ¤st
+er einige SonnenstÃ¤ubchen aus dem Loch Ã¼ber dem Kamme und veranlaÃt
+dadurch einen gellen Pfiff.
+
+Â»Was fÃ¤llt Ihnen bei, Trendler? Wiederholt sich denn bei Ihnen jeden
+Tag dasselbe Possenspiel?Â«
+
+Â»Um Vergebung, Herr Justizrath, aber diesmal thun Sie mir Unrecht. Wenn
+sich nÃ¤mlich das Loch am Kamme verstopft, so geht mehrstentheils das
+SchloÃ nicht.Â«
+
+Langsam Ã¶ffnet er die Schublade und nimmt zwei tintenbeklexte
+SchreibÃ¤rmel, zehn GÃ¤nsekiele und ein doppelklingiges Federmesser
+heraus. SÃ¤mmtliche GegenstÃ¤nde breitet er sorgfÃ¤ltig vor sich hin. Er
+befolgt dabei die Regeln der Symmetrie und des goldnen Schnitts.
+
+PlÃ¶tzlich springt er vom Sitz empor und eilt nach der ThÃ¼re.
+
+Â»Was giebt's?Â«
+
+Â»Ich will einmal sehen, ob die Friederike heimgekommen ist. Mir war's,
+als hÃ¤tte ich klingeln hÃ¶ren.Â«
+
+Â»Dummes Zeug! Bleiben Sie bei der Arbeit!Â«
+
+Trendler setzt sich nieder und ergreift einen der beiden SchreibÃ¤rmel.
+Er nestelt am Zuge. Die Schnur will nicht weichen. Nach einer
+andauernden BemÃ¼hung von fÃ¼nf Minuten gelingt es ihm, den Knoten zu
+lÃ¶sen. Die Schiene rutscht knisternd Ã¼ber den Arm und wird mit vieler
+Accuratesse befestigt.
+
+Der zweite Ãrmel erfordert eine geringere Anstrengung. Schon nach drei
+Minuten sitzt er wie angegossen.
+
+Es schlÃ¤gt halb zehn.
+
+Trendler reibt sich im BewuÃtsein, sehr glÃ¼cklich debÃ¼tirt zu haben,
+die HÃ¤nde und zieht die Tabaksdose hervor. Sechs- oder achtmal schlÃ¤gt
+er gerÃ¤uschvoll auf den Deckel. Dann Ã¶ffnet er, schÃ¼ttelt den Inhalt
+von einer Seite nach der andern und spitzt die Finger zur Prise.
+PlÃ¶tzlich besinnt er sich eines Besseren. Er muÃ im Heiligthum der
+Dose einen fremden Gegenstand entdeckt haben. Das rothe Geiergesicht
+beugt sich vor; die kurzsichtigen Ãuglein beblinzeln den Tabak aus
+allen Richtungen der Windrose. Eine Minute verrinnt in prÃ¼fender
+Beschaulichkeit. Er nickt, als habe er den mikroskopischen Eindringling
+erkannt, setzt die Dose bedÃ¤chtig auf den Tisch nieder und ergreift mit
+siegesgewisser Miene das zweiklingige Federmesser. Die Klinge springt
+auf und wird, wie um ihre ElasticitÃ¤t zu erproben, zwei-, dreimal auf
+die Tischplatte gedrÃ¼ckt. Dann stÃ¶bert das Metall zwei Minuten lang in
+der gepulverten NieÃwurz herum und spieÃt endlich eine todte Fliege,
+die nach genauer Inspection unter den Stuhl geworfen wird. Jetzt erst
+hÃ¤lt sich Trendler fÃ¼r berechtigt, eine Prise zu nehmen; vorher wischt
+er indeÃ die Klinge des Messers mit sorglicher Peinlichkeit am Ãrmel
+ab.
+
+Die Dose wird wieder geschlossen und neben das TintenfaÃ gestellt.
+
+Trendlers Blick gleitet nun nach dem Fenster. Die Scheiben sind stark
+beschlagen. Er erachtet es fÃ¼r geboten, das auf der Rampe liegende Tuch
+zu benutzen. Die KlÃ¤rung gelingt.
+
+Aber es zieht! Das Fenster scheint heute wieder gar nicht zu schlieÃen.
+Auch hier muÃ das Wischtuch abhelfen. Es wird der LÃ¤nge nach unten vor
+die Ritze gelegt.
+
+Â»So!Â«
+
+Es schlÃ¤gt drei Viertel.
+
+Trendler wendet sich nunmehr seinen Federn zu. Er dreht sie zehn-
+bis zwÃ¶lfmal hin und her und wÃ¤hlt dann eine graue, groÃfasrige,
+starkposige Prachtfeder.
+
+Das zweiklingige Messer wird abermals betreffs seiner ElasticitÃ¤t
+geprobt. Dann beginnt die Procedur des Schneidens.
+
+ZunÃ¤chst wird der Kiel der LÃ¤nge nach geschabt. Dann zimmert der blanke
+Stahl nach streng-architektonischen Gesetzen den Rohbau der Spitze.
+Diese unvollendete Spitze wird fÃ¼nfzigmal befÃ¼hlt und betrachtet und
+schlieÃlich auf dem Nagel des linken Daumens gespalten.
+
+Ist die Spalte gelungen, so ruht sich Trendler ein wenig aus: denn
+jetzt fÃ¤ngt erst die eigentliche kÃ¼nstlerische Aufgabe an, und zu jeder
+vollkommenen Leistung bedarf man der Sammlung.
+
+Neu gekrÃ¤ftigt geht der wackre Scribent an die KrÃ¶nung des GebÃ¤udes.
+Hundertmal hÃ¤lt er den Kiel gegen das Licht; hundertmal probirt er mit
+der Zungenspitze, ob der gewÃ¼nschte Grad der Vollendung erreicht ist.
+Er schnitzelt und raspelt und kratzt und glÃ¤ttet, als handle es sich
+um die Darstellung eines Prototyps, einer Â»Feder an sichÂ«, wie der
+Philosoph sagen wÃ¼rde. Die immer fester zusammengekniffenen Augenlider
+verleihen seinem Antlitz etwas Denkerhaftes! WÃ¼Ãte ich nicht, daÃ es
+der Schreiber meines Onkels ist, den ich da vor mir sehe, so wÃ¼rde ich
+ihn fÃ¼r einen Professor der Metaphysik halten.
+
+Endlich! Ein breites LÃ¤cheln Ã¼bergieÃt die Geierphysiognomie wie mit
+den Fluten eines rosigen Sonnenscheins! VerstÃ¼nde er Griechisch, er
+wÃ¼rde Â»Heureka!Â« ausrufen! Schwer aber glÃ¼cklich!
+
+Noch achtmal wiederholt sich diese umstÃ¤ndliche ComÃ¶die. Dann ordnet
+Trendler die Geschnittenen nach dem Grundsatze der AnciennitÃ¤t, und
+legt das Messer neben die Schnupftabaksdose.
+
+Es schlÃ¤gt halb elf.
+
+Trendler wendet sich nunmehr dem Papier zu. Er sucht und blÃ¤ttert
+in den unbeschriebenen Folioheften herum, als forsche er nach einer
+hochwichtigen Stelle im Corpus Juris. Die Wahl scheint ihm Qual zu
+machen. Er schlieÃt bald das eine Auge, bald das andere, -- nach Art
+raffinirter Kunstfreunde, die ein GemÃ¤lde betrachten. Dann kehrt er
+die Mappe um, als mÃ¼sse ihm die endgiltige Entscheidung so besser
+gelingen. Er streichelt die Bogen, wie der Kenner ein Pferd streichelt.
+Gott weiÃ, was ihn schlieÃlich veranlaÃt, eines der Hefte an die Nase
+zu fÃ¼hren und es nachdenklich zu beschnÃ¼ffeln. Nach fÃ¼nf Minuten ist
+er mit sich und dem Papier einig ... Die Mappe wird schreibgerecht
+ausgebreitet, die Bogen erhalten ein paar Daumenstriche ... Trendler
+ist Meister in der kunstgemÃ¤Ãen Anwendung dieses natÃ¼rlichen Falzbeins
+... So!
+
+Es ist inzwischen empfindlich kalt geworden. Der alte Herr beginnt zu
+frieren.
+
+Â»Trendler,Â« sagt er unwillig, Â»Sie haben richtig das Feuer ausgemacht!
+Rufen Sie die Magd!Â«
+
+Â»SchÃ¶n, Herr Justizrath. Therese, Therese!Â«
+
+Die Dienerin erscheint in der Pforte, und beeilt sich die verglimmenden
+Kohlen wieder anzufachen.
+
+Trendler schaut ihren BemÃ¼hungen andÃ¤chtig zu.
+
+Â»Was gaffen Sie da? Ich wette, Sie kommen auch heute nicht mit der
+vermaledeiten Klage zu Stande. Drei Tage kauen Sie jetzt schon an den
+paar Bogen.Â«
+
+Â»Um Vergebung, Herr Justizrath; ich wollte mich nur Ã¼berzeugen ...Â«
+
+Â»Schweigen Sie und setzen Sie sich!Â«
+
+Die Magd verlÃ¤Ãt das Zimmer. Trendler faÃt wieder Posto. Er holt das
+Concept hervor, das er zu copiren gedenkt. Es wÃ¤hrt geraume Zeit, bis
+er entrÃ¤thselt hat, wo er gestern stehen geblieben. Endlich kommt er
+auch Ã¼ber diesen Punkt ins Klare ... Er bezeichnete die betreffende
+Stelle durch das daraufgelegte Federmesser, und holt den letzten Bogen
+der in Arbeit befindlichen Reinschrift aus der Mappe ...
+
+Jetzt kÃ¶nnte Herr Trendler mit Gottes Hilfe ans Werk gehen! So spricht
+der leichtsinnige Leser! Sein ungrÃ¼ndliches GemÃ¼th vergiÃt, daÃ zur
+gedeihlichen Handhabung der Feder eine tadellos gebraute und gereinigte
+Tinte erforderlich ist! Ehe sich Herr Trendler vergewissert hat, daÃ
+in dieser Beziehung alles in Ordnung ist, kann die eigentliche Arbeit
+nicht ihren Anfang nehmen. Ist es nicht etliche Mal vorgekommen, daÃ
+des Herrn Justizrath bÃ¶swilliger Neffe dem armen Herrn Trendler Sand,
+Oblaten, oder leichten Canaster No. 5 in das TintenfaÃ geworfen?
+Vorsicht ist also nirgends mehr am Platze, als Angesichts dieses
+mehrfach miÃhandelten Tintenfasses. Soll die musterhafte Spitze der
+Â»grauen, starkposigen PrachtfederÂ« gleich beim ersten Einstippen
+ruinirt werden?
+
+Trendler nimmt sein RÃ¼hr- und ProbirhÃ¶lzchen und taucht es hinab in
+die dunkle Tiefe. Es geht glatt. Von Sand keine Spur, ebensowenig von
+Tabak oder Oblaten. Trendler lÃ¤Ãt die schwarzen Tropfen langsam vom
+StÃ¤bchen niedertrÃ¤ufeln. Die Tinte ist klar. Vielleicht ein bischen zu
+dicklich ...
+
+Er nimmt eine seiner frischgeschnittenen Federn, leckt sie, fÃ¼llt sie
+und schreibt zur Probe zwei Zeilen auf den Linienbogen.
+
+Â»Hm! Ein wenig Wasser kÃ¶nnte nicht schaden!Â« murmelte er vor sich hin,
+und erhebt sich, um die Caraffe zu holen.
+
+Vorsichtig gieÃt er ein. Dann rÃ¼hrt er von neuem mit dem zierlichen
+HÃ¶lzchen, und macht einen zweiten Versuch auf dem Linienbogen.
+
+Â»Viel zu blaÃ!Â« sagte er kopfschÃ¼ttelnd.
+
+Â»Was?Â« fragt mein Onkel.
+
+Â»Ach, entschuldigen Sie, Herr Justizrath, die Tinte ist zu blaÃ.
+Wollten Sie mir nicht gefÃ¤lligst den SchlÃ¼ssel zur Tintenflasche geben?Â«
+
+Â»Ich weiÃ nicht, was Sie an der Tinte auszusetzen haben. Der SchlÃ¼ssel
+liegt drÃ¼ben auf dem BÃ¼chergestell rechts.Â«
+
+Trendler geht nach dem BÃ¼chergestell und sucht.
+
+Nach zwei Minuten:
+
+Â»Herr Justizrath, der SchlÃ¼ssel ist nicht da!Â«
+
+Â»Rechts auf dem Brett! Thun Sie die Augen auf!Â«
+
+Abermals verstreicht eine lÃ¤ngere Frist.
+
+Â»Da liegt ein SchlÃ¼ssel, Herr Justizrath, aber es will mich bedÃ¼nken,
+als wÃ¤r' das nicht der SchlÃ¼ssel zum Eckschrank, wo die Tintenflasche
+steht!Â«
+
+Â»Esel!Â«
+
+Â»Was meinen Sie, Herr Justizrath?Â«
+
+Â»Heilige Kreuzschockmillionendonnerwetter, lassen Sie Ihr ewiges âºHerr
+Justizrathâ¹, und beeilen Sie sich!Â«
+
+Â»Wenn Sie meinen, das wÃ¤r' der SchlÃ¼ssel ...Â«
+
+Â»Freilich ist er's!Â«
+
+Â»Er kam mir nur so vor, als ob der Kamm grÃ¶Ãer wÃ¤re. Er wird's aber
+wohl sein, Herr Justizrath.Â«
+
+Er wandert nach dem Eckschrank, Ã¶ffnet und nimmt mit zÃ¶gernder
+BedÃ¤chtigkeit die Flasche heraus.
+
+Das TintenfaÃ wird vollgeschÃ¼ttet, die Flasche wieder eingeschlossen,
+der SchlÃ¼ssel aufs BÃ¼cherbrett gelegt. Abermals arbeitet das
+ProbirhÃ¶lzchen, abermals stellt die Feder ihr Examen an. Diesmal
+lautet der Urtheilsspruch des wÃ¼rdigen Scribenten auf genÃ¼gend.
+
+Er rÃ¼ckt nochmals die Mappe zurecht, berÃ¼hrt alle GegenstÃ¤nde, die vor
+ihm ausgebreitet liegen, drei- oder viermal mit der flachen Hand, und
+taucht dann den Kiel frisch und frÃ¶hlich in die dunkle Flut.
+
+Trendler hat nicht bedacht, daÃ er das FaÃ bis zum Rande gefÃ¼llt.
+Die Feder, anderthalb Zoll weit mit Tinte getrÃ¤nkt, weint auf das
+jungfrÃ¤uliche Papier einen groÃen, rundlichen Klex.
+
+Trendler ist nicht der Mann, sich durch eine solche Kleinigkeit aus
+der Fassung bringen zu lassen. Mit philosophischem Gleichmuth ergreift
+er das SandfaÃ, bestreut die Lache mit einer mÃ¤chtigen Trockenschicht,
+und hebt so den ganzen Klex bis auf einen grauschwarzen Fleck vom
+Bogen ab. Dann erfaÃt die Rechte das mehrfach genannte Messer, lÃ¤Ãt
+die Radirklinge herausspringen, und beginnt in sanftem Adagio zu
+schaben. Allgemach wird die Musculatur Trendler's lebhafter. Das Adagio
+verwandelt sich in ein sehr taktfestes Allegro. Deutlich unterscheiden
+wir die Melodie des bekannten Volksliedes:
+
+    Â»MÃ¤dele, ruck, ruck, ruck an meine grÃ¼ne Seite ...Â«
+
+Mein Onkel wird aufmerksam. PrÃ¼fend hebt er das kluge, graue Auge. Eine
+Minute lang steht er dem musikalischen RadirkÃ¼nstler ruhig zu. Ein
+LÃ¤cheln fliegt Ã¼ber seine sonst so ernsten ZÃ¼ge.
+
+Â»Trendler,Â« sagt er mit fast vÃ¤terlicher Milde, Â»Sie sind ein
+Kindskopf! ...Â«
+
+Der Scribent fÃ¤hrt aus seinen TrÃ¤umen empor.
+
+Â»Was befehlen der Herr Justizrath?Â«
+
+Â»Ich wÃ¼nsche, daÃ Sie Ihre Spielereien lassen!Â«
+
+Â»Aber, entschuldigen Sie, ich spiele nicht, ich radire. Die Tinte
+fleckt so.Â«
+
+Mein Onkel wendet sich kopfschÃ¼ttelnd zu seinen Akten.
+
+Â»Es geht nicht lÃ¤nger mit dem Menschen,Â« murmelt er vor sich hin. Â»So
+leid mir der arme Teufel thut, ich muÃ ihm den LaufpaÃ geben!Â«
+
+Dieser Monolog flieÃt nicht heute zum ersten Mal Ã¼ber die Lippen des
+alten Herrn. Zehnmal war er bereits entschlossen, Herrn Trendler zu
+verabschieden, und zehnmal hat die wohlwollende GutmÃ¼thigkeit seines
+Herzens den Sieg davon getragen.
+
+Trendler hat inzwischen den Bogen glÃ¼cklich durchradirt. Er lÃ¤Ãt sich
+jedoch auch durch dieses MiÃgeschick nicht aus dem Gleichgewicht
+werfen. Freilich hat er jetzt noch anderthalb Seiten mehr zu copiren,
+aber das thut nichts. Trendler erhÃ¤lt seine monatliche Gage von vierzig
+Gulden eben so pÃ¼nktlich, wenn er hundert Bogen zu Stande bringt, als
+wenn er deren zwÃ¶lfe liefert! Er hat ja Zeit!
+
+In diesem Augenblick ertÃ¶nt Musik von der StraÃe. Trendler ist, wie
+oben bemerkt, musikalisch. Schmunzelnd horcht er auf. Leise wiegt
+er das Haupt nach den KlÃ¤ngen des rauschenden Marsches. Es ist das
+siebzehnte JÃ¤gerregiment, das nach dem Bahnhofe zieht. Die Stadt
+erwartet irgend eine hoch- oder hÃ¶chstgestellte PersÃ¶nlichkeit zum
+Besuch, ich glaube einen Schwarzburg-RudolstÃ¤dtischen Prinzen. Trendler
+kann es nicht Ã¼ber sich gewinnen, -- er muÃ durch das Fenster blinzeln.
+Schmucke Gesellen, diese JÃ¤ger! Wie die blanken Waffen in der Sonne
+blitzen! So leben wir, so leben wir, so leben wir alle Tage ...
+
+Das Regiment ist vorbeimarschirt; die Musik hallt nur noch, wie
+ein ersterbendes Echo, aus der Ferne. Trendler geht wieder an sein
+Manuscript.
+
+Gott sei Dank! Der erste Federstrich! Trendler fÃ¼hlt sichtlich die
+Bedeutsamkeit dieses Momentes, denn er belohnt sich alsbald durch ein
+frisches Glas Wasser und eine stoffreiche Prise.
+
+Weiter, weiter! Der Kiel malt langsam die fingerlangen Buchstaben. Zwei
+Zeilen sind leserlich zu Papier gebracht.
+
+Da klopft es an die ThÃ¼re.
+
+Es ist ein Client, ein Bauer aus dem benachbarten Hochlande ...
+
+Trendler springt auf, um dem Eintretenden einen Stuhl herbeizuschleppen.
+
+Â»Bleiben Sie nur bei Ihrer Arbeit!Â« sagt der alte Herr, indem er den
+GruÃ des Bauern erwidert ... Â»Was bringen Sie?Â«
+
+Der Client setzt sein Anliegen auseinander. Trendler hÃ¶rt mit
+gespannter Aufmerksamkeit zu und kaut an der groÃposigen Prachtfeder.
+
+Â»Warum schreiben Sie nicht?Â«
+
+Â»Ich besann mich nur, ob ... ob âºcompetentâ¹ mit einem harten oder
+weichen T geschrieben wird. Es ist nicht recht zu erkennen im Concept.Â«
+
+Â»Mit T wird's geschrieben! Und jetzt stÃ¶ren Sie mich nicht! Sie sind
+unausstehlich, Trendler!Â«
+
+Der Scribent beugt sich Ã¼ber die Mappe und schreibt etwa eine Seite.
+Dann legt er plÃ¶tzlich die Feder Ã¼ber das TintenfaÃ und reibt sich
+heftig die linke Kniekehle. Der Tisch wackelt. Ein Bleistift und ein
+Lineal fallen zu Boden.
+
+Â»Was ist denn nun wieder los?Â« fragt der Justizrath.
+
+Â»O, bitte sehr,Â« stammelt der Schreiber, ... Â»ein PrivatverhÃ¤ltnis ...
+das Bein war mir nur ein bischen eingeschlafen.Â«
+
+Nach einigen Minuten scheint der SchlÃ¤fer erwacht zu sein. Trendler
+schreibt weiter. Mein Onkel verhandelt mit dem Bauern Ã¼ber den noch
+unverstÃ¤ndlichen Rechtsfall und explicirt ihm eben, daÃ er vor allen
+Dingen die und die BeweisstÃ¼cke beibringen mÃ¼sse, als Trendler abermals
+aufspringt, und, das Concept in der Linken, den Zeigefinger der Rechten
+fest auf einen lateinischen Passus gepreÃt, auf den alten Herrn
+eindringt und mit zwinkernden Ãuglein fragt:
+
+Â»Verzeihen Sie gÃ¼tigst, Herr Justizrath, wie soll das heiÃen ...?
+~Judex a ... a ...?~Â«
+
+Â»~A quo~,Â« ergÃ¤nzt mein Onkel. Â»Hundertmal haben Sie das Wort schon
+geschrieben! ...Â«
+
+Es schlÃ¤gt halb zwÃ¶lf. Der Bauer verabschiedet sich. Trendler trinkt
+ein weiteres Glas Wasser und beendet glÃ¼cklich die dritte Seite. Dann
+streicht er sich das Haar aus der Stirn, rÃ¤uspert sich und beginnt also:
+
+Â»Nichts fÃ¼r ungut, Herr Justizrath, aber wenn Sie heute ausnahmsweise
+fÃ¼r den speciellen Fall einmal freundlichst gestatten wollten, ein
+wenig frÃ¼her aufzuhÃ¶ren, so hÃ¤tte ich heute nÃ¤mlich einmal gerade
+ausnahmsweise Besuch, indem meiner Schwester Sohn aus Hirzenheim
+zufÃ¤llig gestern Abend hier eingetroffen ist und nur bis morgen da
+bleibt, wegen des Schweinemarktes, und sonst kÃ¶nnt' ich ja auch die
+Klage da heut' Nachmittag fertig schreiben, wenn Sie freundlichst
+erlauben.Â«
+
+Â»Meinetwegen! Machen Sie, daÃ Sie fortkommen!Â«
+
+Trendler zieht die SchreibÃ¤rmel aus, packt ein, hÃ¤ngt den Kittel an den
+Nagel und wirft sich in Rock und Paletot.
+
+Â»Wenn Sie sonst noch was zu befehlen haben, Herr Justizrath,Â« sagt er,
+den Hut in der linken Hand, den Stock in der rechten.
+
+Â»Nein, nein, nein! Lassen Sie mich nur jetzt ungeschoren, ich bin
+beschÃ¤ftigt!Â«
+
+Â»So wÃ¼nsch' ich recht guten Appetit, und bedanke mich! Herr Justizrath,
+auf Wiedersehn!Â«
+
+Er verschwindet mit devotem BÃ¼ckling. Nach anderthalb Minuten erscheint
+er von Neuem.
+
+Â»Um Vergebung, ich hatte den SchlÃ¼ssel stecken lassen. Sie wissen ja,
+Herr Justizrath, -- es ist von wegen Ihren werthen Herren Neffen.
+Nichts fÃ¼r ungut, und somit empfehl' ich mich!Â«
+
+Â»EinfÃ¤ltiger SchwÃ¤tzer, geh' zum Teufel!Â« brummt der alte Herr im Tone
+des hÃ¶chsten Verdrusses. Trendler aber geht zu seiner Schwester Sohn,
+der ihn im Â»AdlerÂ« beim Bier erwartet.
+
+Seitdem habe ich manchen Trendler bei der Arbeit gesehn, -- und stets
+muÃte ich des Schreibers meines guten Onkels gedenken. ...
+
+Und dann las ich allerlei fulminante Artikel Ã¼ber die sociale Frage,
+Ã¼ber das Verbrechen des Capitals und die offenen und geheimen SchÃ¤den
+der modernen Weltordnung.
+
+Meisterhaft! raunte mein Genius ... Der Gedanke, die Gesellschaft
+zu reorganisiren, ist unsterblich, und des SchweiÃes der Edlen
+werth. Aber die Edlen versÃ¤umen die unerlÃ¤Ãlichste Vorarbeit; eine
+statistisch-philosophische Studie Ã¼ber den EinfluÃ Trendler's auf die
+materielle Lage der Arbeiter ...
+
+Mein Onkel war ein durchaus liberaler, fortschrittlich gesinnter Mann.
+
+Als Trendler ihn jedoch eines Tages um LohnerhÃ¶hung anging, da warf
+er ihn vor die ThÃ¼re. Stand diese Handlungsweise mit dem Geiste des
+neunzehnten Jahrhunderts im Widerspruch? Die Leute vom Fach werden
+antworten!
+
+
+        Ende.
+
+
+
+
+    Aus Phil. Reclam's Universal-Bibliothek.
+
+    Preis jeder Nummer 20 Pf.
+
+
+    =Aldrich=, Prudence Palfrey und andere ErzÃ¤hlungen. 1387. 1388.
+
+    --,
+        Die TragÃ¶die von Stillwater. 1837. 1838.
+
+    =Berges, Ph.=, Amerikana. Humoristische Skizzen aus dem
+        amerikanischen Leben. 2508. 2698. 2829.
+
+    =Bret Harte=, Californische ErzÃ¤hlungen. Deutsch v. W. Lange. 571.
+        607. 629. 671. 712. 1069. 1127. 1164. 1204. 1230. Heft 1--5,
+        6--10 je in einen Band geb. Ã  1 M. 20 Pf.
+
+    --,
+        Gabriel Conroy. Roman. Deutsch von Otto Randolf. 771--775. Geb.
+        1 M. 50 Pf.
+
+    --,
+        Die Geschichte einer Mine. Eine californische Skizze. Deutsch
+        von Passow. 1039. 1040. Geb. 80 Pf.
+
+    --,
+        Die beiden MÃ¤nner von Sandy-Bar. Californisches SittengemÃ¤lde
+        in 4 AufzÃ¼gen. Deutsch v. W. Lange. 916.
+
+    --,
+        Thankful Blossom. Eine Geschichte. Deutsch von Otto Randolf.
+        870. Geb. 60 Pf.
+
+    =Denison, M. A.=, So'n Mann wie mein Mann. Eine
+        Ehestands-Humoreske. 2141. 2142. Geb. 80 Pf.
+
+    =Eggleston, Edward=, Der Weltuntergang. Eine amerikanische
+        Dorfgeschichte. 2405. 2406.
+
+    =Habberton, John=, Allerhand Leute. Lebensbilder aus dem
+        amerikanischen Westen. Deutsch von Alfred MÃ¼renberg. 1517.
+        1518. Geb. 80 Pf.
+
+    =KÃ¼rnberger, Ferd.=, Der AmerikamÃ¼de. Amerikanisches Kulturbild.
+        Zweite Auflage. Mit einer Einleitung von V. K. Schembera.
+        2611--2615. Geb. 1 M. 50 Pf.
+
+    =Mark Twain=, AusgewÃ¤hlte Skizzen. Deutsch v. W. Lange. 1019. 1079.
+        1149. 2072.
+
+    =Pajeken, Friedrich J.=, Aus dem wilden Westen Nordamerikas.
+        Erlebnisse und Skizzen. 2752.
+
+    =Roe, Edwin, P.=, Wie sich Jemand in seine Frau verliebt.
+        Amerikanische Dorfgeschichte. Deutsch v. K. Knortz. 2593.
+
+    =Ruppius, Otto=, Der Pedlar. Roman aus dem amerikanischen Leben.
+        1141--1143. Geb. 1 M.
+
+    --,
+        Das VermÃ¤chtniÃ des Pedlars. Folge des Romans: âºDer Pedlarâ¹.
+        1316--1318. Geb. 1 M.
+
+    =Vacano, E. M.=, Humbug. Eine wunderliche Historie. 2321.
+
+    --,
+        KomÃ¶dianten. 2607.
+
+    =Wickede, Fr. C. v.=, Amerikanische Novelletten. 909. 1234.
+
+
+
+
+    Reclam's billigste Classiker-Ausgaben.
+
+
+    BÃ¶rne's gesammelte Schriften. 3 BÃ¤nde. Geh. 4 M. 50 Pf. -- In 3
+        eleg. LeinenbÃ¤nden 6 M.
+
+    Byron's sÃ¤mmtliche Werke. Frei Ã¼bersetzt v. +Adolf Seubert+. 3
+        BÃ¤nde. Geheftet 4 M. 50 Pf. -- In 3 eleg. LeinenbÃ¤nden 6 M.
+
+    Goethe's sÃ¤mmtl. Werke in 45 Bdn. Geh. 11 M.-- In 10 eleg.
+        LeinenbÃ¤nden 18 M.
+
+    Goethe's Werke. Auswahl. 16 BÃ¤nde in 4 eleg. Leinenbndn. 6 M.
+
+    Grabbe's sÃ¤mmtliche Werke. Herausgegeben von +Rud. Gottschall+. 2
+        BÃ¤nde. Geh. 3 M. -- In 2 eleg. LeinenbÃ¤nden 4 M. 20 Pf.
+
+    Hauff's sÃ¤mmtliche Werke. 2 BÃ¤nde. Geheftet 2 M. 25 Pf. -- In 2
+        eleg. LeinenbÃ¤nden 3 M. 50 Pf.
+
+    Heine's sÃ¤mmtliche Werke in 4 BÃ¤nden. Herausgegeben von +O. F.
+        Lachmann+. Geh. M. 3.60. -- In 4 eleg. Ganzleinenbdn. 6 M.
+
+    Herder's ausgewÃ¤hlte Werke. Herausgegeben von +Ad. Stern+. 3 BÃ¤nde.
+        Geheftet 4 M. 50 Pf. -- In 3 eleg. LeinenbÃ¤nden 6 M.
+
+    H.
+        v. Kleist's sÃ¤mmtliche Werke. Herausg. v. +Eduard Grisebach+. 2
+        BÃ¤nde. Geh. 1 M. 25 Pf. -- In 1 eleg. Leinenband 1 M. 75 Pf.
+
+    KÃ¶rner's sÃ¤mmtliche Werke. Geh. 1 M. -- In eleg. Lnbd. 1 M. 50 Pf.
+
+    Lenau's sÃ¤mmtliche Werke. Mit Biographie herausgeg. v. +Emil
+        Barthel+. 2. Aufl. Geh. 1 M. 25 Pf. -- In eleg. Lnbd. 1 M.
+        75 Pf.
+
+    Lessing's Werke in 6 BÃ¤nden. Geheftet 3 M. -- In 2 eleg.
+        LeinenbÃ¤nden 4 M. 20 Pf. -- In 3 LeinenbÃ¤nden 5 M.
+
+    Lessing's poetische und dramatische Werke. Geheftet 1 M. -- In
+        eleg. Leinenband 1 M. 50 Pf.
+
+    Longfellow's sÃ¤mmtliche poetische Werke. Uebersetzt v. +Herm.
+        Simon+. 2 Bde. Geh. 3 M. -- In 2 eleg. LeinenbÃ¤nden 4 M. 20 Pf.
+
+    Milton's poetische Werke. Deutsch von +Adolf BÃ¶ttger+. Geh. 1 M. 50
+        Pf. -- In eleg. Leinenband 2 M. 25 Pf.
+
+    MoliÃ¨re's sÃ¤mmtliche Werke. Herausgegeben v. +E. SchrÃ¶der+. 2
+        BÃ¤nde. Geh. 3 M. -- In 2 eleg. LeinenbÃ¤nden 4 M. 20 Pf.
+
+    Schiller's sÃ¤mmtliche Werke in 12 BÃ¤nden. Geh. 3 M. -- In 3
+        Halbleinenbdn. M. 4.50. -- In 4 eleg. Leinenbdn. M. 5.40. -- In
+        4 Halbfranzbdn. 6 M.
+
+    Shakespeare's sÃ¤mmtl. dram. Werke. Dtsch. v. +Schlegel+, +Benda+ u.
+        +VoÃ+. 3 Bde. Geh. M. 4.50. -- In 3 eleg. Leinenbdn. M. 6.
+
+    Uhland's gesammelte Werke in 2 BÃ¤nden. Herausgegeben v. +Friedr.
+        Brandes+. Geh. M. 2. -- In 2 eleg. Leinenbdn. M. 3.
+
+
+
+
+    Aus Philipp Reclam's Universal-Bibliothek.
+
+    Preis jeder Nummer 20 Pf.
+
+
+    BalÃ¡zs, Heitere Lebensbilder. 2899.
+
+    Berczik, A. v., Ehestandsgeschichten und andere Humoresken. Deutsch
+        von Dr. A. Kohut. 3240.
+
+    Berges, Ph., Amerikana. Humoristische Skizzen. 4 Bde. 2508. 2698.
+        2829. 3175.
+
+    Blumauer, A., Virgils Aeneis. Travestie. 173. 174. -- Geb. 80 Pf.
+
+    BÃ¶gh, Erik, Humoristische Vorlesungen. 2 BÃ¤nde. 1062. 1240.
+
+    --,
+        Der Theaterkobold. Humoreske. Deutsch von J. Martens. 2467.
+
+    BÃ¶tticher, Georg, Allotria. 3160. -- Geb. 60 Pf.
+
+    Bornstein, A., Der Theaterarzt und andere Humoresken. 3437.
+
+    --,
+        Schnurrige Kerle u. and. Humoresken. Mit 3 Illustr. von J.
+        Kleinmichel. 3040.
+
+    Brentano, F., Heitere Geschichten. Vier BÃ¤nde. 2330. 2564. 3068.
+        3246.
+
+    BÃ¼rger, G. A., MÃ¼nchhausens Reisen u. Abenteuer. 121. -- Geb. 60 Pf.
+
+    Crome-Schwiening, Allerhand humoristische Kleinigkeiten. 2827.
+
+    Cronheim, R., FÃ¤hnrichsgeschichten. Humoresken. 1736.
+
+    Daudet, A., Tartarin aus Tarascon. Deutsch von Gerstmann. 1707.
+
+    Degen, In der Kaserne. 2589.
+
+    --,
+        Aus dem MilitÃ¤rleben. 4 BÃ¤nde. 2668. 2835. 3043. 3398.
+
+    Demokritos. 1. Bd.: Das Lachen. 3368. 2. Bd.: Was ist lÃ¤cherlich?
+        3405. 3. Bd.: Das Weib. 3442.
+
+    Denison, M. A., So'n Mann wie mein Mann. Ehestands-Humoreske.
+        Dtsch. v. P. Heichen. 2141. 2142. -- Geb. 80 Pf.
+
+    Detmold, Joh. Herm., Randzeichnungen. -- Anleitung zur
+        Kunstkennerschaft. Satiren. 2230. -- Geb. 60 Pf.
+
+    Eckstein, E., Humoresken. 2 BÃ¤nde. 621. 1640.
+
+    --,
+        Der Besuch im Carcer. Humoreske. Mit sechs
+        Original-Illustrationen von G. Sundblad. 2340. -- Geb. 60 Pf.
+
+    Fritz, (Singer), Briefe eines Junggesellen. Stimmungsbilder. 3200.
+
+    --,
+        Thoren und ThÃ¶rinnen. Kleine Geschichten. 3314.
+
+    Gaudy, Fr. Frhr., Aus dem Tagebuch eines wandernden
+        Schneidergesellen. 289. -- Geb. 60 Pf.
+
+    --,
+        SchÃ¼lerliebe u. andere Humor. 2319.
+
+    Grimmelshausen, Der abenteuerliche Simplicissimus. Deutsch von
+        Philipp Lenz. 761--765. -- Geb. M. 1.50.
+
+    Habberton, J., Helene's Kinderchen. Humoreske. Deutsch von M.
+        Greif. 1993. 1994. -- Geb. 80 Pf.
+
+    --,
+        Andrer Leute Kinder oder Bob und Teddi auf Reisen. Deutsch von
+        M. Greif. 2103--2105. -- Geb. 1 M.
+
+    --,
+        Helene's Kinderchen und Andrer Leute K. In 1 Bd. Mit Goldschn.
+        2 M.
+
+    --,
+        Frau Marburgs Zwillinge. 2750. -- Geb. 60 Pf.
+
+    HÃ¶cker, P. Oskar, Leichtsinniges Volk. Novelle. 3212.
+
+    Jahn, E. R., Humoristische ErzÃ¤hl. 3276.
+
+    Jerrold, D., Frau Kaudels Gardinenpredigten. 388. 389. -- Geb.
+        80 Pf.
+
+    Junggesellenbrevier. 2707. -- Geb. 60 Pf.
+
+    Knigge, A., Die Reise nach Braunschweig. Ein komischer Roman. 14.
+
+    Kock, P. de, Der bucklige Taquinet. Komischer Roman. Deutsch von
+        Denhardt. 1883. 1884.
+
+    --,
+        Herr Krautkopf sucht seine Frau. Roman. Dtsch. v. J. Olden.
+        3414. 3415.
+
+    KÃ¶hler, B., Dies und Das. 2988.
+
+    Kortum, ~Dr.~ C. A., Die Jobsiade. Hrsg. v. Schnettler. 398--400.
+        -- Geb. 1 M.
+
+    Krackowizer, ~Dr.~, Naturgeschichte des Ã¶sterreichisch. Studenten.
+        Gymnasial-Humoresken. 2699.
+
+    KraÃnigg, R., MilitÃ¤r-Erinnerungen eines Ã¶sterreichischen
+        Artilleristen. Heitere Skizzen und Bilder. 2889.
+
+    Kraus, O., ÎÎÎ¥Î¡ÎÎÎ£. Die Meyeriade. Humoristisches Epos aus dem
+        Gymnasialleben. 2980.
+
+    Lennig, Friedrich, Etwas zum Lachen. 3255. -- Geb. 60 Pf.
+
+    Lenz, Ph., MilitÃ¤rische Humoresken. 5 Bde. 710. 728. 795. 850. 897.
+        -- Zus. in 1 Band geb. M. 1.20.
+
+    Lichtenberg, G. Chr., AusgewÃ¤hlte Schriften. Herausgegeben v. Eugen
+        Leyden. 1286--1289. -- Geb. M. 1.20.
+
+    Liebesbrevier. 2850. -- Geb. 60 Pf.
+
+    Mark Twain, AusgewÃ¤hlte Skizzen. 1019. 1079. 1149. 2072. 2954.
+
+    MÃ¤rzroth, ~Dr.~, Lachende Geschichten. 4 BÃ¤nde. 1266. 1304. 1418.
+        1599.
+
+    Merth, Bernhard, Des Ã¶sterreichischen Volksschullehrers Freud und
+        Leid. Heitere Geschichten. 3396.
+
+    Mikulitsch, W., Mimis Badereise. Eine Skizze. Deutsch v. E.
+        Lamberg. 3089.
+
+    MÃ¼ller, Joh. G., Siegfried von Lindenberg. 206--209.
+
+    NÃ¶tel, L., Vom Theater. Humoristische ErzÃ¤hlungen. 5 BÃ¤nde. 1206.
+        1461. 1533. 1664. 1763.
+
+    Pohl, Robert, Peppi's Soldat und andere heitere Bilder und
+        Geschichten. 3129.
+
+    PÃ¶tzl, Ed., Kriminal-Humoresken. Drei BÃ¤ndchen. 1905. 1980. 2258.
+        Zus. in 1 Bd. geb. mit Illustr. 1 M.
+
+    --,
+        Der Herr von Nigerl und andere humoristische Skizzen. 3005.
+        3006. -- Geb. 80 Pf.
+
+    --,
+        Rund um den Stephansturm. Humoresken. 2411. 2412. -- Geb. 80 Pf.
+
+    --,
+        Wien. 1. Bd. Skizzen v. E. PÃ¶tzl. 2065. -- 2. Bd. Alt-Wiener
+        Studien von E. Hoffmann. 2101. -- 3. Bd. Neues humoristisches
+        Skizzenbuch von E. PÃ¶tzl. 2169.
+
+    --,
+        Die Leute von Wien. Neue Folge ausgewÃ¤hlter humoristischer
+        Skizzen. 2629. 2630. -- Geb. 80 Pf.
+
+    RÃ¡kosi, Viktor, Mein Dorf und andere heitere Geschichten. 3115.
+
+    Roe, Edwin, Wie sich Jemand in seine Frau verliebt. Amerik.
+        Dorfgeschichte. Deutsch von Karl Knortz. 2593.
+
+    Roehl, Arthur, Freilichtbilder. Humoresken. 3390.
+
+    Saphir, M. G., Meine Memoiren und anderes. 2510.
+
+    --,
+        Humoristische Vorlesungen. 3 BÃ¤ndchen. 2516. 2529. 2603.
+
+    --,
+        Humoristisch-satirische Novelletten und Bluetten. 2546. 2547.
+
+    Schlicht, Frhr. v., Militaria. Heitere Soldatengeschichten. 3458.
+
+    SchnadahÃ¼pfln, Tausend, Gesammelt u. mit Einleitung, erklÃ¤rendem
+        WÃ¶rterverzeichnisse und acht Singweisen herausgegeben v. Fr.
+        Gundlach. 3101. 3102. -- Geb. 80 Pf.
+
+    SchÃ¶nthan, Fr. u. P. v., Kleine Humoresken. 4 BÃ¤ndchen. 1680. 1790.
+        1939. 2279.
+
+    --,
+        P. v., Kindermund. Gesammelte AnsprÃ¼che und Scenen aus dem
+        Kinderleben. 2188. -- Geb. 60 Pf.
+
+    SchÃ¶nthan, P. v., Der KuÃ. Gereimtes u. Ungereimtes Ã¼ber den KuÃ.
+        Zweite vermehrte Auflage. 2311. -- Geb. 60 Pf.
+
+    SchrÃ¶der, Willem, De PlattdÃ¼dsche SprÃ¼ckwÃ¶rder-Schatz. 493.
+
+    --,
+        PlattdÃ¼dsche Leeder un DÃ¶ntjes. 928.
+
+    --,
+        W. u. A., Humoresken. 7 BÃ¤nde. 451. 488. 611. 790. 1178. 1575.
+        2706.
+
+    Sienkiewicz, H., Die Dritte. -- ~Lux in tenebris lucet.~ Eine
+        heitere u. eine ernste ErzÃ¤hlung a. d. KÃ¼nstlerleben. Deutsch
+        von H. Majdanska. 3053.
+
+    Stell, B., Lustigi Thurgauer G'schichte. Humoresken in Thurgauer
+        Mundart. 2490.
+
+    --,
+        Studentenrache und andere heitere Geschichten. 2719.
+
+    Sterne, L., Empfindsame Reise durch Frankreich und Italien. Deutsch
+        von Friedr. HÃ¶rlek. 169. -- Geb. 60 Pf.
+
+    --,
+        Leben und Meinungen des Herrn Tristram Shandy. Deutsch von
+        Adolf Seubert. 1441--1445. -- Geb. M. 1.50.
+
+    Tagebuch eines bÃ¶sen Buben. Aus dem Englischen von J. Botstiber.
+        3149. 3150. -- Geb. 80 Pf.
+
+    Tewfik, Die SchwÃ¤nke des NaÃr-ed-din, und Buadem. Deutsch von Dr.
+        E. MÃ¼llendorff. 2735.
+
+    Vacano, E. M., Humbug. Eine wunderliche Historie. 2321.
+
+    --,
+        KomÃ¶dianten. 2607.
+
+    Velde, C. F. v. de, Das Liebhaber-Theater. Humoreske aus dem erstem
+        Zehntel des 19. Jahrhunderts. 112.
+
+    Viola, Die Nadel der Kleopatra und andere Humoresken. 2577.
+
+    Volger, Ed., Allerhand Dummheiten. Humoresken. 3113.
+
+    Weisflog, C., Das groÃe Loos. 312.
+
+    WeiÃ, Julian, Von der heiteren Seite. Humoresken aus Ungarn. 3091.
+
+    Wolzogen, Alfred Frhr. v., Zwei Humoresken. (Die Unke. -- Lori.)
+        1697.
+
+    ZachariÃ¤, Der Renommist. 307.
+
+    Zschokke, H., Tantchen Rosmarin. -- Das blaue Wunder. Zwei
+        Humoresken. 2096.
+
+
+
+
+    Weitere Anmerkungen zur Transkription
+
+
+    Offensichtlich fehlerhafte Zeichensetzung wurde stillschweigend
+    korrigiert.
+
+    Die Darstellung der Ellipsen wurde vereinheitlicht.
+
+    Korrekturen (das korrigierte Wort ist in {} eingeschlossen):
+
+    S. 19: wieder â wider
+      Wurst {wider} Wurst
+
+    S. 20: eine â ein
+      ohne {ein} VielfraÃ zu sein
+
+    S. 21: den â dem
+      bedeutete {dem} Bibliothekar sich zu entfernen.
+
+    S. 51: nun â nie
+      Er wird mir das MÃ¤dchen {nie} und nimmer
+
+    S. 58: Vorschworenen â Verschworenen
+      stand er mitten unter den {Verschworenen}
+
+    S. 62: ihre â Ihre
+      durch {Ihre} unsaubere Gegenwart
+
+    S. 94: nnd â und
+      betrachtet {und} schlieÃlich auf dem Nagel
+
+    S. 96 miÃhandelteu â miÃhandelten
+      mehrfach {miÃhandelten} Tintenfasses
+
+
+
+
+
+End of Project Gutenberg's Humoresken (Zweites BÃ¤ndchen), by Ernst Eckstein
+
+*** END OF THIS PROJECT GUTENBERG EBOOK HUMORESKEN (ZWEITES BÃNDCHEN) ***
+
+***** This file should be named 49381-0.txt or 49381-0.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/4/9/3/8/49381/
+
+Produced by The Online Distributed Proofreading Team at
+http://www.pgdp.net
+
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for the eBooks, unless you receive
+specific permission. If you do not charge anything for copies of this
+eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given
+away--you may do practically ANYTHING in the United States with eBooks
+not protected by U.S. copyright law. Redistribution is subject to the
+trademark license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country outside the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you'll have to check the laws of the country where you
+  are located before using this ebook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
+trademark. Contact the Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org Section 3. Information about the Project Gutenberg
+Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its
+volunteers and employees are scattered throughout numerous
+locations. Its business office is located at 809 North 1500 West, Salt
+Lake City, UT 84116, (801) 596-1887. Email contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at www.gutenberg.org/contact
+
+For additional contact information:
+
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works.
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our Web site which has the main PG search
+facility: www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+

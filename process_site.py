@@ -8,13 +8,46 @@ base_url = 'https://www.gutenberg.org'
 
 def main():
     cats = process_categories()
-
+    books_csv = []
+    subjects_csv = []
+    categories_csv = []
     for category in cats:
         title, catalog_link = category['title'], category['link']
         catalog_links = process_catalog(title, catalog_link)
-
         for book_link in catalog_links:
-            process_book(book_link, title)
+            book, subjects = process_book(book_link, title)
+            if not book or not subjects:
+                continue
+            books_csv.append(book)
+            categories_csv.append({
+                'book_id': book['id'],
+                'category': category['title']
+            })
+            for subject_id, subject in subjects.items():
+                subjects_csv.append({
+                    'id': subject_id,
+                    'subject': subject,
+                    'book_id': book['id']
+                })
+
+    books_csv_no_duplicates = [
+        dict(t) for t in set(tuple(d.items()) for d in books_csv)
+    ]
+    tools.write_csv(books_csv_no_duplicates,
+                    ['id', 'title', 'author', 'release_date'], 'book_data',
+                    'processed_data')
+    tools.write_csv(subjects_csv, ['id', 'subject', 'book_id'], 'subject_data',
+                    'processed_data')
+    tools.write_csv(categories_csv, ['book_id', 'category'], 'category_data',
+                    'processed_data')
+
+
+# Regex patterns for books
+eom_pattern = re.compile(
+    r'\*\*\*[^*]+\*\*\*')  # Matches the end of metadata in the txt file.
+title_pattern = re.compile(r'Title: (.+?)\n')
+author_pattern = re.compile(r'Author: (.+?)\n')
+rd_pattern = re.compile(r'Release Date: .*?(\d{4}).*?\n')
 
 
 def format_title(title):
@@ -130,41 +163,74 @@ def process_book(book_link, category):
     book_id = int(book_link.replace('/ebooks/', ''))
     tools.download_page(link, str(book_id), directory)
     book_page = tools.read_file(str(book_id), directory)
+    book_link, subjects = parse_book_page(book_page)
+    if not book_link:
+        return None, None
+    directory = 'processed_data/books'
+    book_url = join_url(base_url, book_link)
+    tools.download_txt(book_url, str(book_id), directory)
+    book = parse_metadata(book_id)
+    if not book:
+        return None, None
+    book_row = {
+        'id': book_id,
+        'title': book['title'],
+        'author': book['author'],
+        'release_date': book['release_date']
+    }
+    return book_row, subjects
 
 
-def parse_book(html_file):
+def parse_book_page(html_file):
     soup = BeautifulSoup(html_file, 'html.parser')
-
     book = {}
-
     # First confirm that it is actually text
     t = soup.find('td', property='dcterms:type').text
     if t != 'Text':
-        return
-
-    # Find url for plaintext book
-    for link in soup.find_all('a', type='text/plain'):
-        book['url'] = link.get('href')
-
-    bibrec = soup.find('table', 'bibrec')
-    # Get author
-    author_surname, author_name, life = bibrec.find_next(
-        'a', rel='marcrel:aut').text.split(', ')
-    book['author'] = author_name + ' ' + author_surname
-
-    # Get the books title
-    book['title'] = soup.find('td', itemprop='headline').text.strip()
+        return None, None
 
     # Save all the subjects
-    subjects = []
+    subjects = {}
     for subject in soup.find_all('td', property='dcterms:subject'):
-        name = subject.find('a').text.strip()
-        subjects.append(name)
-    book['subjects'] = subjects
-    return book
+        l = subject.find('a')
+        name = l.text.strip()
+        subject_id = int(l.get('href').replace('/ebooks/subject/', ''))
+        subjects[subject_id] = name
+
+    # Find url for plaintext book
+    for link in soup.find_all('a', title='Download'):
+        if link.text == 'Plain Text UTF-8':
+            return link.get('href'), subjects
+    return None, None
+
+
+def parse_metadata(book_id):
+    txt = tools.read_book(str(book_id), 'processed_data/books')
+    e_re = eom_pattern.search(txt)
+    if e_re:
+        e = e_re.start()
+    else:
+        return
+    metadata_txt = txt[:e]
+
+    title_re = title_pattern.search(metadata_txt)
+    author_re = author_pattern.search(metadata_txt)
+    release_date_re = rd_pattern.search(metadata_txt)
+
+    if title_re:
+        title = title_re[1]
+    else:
+        title = 'Unknown'
+    if author_re:
+        author = author_re[1]
+    else:
+        author = 'Unknown'
+    if release_date_re:
+        release_date = release_date_re[1]
+    else:
+        release_date = 0
+    return {'title': title, 'author': author, 'release_date': release_date}
 
 
 if __name__ == '__main__':
-    #main()
-    book = tools.read_file('book', 'pages/books')
-    parse_book(book)
+    main()

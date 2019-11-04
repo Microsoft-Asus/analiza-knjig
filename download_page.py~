@@ -1,5 +1,0 @@
-import requests
-
-
-def download(url):
-    url[0]

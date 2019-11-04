@@ -31,7 +31,7 @@ def download_page(url, file_name, directory, force=False):
     '''Save page at url to file_name.'''
     path = os.path.join(directory, file_name + '.html')
     try:
-        print('Saving {}... '.format(url), end='')
+        print('Saving {} ... '.format(url), end='')
         sys.stdout.flush()
         if os.path.isfile(path) and not force:
             print("Page already saved!")
@@ -44,6 +44,32 @@ def download_page(url, file_name, directory, force=False):
         with open(path, 'w', encoding='utf-8') as page_file:
             page_file.write(r.text)
             print('Page saved!')
+
+
+def download_txt(url, file_name, directory, force=False):
+    '''Save txt file'''
+    path = os.path.join(directory, file_name + '.txt')
+    try:
+        print('Saving {} ... '.format(url), end='')
+        sys.stdout.flush()
+        if os.path.isfile(path) and not force:
+            print("Book already saved!")
+            return
+        r = requests.get(url)
+    except requests.exceptions.ConnectionError:
+        print('Failed to download book.')
+    else:
+        create_folder(path)
+        with open(path, 'w', encoding='utf-8') as page_file:
+            page_file.write(r.text)
+            print('Book saved!')
+
+
+def read_book(file_name, directory):
+    with open(os.path.join(directory, file_name + '.txt'),
+              'r',
+              encoding='utf-8') as book_file:
+        return book_file.read()
 
 
 def read_file(file_name, directory):

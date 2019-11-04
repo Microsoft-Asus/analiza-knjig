@@ -1,0 +1,1861 @@
+ï»¿The Project Gutenberg EBook of Edgar Allan Poe, by Hanns Heinz Ewers
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Edgar Allan Poe
+       Die Dichtung, Band XLII
+
+Author: Hanns Heinz Ewers
+
+Release Date: February 16, 2007 [EBook #20589]
+
+Language: German
+
+Character set encoding: UTF-8
+
+*** START OF THIS PROJECT GUTENBERG EBOOK EDGAR ALLAN POE ***
+
+
+
+
+Produced by Louise Hope, Tamise Totterdell and the Online
+Distributed Proofreading Team at http://www.pgdp.net (This
+file was produced from images generously made available
+by The Internet Archive/American Libraries.)
+
+
+
+
+
+
+  [Das gedruckte Buch hat sowohl Kursivtext als Â»gesperrtÂ« gebraucht.
+  In dem e-text werden sie so geschildert:
+    _kursiv_
+    +gesperrt+
+
+  Fehler und UnregelmÃ¤ssigkeiten sind am Ende des Textes notiert.]
+
+       *       *       *       *       *
+           *       *       *       *
+       *       *       *       *       *
+
+  DIE DICHTUNG
+
+  HERAUSGEGEBEN
+  VON PAUL REMER
+
+  BAND XLII
+
+
+  EDGAR ALLAN POE
+    von
+  HANNS HEINZ EWERS
+
+
+
+
+  DIE DICHTUNG BD. XLII
+  EDGAR ALLAN POE VON
+  HANNS HEINZ EWERS
+
+
+
+
+  +------------------------------------------------------+
+  |                    +DIE DICHTUNG+                    |
+  |                                                      |
+  |            EINE SAMMLUNG VON MONOGRAPHIEEN           |
+  |             HERAUSGEGEBEN VON PAUL REMER             |
+  |           BUCHSCHMUCK VON HEINRICH VOGELER           |
+  +------------------------------------------------------+
+  | Band      I. Henrik Ibsen      von Paul Ernst        |
+  | Band     II. Anzengruber       von J. J. David       |
+  | Band    III. Victor Hugo     von H. v. Hofmannsthal  |
+  | Band     IV. Liliencron        von Paul Remer        |
+  | Band      V. Leo Tolstoj       von Julius Hart       |
+  | Band     VI. HÃ¶lderlin         von Hans Bethge       |
+  | Band    VII. Boccaccio         von Hermann Hesse     |
+  | Band   VIII. Cervantes         von Paul Scheerbart   |
+  | Band     IX. Gottfried Keller  von Ricarda Huch      |
+  | Band      X. MÃ¶rike            von Gustav KÃ¼hl       |
+  | Band     XI. Droste-HÃ¼lshoff   von Wilh. v. Scholz   |
+  | Band    XII. E. T. A. Hoffmann von Rich. Schaukal    |
+  | Band   XIII. Franz von Assisi  von Hermann Hesse     |
+  | Band    XIV. Peter Hille       von Heinrich Hart     |
+  | Band     XV. dâAnnunzio     von Alberta v. Puttkamer |
+  | Band    XVI. Lenau             von Leo Greiner       |
+  | Band   XVII. Novalis           von Willy Pastor      |
+  | Band  XVIII. Walt Whitman      von Johannes Schlaf   |
+  | Band    XIX. Ebner-Eschenbach  von Gabr. Reuter      |
+  | Band     XX. Kleist            von Wilh. Hegeler     |
+  | Band    XXI. Wilhelm Busch     von Rich. Schaukal    |
+  | Band   XXII. Homer             von Willy Pastor      |
+  | Band  XXIII. C. Ferd. Meyer    von Wilh. Holzamer    |
+  | Band   XXIV. Theod. Fontane    von Franz Servaes     |
+  | Band    XXV. Grabbe            von Otto Krack        |
+  | Band   XXVI. Schiller          von Fritz Lienhard    |
+  | Band  XXVII. Rich. Wagner      von Hans v. Wolzogen  |
+  | Band XXVIII. Hebbel            von Wilhelm v. Scholz |
+  | Band   XXIX. J. P. Jacobsen    von Hans Bethge       |
+  | Band    XXX. Paul Verlaine     von Stefan Zweig      |
+  | Band   XXXI. Bismarck          von Max Bewer         |
+  | Band  XXXII. Klaus Groth       von Timm KrÃ¶ger       |
+  | Band XXXIII. Maeterlinck       von Anselma Heine     |
+  | Band  XXXIV. Oscar Wilde       von Hedw. Lachmann    |
+  | Band   XXXV. Lessing           von Otto Ernst        |
+  | Band  XXXVI. Fritz Reuter      von Marx MÃ¶ller       |
+  | Bd.  XXXVII. Sophokles         von Paul Ernst        |
+  | Bd. XXXVIII. Verhaeren         von Johannes Schlaf   |
+  | Band  XXXIX. Shakespeare       von Franz Servaes     |
+  | Band     XL. Heinrich Heine    von Wilh. Holzamer    |
+  | Band    XLI. Eichendorff       von Gustav Falke      |
+  | Band   XLII. Edgar Allan Poe   von H. Heinz Ewers    |
+  |                                                      |
+  |              In Vorbereitung:                        |
+  | Luther                   von Adolf Bartels           |
+  | Gerhart Hauptmann        von Hermann Stehr           |
+  | Li-tai-pe                von Arno Holz               |
+  | Euripides                von Hermann Bahr            |
+  | Richard Dehmel           von Gustav KÃ¼hl             |
+  | Theodor Storm            von Paul Remer              |
+  |              und andere                              |
+  +------------------------------------------------------+
+  |       _Jeder Band elegant kartoniert M. 1.50_        |
+  |       _Jeder Band in echt Leder geb. M. 2.50_        |
+  +------------------------------------------------------+
+
+
+  FÃR BÃCHERLIEBHABER
+  Wurden die ersten zwanzig Exemplare
+  dieses Buches auf echtes BÃ¼ttenpapier
+  gedruckt und handschriftlich numeriert.
+  Der Preis dieser in Original-Collin-Leder
+  gebundenen Luxusausgabe betrÃ¤gt 10 Mark.
+  Sie ist durch alle Buchhandlungen zu beziehen
+
+
+  ALLE RECHTE VORBEHALTEN
+
+
+
+
+  [Abbildung: A EDGAR POE]
+
+
+
+
+  EDGAR ALLAN POE
+
+  von
+
+  HANNS HEINZ EWERS
+
+  [Verzierung]
+
+  Verlegt bei Schuster & Loeffler
+    Berlin und Leipzig
+
+
+
+
+GUSTAV MEYRINK,
+
+dem _RauschkÃ¼nstler_, dem _TrÃ¤umer, der an TrÃ¤ume glaubt
+als an das einzig Wirkliche_ -- wie es Poe tat, wie es der
+tut, der dies schrieb -- sei dies BÃ¼chlein gewidmet.
+
+  +In der Alhambra+
+    April 1905    HANNS HEINZ EWERS.
+
+
+
+
+  [Verzierung]
+
+Leicht schreitet mein Fuss Ã¼ber die grauen Steine, den alten Weg, den
+ich so oft gegangen, hinauf zu der Alhambra heiligem Haine. Das Tor der
+Granaten Ã¶ffnet sich weit meiner Sehnsucht, dahinter bin ich der Zeit
+entflohen -- -- so leicht wandelt man in der TrÃ¤ume Land. Wo die Ulmen
+rauschen, wo die Springquellen plaudern, wo aus LorbeerbÃ¼schen hundert
+Nachtigallen singen, da mag ich wohl an meinen Dichter denken.
+
+    *  *  *
+
+Man sollte es nicht tun. Wirklich nicht.
+
+Man sollte nicht hingehen und irgendein Buch lesen Ã¼ber den KÃ¼nstler,
+den man liebt. Fast immer wird man enttÃ¤uscht sein -- -- wie kann ein
+Pfaffe Ã¼ber Gott sprechen? So vorsichtig soll man damit sein, so sehr
+vorsichtig.
+
+Du solltest es _so_ machen:
+
+Du liebst Firdusi? -- Goethe schrieb Ã¼ber ihn; +den+ kennst du nicht?
+Nun gut: lies erst alles, was Goethe schrieb, ehe du das liest, was er
+Ã¼ber den Perser sagt. -- Und dann erst, +wenn du den genau kennst+, der
+Ã¼ber deinen Liebling schrieb, +dann+ erst entscheide dich, ob du das
+lesen willst, was er Ã¼ber ihn sagt! -- So wirst du keine EnttÃ¤uschung
+erleben.
+
+Lies nie, was Hinz und Kunz Ã¼ber den KÃ¼nstler schreiben, den du liebst.
+Und wenn Hinz und Kunz die allergrÃ¶ssten Sterne sind, und wenn dein
+Liebling ein ganz kleiner Nebelfleck ist -- -- _lies es nicht!_ Lies es
+nicht eher, bis du Hinz und Kunz genau kennst, bis du weisst: sie haben
+ein Recht, Ã¼ber +deinen KÃ¼nstler+ zu sprechen.
+
+Ich habe es nicht so gemacht. Ich habe irgendwoher ein paar
+dickflÃ¼ssige Tropfen im Blute: unertrÃ¤gliche deutsche GrÃ¼ndlichkeit.
+So eine Art PflichtgefÃ¼hl. Ich dachte: eh du Ã¼ber den Dichter schreibst,
+den du liebst, lies das, was andere vor dir schrieben. Ich dachte:
+âVielleicht -- --â
+
+Ich las also viel Ã¼ber Edgar Allan -- Nun bin ich so enttÃ¤uscht, so sehr
+enttÃ¤uscht. Da war nur einer, dessen Geist ihn fassen konnte.
+
+War nur +Baudelaire+ -- --
+
+Baudelaire, der aus dem Haschich eine Kunst schuf. -- Wie hÃ¤tte _er_ ihn
+auch nicht fassen sollen, ihn, der aus Alkohol und Laudanum Kunstwerte
+formte?!
+
+  *  *  *
+
+-- Jetzt muss ich das alles vergessen, was die anderen sagten. Diesen
+grÃ¤sslichen Griswold muss ich vergessen, dessen ganze Poebiographie
+nichts anderes ist, als ein giftiges Ausspucken: â_Er soff, er soff_,
+pfui doch, _er soff!_â -- -- Und den noch grÃ¤sslicheren Ingram muss ich
+vergessen, diesen Narren, der meinen KÃ¼nstler +ehrenrettete+, indem er
+immer wieder stammelte: â_Er trank gar nicht, wirklich, er trank gar
+nicht!_â
+
+Rasch, ehe ich sie vergesse, will ich die Daten niederschreiben, die ich
+von ihnen habe:
+
+â_Edgar Allan Poe, geb. am 19. Januar 1809 in Boston. Irische Familie,
+langer Stammbaum, normannisches, keltisches, angelsÃ¤chsisches,
+italienisches Blut. 1816 nach England mit seinen Pflegeeltern, ein paar
+Jahre in einer Boarding-School in Stoke-Newington. -- 1822 zurÃ¼ck nach
+Amerika, 1826 Student in Richmond, dann in Charlottesville. 1827 Reise
+nach Europa mit unbekannten Abenteuern. 1830 Offizierskadett in
+Westpoint. 1834 Leiter des Southern Literary Messenger in Richmond.
+1836 verheiratet mit seiner Cousine Virginia Clemm. Er schrieb. --[1] Er
+lebte abwechselnd in New-Jork, Philadelphia, Richmond, Fordham. Es ging
+ihm sehr schlecht. +,Er soffâ+ (sagt Griswold). +,Er trank gar nichtâ+
+(sagt Ingram). Er starb am 7. Oktober im Armenkrankenhaus zu Baltimore,
+vierzig Jahre alt._â
+
+So, das wÃ¤ren diese allergleichgÃ¼ltigsten Daten. Nun kann ich auch das
+vergessen.
+
+    -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+    -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+
+-- Wie schwer das doch ist! -- Ganz langsam gehe ich durch die
+Ulmenallee, hinauf zu dem KÃ¶nigsschloss. Links biege ich ein und
+durchschreite die mÃ¤chtige Turmpforte des Gesetzes. Ich freue mich
+Ã¼ber die Hand da oben, die den bÃ¶sen Blick bannt; ich denke: da werden
+meine Pfaffen draussen bleiben. Nun bin ich oben -- -- allein in den
+vertrauten RÃ¤umen.
+
+Ich weiss wohl, wohin ich will. Rasch durch den Myrtenhof, durch den
+Saal der Mocaraben in den Hof der zwÃ¶lf LÃ¶wen. Links hinein in das
+Zimmer der beiden Schwestern und durch das der Ajimeces. Nun bin ich da,
+im Mirador de Daraxa, wo Boabdils Mutter âAicha wohnte. Ich sitze am
+Fenster, blicke hinaus auf die alten Zypressen -- --
+
+Wie schwer es doch ist, zu vergessen! Da gehen meine Pfaffen im Garten
+spazieren. Zwei englische Heuchler, runder Hut, kurze Pfeife, schwarzer
+Rock. Den BÃ¤deker in der Hand.
+
+â_Er soff!_â zischt der eine.
+
+â_O nein, er trank wirklich nicht!_â fistelt der andere.
+
+Ich mÃ¶chte sie mit den KÃ¶pfen zusammenstossen! Ich mÃ¶chte ihnen
+zuschreien: âFort, Ratten, fort! Hier sitzt einer, der trÃ¤umt von dem
+KÃ¼nstler, den er liebt! Er sang in eurer Sprache -- -- und ihr StÃ¶cke
+wisst nichts von ihm!â --
+
+Sie gehen ja schon, gewiss doch! Ich bin wieder allein -- --
+
+    *  *  *
+
+Er soff -- -- er soff nicht! -- So streiten EnglÃ¤nder Ã¼ber ihre Dichter!
+Sie lassen Milton verhungern, sie stehlen Shakespeare sein ganzes
+Lebenswerk, sie wÃ¼hlen mit krummen Fingern in Byrons und Shelleys
+Familiengeschichten, sie begeifern Rossetti und Swinburne, stecken Wilde
+ins Zuchthaus und zeigen mit den Fingern auf Charles Lamb und Poe -- --
+weil sie tranken!
+
+Ich bin doch froh, dass ich ein Deutscher bin! Deutschlands grosse
+MÃ¤nner durften -- -- unsittlich sein. +Unsittlich+ -- -- das heisst:
+nicht eben _genau so_ sittlich, wie die guten BÃ¼rger und Pfaffen. Der
+Deutsche sagt: âGoethe war unser grosser Dichterâ. -- Er weiss, dass er
+nicht so sehr sittlich war, aber er nimmt ihmâs nicht weiter Ã¼bel. --
+Der EnglÃ¤nder sagt: âByron war unsittlich, +darum war er+ _kein_ grosser
++Dichter+â. Nur in England konnte des widerlichen Moralpfaffen Kingsley
+Wort Ã¼ber Heine ein geflÃ¼geltes werden: âSprecht nicht von ihm -- -- --
+_er war ein schlechter Mensch!_â --
+
+Wenn es aber gar nicht mehr anders geht, wenn alle VÃ¶lker ringsum die
+âunsittlichenâ englischen Dichter anerkennen und lieben, wenn der
+EnglÃ¤nder endlich +gezwungen wird, zu sprechen+ -- -- -- dann +lÃ¼gt+
+er. Er gibt seine Heuchelei nicht auf, er sagt dann: nach neueren
+Untersuchungen war der Mann gar nicht unsittlich; er war vielmehr
+hochsittlich, ganz rein und ganz unschuldig! So haben die englischen
+LÃ¼gner Byrons â_Ehre gerettet_â, so wird es nicht lange mehr dauern, bis
+sie auch aus Saulus Wilde einen Paulus machen! -- So ist fÃ¼r Poe den
+Griswolds ein Ingram gefolgt: âAch nein, er trank wirklich nicht!â
+
++Die EnglÃ¤nder dÃ¼rfen nun Edgar Allan Poe anerkennen, nachdem ihm
+amtlich bescheinigt ist, dass er ein sittlicher Mensch war!+
+
+Wir aber, die wir nicht den geringsten Anspruch auf bÃ¼rgerliche und
+pfÃ¤ffische Sittenreinheit machen, wir lieben ihn, wenn er auch trank. Ja
+noch mehr, wir lieben ihn, _weil_ er trank, denn wir wissen, dass eben
+aus dem Gifte, das seinen Leib zerstÃ¶rte, reine BlÃ¼ten entsprossten,
+deren Kunstwerte unvergÃ¤nglich sind.
+
+Wie Kunstwerte entstanden, das geht den Laien nichts an. Das hat der
+KÃ¼nstler mit sich allein abzumachen, niemand darf da ein Wort mitreden,
+oder gar ein abfÃ¤llig Urteil fÃ¤llen. Nur die wenigen, denen er einen
+Einblick gewÃ¤hrt in sein Schaffen, +weil sie ihn lieben+, nur die dÃ¼rfen
+schweigend zuschauen, dÃ¼rfen erzÃ¤hlen -- --
+
+Wilde erzÃ¤hlt das MÃ¤rchen von der wunderschÃ¶nen Rose, die aus dem
+Herzblut der sterbenden Nachtigall erwuchs. Der Student, der sie brach,
+schaute und staunte, nie hatte er eine solch wunderrote Blutrose
+gesehen. Aber er +wusste nicht+, _wie sie entstand_.
+
+  [Abbildung: EDGAR ALLAN POE
+  Nach E. Manet]
+
+Wir bewundern Odontoglossum grande, die prÃ¤chtigste Orchidee -- -- --
+ist sie weniger schÃ¶n, weil sie sich von Insekten ernÃ¤hrt, die sie in
+der schmÃ¤hlichsten Weise langsam zu Tode quÃ¤lt? Wir freuen uns im Parke
+von Cintra Ã¼ber die herrlichen Lilien, wir staunen: so gross, so weiss
+haben wir sie nie gesehen! Was geht es uns an, dass sie all ihre
+aussergewÃ¶hnliche Pracht dem Umstand verdanken, dass der kluge GÃ¤rtner
+ihren NÃ¤hrboden nicht mit dem ânatÃ¼rlichenâ Wasser, sondern mit Guano,
+mit ausgesuchtem KunstdÃ¼nger behandelte?!
+
+-- Es wird einmal eine Zeit kommen, wo man mitleidig lÃ¤cheln wird Ã¼ber
+die breiten Landstrassen unserer rauschlosen Kunst, die nur spÃ¤rlich
+hier und da durch des Alkohols trÃ¼be Laternen erhellt werden. Eine Zeit,
+fÃ¼r die die Begriffe +Rausch+ und +Kunst+ ein untrennbares Ganzes sind,
+die nur innerhalb der grossen Rauschkunst Unterschiede kennt. Dann erst
+wird man den _Pfadfindern_ die hohe Stelle geben, die ihnen gebÃ¼hrt, den
+Hoffmann, Baudelaire, Poe -- -- den KÃ¼nstlern, die zuerst _bewusst_ mit
+dem Rausche arbeiteten.
+
+    -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+    -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+
+Seid doch ehrlich! Gibt es einen KÃ¼nstler, der des Rausches ganz
+entbehren kann? Nehmen sie nicht alle ihr kleines Giftchen: Tee, Tabak,
+Kaffee, Bier oder was es sei? Muss nicht der Geist âvergiftetâ werden,
+um Kunstwerte zu schaffen, sei es nun, dass er das Gift durch den KÃ¶rper
+empfÃ¤ngt, sei es -- -- -- auf andere Weise?
+
+_Denn es gibt manche andere Weisen_ -- --
+
+Die Kunst ist der Natur entgegengesetzt. Ein Mensch, der physisch
+und psychisch rein abstinent lebt, dessen Voreltern auch durch lange
+Generationen hindurch ebenso abstinent lebten, so dass sein Blut nicht,
+wie bei uns allen, lÃ¤ngst âvergiftetâ ist, kann +nie+ ein KÃ¼nstler
+werden -- wenn nicht eines Gottes Gunst seinem Leben andere Sensationen
+schenkt, die Ekstasen erwecken mÃ¶gen. Aber auch das sind _Vergiftungen_
+des Geistes! Natur und Kunst sind die schlimmsten Feinde: wo die eine
+herrscht, ist die andere unmÃ¶glich.
+
+Was ist -- -- im engsten, im _besten Sinne_ -- der KÃ¼nstler? +Ein
+Pionier der Kultur in das Neuland des Unbewussten!+
+
+Wie wenige verdienen in diesem heiligen Sinne den stolzen Namen! Th. A.
+Hoffmann verdient ihn, und Jean Paul und Villiers und Baudelaire -- --
+Und ganz sicher auch _Edgar Allan Poe_, das mÃ¼ssen selbst die Griswolds
+dem Dichter zugestehen, der in so manchen seiner Geschichten ein
+geheimes Land der Seele betrat, von dem niemand vor ihm -- und am
+wenigsten die Wissenschaft -- eine leise Ahnung hatte!
+
+In grauer Nebelwolke trÃ¤umt vor uns das gewaltige Land des Unbewussten,
+das ewige Land _unserer SehnsÃ¼chte_. Warm liegt der Bettler in der
+Sonne, hockt der satte BÃ¼rger am Ofen. Aber es gibt Menschen, deren
+blutende Sehnsucht so ungeheuer ist, dass sie hinaus +mÃ¼ssen+ aus dem,
+_was wir wissen_. Robur et aes triplex muss ihre Brust schirmen, wenn
+sie das sonnige Land des Bewusstseins verlassen, wenn sie durch die
+grauen MÃ¶rderfluten nach Avalun steuern. Und viele, viele gehen
+schmÃ¤hlich zugrunde, ohne je einen Blick hinter die Wolken zu werfen.
+
+Ganz wenigen aber gelingt die Fahrt. Sie finden ein Neuland, entdecken
+es fÃ¼r die Kultur: +sie haben die Grenzen des Bewusstseins ein StÃ¼ck
+weiter hinausgeschoben+.
+
+Die +KÃ¼nstler+ sind diese ersten Entdecker. Dann mag die Menschheit
+Forscherfahrten ausrÃ¼sten, um das neue Land zu vermessen und zu
+untersuchen: Grundbuchleute und Katasterbeamte entsenden -- -- -- MÃ¤nner
+der +Wissenschaft+.
+
+-- -- Nun ist gewiss, dass -- neben andern Wegen -- die sogenannten
+Gifte, die wir Narkotika nennen, geeignet sind, uns Ã¼ber die Schwelle
+des Bewusstseins hinauszufÃ¼hren. Gelingt es jemand, in diesem âJenseitsâ
+irgendwo festen Fuss zu fassen, das Metaphysische in etwas Positives
+umzuwerten, so schafft er einen neuen Kunstwert, ist, _im edelsten
+Sinne_, +ein KÃ¼nstler+.
+
+Vielleicht ist hier nÃ¶tig, die Binsenweisheit zu betonen, dass nie
+natÃ¼rlich von einem Schaffen _im_ +Rausche selbst+ die Rede sein kann?!
+Oder die andere, dass kein Rauschmittel der Welt aus einem Menschen
+etwas heraus zu holen vermag, _das nicht in ihm steckt?!_ Die Griswolds
+und Ingrams mÃ¶gen noch soviel Wein trinken, noch soviel Opium rauchen,
+noch soviel Haschisch essen, sie werden doch nimmermehr Kunstwerte
+schaffen! -- -- +Aber+: der durch Narkotica bewirkte Rausch ist unter
+UmstÃ¤nden -- -- neben andern Ursachen -- geeignet, irgendwann spÃ¤ter
+eine Ekstase hervorzurufen. Und: +in dieser Ekstase leistet jeder Mensch
+das HÃ¶chste, was seine Intelligenz Ã¼berhaupt zu leisten imstande ist+.
+
+    *  *  *
+
+Der Griswold hatte recht: _Edgar Allan Poe trank._ Und da -- wie bei
+uns allen -- sein Leib verhÃ¤ltnismÃ¤ssig schlecht auf die Vergiftung des
+Alkohols reagierte, abgestumpft war durch die Trinkgewohnheiten von
+Generationen +von Vorfahren+, so trank er viel. Er soff. -- Aber er tat
+das mit Absicht, tat es, um in den Rauschzustand zu kommen, aus dem
+heraus er -- spÃ¤ter, vielleicht Jahre spÃ¤ter -- _neue Kunstwerte_
+schaffen konnte. Solch ein Rausch ist kein Genuss, er ist eine
+entsetzliche Qual, die +bewusst+ nur der ersehnt, dem das Kainszeichen
+der Kunst von der Stirne flammt.
+
+-- Gibt es eine schmÃ¤hlichere LÃ¼ge als die der Banausen: âKÃ¼nstlerisches
+Schaffen ist keine Arbeit; es ist eine Freude!?â Der das sagte, und die
+grosse Masse, die es gedankenlos nachplappert, haben nie einen Hauch der
+Ekstase verspÃ¼rt, die allein kÃ¼nstlerisches Schaffen bedingt. Und +diese
+Ekstase+ ist _immer_ eine Qual, selbst dann, wenn -- in seltenen FÃ¤llen
+-- der Grund, der sie hervorrief, ein Genuss war.
+
+Man sagt, dass die KatzenmÃ¼tter ihre Jungen mit Genuss zur Welt
+bringen -- -- aber es sind auch nur arme blinde KÃ¤tzlein. So mag der
+Wochenplauderer der Buxtehuder Zeitung, mag der Textdichter von âBerlin
+bei Nachtâ mit Genuss seine Zeilen zu Papier bringen -- -- +ein
+Kunstwerk ist nie ohne Schmerzen geboren worden.+
+
+    *  *  *
+
+Ich bin hinausgegangen. Durch den mÃ¤chtigen Palast des fÃ¼nften rÃ¶mischen
+Kaisers deutscher Nation, der den Namen Karl fÃ¼hrte. Quer durch den
+gewaltigen SÃ¤ulenhof. Hinauf durch die lange Allee weissblÃ¼hender
+Akazien, durch die Wiesen, die viele tausend blauer Iris tragen. Den
+Turm der Prinzessinnen liess ich mir aufschliessen, wo einst die
+SultantÃ¶chter Zayda, Zorayda und Zorahayda am Fenster der gefangenen
+Christenritter Lieder belauschten.
+
+Ich schau Ã¼ber das Tal auf den HÃ¼gel, von dem Boabdil beim Scheiden
+seinen letzten Seufzer dem verlorenen Granada sandte. Ich blicke auf
+den Garten des Generalife, deutlich sehe ich die vielhundertjÃ¤hrigen
+Zypressen, unter deren Schatten des letzten MaurenkÃ¶nigs Frau -- Hamet,
+dem schÃ¶nsten der Abenceragen das unheilbringende Stelldichein gab.
+
+-- Hier erzÃ¤hlt jeder Stein eine trÃ¼be, verklungene Sage -- --
+
+Tief unten im Tal geht der Weg, der weit hinauf zur Totenstatt fÃ¼hrt.
+Ein paar schwarze Ziegen weiden an den grÃ¼nen AbhÃ¤ngen; hinten, unter
+dem Turm der Gefangenen, sitzt ein zerlumpter ZollwÃ¤chter vor seiner
+schmutzigen HÃ¶hle. Langohrige Kaninchen grasen um ihn herum, sieben
+HÃ¤hne, zum nahen Kampfe schon der KÃ¤mme und Schwanzfedern beraubt,
+picken im Boden oder fliegen aufeinander. Und weit im Osten glÃ¼ht
+purpurrot der Schnee der wilden Sierra Nevada --
+
+Ein Trupp zerlumpter Bengels zieht durch das Tal. Zwei tragen einen
+kleinen Kindersarg auf den Schultern, offen nach spanischer Sitte; ein
+anderer schultert den Deckel. Der Sarg ist sehr einfach, drei gelbe
+Bretter und zwei Brettchen. Aber drinnen liegen Blumen, viele Blumen,
+rote, gelbe und weisse und blaue Blumen, unter denen das wachsbleiche
+KÃ¶pfchen in schwarzem Haar hervorschaut. Kein Priester, keine
+Verwandten, nicht einmal Vater und Mutter im Zuge; sechs zerlumpte
+Bengels -- --
+
+Doch zwischen so vielen bunten Blumen ruht das tote Kind, in solch
+frischem, blÃ¼hendem Dufte. Wie gut, dass man ihm die Augen nicht
+schloss! Nun schaut es heraus, neugierig aus den bunten Blumen, hinauf
+zu dem alten, maurischen KÃ¶nigsschloss. So zufrieden blickt es heraus
+aus seiner bunten Pracht, das kleine tote MÃ¤dchen, so zufrieden und
+glÃ¼cklich, wie es gewiss nie im Leben war.
+
+  [Abbildung: POEâS LANDHAUS ZU FORDHAM
+  Zeichnung von H. Crickmore]
+
+_Hier_ hÃ¤tte Edgar Allan Poe sitzen mÃ¼ssen. Wie hÃ¤tte er getrÃ¤umt, wie
+wÃ¤ren die bunten Sagen auf leichten FlÃ¼geln um seine Stirn geflogen. Und
+er hÃ¤tte in ehernen Worten eine neue Alhambra gebaut, die die hausdicken
+TÃ¼rme der Nasseriden um viele Jahrhunderte Ã¼berdauern wÃ¼rde -- -- --
+
++Hier+ hÃ¤tten ihn vielleicht andere Wege zur Ekstase gefÃ¼hrt; er hÃ¤tte
+wohl nicht getrunken. Aber er war ja da drÃ¼ben in Neu-England, seine
+arme Dichterseele stak eingepfercht zwischen realsten Prosawerten,
+indes zur selben Zeit Washington Irving, dies Musterbild englischer
+Sittlichkeit, im Mondscheinzauber der Alhambra trÃ¤umen durfte! Und seine
+_Alhambrasagen_ wurden weltberÃ¼hmt; Tag um Tag sehe ich die Fremden die
+geheiligten RÃ¤ume betreten: in der Hand den Baedeker, in der Rocktasche
++sein+ Buch. So, wie sie im Hause der Vettier oder in dem des Dionysos
+die â_Letzten Tage von Pompei_â lesen. Sind die paar SchÃ¶nheiten in
+diesen BÃ¼chern, die sich nicht wegleugnen lassen, Lord Lyttons oder
+Irvings Geiste entsprungen? O nein, ein Hauch der rÃ¶mischen Totenstadt,
+des maurischen Geisterschlosses goss sich in ihre Seelen, obgleich sie
+nicht Dichter, obgleich sie nur kleine bÃ¼rgerliche Schreiberlein waren.
+Nicht Bulwer, nicht Irving schufen diese SchÃ¶nheiten. Pompei schuf sie
+und die Alhambra -- -- +trotz ihnen+.
+
+    -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+    -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+
+Poes glÃ¼hende Sehnsucht kannte nichts von alledem. Um sich
+herauszuheben, um in sich eine Ekstase zu erwecken, die ihn forttrug aus
+all den Dutzendwerten, die ihn umgaben, blieb ihm nur ein Mittel. Von
+ganz geringen Anregungen abgesehen, die wohl kaum geeignet waren, zur
+Ekstase zu fÃ¼hren, hat dieser unglÃ¼ckliche Dichter nur einmal in seinem
+Leben von aussen her der Muse Kuss empfangen: durch sein schÃ¶nes
+geliebtes Weib, Virginia Clemm. Mag der Moralist diesen Rausch einen
+heiligen, gÃ¶ttlichen nennen, mag er des Dichters _andere_ Ekstasen, die
+aus Alkohol und hier und da aus Opium erwuchsen, als unheilig und
+teuflisch schelten: das gilt uns gleich! Denn die Kunstwerte, die aus
+diesen hervorgingen, sind nicht weniger herrlich -- --
+
+Qualvoll aber war fÃ¼r den Geweihten die gÃ¶ttliche Ekstase kaum minder
+als die teuflische! Eine HÃ¶lle sollte ihm sein, was andern ein Paradies
+war, eine heissgeliebte, eine selige HÃ¶lle, deren Flammen aber nicht
+weniger sengten. Denn Virginia, deren sterbenden Augen wir _Morella_ und
+_Ligeia_, _Berenice_ und _Leonore_ verdanken, war dem Tode bestimmt, ehe
+sie noch dem Dichter die Hand reichte. Er wusste, dass die Schwindsucht
+das leuchtende Rot auf ihre Wangen log, wusste, dass aus diesen tiefen,
+feucht schimmernden Augen die unerbittliche Krankheit herausgrinste.
+Wenn er am Abend die geliebten Locken streichelte, fÃ¼hlte er: â_Noch so
+viele Tage wird sie leben_â; und am andern Morgen: â_Wieder einen Tag
+weniger_â. Eine Sterbende war es, die seine Lippen kÃ¼sste, eine
+Sterbende, deren schÃ¶ner Kopf nÃ¤chtens neben dem seinen ruhte. Wenn er
+aufwachte von dem RÃ¶cheln und Rasseln ihrer mÃ¼hsam arbeitenden Lungen,
+schien ihm das weisse Linnen ein Leichentuch, schien ihm der kalte
+Tropfen auf ihrer Stirne ein Todesschweiss. Ein Sterben durch Jahre
+hindurch, ein sichtbares langsames Sterben der Geliebten -- -- das
+war das einzige -- â+GlÃ¼ck+â dieses unseligsten aller Dichter. O ja,
+_Sensationen_ gab ihm die schÃ¶ne todgeweihte Gattin, aber es waren
+Sensationen der Angst, des stummen verhaltenen Schmerzes, der
+Verzweiflung in lÃ¤chelnder Larve: ein +Paradies der Qualen+. Lies seine
+schÃ¶nsten Geschichten, die Virginia in seine Seele senkte: du wirst
+einen Hauch davon verspÃ¼ren, in welch namenlosen Qualen sie geboren.
+
+Ehe noch der letzte Faden zum Leben zerrissen und die stille Frau in die
+Gruft gesenkt war, schrieb Edgar Poe sein MeisterstÃ¼ck, den â+Raben+â.
+Und zu diesem Gedicht, das in der Weltliteratur nicht seinesgleichen
+hat, nahm er, -- ich mÃ¶chte es den englischen Heuchlern ins Gesicht
+schreien -- die Ekstase wie aus dem â_heiligen_â Rausche des um die
+Verlorene blutenden Herzens, so auch aus dem â_gemeinen, lasterhaften_â
+Rausche +der Weinflasche+!
+
+Jeder Irrenarzt, der sich mit SÃ¤uferwahnsinn beschÃ¤ftigt hat, wird
+mit Leichtigkeit nachweisen kÃ¶nnen, was in dem âRabenâ mit absoluter
+Gewissheit einem Delirium entstammt; ebenso leicht ist fÃ¼r den
+Psychologen der Nachweis des andern Rausches, den der Dichter Virginia,
+der â_lost Lenore_â, hier verdankt. Und damit vergleiche man das
+freimÃ¼tige, wunderbar klare Essay, das Poe Ã¼ber die Entstehung des
+Gedichtes schrieb. Jede Strophe, jede Zeile, jeden einzelnen Wortklang
+begrÃ¼ndet er in verblÃ¼ffend einfacher Logik, es ist fast, als ob er den
+binomischen Lehrsatz beweisen wollte! Freilich die Hauptsache, die
+Ekstase und ihre Entstehung aus einem heiligen und einem -- ach, so
+unheiligen Rausche erwÃ¤hnt er mit keinem Wort -- schrieb er sein Essay
+doch fÃ¼r neuenglÃ¤ndische Magazinleser, wie hÃ¤tten die einen Dichter
+verstehen sollen, der von einer Ekstase sprach!? Das HandwerksmÃ¤ssige,
+das rein Technische, das, was _die_ Kunst ausmacht, die auf _das KÃ¶nnen_
+sich stÃ¼tzt, das ist nie von einem Dichter klarer und Ã¼berzeugender
+dargelegt worden, als in diesem Essay: ein Lehrbuch der Dichtkunst an
+einem Meisterbeispiel! Freilich -- -- benutzen werden Gevatter Schneider
+und Handschuhmacher den Leitfaden +nie kÃ¶nnen+, fÃ¼r den KÃ¼nstler aber
+ist er die wertvollste Belehrung, die es gibt. -- Mag er daraus ersehen,
+dass âder gÃ¶ttliche Rauschâ +allein+ kein vollkommenes Kunstwerk
+schafft, dass die gemeine Arbeit, die verachtete Technik, das Ãberlegen
+und Feilen, das Wiegen und TÃ¶nen ebenso unentbehrlich sind.
+
+-- Nicht der gewaltige Gedanke des arabischen Baumeisters allein schuf
+die herrliche Alhambra: Maurer und Eseltreiber, GÃ¤rtner und Anstreicher,
+jeder trug sein Teilchen bei!
+
+-- Edgar Allan Poe war +der erste Dichter+, der mit solcher Offenheit
+von der Arbeit, von dem rein HandwerksmÃ¤ssigen sprach. Da, und auch wohl
+nur da, war er Amerikaner, da stand er, und das will mehr sagen, an der
+Schwelle modernen Denkens -- -- als erster. Ein glÃ¤nzender Beweis fÃ¼r
+den Vollwert dieses KÃ¼nstlers, der nur von der Technik spricht und _mit
+keinem Worte_ hier die Intuition erwÃ¤hnt, die der Dilettant immer im
+Munde fÃ¼hrt. Vielleicht, wenn er fÃ¼r andere Leser in seinem Magazine
+geschrieben hÃ¤tte, vielleicht wÃ¤re er noch einen Schritt weiter
+gegangen, hÃ¤tte ihnen wohl gar von der Technik des Rausches erzÃ¤hlt.
+
+Nie vor ihm hat ein anderer sein eigenes Kunstwerk so zergliedert, so
+bis auf die letzte Faser anatomisch zersetzt. Der gÃ¶ttliche Hauch, der
+die Bibel diktierte, spukt bis auf unsere Tage in dem Glauben der Masse
+herum, und die Herrn KÃ¼nstler von Gottes Gnaden hÃ¼teten sich wohl, das
+Inspirationsfabelchen aufzuklÃ¤ren. Wenn _der heilige Geist Ã¼ber sie kam_
+-- dann malten, dichteten, komponierten sie und setzten mehr oder
+weniger immakulate Geisteskindlein in die Welt. Das war so nett, so
+bequem, dass gewiss manche grosse KÃ¼nstler selbst an die geheimnisvolle
+Weihe glauben mochten. âTrunken vom Gotteâ, hiess der thrakische SÃ¤nger,
+auch wenn er so nÃ¼chtern war wie Sokrates. Dieser Gedanke, der sich in
+der _dionysischen Urform_ fast mit unseren modernen Anschauungen von
+Rausch und Ekstase deckt, bekam in der spÃ¤tern _apollinischen_
+Auffassung -- -- die âgÃ¶ttliche Salbungâ, die die christliche
+Weltanschauung, wie so vieles, das klares Denken zu trÃ¼ben imstande war,
+mit grosser Begeisterung Ã¼bernahm. Alle die schÃ¶nen Phrasen von dem
+Platz im Olymp, von dem Kuss der Muse, von dem gÃ¶ttlichen Rausche, von
+dem Gottesgnadentum des KÃ¼nstlers usw. -- bei denen wir uns Gott sei
+Dank nicht das geringste mehr denken -- haben _da_ ihren Ursprung.
+
+Es gehÃ¶rte Mut dazu, diesen leuchtenden Nebel zu zerschlagen; wenige,
+gar wenige Gedichte der Weltliteratur vertragen eine solche
+unerbittliche Zersetzung. Aber weil Poe in seinem âRabenâ ein Kunstwerk
+geschaffen, so rein, so vollendet, konnte er den Schritt wagen. Das
+Kleinliche, das LÃ¤cherliche und Absurde, das alles Erhabene sonst in den
+Staub reisst, vermag nichts dieser Vollkommenheit gegenÃ¼ber.
+
+-- Mein Blick fÃ¤llt auf die Wandbekleidung des Saales. Im Stile Mudejar
+verschlingen und lÃ¶sen sich die Arabesken und kufischen SprÃ¼che, das
+Auge mag sich nicht satt sehen an all diesen phantastischen Harmonien.
+Nun, das arabische Wunderwerk besteht aus +Gips+, gemeinem Gips -- --
+_wie lÃ¤cherlich, wie kleinlich, wie absurd!_ Aber obschon es aus
+erbÃ¤rmlichem Gips besteht, verliert dieses vollkommene Kunstwerk nichts
+von seiner Erhabenheit. Die gemeine Materie atmet den Hauch des Geistes
+-- +die Kunst triumphiert Ã¼ber die Natur+, _und diese Kunst ist so
+gross, dass ihr meine Erkenntnis des lÃ¤cherlichen Stoffes nichts anhaben
+mag!_
+
+  [Abbildung: DER RABE
+  Zeichnung von C. F. Tilney]
+
+Poe brauchte eben das uralte LÃ¼genmÃ¤ntelchen nicht mehr. Er sah, dass
+es fadenscheinig und zerrissen war, und warf es kÃ¼hn zur Seite. In den
+paar Worten, mit denen er in â_Heureka_â den Begriff der _Intuition_
+definierte, als âeine Wahrheitserkenntnis, die sich auf Induktionen und
+Deduktionen grÃ¼ndet, die so schattenhaft sind, dass sie sich unserem
+Bewusstsein entziehen, sich vom Verstande nicht fassen lassen und der
+AusdrucksfÃ¤higkeit der Sprache spottenâ, -- liegt eine klarere
+Erkenntnis der Wege des kÃ¼nstlerischen Schaffens, als einer seiner
+Zeitgenossen sie hatte. Indem der Dichterphilosoph also der sogenannten
+âIntuitionâ der Philosophie gegenÃ¼ber -- speziell Aristoteles und Bacon
+gegenÃ¼ber, mit denen er sich auseinandersetzt -- eine Stelle einrÃ¤umt,
+die ihr diese abspricht, bestimmt er zugleich ihren Wert und zwar in
+einem +engbegrenzten+, untheologischen, durchaus modernen Sinne. Das ist
+das Grosse an diesem ersten Menschen mit modernem Geiste, dass er, der
+Romantiker, der TrÃ¤umer, doch ein Anbeter des Verstandes war, der _nie_
+den Boden der Erde unter den FÃ¼ssen verlor!
+
+    *  *  *
+
+Edgar Allan Poe bekannte also -- als Erster -- offen die Technik des
+Denkens, nahm Zolas âGenie ist Fleissâ um Jahrzehnte vorweg. Und dieser
+_selbe_ Edgar Allan Poe schrieb in seinem Vorwort zu â+Heureka+â:
+
+  âDenen, die mich lieben und die ich liebe; +den TrÃ¤umern und denen,
+  die an TrÃ¤ume glauben+, _als an das einzig Wirkliche_ -- +widme ich
+  dies Buch der Wahrheiten+, nicht um Wahrheiten zu erzÃ¤hlen, +sondern
+  um der SchÃ¶nheit willen, die in der Wahrheit sich birgt+, _die
+  allein die Wahrheit wahr macht_. Ihnen weihe ich diese Arbeit, nur
+  als +ein Werk der Kunst+, einen Roman, wenn ihr wollt; oder auch,
+  wenn das nicht zuviel gesagt ist, als ein Gedicht. Was ich hier
+  sage, _ist wahr, deshalb kann es nicht sterben:_ und wenn es
+  irgendwie vergehen sollte, so wird es wieder auferstehen zu ewigem
+  Leben.â
+
+So stellt Poe, vÃ¶llig unabhÃ¤ngig von Th. Gautier, sein Lâart pour
+lâart-Prinzip auf. GrÃ¶sser als Gautier, der die SchÃ¶nheit nur mit dem
+Auge des Malers sah, stellt er seine Forderung, und auch tiefer als
+Gautier, dem die Ã¤ussere Form allein die SchÃ¶nheit offenbarte. +Die
+SchÃ¶nheit erst+ macht ihm die Wahrheit -- _zur Wahrheit_, deren
+Daseinsberechtigung er ohne die SchÃ¶nheit verneint: das ist die hÃ¶chste
+Anforderung an die Kunst, die je gestellt wurde. Und da diese Forderung
+sich nur in SehnsÃ¼chten erfÃ¼llen kann, sind ihm die TrÃ¤ume das +einzig
+Wirkliche+, spricht er dem wachen Leben jeden RealitÃ¤tswert ab. Auch
+hier ist Poe -- der Romantiker -- ein Pfadfinder, auch hier offenbart
+er als Erster das, was wir âmodernen Geistâ nennen. Hat er das von Zola
+gemÃ¼nzte Prinzip des technischen Schaffens vorweg genommen, hat er
+weiter der Parnassier Kunstprinzip unabhÃ¤ngig von ihnen aufgestellt, so
+Ã¼berspringt er hier um ein halbes Jahrhundert die Zeit und gibt eine
+Forderung, so ultramodern, dass selbst heute nur ein kleiner Teil der
+fortgeschrittensten Geister sie in ihrer ganzen radikalen GrÃ¶sse
+verstehen wird.
+
+Die Befruchtung der Literatur der KulturvÃ¶lker durch Poes Geist wird
+erst in diesem Jahrhundert volle BlÃ¼ten treiben: das vergangene sah ihm
+nur ein paar lÃ¤cherliche Ãusserlichkeiten ab, ein RÃ¤uspern und Spucken,
+das freilich den glÃ¼cklichen Abguckern, den Jules Verne und Conan Doyle
+ein VermÃ¶gen eintrug. Ganz gewiss hat der darbende Poe _diese_ Sachen
+nur fÃ¼r das tÃ¤gliche Brot geschrieben: die See- und Mondreisen Gordon
+Pyms und Hans Pfaals usw., sowie einige der Kriminal-Novellen (wie
+z.B. der âMord in der Rue de Morgueâ, der âEntwendete Briefâ, der
+âGoldkÃ¤ferâ) sind durchaus nur aus dem BedÃ¼rfnis heraus entstanden, warm
+zu Mittag speisen zu kÃ¶nnen. Denn Poe wusste, was hungern heisst! So
+schrieb er diese Sachen, wie er auch Ãbersetzungen anfertigte und an
+allen mÃ¶glichen wissenschaftlichen Werken mitarbeitete. Freilich, jede
+einzelne der Geschichten, und sei es die schwÃ¤chste, lÃ¤sst alle
+Abenteuer des eminenten Sherlock Holmes verblassen. -- Warum das
+grosse Publikum, und namentlich das englischredende, trotzdem Doyles
+lÃ¤cherliche Detektivgeschichten mit Begeisterung verschlingt und die
+Poeschen aus der Hand legt? Nichts ist verstÃ¤ndlicher! Poes Figuren
+sind, wie die Dostojewskys, so echt, seine Komposition ist so lÃ¼ckenlos,
+hÃ¤lt die Phantasie des Lesers so unentrinnbar in ihren Netzen, dass
+auch der Tapferste sich eines Grauens nicht zu erwehren vermag, eines
+qualvollen, mÃ¶rderischen Grauens, das wie ein grausamer Albdruck
+festhÃ¤lt. Bei seinen so ausserordentlich beliebten Nachahmern aber ist
+dies Grauen nichts als ein angenehmer Kitzel, der in keinem kleinen
+Moment den Leser einen Zweifel an der Kulisse ankommen lÃ¤sst. Der Leser
+weiss stets: das ist alles dummer Unfug; er steht _Ã¼ber_ dem ErzÃ¤hler --
++das will er+! Poe aber nimmt ihn beim Schopfe, reisst ihn in AbgrÃ¼nde
+und schleudert ihn in HÃ¶llen, dass dem armen Tropf HÃ¶ren und Sehen
+vergeht, dass er nicht mehr ein noch aus weiss. Darum zieht der gute
+BÃ¼rger, der gern ruhig schlafen will, den Kulissenhelden der Bakerstreet
+vor und bedankt sich fÃ¼r Poes grauenhaften Nachtmar. Man sieht: auch
+da, wo er bÃ¼rgerlich sein wollte, wo er fÃ¼r die grosse Masse schreiben
+_wollte_, steckte er sein Ziel viel zu hoch; sprach zu BÃ¼rgerkÃ¶pfchen
+und glaubte zu seinesgleichen zu reden! Um sein +Hirn+ zu Markte zu
+tragen, lief er von Verleger zu Verleger herum -- -- zu Leuten, die
++Stroh+ kaufen wollten!
+
+    *  *  *
+
+Aber eine Zeit, die _kommt_, wird reif sein fÃ¼r des Dichters Gaben.
+Schon erkennen wir klar den Weg, der von Jean Paul und Th. A. Hoffmann
+zu Baudelaire und Edgar Allan Poe fÃ¼hrt, diesen einzigen Weg, den eine
+Kunst der Kultur gehen kann, schon haben wir manche AnsÃ¤tze -- --
+
+Diese Kunst wird nicht mehr in engem nationalen Kleide stecken. Sie
+wird sich bewusst sein, wie sich Edgar Allan Poe als Erster bewusst war,
+dass sie nicht fÃ¼r â_ihr_ Volkâ da ist, sondern einzig fÃ¼r die dÃ¼nnen
+Kulturschichten, ob diese germanischer oder japanischer, lateinischer
+oder jÃ¼discher Art sind. Kein KÃ¼nstler hat je fÃ¼r â_sein_ Volkâ
+geschaffen, und doch haben es fast alle gewollt und geglaubt. Der
+grossen Masse in Spanien ist Velazquez und Cervantes genau so vÃ¶llig
+unbekannt, wie dem englischen Arbeiter Shakespeare und Byron, wie dem
+franzÃ¶sischen Rabelais und MoliÃ¨re, wie dem hollÃ¤ndischen Rembrandt und
+Rubens sind. Das deutsche _Volk_ hat nicht die geringste Ahnung von
+Goethe und Schiller, es kennt die BÃ¼rger und Heine nicht einmal dem
+Namen nach. Die kleinen Rundfragen bei den Soldaten einzelner
+Regimenter: âWer war Bismarck? -- Wer war Goethe?â sollten doch dem
+vertrauensseligsten Blinden endlich die Augen Ã¶ffnen. Ganze Welten
+trennen den Kulturmenschen in Deutschland von seinen Landsleuten, die er
+tÃ¤glich auf der Strasse sieht: ein Nichts aber, eine Wasserrinne nur,
+trennt ihn von dem Kulturmenschen in Amerika.
+
+Heine fÃ¼hlte das und warf es den Frankfurtern ins Gesicht, Edgar Allan
+Poe sprach es noch viel klarer aus. Die meisten KÃ¼nstler aber und
+Gelehrten und Gebildeten aller VÃ¶lker hatten ein so geringes VerstÃ¤ndnis
+dafÃ¼r, dass bis auf unsere Tage Horazâ feines âOdi profanumâ falsch
+ausgelegt wird! Der KÃ¼nstler, der fÃ¼r âsein Volkâ schaffen will,
+erstrebt etwas UnmÃ¶gliches und vernachlÃ¤ssigt darÃ¼ber hÃ¤ufig etwas
+Erreichbares und doch HÃ¶heres: fÃ¼r die ganze Welt zu schaffen. _Ãber_
+dem Deutschen, Ã¼ber dem Briten und Franzosen steht eine hÃ¶here Nation:
+die Kulturnation; fÃ¼r sie zu schaffen, ist des KÃ¼nstlers allein wÃ¼rdig.
+_Hier_ war Poe bodenstÃ¤ndig, so wie es Goethe war, wenn auch in anderm,
+ebenso bewusstem, aber lÃ¤ngst nicht so modernem Sinne.
+
+    *  *  *
+
+  [Abbildung: DIE WASSERGRUBE UND DAS PENDEL
+  Zeichnung von C. F. Tilney]
+
+Ganz langsam schreite ich im Parke der Alhambra unter den alten Ulmen,
+die Wellington pflanzte. Zu allen Seiten plÃ¤tschern die raschen Quellen,
+mischen ihren Singsang mit den sÃ¼ssen Liedern von hundert Nachtigallen.
+Zwischen den hohen TÃ¼rmen schreite ich in dem Ã¼ppigen Tale der Alhambra.
+
+Wem gehÃ¶rt dieses Zauberschloss, dieser TrÃ¤umegarten? Der spanischen
+Bettelnation, die ich verachte? Dem FremdenpÃ¶bel mit dem roten Buche
+in der Hand, dem ich auf zehn Schritte schon aus dem Wege gehe? O nein!
+Mir gehÃ¶rt es, mir und den wenigen, die diese SchÃ¶nheit in ihre Seele
+aufzunehmen vermÃ¶gen. Deren Hauch diesen Steinen, diesen StrÃ¤uchern
+Leben zu leihen vermag, deren Geist es versteht, diese +SchÃ¶nheit zur
+Wahrheit zu machen+. Alles um mich herum und all das andere, was schÃ¶n
+ist auf dieser Erde, ist ein heiliges, unverletzliches Eigentum der
+Kulturnation, die Ã¼ber den VÃ¶lkern steht. Sie ist Herrscherin, sie ist
+Besitzerin: _einen andern Herrn duldet die SchÃ¶nheit nicht_. Das
+begreifen heisst die Welt ergreifen: Edgar Allan Poe tat es als Erster.
+
+Ich sitze auf der Steinbank, auf der Aboul-HaddjÃ¢dj einst trÃ¤umte. Vor
+mir springt ein Quell in die HÃ¶he, fÃ¤llt in das runde Marmorbecken. Ich
+weiss wohl, warum der Sultan hier sass, allein in den DÃ¤mmerstunden:
+o, es ist so sÃ¼ss, hier zu trÃ¤umen.
+
+War einst ein Dichter, der schrieb nichts anderes, als GesprÃ¤che mit
+Toten. Mit allen sieben Weisen plauderte er und allen KÃ¶nigen Ninives.
+Und mit Ã¤gyptischen Priestern und thessalischen Hexen, mit Athens
+SÃ¤ngern, mit Roms Feldherrn und mit KÃ¶nig Artusâ Tafelrunde.
+Schliesslich mochte er mit keinem lebenden Menschen mehr reden: die
+Toten sind so viel unterhaltsamer! -- O, man kann mit ihnen plaudern,
+gewiss doch. Alle TrÃ¤umer kÃ¶nnen es, und +alle die, die an TrÃ¤ume
+glauben+, _als an das einzig Wirkliche_.
+
+Bin ich nicht heute mit ihm, den ich liebe, dort oben durch die SÃ¤le
+gewandert? Habe ich nicht dem Toten ein Teil von der Welten SchÃ¶nheit
+gezeigt, die des Lebenden Augen nie sahen? Nun steht er da vor mir, an
+die Ulme gelehnt -- --
+
+âFrage nur,â sagt er.
+
+Er fÃ¼hlt wohl, wie ich mit den Augen ihn liebkosend frage. Und er
+spricht. Bald tropfen die Worte klar von den Lippen, bald plÃ¤tschert
+seine Stimme aus dem Springbrunn, sie singt aus den Kehlen der
+Nachtigallen und rauscht mit den BlÃ¤ttern der alten Ulmen. So klug sind
+die Toten.
+
+âLass du mein armes Leben,â sagt Edgar Allan Poe. âFrage Goethe darnach,
+der ein FÃ¼rst war, der sechs Hengste zahlte und mit ihnen durch die
+Welten jagte. Ich war ein Einsamer.â
+
+Ich lass den Blick nicht von ihm: âErzÃ¤hle! Denen, die dich lieben, und
+die du liebst!â
+
+â_Das Leben_ vergass ich, das ich lebte,â sagte er, âo nicht erst, seit
+ich tot bin, wie die Menschlein sagen. Jeden Tag vergass ich am nÃ¤chsten
+Tage -- -- hÃ¤tte ich sonst weiter leben kÃ¶nnen? -- Mein wahres Leben
+aber, mein Leben in meinen TrÃ¤umen, das kennst du ja!â
+
+-- -- Vom Boden her huscht ein leichter Nebel durch den Abend, eine
+sÃ¼sse KÃ¼hle fÃ¤chelt meine SchlÃ¤fen. Freilich: das Leben seiner TrÃ¤ume
+kenn ich wohl, schenkte er es doch mir und der Welt. Und langsam lass
+ich dies Leben in seinen Dichtungen vor mir vorÃ¼bergleiten.
+
+    -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+    -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+
+-- -- _William Wilson._ NatÃ¼rlich ist es Poe. So sehr Poe, dass der
+Pfaffe Griswold geruhig Wilsons Geburtsjahr -- 1813 -- als das des
+Dichters angibt! -- Der Knabe herrscht in der alten Boarding-School zu
+Stoke-Newington Ã¼ber all seine MitschÃ¼ler, nur Ã¼ber einen nicht, den
++andern+ Wilson: _sich selbst_. Und er, dessen ererbter leichter Sinn
+ihn als Knaben, JÃ¼ngling und Mann immer wieder zum Lumpen werden lÃ¤sst,
+wird sein Gewissen nicht los: den +andern+ Wilson, _sich selbst_. Trotz
+des Gewissens stÃ¶sst ihn sein Hang zum Verbrechen in der Welt herum, und
+immer von neuem ist _er selbst_ sein strafender Richter.[2]
+
+So ist des Dichters Kindheit, so sein JÃ¼nglingsalter vergiftet. Das
+ererbte und durch die Erziehung noch mehr entwickelte GefÃ¼hl fÃ¼r gut und
+bÃ¶se ist so Ã¼berstark in ihm, dass er aus dem ewigen Hin und Her nicht
+herauskommt, schier an ihm zugrunde geht. Jedes kleine Unrecht, das er
+begangen, wÃ¤chst in seinen TrÃ¤umen zum ungeheuerlichen Verbrechen und
+quÃ¤lt ihn, quÃ¤lt ihn. Noch mehr: die GedankensÃ¼nde, das Spielen mit der
+Idee des BÃ¶sen sind in seinen TrÃ¤umen zu Wahrheiten geworden: er ist
+_selbst_ der Held all seiner grausigen Geschichten. Die SÃ¼nden der VÃ¤ter
+rÃ¤chen sich an dem letzten Spross des Geschlechtes; wie sein Friedrich
+von Metzengerstein reitet er auf dem dÃ¤monischen Ross in alle Flammen
+der HÃ¶lle.
+
+    *  *  *
+
+-- -- Wie doch die UlmenblÃ¤tter rauschen! Und ich hÃ¶re des Unseligen
+Stimme aus den Winden:
+
+âWenn ich kein Dichter gewesen wÃ¤re, wÃ¤re ich wohl ein MÃ¶rder geworden.
+Ein BetrÃ¼ger, ein Dieb, ein RÃ¤uber und Falschspieler.â
+
+Die BlÃ¤tter der Ulmen klingen, und wieder rauscht seine Stimme:
+
+âUnd _vielleicht_ wÃ¤re ich glÃ¼cklicher gewesen.â
+
+    *  *  *
+
+Ich denke: wer weiss? -- Gibt es wohl einen Verbrecher, dem seine Taten
+die Martern brachten, wie dem Dichter die Verbrechen, _die er nie
+begangen?_ Denn Edgar Allan Poe ist in seinen TrÃ¤umen, +die ihm allein
+das wahre Leben waren+, nicht nur der MÃ¶rder, er ist auch zugleich das
+Opfer. Er mauert seinen Feind lebendig in den Keller ein -- und er ist
+es _selbst_, der eingemauert wird. (âEin Fass Amontillado.â) Er mordet,
+weil _er muss_, den Mann mit dem Geierauge, er verscharrt ihn unter den
+Dielen, und das Herz, das darunter klopft und klopft und die Tat verrÃ¤t,
+ist wieder sein eigenes. (âDas verrÃ¤terische Herz.â) _Der doppelte
+William Wilson: Ã¼berall._
+
+Selten hat ein KÃ¼nstler so wenig _Ã¼ber_ dem gestanden, was er schuf, nie
+hat einer so sehr _in_ seinen Werken gelebt. Ein Deutscher, ein Franzose
+hÃ¤tte sich leichter von dem unseligen Moralbegriff emanzipiert; dem
+Dichter aber lastete durch Abstammung und Erziehung eine erdrÃ¼ckende
+ReligiositÃ¤t auf der Seele, von der er sich nie ganz befreien konnte.
+SpÃ¤t erst gelang es ihm, sich etwas zu distancieren: ganz jenseits von
+Gut und BÃ¶se hat er nie gestanden. Der alte englische Fluch drÃ¼ckte
+ihn, keine Folter wurde ihm erspart; diese arme Seele musste alle
+wahnsinnigen HÃ¶llenqualen der Breughel, der Jean van Bosch und Goya bis
+zur letzten Neige auskosten.
+
+O ja, wÃ¤re er ein Verbrecher der Tat, nicht des Gedankens gewesen,
+hÃ¤tte er am Galgen sein Dasein beschlossen, statt im Armenkrankenhaus,
+sein Leben wÃ¤re elend und jammervoll gewesen -- -- _doch nicht so
+schrecklich, als es war_.
+
+Aber Tempel erstanden aus den SchÃ¤delstÃ¤tten, Lilienfelder auf
+blutgedÃ¼ngten Wiesen. Und wir GlÃ¼cklichen geniessen die herrlichen
+Blumen, die aus des Dichters vergiftetem Herzblut erwuchsen.
+
+    *  *  *
+
+Die QuellbÃ¤chlein plÃ¤tschern durch den Park der Alhambra. Kleine
+muntere BÃ¤chlein, die plaudern und schwatzen. In den schmalen
+kieselgepflasterten Betten springen sie schnell vorbei, schnell wie die
+guten Stunden in des Dichters Leben dahineilten. Die Stunden, Minuten
+vielleicht, in denen er harmlos frÃ¶hlich sein konnte.
+
+Dann trÃ¤umte er irgendeinen lustigen Traum. Etwa von dem Manne mit der
+wunderbar grossen Nase, die alle Welt in Begeisterung setzte, die Maler
+malten und Herzoginnen kÃ¼ssten. Diese kÃ¶stliche kleine Geschichte, die
+in der bizarren Art ihrer Anlage Mark Twain vorweggenommen ist. Nur dass
+bei Poe die grotesken Ãbertreibungen viel feiner, viel natÃ¼rlicher
+herauskommen, dass sich nirgends ein Wortwitz vordrÃ¤ngend breit macht.
+
+Oder er macht sich Ã¼ber die breiten Bettelsuppen lustig, die die
+WochenblÃ¤tter ihren gutmÃ¼tigen Lesern auftischen, gibt der Miss Zenobia
+Unterricht, wie sie einen tÃ¼chtigen Blackwoodartikel abzufassen hat,
+lÃ¤sst den ehrenwerten Herrn Thingum Bob von der âWeltlaterneâ hÃ¶chst
+ergÃ¶tzlich Ã¼ber seine literarische Laufbahn plaudern. -- So leicht,
+so liebenswÃ¼rdig und einschmeichelnd ist des Dichters Witz! Wie die
+BÃ¤chlein, die munter plaudernd durch den Park der Alhambra plÃ¤tschern
+-- --
+
+    *  *  *
+
+Aber wie die Nachtigallen schluchzen seine TrÃ¤ume der Sehnsucht. Und
+aus der Seele einer Nachtigall scheint die Stimme gemacht, die sie sang.
+So rein, so ohne Makel; die heilige CÃ¤cilia mÃ¶chte aus Neid ihre Geige
+zerbrechen und Apoll seine Leier zerschlagen. War dem Dichter in seinen
+VerbrechertrÃ¤umen keine HÃ¶lle tief genug, so war ihm in diesen heiligen
+GesÃ¤ngen kein Himmel zu hoch.
+
+Nirgends finden wir bei Poe nur einen Satz, einen leisen Gedanken, der
+sich auf sexuelle Liebe bezÃ¶ge. Die Erotik ist ihm so vÃ¶llig fremd,[3]
+wie keinem andern Dichter, den einen Scheerbart vielleicht ausgenommen.
+Ebenso wenig ist irgendwo ein Zug sozialen FÃ¼hlens bei ihm zu entdecken.
+Und doch hat er ein Herz in der Brust, das sich nach Liebe sehnt, dem
+Liebesmitteilung unabweisbares BedÃ¼rfnis ist. _Nur_ dass er den Menschen
+nicht lieben +kann+, weil er immer und Ã¼berall die _kleinen_ Seiten
+sieht, die ihn abstossen, die die zur Liebkosung ausgestreckte Hand
+festbannen, das schmeichelnde Wort auf der Zunge ersterben lassen. Da
+wendet sich die Sucht Gutes zu tun, Liebes zu erweisen, dem +Tiere+ zu,
+streichelt den Hund, fÃ¼ttert die verhungerte Katze und ist dankbar fÃ¼r
+einen treuen Blick, fÃ¼r ein zufriedenes Schnurren. Wie bewusst das alles
+dem Dichter war, geht aus seiner Novelle: âDer schwarze Katerâ hervor,
+wo er ausdrÃ¼cklich diese Tierliebe als die reichste _Quelle seiner
+Freuden_ bezeichnet. War es die _reichste_ Freudenquelle eines armen
+Lebens, so war es auch gewiss die _reinste_, denn die hohe Liebe zu der
+sterbenden Gattin gab ihm Freuden nur mit grÃ¤sslichen Qualen vermischt.
+
+_Der_ Edgar Allan Poe, der +Roderich Usher+ ist, hatte wie der Engel
+Israfel des Korans statt des Herzens eine Laute in der Brust. Wenn er
+die schÃ¶ne Geliebte anblickte, schluchzte sein Herz, und die Laute sang.
+Sang die hohen Lieder der Sehnsucht, deren Titel schon mit so sÃ¼ssen
+TÃ¶nen ins Ohr klingen, die reinen Weisen von Morella und Berenice, von
+Eleonora und Ligeia. Dieselbe _innere Musik_, die den âRabenâ
+durchflutet und âUlalumeâ, und die vielleicht _das HÃ¶chste_ der Kunst
+ist, rauscht durch diese Poesie in Prosa. Und das Wort, das der Dichter
+seinem Weltensang âHeurekaâ zum Geleite gab, gilt auch fÃ¼r diese KlÃ¤nge:
+âThey cannot die: or if by any means they be now trodden down, so that
+they die, they will rise again to the life eternal.â
+
+Ja, sie haben Ewigkeitwert, sie werden die kurze Spanne Zeit leben, die
+wir Menschlein Ewigkeit nennen: das aber ist das HÃ¶chste, was je ein
+Mensch erreichen kann, auch in alle Zukunft hinaus.
+
+    *  *  *
+
+FÃ¼r keine Zeit aber ist der Wert des Dichters Edgar Allan Poe ein
+hÃ¶herer, als fÃ¼r unsere Tage, denn gerade unsere Zeit kann von ihm
+lernen -- und _sie tut es_. Poe ist heute kein Problem mehr, er ist eine
+Erscheinung, die lichtklar vor allen denen liegt, die sehen kÃ¶nnen. Das
+Bewusste seiner Rauschkunst, das Hervorheben der Bedeutung der Technik,
+das klare Erkennen des parnassischen Kunstprinzips in weitester
+Auffassung, die starke bis zur Ã¤ussersten Grenze gehende Hervorkehrung
+der hohen Bedeutung der innern Musik fÃ¼r alle Poesie -- -- das alles
+sind Momente, die einzeln von manchen andern betont sind, in ihrer
+Gesamtheit und durchdringenden Verbindung aber von keinem KÃ¼nstler so
+erkannt und angewandt sind, wie von dem neuenglischen Dichter. Und da
+diese Momente eben _in ihrem Aggregat_ das darstellen, was als die
+Forderung des modernen Geistes fÃ¼r die Kulturkunst bezeichnet werden
+kann, so ist das eingehende Studium wohl keines Dichters fÃ¼r den
+KÃ¼nstler und gebildeten Laien so dankbar, wie das Edgar Allan Poes. Dass
+man freilich solche Studien nicht an Ãbersetzungen machen kann, liegt
+auf der Hand: kennen lernen und geniessen mag man den Dichter in
+Ãbersetzungen, zu einem Eindringen in sein innerstes Wesen ist die
+Urform notwendig. Das mag von allen Dichtern gelten, von keinem aber
+mehr als von Poe.
+
+    *  *  *
+
+Noch flÃ¶ten die Nachtigallen, und aus ihren kleinen Kehlen singt die
+Stimme des Dichters, den ich liebe. Die leichten Winde schlagen die
+FlÃ¼gel ein, die BlÃ¤tter der Ulmen halten inne mit Rauschen. Selbst die
+RieselbÃ¤chlein lassen von ihrem Geplauder: der Park der Alhambra lauscht
+dem Gesange der Nachtigallen. Durch Hunderte von Jahren haben am Abend
+diese sÃ¼ssen KlÃ¤nge die alten TÃ¼rme und Mauern zur Ruhe gewiegt -- --
+auch heute sind es die vertrauten TÃ¶ne und doch anders, so anders. Eines
+toten Dichters Lautenherz klopft, und _seiner Seele Lieder_ singen die
+kleinen VÃ¶gel. Da lauschen die BÃ¤che und BÃ¤ume, da lauschen die roten
+Quadersteine, da lauschen die purpurglÃ¼henden Kuppen der Schneeberge.
+Und ein unendlicher Seufzer klingt durch den grossen Garten von Westen
+her: das ist die warme, sinkende Sonne, die trauernd Abschied nehmen
+muss von eines Dichters erhabenem Sange.
+
+Die DÃ¤mmerung atmet durch die Ulmen, und leichte Nebelschatten
+heben sich aus den LorbeerbÃ¼schen, steigen hinab aus dem maurischen
+Geisterschloss. Wie ein langer Zug schreiten sie vorbei, setzen sich
+ringsum auf die MarmorbÃ¤nke. Ich weiss wohl, wer sie sind: Granadas
+Dichter, Juden und Araber. Ganz nahe bei mir sitzt Gabirol, dann Ibn
+al-Khabib und Ibn Esra. Und Jehudah ben Halevy und Mohammed Ibn KhaldoÃ»n
+und Ibn BatoÃ»ta, hundert tote Dichter lauschen schweigend dem Sange der
+Nachtigallen. Sie wissen alle, _was_ heute die grauen VÃ¶glein singen --
+_so klug sind die Toten_. Sie hÃ¶ren das Herz des Engels Israfel, von dem
+der Koran erzÃ¤hlt, und preisen dankend den Gott, der solche TÃ¶ne
+erweckte. -- OualÃ¢ ghÃ¢liba illâ AllÃ¢hta âalÃ¢ -- murmeln die
+Nebelschatten der Alhambra.
+
+Und die Nachtigallen singen von dunkeln RÃ¤tseln, von den reinen
+Quellen des Lebens, das eine grosse Sehnsucht ist. Sie singen von dem
+geheimnisvollen Gedanken, der alles erschuf und ewig durchdringt, von
+dem weltenbauenden Hauche, der mit unendlicher Liebe das All erfÃ¼llt.
+Singen von der SchÃ¶nheit, die alle Wahrheit erst zur Wahrheit macht; von
+den TrÃ¤umen, die das Leben erst zum Leben machen.
+
+Poes Seele singt, und hundert tote Dichter lauschen den KlÃ¤ngen. Und von
+ihren Lippen lÃ¶sen sich immer wieder die uralten Worte: -- OualÃ¢ ghÃ¢liba
+illâ AllÃ¢hta âalÃ¢. -- -- So dankbar sind die Toten.
+
+    *  *  *
+
+Und tiefer sinkt die Nacht herein. Die Nachtigallen schweigen, und der
+Ostwind hebt sich von der Sierra her. Da weichen die Nebelschatten;
+wieder bin ich allein in der Alhambra verzauberten Parke, allein mit
+eines grossen Dichters Seele. Und wie der Wind durch die BlÃ¤tter fÃ¤hrt,
+rauschen die alten Ulmen und singen von âUlalumeâ, der seltsamen Ballade
+von des Dichters schaurigem Traume -- --
+
+  âThe skies they were ashen and sober;
+  The leaves they were crispÃ¨d and sere --
+  The leaves they were withering and sere;
+  It was night in the lonesome October
+  Of my most immemorial year.
+  It was hard by the dim lake of Auber
+  In the misty mid region of Weir --
+  It was down by the dank tarn of Auber
+  In the ghoul -- haunted Woodland of Weir.
+
+  Here once, through an Alley Titantic
+  Of Cypress, I roamed with my Soul -- --
+  -- -- -- --â
+
+Ich weiss wohl, dass ich es bin, der die Verse spricht. Aber ich fÃ¼hle,
+dass meine Lippen nichts anderes sagen, als das, was die Ulmen da
+rauschen. Ich fÃ¼hle: das ist das trÃ¼be Oktoberlied der heulenden Winde,
+das eines Dichters Ã¼berirdische Sehnsucht in sich aufsog und in
+Menschenworte bannte. Das ist das Einatmen eines innersten Sinnes der
+Natur, ist ein Aufgehen des eigenen Wesens im All und zugleich ein
+Durchdringen des Alls mit dem Gedanken, der die Urform allen Seins ist.
+Das ist ein kleiner Beweis fÃ¼r das von dem Dichter aufgestellte hÃ¶chste
+Gesetz âvon der +Einheit+ _als Quelle aller Dinge_â.
+
+Mein Mund spricht die geheimnisvollen Worte, die meinem Ohre der Wind
+zutrÃ¤gt. Ich fÃ¼rchte mich in dieser dÃ¼stern Einsamkeit, in der eine
+mÃ¤rchenferne Zeit lebt; ich will hinaus aus dem Tale der Alhambra. Da
+verirrt sich mein Fuss, tappt im Dunkel und verfehlt den Weg. Und wie
+ich eine Allee gewaltiger Zypressen zu Ende schreite, stosse ich hart an
+ein niederes Tor. O, die Angst lehrt im Dunkeln sehn -- -- ich weiss,
+ich weiss, wessen Grab das ist. Und _gegen meinen Willen_ sprechen meine
+Lippen zu meiner Seele:
+
+  -- -- -- âWhat is written, sweet Sister,
+  On the door of this legended tomb?â
+  She replied: -- âUlalume -- Ulalume --
+  âTis the vault of thy lost Ulalume!â
+
+Immer steigert sich meine Furcht. Des toten Dichters Seele, die durch
+der Ulmen BlÃ¤tter rauschte, in der Nachtigallen Sang erklang, die aus
+den QuellbÃ¤chlein plÃ¤tscherte und des Windes schauriges Lied erfÃ¼llte,
+sie nimmt _auch von mir_ Besitz. Von mir: einem winzigen StÃ¤ubchen der
+Natur, die sie durchdringt. Ich weiss, dass dieser Gedanke mich
+vernichtet, dem ich nicht entfliehen kann. Doch wehre ich ihm nicht,
+-- -- und seltsam! ich werde ruhig, so ruhig, wie ich ganz von ihm
+erfÃ¼llt bin.
+
+Leise schwindet die kleine Menschenangst.
+
+    *  *  *
+
+Nun finde ich auch meinen Weg wieder. Ich schreite durch die Pforte der
+Reben auf den Platz der Aljibes zu. Ich gehe in die Alcazaba, steige den
+Ghafar hinauf, den mÃ¤chtigen Wachtturm der maurischen FÃ¼rsten. Ein
+leuchtender Halbmond glÃ¤nzt nun zwischen ziehenden Wolken, das alte
+Wahrzeichen arabischer GrÃ¶sse, das kein Christengott vom Himmel
+wegwischen kann. Ich blicke tief hinunter auf das kirchenfrohe Granada,
+lÃ¤rmend und schwÃ¤rmend im nÃ¤chtlichen Strassentreiben. Das lÃ¤uft in
+KaffeehÃ¤user, das liest Zeitungen, putzt Stiefel und lÃ¤sst sich Stiefel
+putzen. Das schaut in erleuchtete Ladenfenster, fÃ¤hrt in Trambahnen,
+ruft frisches Wasser aus und sammelt Zigarrenstummel. Das lÃ¤rmt und
+schreit, zankt sich und vertrÃ¤gt sich wieder. -- Und _kein Mensch_ hebt
+den Blick, kein Mensch schaut hinauf auf die einzige Pracht hier oben!
+
+Rechts von mir braust der Darro daher, hinten hÃ¶re ich des Genil
+Rauschen. Helle Feuerscheine dringen aus den ErdhÃ¶hlen des
+Zigeunerberges, und zur andern Seite strahlen silbern im Mondlichte die
+SchneehÃ¤upter der Sierra. Zwischen dem Wachtturme, auf dem ich stehe,
+und den PurpurtÃ¼rmen des Mohrenberges zieht sich tief im Tal der dunkle
+Park hin, hinter mir liegt, Saal an Saal, Hof an Hof, der Alhambra
+Zauberschloss.
+
+Dort unten lÃ¤rmt das kleine Leben des Jahrhunderts, hier oben ist der
+TrÃ¤ume Land. Und das da unten -- -- wie fern, wie unendlich weit ist das
+von mir. Und das hier oben -- -- ist nicht jeder Stein ein StÃ¼ck meiner
+Seele? Bin ich, allein in dieser Welt der Geister, _die das blinde Leben
+unten nicht sieht_, bin ich nicht ein Teil all dieser TrÃ¤ume? -- Die
+allmÃ¤chtige SchÃ¶nheit macht diese TrÃ¤ume _zur Wahrheit_: hier blÃ¼ht das
+Leben, und die Wirklichkeit da unten wird zum Schattenspiele.
+
+Die Tat ist nichts -- der Gedanke ist alles. Die Wirklichkeit ist
+hÃ¤sslich, und dem HÃ¤sslichen fehlt die Berechtigung des Daseins. Die
+TrÃ¤ume aber sind schÃ¶n, und sind wahr, _weil_ sie schÃ¶n sind.
+
+Und darum glaube ich an die TrÃ¤ume, als an das _einzig_ Wirkliche.
+
+  [Verzierung]
+
+
+
+
+WIE SAH EDGAR ALLAN POE AUS?
+
+
+Es gibt MÃ¤nner, von denen ein seltsamer Zauber ausgeht. Sie ziehen in
+ihren Bann, willenlos: man _muss_ an ihre PersÃ¶nlichkeit glauben. Und
+dann ist da ein _Etwas_, das zurÃ¼ckstÃ¶sst; man weiss nicht, was es ist
+-- -- _aber es ist da_. Sie sind _gezeichnet_: mit dem Kennzeichen der
+Kunst. So war Oscar Wilde, so war +Edgar Allan Poe+.
+
+Seine Gestalt war hoch, sein Gang leicht und seine Haltung stets
+harmonisch. Immer vornehm, trotz seiner Armut; von einer romantisch
+ritterlichen Art. Seine stolzen ZÃ¼ge waren regelmÃ¤ssig, ja, sie waren
+schÃ¶n; die reinen Augen dunkelgrau mit einem seltsam violetten Glanze.
+Die selbstbewusste Stirn hoch und von wunderbarem Ebenmass. Bleich war
+stets seine Gesichtsfarbe und schwarz die Locken, die sie beschatteten.
+SchÃ¶n war Edgar Allan Poe, an Leib und an Seele. Wie Musik klang seine
+leise Stimme -- --
+
+Geschmeidig war er und krÃ¤ftig, zu jeder LeibesÃ¼bung geschickt. Ein
+ausdauernder Schwimmer, der einmal Ã¼ber sieben englische Meilen ohne zu
+ermÃ¼den von Richmond nach Warwick gegen reissenden Strom schwamm; ein
+gewandter Springer, eleganter Reiter und vorzÃ¼glicher Fechter, der mehr
+wie einmal einen Gegner heissblÃ¼tig zum Zweikampfe forderte.
+
+Er war ein _Gentleman_ vom Scheitel zur Sohle. Seine gesellschaftlichen
+Formen waren kÃ¼hl und doch bestrickend liebenswÃ¼rdig. Er war weich und
+zart und doch ernst und fest. Er war ein Gelehrter, besass eine fast
+universale Bildung. Es war ein gleich grosser Ã¤sthetischer Genuss ihn zu
+sehen, wie ihm zuzuhÃ¶ren. Er war immer der Schenkende, und sein Fluch
+war, dass so wenige, wenige all derer, an die er seine reichen Gaben
+zerstreute, sie zu wÃ¼rdigen verstanden. Ein paar schÃ¶ne Frauen -- --
+verstanden ihn? -- nein, aber sie ahnten den Adel seiner Seele;
+instinktiv, wie es immer die Frauen tun. -- Drei Menschen, die zu seiner
+Zeit lebten, vermochten ihn ganz zu erfassen: Baudelaire und die beiden
+Browning. Aber sie lebten drÃ¼ben im alten Europa, und er sah sie nie --
+
+  [Abbildung: Edgar A. Poe.
+  (Nach einer Radierung von Harry G. Webb)]
+
+So war der Dichter allein, einsam in seinen verstiegenen TrÃ¤umen.
+
+Und wie er schÃ¶n war und Ã¼ber alles die SchÃ¶nheit liebte, so musste auch
+alles das schÃ¶n sein, was ihn umgab. Grandiose SchÃ¶nheiten schuf er in
+seinen TrÃ¤umen, die ihm ja Wirklichkeit waren; da hauste er in Landors
+kÃ¶stlichem Landhaus oder auf dem herrlichen Gute zu Arnheim. Aber auch
+in dem armen bescheidenen Leben, das die Pfennige zÃ¤hlt, wusste er um
+sich herum ein Sein zu schaffen, das die Bewunderung Reichster erregte.
+Seine kleine HÃ¼tte zu Fordham, in der er an der Seite der schÃ¶nen
+todgeweihten Gattin ein Paradies der Qualen durchlebte, durchflutete
+eine kÃ¶stliche Harmonie, die jeden Besucher entzÃ¼ckte. Krempel und
+GerÃ¼mpel stand da herum -- -- aber _wie_ es herum stand, war es reizvoll
+und schÃ¶n. Es war eine erbÃ¤rmliche HÃ¼tte auf der Spitze eines kleinen
+HÃ¼gels, aber blÃ¼hende KirschbÃ¤ume standen auf der grÃ¼nen Wiese, kleine
+SingvÃ¶gel lockten frÃ¼hmorgens den Dichter hinaus in die nahen
+FichtenwÃ¤lder. Dann schritt er durch seine bunten GeorginenbÃ¼sche,
+atmete den sÃ¼ssen Duft der Reseden- und Heliotropbeete ein. Die leichte
+Morgenluft kÃ¼sste seine feuchten SchlÃ¤fen, streichelte die mÃ¼den Augen,
+die die lange Nacht Ã¼ber an dem Lager der langsam sterbenden Geliebten
+gewacht hatten. Er ging zu der hohen BrÃ¼cke Ã¼ber den Fluss Harlem oder
+an den felsigen Abhang und trÃ¤umte dort, von alten Zedern beschattet,
+in das weite Land hinaus.
+
+Nun ruht er -- -- irgendwo. Am Tage nach seinem Tode begrub man ihn,
+auf dem Westminsterchurchfriedhofe zu Baltimore. Wie einen Landstreicher
+las man den sterbenden Dichter von der Strasse auf, wie einen Hund
+verscharrte man ihn am andern Tage. Sein Grab soll nahe bei dem seines
+Grossvaters liegen, des Generals David Poe, der in dem Befreiungskampfe
+der Union sich einen Namen machte. Da ungefÃ¤hr _soll_ es sein; man weiss
+es nicht so genau. Kein Kreuz, kein Grabstein erhebt sich an der Stelle;
+kein Mensch bekÃ¼mmert sich darum. Seine Landsleute haben andere Sorgen:
+was geht die ein toter Dichter an! -- So eine Woche noch beschÃ¤ftigten
+sie sich mit dem elend Verschiedenen -- um sein Andenken zu beschmutzen,
+zu begeifern. Alle die LÃ¼gengeschichten, die noch heute Ã¼ber ihn im
+Umlauf sind, wurden da erfunden; eine ganze Flut giftiger Tinte wurde
+Ã¼ber den toten LÃ¶wen verspritzt. Alle die MittelmÃ¤ssigkeiten fielen Ã¼ber
+ihn her, die neidgeschwollenen Schreiberlein, die er so unbarmherzig
+zerrupft hatte. Stimmten ein in den Schlachtruf des LÃ¼genpfaffen
+Griswold: âEr verreckte im Dusel! Er soff, er soff, er soff!â -- Dann
+vergass man ihn da drÃ¼ben, und das war gut so: seine Landsleute waren
+eben lange noch nicht reif, ihres grossen Dichters Genie zu erkennen.
+
+Ob sie es heute sind?
+
+Aber nach hundert Jahren werden sie die morschen Knochen zusammensuchen,
+werden ihnen einen mÃ¤chtigen Denkstein errichten und darauf schreiben:
+
+âDie Vereinigten Staaten _ihrem_ grossen Dichter.â
+
+MÃ¶gen sie die Knochen behalten, die da drÃ¼ben! Wir aber wollen des
+Dichters Seele lauschen, die in den Nachtigallenkehlen der Alhambra
+lebt.
+
+
+_Anmerkungen_
+
+  [Anmerkung A: Die beste Ausgabe in englischer Sprache ist bei
+  J. B. Lippincott Company, Philadelphia erschienen; eine deutsche
+  Gesamtausgabe (die nur die kritischen Studien und einige Gedichte
+  und Humoresken nicht enthÃ¤lt) erschien bei J. C. C. Bruns in Minden;
+  einzelne Novellen in der Reclamschen und der Meyerschen
+  Volksbibliothek.]
+
+  [Anmerkung B: Was seinen Biographen, den Pfaffen +Griswold+, nicht
+  hindert, zu behaupten, âdass es in der ganzen Literatur kein
+  Beispiel gÃ¤be, bei welchem man, wie bei Poe, so sehr auch nur den
+  Schatten eines Gewissens vermisse!â]
+
+  [Anmerkung C: {7 Seiten} Es ist vÃ¶llig verfehlt, diese Tatsache,
+  wie +van Vleuten+ es tut, auf den Ã¼bermÃ¤ssigen Alkoholgenuss
+  zurÃ¼ckzufÃ¼hren: Bacchus, der Venus Feind. Seine Bemerkung: âDass der
+  Alkohol ein Feind der physischen Liebe ist, weiss jeder Arzt; in Poe
+  scheint er auch das psychische Ãquivalent vernichtet zu habenâ
+  (âZukunftâ 1903 pag. 189), ist mir aus dem Munde eines ernsten
+  Psychiaters, wie +van Vleutens+, einfach unbegreiflich. Ich habe im
+  +Gegenteil hÃ¤ufig+ die Erfahrung gemacht -- und mir von Psychiatern
+  bestÃ¤tigen lassen -- dass chronische Alkoholiker im Rausche oft
+  genug, manche sogar regelmÃ¤ssig, eine ausserordentliche Steigerung
+  des Geschlechtstriebes zeigen. Es ist hier nicht der Ort, auf diese
+  Frage nÃ¤her einzugehen, jedenfalls ist es eine Tatsache, die jeder
+  Polizist bestÃ¤tigen wird und die +van Vleuten+ gewiss nicht leugnen
+  kann, dass dreiviertel der nÃ¤chtlichen Bordellbesucher in einem mehr
+  oder weniger grossen Rausche handeln. Ist also die Hypothese van
+  Vleutens falsch, so ist seine Schlussfolgerung vÃ¶llig absurd: âin
+  Poe scheint der Alkohol auch das +psychische+ Ãquivalent vernichtet
+  zu haben. _Deshalb_ war das Weib aus seinen Delirien verbannt; und
+  da sein Dichten fast ausschliesslich in seinen Delirien wurzelte,
+  fehlt ihm die ganze SphÃ¤re des Weibes und der Geschlechtsliebeâ. --
+  âDie SphÃ¤re des Weibesâ fehlt Poe durchaus nicht, vielmehr hat er
+  sie hÃ¤ufig, freilich stets in der denkbar reinsten und edelsten
+  Form, verwandt. -- Ãbrigens widerspricht sich van Vleuten selbst.
+  Er stellt fest, âdass â_Der Rabe_â offenbar aus einem +Delirium+
+  stammeâ (a.a.O. pag. 189). Nun, in diesem Gedicht spielt doch _ein
+  Weib_ die Hauptrolle, wie kann er da behaupten, dass âdas Weib aus
+  Poes Delirien verbannt seiâ? -- Der Satz, âdass der Alkohol der
+  physischen Liebe -- und sogar ihres psychischen Ãquivalents -- Feind
+  seiâ, ist in dieser Allgemeinheit gewiss unrichtig; die Wirkung ist
+  eben +individuell+ vÃ¶llig verschieden. Daher hÃ¤tte sich van Vleuten
+  seine Bemerkung, dass _Baudelaire_, als er auf die AsexualitÃ¤t der
+  Novellen Poes hinwies, â_keine rechte ErklÃ¤rung hierfÃ¼r habe finden
+  kÃ¶nnen_â, besser gespart. Baudelaire, dem bewussten RauschkÃ¼nstler
+  par excellence, war ganz sicher diese sogenannte âErklÃ¤rungâ wohl
+  bekannt, er gab sie mit Absicht _nicht_ wieder, da er ihre Hohlheit
+  durchaus erkannte. -- -- Die _AsozialitÃ¤t_ des Dichters, die
+  Ã¼brigens ebenso wie die AsexualitÃ¤t beim Lesen Poes in die Augen
+  springt, berÃ¼hrt van Vleuten leider mit keinem Wort: -- mÃ¶chte er
+  etwa behaupten, dass ihr _physisches_ Ãquivalent bei ihm _vorhanden
+  gewesen_, aber durch den Alkohol vernichtet worden sei?! -- Logisch
+  +mÃ¼sste er es+, denn der innere Zusammenhang beider Momente -- hier
+  in der Negation -- lÃ¤sst sich doch einmal nicht verleugnen! -- --
+  Es ist Ã¼brigens unerhÃ¶rt, zu welchen Gewaltmitteln van Vleuten in
+  seiner sonst klugen Arbeit greift, um den Dichter in das
+  Prokrustesbett seiner vorher festgelegten Schablone zu pressen! So
+  behauptet er: âDie Landschaft Poes ist schematisch und einfÃ¶rmig.
+  -- -- -- FÃ¼r die wirkliche Landschaft war der Blick des Kranken
+  +unempfindlich+, wenigstens liess die AmnÃ¤sie keine Erinnerung daran
+  haften.â -- Und solchen Unfug sagt ein Psychiater, der selbst ein
+  begabter Dichter ist, von dem Edgar Allan Poe, der â_Landors
+  Cottage_â und â_The Domain of Arnheim_â schrieb, diese +Hohenlieder
+  der Landschaft+, in denen auf fÃ¼nfzig engbedruckten Seiten von
+  nichts anderm als von landschaftlichen SchÃ¶nheiten die Rede ist! --
+  Ich kann mir dies Vorgehen van Vleutens nur so erklÃ¤ren, dass er
+  Poes Werke nur bruchstÃ¼ckweise kennt und die erwÃ¤hnten beiden
+  KabinettstÃ¼cke, sowie die Mehrzahl seiner Gedichte, die eine Menge
+  landschaftlicher Bilder enthalten, nie gelesen hat! Wenn ich ihn
+  also in Schutz nehme vor dem Vorwurfe, bewusst Unrichtiges gesagt
+  zu haben, so kann ich ihm doch den andern schweren Vorwurf nicht
+  ersparen: ohne genÃ¼gende Vorkenntnisse den Lesern der âZukunftâ,
+  das heisst, unserm Elitepublikum, eine Arbeit vorgesetzt zu haben,
+  die, obwohl im grossen ganzen gewiss anerkennenswert, doch in
+  Einzelheiten schwere IrrtÃ¼mer enthÃ¤lt, die geeignet sind, das Bild
+  eines der allergrÃ¶ssten Genies im Werte herabzusetzen.]
+
+[Verzierung]
+
+
+
+
+SCHRIFTEN VON
+
+HANNS HEINZ EWERS
+
+
+MÃRCHEN UND FABELN
+
+Ein Fabelbuch (mit Etzel). IV. Aufl.
+  Verlag Albert Langen, MÃ¼nchen
+
+Die verkaufte Grossmutter. III. Aufl.
+  Verlag Hermann Seemann Nachf., Berlin
+
+Die Ginsterhexe. II. Aufl. Verlag J. von
+  Schalscha-Ehrenfeld, Leipzig
+
+
+NOVELLEN UND GEDICHTE
+
+Der gekreuzigte TannhÃ¤user. VI. Aufl.
+  (Vergriffen)
+
+C. 33 und anderes. (Vergriffen)
+
+Das Grauen. NachtstÃ¼cke in Goyaâs Manier.
+  Verlag Concordia, Berlin
+
+Moganni Nameh (Gesammelte Gedichte)
+  Verlag Concordia, Berlin
+
+
+
+
+Band XII der DICHTUNG
+
+  E. T. A. HOFFMANN
+  von
+  RICHARD SCHAUKAL
+
+Mit 11 Abbildungen
+
+
+Urteile:
+
+  =Nationalzeitung=: Richard Schaukal verbreitet sich in sachlicher
+  Weise Ã¼ber E. T. A. Hoffmann, einen Vorfahren, dem Schaukal selber in
+  seinem dichterischen Streben mannigfaltig verpflichtet ist. Er erzÃ¤hlt
+  das Leben Hoffmanns an der Hand der alten Hitzig-Hippelschen
+  Biographie und gibt dann eine gute Charakteristik des Hoffmannschen
+  Gesamtwerkes, in jenem eigenwilligen Stil, der den Prosaschriften
+  dieses Autors eine so amÃ¼sante persÃ¶nliche FÃ¤rbung verleiht.
+
+  =Dresdener Anzeiger=: ... Schaukal gibt viele Anregungen und ist mit
+  seinem verzwickten barocken Stil, mit seiner blendenden
+  EindrucksfÃ¤higkeit in mehr als einer Hinsicht dem Wesen des
+  Gespenster-Hoffmann verwandt. Wir finden hier ein tiefes Eindringen,
+  ein williges Aufgehen in der SubjektivitÃ¤t. Haben wir das Buch von
+  Schaukal gelesen, dann haben wir teils direkt, teils indirekt durch
+  stilistische Kunst ein Bild E. T. A. Hoffmanns selbst.
+
+  =Wiener Abendpost=: Als Frucht einer langen Ã¼ber alle literarischen
+  UmwÃ¤lzungen geretteten Liebe und eines grossen Fleisses hat Schaukal
+  seinen Essay Ã¼ber Hoffmann erscheinen lassen. In âUmrisseâ und
+  âPaletteâ teilt er ab, was er Ã¼ber den malenden und komponierenden
+  Dichter zu sagen hat. Die âUmrisseâ zeichnen nach fremden PortrÃ¤ts
+  rasch eine charakteristische Skizze von Hoffmanns seltsamem Leben und
+  seiner idealisch glÃ¼henden Art. Mehr von Eigenem gibt Schaukal im
+  zweiten Teile. WÃ¤hrend der erste Abschnitt auch irgendeinem besonders
+  feinfÃ¼hligen Gelehrten gelingen kÃ¶nnte, spricht in der zweiten
+  Abteilung ein KÃ¼nstler von der zerrissenen, in ironischen Masken
+  grinsenden Seele eines KÃ¼nstlers.
+
+
+
+
+Band XXIV der DICHTUNG
+
+  OSCAR WILDE
+  von
+  HEDWIG LACHMANN
+
+Mit 10 Abbildungen
+
+
+Urteile:
+
+  =Allgemeine Zeitung, MÃ¼nchen=: Ungeachtet der Schriftenflut, die sich
+  Ã¼ber den englischen Dichter und LebenskÃ¼nstler ergossen hat, ... wird
+  man diese einfach geschriebene, von innerlicher WÃ¤rme erfÃ¼llte, in
+  aller Bewunderung fÃ¼r ihren Helden massvoll abwÃ¤gende, klar und fein
+  durchgefÃ¼hrte Schilderung gerne lesen.
+
+  =Strassburger Post=: ... Zu einer grundverschiedenen Dichternatur, dem
+  genialen, unglÃ¼cklichen EnglÃ¤nder Oscar Wilde, fÃ¼hrt den Leser Hedwig
+  Lachmann, die Wildes âSalomeâ ins Deutsche Ã¼bertragen hat. âWie in
+  einer tragischen Dichtung aus Anlagen und VerhÃ¤ltnissen das Geschick
+  des Helden mit geradliniger Folgerichtigkeit herausrollt, so, als wÃ¤re
+  es von einem Dichterhirn ersonnen und in die Welt gestellt, spielt
+  sich das Leben Oscar Wildes ab.â
+
+  =Berner Bund=: âDie Dichtungâ, die im Verlage von Schuster & Loeffler
+  herausgegeben wird, enthÃ¤lt wohl das Feinste, was bis jetzt in
+  Deutschland Ã¼ber den englischen Dichter geschrieben wurde. Sein Leben
+  und sein Werk werden als aus derselben Wurzel hervorgehend begriffen
+  und gewÃ¼rdigt.
+
+
+J. C. C. Brunsâ Verlag, Minden i. W.
+
+
+
+
+  Edgar Allan Poes Werke
+
+  Kritische Ausgabe in 10 BÃ¤nden,
+  Herausgegeben und Ã¼bersetzt
+  von _Hedda_ u. _Arthur Moeller-Bruck._
+  Brosch. 10 BÃ¤nde
+  Ã  M. 2.--, geb. 10 EinzelbÃ¤nde
+  Ã  M. 2.50 od. 5 DoppelbÃ¤nde
+  Ã  M. 5.--.
+
+  Band I: â_Leben und Schaffen_â (enthÃ¤lt neben einer Vorrede die
+  _Lebensbeschreibung_ des Dichters durch seinen Biographen John H.
+  Ingram in Ãbersetzung, eine Darstellung von Poes kÃ¼nstlerischem
+  Schaffen aus der Feder Arthur Moeller-Brucks, sowie zwei AufsÃ¤tze
+  Poes). -- Band II: â_Gedichte_â (enthÃ¤lt die metrisch gebundenen
+  Poesien, ein Dramenfragment und einige mehr lyrische ProsastÃ¼cke).
+  -- Band III: â_Heureka_â (enthÃ¤lt neben der grossen Kosmogonie selbst,
+  weitere mehr lyrische ProsastÃ¼cke). -- Band IV: â_William Wilson_â
+  (enthÃ¤lt im allgemeinen die _romantisch-phantastischen Novellen_).
+  -- Band V: â_Der Geist des BÃ¶sen_â (enthÃ¤lt im allgemeinen die
+  _Kriminalnovellen_). -- Band VI: â_Mesmeristische EnthÃ¼llungen_â
+  (enthÃ¤lt im allgemeinen die _spiritistischen Novellen_). -- Band VII:
+  â_Hans Pfaalls Mondfahrt_â (enthÃ¤lt im allgemeinen die _aÃ«ronautisch-,
+  geographisch- usw. phantastischen Novellen_). -- Band VIII: â_Die
+  Abenteuer Gordon Pyms_â (Roman). -- Band IX: â_Der Teufel im
+  Glockenstuhl_â (enthÃ¤lt im allgemeinen die _Satiren_). -- Band X:
+  â_Der Engel des Wunderlichen_â (enthÃ¤lt im allgemeinen die
+  _Grotesken_).
+
+  Die einzelnen BÃ¤nde kÃ¶nnen einzeln bezogen werden, jeder Band bildet
+  ein abgeschlossenes Ganzes. Die Ausstattung des Werkes, dem eine
+  hervorragende literarische Bedeutung innewohnt, ist gediegen.
+
+
+Zu beziehen durch alle Buchhandlungen.
+
+HerrosÃ© & Ziemsen, G.m.b.H., Wittenberg.
+
+
+
+
+  VERLEGT BEI
+  SCHUSTER & LOEFFLER
+  BERLIN UND LEIPZIG
+
+       *       *       *       *       *
+           *       *       *       *
+       *       *       *       *       *
+
+Fehler und UnregelmÃ¤ssigkeiten
+
+Westpoint; New-Jork; Rue de Morgue _usw._
+  _Namensformen im Originaltext ungeÃ¤ndert_
+Leonore; Eleonora _usw._
+  _Fehler fÃ¼r Â»LenoreÂ« ?_
+
+âDie Dichtungâ (Reklame)
+  _Variation zwischen Â»Bd.Â« und Â»BandÂ« ungeÃ¤ndert_
+[Abbildung: A Edgar Poe]
+  _Original ungeÃ¤ndert: Namen gehÃ¶rt zu das Bild_
+... vierzig Jahre alt.â
+  _AnfÃ¼hrungszeichen fehlt im Original_
+Den BÃ¤deker in der Hand.
+  _Original ungeÃ¤ndert: anderswo Â»BaedekerÂ«_
+seine arme Dichterseele stark eingepfercht
+  _Original hat Â»stakÂ«_
+die je gestellt wurde.
+  _Endpunkt fehlt_
+âThey cannot die:
+  _Original hat Â»ThayÂ«_
+Of my most immemorial year.
+  _Original hat Â»i memorialÂ« mit unsichtbares Â»mÂ«_
+âTis the vault of thy lost Ulalume!ââ
+  _Original hat Â»Ulalume!ââÂ« mit Ã¼berflÃ¼ssiges anfÃ¼hrungszeichen_
+  _Oder: anfÃ¼hrungszeichen fehlt am anfang des Dichtes_
+dem eine hervorragende literarische Bedeutung innewohnt
+  _Original hat Â»innnewohntÂ«_
+
+
+
+
+
+End of the Project Gutenberg EBook of Edgar Allan Poe, by Hanns Heinz Ewers
+
+*** END OF THIS PROJECT GUTENBERG EBOOK EDGAR ALLAN POE ***
+
+***** This file should be named 20589-0.txt or 20589-0.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/2/0/5/8/20589/
+
+Produced by Louise Hope, Tamise Totterdell and the Online
+Distributed Proofreading Team at http://www.pgdp.net (This
+file was produced from images generously made available
+by The Internet Archive/American Libraries.)
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
