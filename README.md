@@ -1,5 +1,6 @@
 # Analiza knjig
-
+Projektna naloga vsebuje analizo podatkov knjige, ter njene vsebine. Knjige so zbrane iz strani [Project Gutenberg](https://www.gutenberg.org/), ki vsebuje več kot 60 000 strani, v našem primeru, pa se bom osredotočil le na zvrst
+`Fiction`, ki pa ima okoli 6000 knjig. Zaradi težavnosti analize knjig iz drugih jezikov, se bom pri pri tem omejil na knjige, ki so napisane v angleščini.
 # Vir podatkov
 Podatki bodo zajeti iz strani [Gutenberg](https://www.gutenberg.org/), specifično iz kategorije "Fiction".
 
@@ -14,12 +15,14 @@ Podatki bodo zajeti iz strani [Gutenberg](https://www.gutenberg.org/), specifič
 # Procesiranje podatkov
   * Najpogostejše besede posamezne zvrsti
   * Določanje zvrsti na podlagi besedila
-  * Določanje tem na podlagi besedila ("subject" na Gutenberg)
   * Število knjig v posameznem letu
   * Pogostost zvrsti
+  * Povprečno število strani knjigah
+  * Povprečno število strani knjig po zvrsteh
 # Podatki
 Podatki, zajeti s pomočjo skript `tools.py` in `process_site.py`, se nahajajo v direktoriju `processed_data`.
-
+Poleg tega pa imam še `tokenized_books`, json datoteke besed v knjigi, brez tistih, ki so preveč pogoste v vseh besedilih
+neodvisno od zvrsti.
 ## Struktura CSV datotek:
  * Vsi podatki o knjigah so vsebovani v datoteki `book_data.csv` ki vsebuje vnose oblike:
   `id, title, author, release_date`, pri čemer je `id` vsaklajen z številko knjige na strani [Gutenberg](https://www.gutenberg.org/).
