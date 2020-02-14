@@ -108,3 +108,4 @@ pages/
 
 # Emacs
 *~
+.dir-locals.el
