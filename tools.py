@@ -3,7 +3,7 @@ import requests
 import sys
 import os
 import csv
-
+import json
 
 def main():
     parser = argparse.ArgumentParser()
@@ -71,7 +71,6 @@ def read_book(file_name, directory):
               encoding='utf-8') as book_file:
         return book_file.read()
 
-
 def read_file(file_name, directory):
     with open(os.path.join(directory, file_name + '.html'),
               'r',
@@ -79,6 +78,19 @@ def read_file(file_name, directory):
         return page_file.read()
 
 
+def write_array(array, file_name, directory):
+    path = os.path.join(directory, file_name + '.json')
+    try:
+        if os.path.isfile(path):
+            return
+        create_folder(path)
+        with open(path, 'w', encoding='utf-8') as json_file:
+            json_file.write(json.dumps(array))
+    except:
+        print("Failed to write array", array)
+        return
+                        
+    
 def write_csv(dictionaries, field_names, file_name, directory):
     path = os.path.join(directory, file_name + '.csv')
     create_folder(path)

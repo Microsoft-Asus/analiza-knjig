@@ -145,7 +145,7 @@ the scullery door ajar. "Won't I ketch it! It's him for growling and
 snapping at a body, and it's me for always being before or behind
 time, bad luck to me. There's no plazing him."
 
-Mary pushed back the door and passed through the kitchen, serving
+Mary pushed back the door and passed through the kitchen, nerving
 herself all the while to meet the objurgations which she supposed
 were lying in wait for her. The sunshine was blinding without, but
 sifted through the green jalousies, it made a gray, crepuscular light
@@ -231,7 +231,7 @@ At a period long anterior to this, one Lydia Sloper, a widow, had
 died an unexplained death under that same roof. The coincidence
 struck deeply into the imaginative portion of Stillwater. "The Widow
 Sloper and old Shackford have made a match of it," remarked a local
-humorist, in a grimmer vain than customary. Two ghosts had now set up
+humorist, in a grimmer vein than customary. Two ghosts had now set up
 housekeeping, as it were, in the stricken mansion, and what might not
 be looked for in the way of spectral progeny!
 
@@ -279,7 +279,7 @@ discoverable, but the fashion of it defied conjecture. The shape of
 the wound did not indicate the use of any implement known to the
 jurors, several of whom were skilled machinists. The wound was an
 inch and three quarters in length and very deep at the extremities;
-in the middle in scarcely penetrated to the cranium. So peculiar a
+in the middle it scarcely penetrated to the cranium. So peculiar a
 cut could not have been produced with the claw part of a hammer,
 because the claw is always curved, and the incision was straight. A
 flat claw, such as is used in opening packing-cases, was suggested. A
@@ -956,7 +956,7 @@ around three sides of which the village may be said to have sprouted
 up rankly, bearing here and there an industrial blossom in the shape
 of an iron-mill or a cardigan-jacket manufactory. Rowland Slocum, a
 man of considerable refinement, great kindness of heart, and no
-force, inherited the yard from his father, and a the period this
+force, inherited the yard from his father, and at the period this
 narrative opens (the summer of 187-) was its sole proprietor and
 nominal manager, the actual manager being Richard Shackford, a
 prospective partner in the business and the betrothed of Mr. Slocum's
@@ -1290,7 +1290,7 @@ his satin stock and one hand resting indecisively on the banister,
 and Richard on the step above, leaning his back against the blighted
 flowers of the wall-paper. From an oval window at the head of the
 stairs the summer sunshine streamed upon them, and illuminated the
-high-shouldered clock which, ensconced in an alcove, seemed top be
+high-shouldered clock which, ensconced in an alcove, seemed to be
 listening to the conversation.
 
 "There's no chance for you in the law," said Mr. Shackford, after
@@ -1957,7 +1957,7 @@ must help her a little."
 "Lay a cloth on your table, place the fern on the cloth, and pour
 a thin paste of plaster of Paris over the leaf,--do that gently, so
 as not to disarrange the spray. When the plaster is set, there's your
-mold; remove the leave, oil the matrix, and pour in fresh plaster.
+mold; remove the leaf, oil the matrix, and pour in fresh plaster.
 When that is set, cut away the mold carefully, and there's your
 spray of fern, as graceful and perfect as if nature had done it all
 by herself. You get the very texture of the leaf by this process."
@@ -1981,7 +1981,7 @@ bald heads. Looking at him, you felt that the inner man was as
 threadbare and dilapidated as his outside; but in his lonely old age
 he asked for no human sympathy or companionship, and, in fact, stood
 in no need of either. With one devouring passion he set the world at
-defiance. He loved his gold,--the metal itself, the weight an color
+defiance. He loved his gold,--the metal itself, the weight and color
 and touch of it. In his bedroom on the ground-floor Mr. Shackford
 kept a small iron-clamped box filled to the lid with bright yellow
 coins. Often, at the dead of night, with door bolted and curtain
@@ -2698,7 +2698,7 @@ communicate," observed Margaret, "conversation in this world would
 come to a general stop." Then she added, with a little ironical
 smile, "Even you, Richard, wouldn't be talking all the time."
 
-Formerly Margaret's light sarcasms, even when the struck him
+Formerly Margaret's light sarcasms, even when they struck him
 point-blank, used to amuse Richard, but now he winced at being merely
 grazed.
 
@@ -2811,7 +2811,7 @@ the subterfuge which his tenderness had employed, the little detour
 it had made in order to get at her, was a novel species of flattery.
 She recognized the ring of a distinctly new note in his voice; but,
 strangely enough, the note lost its unfamiliarity in an instant.
-Margaret recognized that fact also, and as she swiftly speculate on
+Margaret recognized that fact also, and as she swiftly speculated on
 the phenomenon her pulse went one or two strokes faster.
 
 "Oh, you poor boy!" she said, looking up with a laugh, and a flush
@@ -3081,7 +3081,7 @@ the world. That Margaret and Richard, thrown together as they had
 been, should end by falling in love with each other was not a result
 to justify much surprise. Indeed, there was a special propriety in
 their doing so. The Shackfords had always been reputable people in
-the village,--down to Lemuel Shackford, who of course as an old
+the village,--down to Lemuel Shackford, who of course was an old
 musk-rat. The family attributes of amiability and honesty had skipped
 him, but they had reappeared in Richard. It was through his foresight
 and personal energy that the most lucrative branch of the trade had
@@ -4899,7 +4899,7 @@ dilemma. He was afraid to disoblige the representative of so powerful
 a corporation as the Miantowona Iron Works, but he equally dreaded to
 risk his popularity with seven or eight hundred voters; so, like the
 crafty chancellor in Tennyson's poem, he dallied with his golden
-chain, and, smiling, but the question by.
+chain, and, smiling, put the question by.
 
 "Drat the man!" muttered Mr. Craggie, "does he want to blast my
 whole political career! _I_ can't pitch into our adopted
@@ -4958,7 +4958,7 @@ away easier in his mind, and remained so--two or three hours.
 
 On the eighth, ninth, and tenth days the clouds lay very black
 along the horizon. The marble workers, who began to see their
-mistake, were reproaching the foundry men with enticing them into to
+mistake, were reproaching the foundry men with enticing them into a
 coalition, and the spinners were hot in their denunciations of the
 molders. Ancient personal antagonisms that had been slumbering
 started to their feet. Torrini fell out of favor, and in the midst of
@@ -5660,7 +5660,7 @@ _materialize_ so successfully as I expected," is Mr. Taggett's
 comment.
 
 His faith in the correctness of his theory had not abated; but he
-continued his observation sin a less sanguine spirit. These
+continued his observation in a less sanguine spirit. These
 observations were not limited to the bar-room or the workshop; he
 informed himself of the domestic surroundings of his comrades. Where
 his own scrutiny could not penetrate, he employed the aid of
@@ -6101,7 +6101,7 @@ papers,--that's not plain; the box of matches is a puerility unworthy
 of a clever man like Mr. Taggett, and as to the chisel he found, why,
 there are a hundred broken chisels in the village, and probably a
 score of them broken in precisely the same manner; but, Margaret, did
-Richard every breathe a word to you of that quarrel with his cousin?"
+Richard ever breathe a word to you of that quarrel with his cousin?"
 
 "No."
 
@@ -6922,7 +6922,7 @@ Margaret gave a bewildered start, and then seeing what Richard had
 done held out her hand to him with a gracious, impetuous little
 gesture.
 
-"I mean to give it you this morning," he said, pressing his lip to
+"I meant to give it you this morning," he said, pressing his lip to
 the ring, "but the daylight did not seem fine enough for it."
 
 "I thought you had forgotten," said Margaret, slowly turning the
@@ -8069,7 +8069,7 @@ sealed book in Stillwater.
 the carpenters removed the ladders. "The yard can never be anything
 but Slocum's Yard."
 
-"It looks remarkably well up thee," replied Mr. Slocum, shading
+"It looks remarkably well up there," replied Mr. Slocum, shading
 his eyes critically with one hand. "You object to the change, but for
 my part I don't object to changes. I trust I may live to see the day
 when even this sign will have to be altered to--Slocum, Shackford &

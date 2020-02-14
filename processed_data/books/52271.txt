@@ -1,546 +1,0 @@
-ï»¿The Project Gutenberg EBook of Han Wudi bie guo dong ming ji, by Xian Guo
-
-This eBook is for the use of anyone anywhere in the United States and most
-other parts of the world at no cost and with almost no restrictions
-whatsoever.  You may copy it, give it away or re-use it under the terms of
-the Project Gutenberg License included with this eBook or online at
-www.gutenberg.org.  If you are not located in the United States, you'll have
-to check the laws of the country where you are located before using this ebook.
-
-Title: Han Wudi bie guo dong ming ji
-
-Author: Xian Guo
-
-Release Date: June 8, 2016 [EBook #52271]
-
-Language: Chinese
-
-Character set encoding: UTF-8
-
-*** START OF THIS PROJECT GUTENBERG EBOOK HAN WUDI BIE GUO DONG MING JI ***
-
-
-
-
-Produced by Chia Ying Chang
-
-
-
-
-
-
-Title: æ¼¢æ­¦å¸å¥åæ´å¥è¨ (Han Wudi bie guo dong ming ji)
-Author: é­æ² (Xian Guo)
-
-
-
-åºæ¼¢æ­¦å¸å¥åæ´å¥è¨ããå¾æ¼¢ãé­æ²
-
-ãåºã
-æ¼¢æ­¦å¸å¥åæ´å¥è¨åº
-
-æ²å®¶ä¸è¿°éæ¸ï¼æ¨æ±åèå¾è³¢ä¹ææ°éï¼ä¸å¯çª®ç¡ï¼åå®¤ä¸è½èï¼è¬ä¹ä¸è½è¼ï¼ç¶ææ¼é¸ãæè¨æµ®èªï¼éæ¿ææåï¼ç¶æå²å®è¨äºï¼æç¥èä¸åï¼èååæ®æ¹ï¼ä¸¦ä¸å¨éãæè¬å¤æ©é¤äºï¼ä¸å¯å¾èæ£ãæ³æ¼¢æ­¦å¸ï¼æä¿ç¹ç°ä¹ä¸»ï¼æ±æ¹æå æ»ç¨½æµ®èªï¼ä»¥å¡è««æ´å¿æ¼éæï¼ä½¿å¥è·¡ä¹å¥§ï¼æ­ç¶é¡¯èãä»ç±èå²ä¹æä¸è¼èï¼èä»¥èè¦ï¼æ°ãæ´å¥è¨ãåå·ï¼æä¸å®¶ä¹æ¸ï¼åº¶æååå­è©²èç°çãæ­¦å¸ä»¥æ¬²çª®ç¥ä»ä¹äºï¼æçµåéæ¹ï¼è²¢å¶çç°å¥ç©ï¼åéè¡ä¹äººï¼ææ¼æ¼¢ä¸çæ¼ç¾¤ä¸»ä¹ãæç·¨æ¬¡ä¹äºç¾ã
-
-é­æ²
-
-ãæ¼¢æ­¦å¸å¥åæ´å¥è¨å·ç¬¬ä¸ã
-
-æ¼¢æ­¦å¸æªèªä¹æï¼æ¯å¸å¤¢ä¸èµ¤å½å¾é²ä¸­ç´ä¸ï¼å¥å´è­é£ãå¸è¦ºèåæ¼é£ä¸ï¼æè¦èµ¤æ°£å¦çé§ä¾è½æ¶çãæä¸ï¼æä¸¹éèé¬±èèµ·ï¼ä¹æ¹å´è­é£çºçè­æ®¿ãå¾çå¤«äººèªæ­¦å¸æ¼æ­¤æ®¿ãæééç¾¤é£æ¼é¸åéï¼ä¹æ¹çºéééãä¹æ´ä¿®é£¾ï¼å»æ¨çºç¶ºæ©ãéå»ï¼å åéç¶ºéã
-
-æ±æ¹æï¼å­æ¼å©ãç¶å¼µå¤·ï¼å­å°å¹³ï¼å¦»ç°æ°å¥³ãå¤·å¹´äºç¾æ­²ï¼é¡å¦ç«¥å­ãæçä¸æ¥ï¼èç°æ°æ­»ï¼ææ¯å¸ä¸å¹´ä¹ãé°æ¯æ¾èé¤ä¹ãå¹´ä¸æ­²ï¼å¤©ä¸ç§è®ï¼ä¸è¦½æèª¦æ¼å£ï¼å¸¸ææå¤©ä¸ï¼ç©ºä¸­ç¨èªãé°æ¯å¿½å¤±æï¼ç´¯ææ¹æ­¸ï¼æ¯ç¬ä¹ãå¾è¤å»ï¼ç¶å¹´ä¹æ­¸ãæ¯å¿½è¦ï¼å¤§é©æ°ï¼ãæ±è¡ç¶å¹´ä¸æ­¸ï¼ä½ä»¥æ°æè¶ï¼ãææ°ï¼ãåè³ç´«æ³¥æµ·ï¼æç´«æ°´æ±¡è¡£ï¼ä»éèæ·µæ¹æµ£ï¼æç¼ä¸­è¿ï¼ä½äºç¶å¹´ä¹ï¼ãæ¯åä¹ï¼ãæ±ææ¯ä½èè¡ï¼ãææ°ï¼ãåæ¹è¡£ç«ï¼æ«æ¯é½å´å ãçå¬é£´ä¹ä»¥ä¸¹éæ¼¿ï¼åé£ä¹å¤ªé£½ï¼æ¶å¹¾æ­»ï¼ä¹é£²çå¤©é»é²ååï¼å³éãæ¢èéãè·¯éä¸è¼èï¼æ¯æ¼è·¯åãåé¨èéï¼ææ¶éçï¼èååè³å·ããæ¯æ²åï¼ä¹è£éå¸è£³è£¹ä¹ãæè¤å»å®¶è¬éï¼è¦ä¸æ¯æ¨¹ï¼è«å¸ææ¼æ¨¹ãå¸åçºé¾ï¼å åå¶å°çºå¸é¾æ¾¤ãæä»¥åå°ä¸­æ¸¸èé´»ä¹æ¾¤ï¼å¿½è¦çæ¯æ¡æ¡æ¼ç½æµ·ä¹æ¿±ãä¿æé»çç¿æé¿æ¯ä»¥åææ°ï¼ãæçºå¾å¦»ï¼æå½¢çºå¤ªç½ä¹ç²¾ï¼ä»æ±æ­¤æç²¾ä¹ãå¾å»é£åæ°£ï¼å·²ä¹åé¤æ­²ï¼ç®ä¸­ç³å­ï¼è²çéåï¼è½è¦å¹½é±ä¹ç©ï¼ä¸åæ­²ä¸åéª¨æ´é«ï¼äºåæ­²ä¸å»èä¼æ¯ãèªå¾çï¼å·²ä¸æ´é«äºä¼æ¯ç£ãã
-
-å»ºåäºå¹´ï¼å¸èµ·é¨°åå°ï¼ä»¥æåé ãæ¼å°ä¸æç¢§çä¹éï¼ææ¸é»ä¹ç£¬ï¼å¹éæ¢ä¹ç¯ªï¼å±ä¾é²ä¾æ¥ä¹æ²ãæ¹æåææ¼å¸åï¼æ°ï¼ãè£æ±æ¸¸è¬æä¹éï¼ç²ä¹è²é³³éï¼æ¶æºä¸¹çºä¹æ°´èµ¤è²ãè¥¿éæ´å£ï¼å¾æ»æ·µè¯å­éæµ·æ¸¸ç ãæ´å£å¨èæ·µè¥¿ï¼è¯æ³æ± å¨äºæå®®åï¼ä¸­æè¿½é²èãèµ·é¢¨èãä¾ä»èãå«çèãæä»¥æªæ£ çºææ¥«ï¼æä»¥æ¨è­ææçºæ«æ£¹ï¼åèµ·äºå±¤å°æ¼æä¸ãã
-
-é£å½±å±±å»æ­æ²³ä¸è¬éï¼æé²æ°£ï¼æä¹å¦å±±å½±ãä¸¹è¿çæ¼å½±ä¸­ï¼èæµ®æ°´ä¸ãæç´«æ²³è¬éï¼æ·±åä¸ï¼ä¸­æå¯è·ï¼éä¸æ¹é¦çãæééå£ãé¤éæ± ãååæ®¿äºéãå¥é·å®¤ä¸éãæè¾é£åäºä¸ï¼ä¸æéé¡ï¼å»£åå°ºãåå°ä¸­ï¼æç¥åç»æ­¤é¡ï¼ç§è¦é­é­ï¼ä¸ç²é±å½¢ã
-
-é½å¤·é¦å¦æ£æ ¸ï¼é£ä¸çï¼åæ­·æä¸é£¢ãä»¥ç²å¦ç²ç±³è¨±ï¼ææ°´ä¸­ï¼ä¿èæ»¿å¤§çä¹ã
-
-çæ³å®®åæææ± ä¸­ï¼æéæ³¢æ®¿ä¸éãçä»¥æ¡çºæ±ï¼é¢¨ä¾èªé¦ãå¸æ¢è½æ¼éæªï¼å¸¸å¾ä¸¹è±¹ä¹é«ãç½é³³ä¹éª¨ï¼ç£¨éé«çºå±ï¼ä»¥èæ²¹åä¹ï¼ç§æ¼ç¥å£ï¼å¤æ´é¨åä¸æ»ãæéè¾ï¼å¦èèµ´ç«ï¼ä¾èèéºé ææä¹ã
-
-ååä¸­ï¼å¸èµ·å£½éå£ãå£ä¸åæ¤åé¾ä¹æ¨ï¼ä¼¼éæ¢§ï¼é«åä¸ï¼ææ±é²ï¼è²å¦ä¸¹æ±ï¼çå¶èï¼è½å°çæç ãå¶æä¼¼é¾ä¹ååï¼äº¦æ°çææ¨¹ãæ­¤å£é«å«ä¸ï¼å¸ä½¿è£è¬ä¹é²éä¹è¼¦ä»¥åå£ãè³å¤ä¸æ´ï¼èééé³´ï¼å¿½å¦æï¼è¥¿çæ¯é§çé¸ï¼æ­æ¥æ­¸æ¨ï¼è¬ä¹èçæ¯æ­è²èä¸è¦å¶å½¢ãæ­è²ç¹æ¢ä¸åä¹æ­¢ï¼å£åèæ¨¹æèæç¿»æåï¼æ­ä¹æä¹ãåé¢åç¨®è»æ£ï¼æ¢å¦éæ¡ãé¢¨è³ï¼èªæéä¸æ¸¸å¡µã
-
-è£è¬ï¼å­ä»²çï¼æ­¦é½é¬±éäººä¹ãå°å¥½å­¸ï¼åæ¸¸å±±æ¾¤ï¼è² æ¾åæ¸ï¼æ£å¶ç¹éãå®¶è²§ï¼æ¾æ¨¹èä»¥ä»£æ¸ç°¡ï¼è¨å¶æå·æ·ä¹ãç·¨èçºåºï¼èé³¥ç¸æ¯ä»¥å¯¢å¶ä¸ã
-
-æ³¢ç¥åï¼äº¦åæ³¢å¼åãç»ç¥ç²¾é¦èï¼äº¦åèè¼ï¼äº¦åæ¥èªãä¸æ ¹ç¾æ¢ï¼å¶éå¦ç«¹ç¯ï¼æè»ï¼å¶ç®å¦å¼¦ï¼å¯çºå¸ï¼æè¬æ¥èªå¸ï¼äº¦åé¦èå¸ï¼å å¯å¦ç´å°ä¹ãæ¡ä¸çï¼æ»¿å®¤çé¦ï¼å©¦äººå¸¶ä¹ï¼å½æè¬é¦¥ã
-
-ç¿éåç»é£éª¸ç¸ï¼çå¦é¹¿ï¼éè²ãä»¥å¯éä¹çµ²çºç¹©ç³»ä¹ãåæ­»ï¼å¸æä¹èä¸çï¼ææ¼èéãç®æ¯ççæ½ï¼æéª¨è²ç¶éãæäººå¸ç¥å¶ç¥ç°ï¼æ´ä»¥ç¹©ç³»å¶è¶³ãå¾è¦ä¹ï¼å¯è¦æç³»èå­ï¼èé ­å°¾åéª¨çé£å»ã
-
-æ¦é²æ± è¥¿æéæ± ï¼æ¹åç¾æ­¥ãæé£é¢èãæµ®æ ¹è±ãåæè»ãé£é¢èï¼èå¦é¢æï¼æµ®æ ¹è±ï¼æ ¹åºæ°´ä¸ï¼èæ²æ³¢ä¸ï¼å¯¦ç´°èï¼ç®çé¦ï¼èåéåç½ï¼ééå½ç¾ï¼å åéå°è±ä¹ï¼åæè»èï¼ææ©«åæ°´ä¸­ï¼é·ä¹å°ºé¤ï¼å¦çµç¶²ï¼æéé´¨ãç§é³§åé·é·ä¾ç¿æ°´ä¸ï¼å¥æ­¤èä¸­ï¼çä¸å¾åºï¼å¦ç¹ç¶²ä¹ãäº¦åæ°´ç¶²è»ãä¸­æè½ç¾½è«ãéé¾è«ãåæ³¢è«ï¼å¸åæ¸¸å®´æ¼æ­¤ã
-
-ãæ¼¢æ­¦å¸å¥åæ´å¥è¨å·ç¬¬äºã
-
-åé¼åå¹´ï¼èµ·æä»é£æ¼çæ³å®®è¥¿ãç·¨ç¿ ç¾½éºæ¯«çºç°¾ï¼éçççºæï¼æ¸é»ç«é½çºåºï¼å¶ä¸æ¸æµ®éè¼çä¹ç£¬ãæµ®éèï¼è²å¦éï¼èªæµ®æ¼æ°´ä¸ï¼è¼çèï¼å¶è³ªè²æèè¼ãæéåç¹¡ï¼æè»é¾ç¹¡ï¼æé£çç¹¡ï¼æèµ°é¾é¦ï¼æé²é³³é¦ï¼ç¿»é´»é¦ãé£ä¸çèé¡é¦å±ï¼çç²è¨±ï¼å¶æ°£ä¸æä¸çµãé²ï¼å±±æ¿ï¼åµ»ç´°æ£ï¼åºï¼å±±æ¿ï¼åµ»å±±ï¼å±±è¨ç¢§æµ·ä¸ï¼è¬å¹´ä¸å¯¦ï¼å¦ä»ä¹è»æ£ãåä¹æèï¼èå¯ççï¼è¥¿çæ¯æ¡ä»¥ç»å¸ãçè³è¡çï¼åè²ç´«ï¼æç½é³³ãé»é¾ãé¦µè¶³ä¾ï¼æ²æ¼é£éãæéé³¥ï¼èµ¤é ­ï¼éè·¯èä¸ï¼ä»¥è¿ç¥å¥³ãç¥å¥³ççéµä»¥è´å¸ï¼å¸ä»¥è³è¶å©å¦¤ãè³æ­å¸åé³³ä¸­ï¼å®®äººç¶è¦æ­¤éµãé»è«æ¬²ä¹ï¼ææ¥ç¤ºä¹ï¼æ¢ç¼å£ï¼æç½çé£åå¤©ãå¾å®®äººå­¸ä½æ­¤éµï¼å åççéµï¼è¨åç¥¥ä¹ã
-
-åé¼äºå¹´ï¼éæ¯åè²¢é¦¬èç³ç¾æ¤ãå¸¸ä»¥æ°´éé¤ä¹ï¼å§çæ«ä¸­ï¼éæ³¥å°å¶ä¸ãåäººé·åå°ºï¼æé¤æ­¤ç³èå·²ãåéåç½ï¼å¦ä»ä¹é¦¬èãèç¢ä»¥åä¹è½ä¹ä¸¹ï¼æä¹ï¼å½å¹´ä¸é£¢æ¸´ä¹ãä»¥ä¹æç¼ï¼ç½èçé»ãå¸åç¾¤è£æ¼çæ³æ®¿ï¼æç¼ç½èï¼ä»¥ç³æä¹ï¼ææçé»ãæ¯æå¬å¿èªæ°ï¼ãä¸ç¨ä½æ¹ä¼¯ï¼æé é¦¬èç³ããæ­¤ç³é·çï¼ä¸åä¸¹ç ï¼ä¸å¯è¿ç¼ãå¸å¯¢éèæ®¿ï¼å¬æ±æ¹ææ¼éç¶ºï¼çªä¸éç¶ç´ï¼éå¹ï¼åææ°ï¼ãæ¼¢æ¿åºéï¼ç«å¾·ï¼ä»¥ä½ç²¾ççºç¥¥æï¼ãæè·ªèå°æ°ï¼ãè£å¸¸è³å³æä¹å¢ï¼æ¯é·å®æ±éæ¶æ¡ä¸è¬éï¼æåé²å±±ãå±±é æäºï¼é²èµ·äºä¸­ï¼è¥åå¾·çé»é²åºï¼ç«å¾·çèµ¤é²åºï¼æ°´å¾·çé»é²åºï¼éå¾·çç½é²åºï¼æ¨å¾·çéé²åºãæ­¤çæçå¾·ä¹ããå¸æ°ï¼ãåãã
-
-åå°ä¸­ï¼èµ·æ¹å±±åï¼æè«¸éç°ï¼å¬æ±æ¹æè¨å¶ç§å¥§ãä¹çå¤©ä¸ç°é¦ï¼ææ²åé¦ãç²¾ç¥é¦ãæåº­é¦ãéç£¾é¦ãå¡é­é¦ï¼å¤åæè²¢éæ¥ä¹çãéæ¥æ¨æèï¼å¦æ·³æ¼ï¼åç½®å¨ä¸­ï¼ä»¥è åä¹å¡å¸ï¼çç§æ¸éã
-
-èµ·ç¥æå°ï¼ä¸æä¹å¤©ééåºãè±¡å¸­ï¼èçé®éççºç°ãå¸åè¯ä¹ï¼è¨­çæ°´ä¹å°ï¼ä»¥åæ´ªæ¿¯éãç¤ç¨ç¢§éï¼ç®éè±¹ä¹è¯ãæåæå¡é°ç´«æ¢¨ãç³åç¢§æï¼ä»ç¾èé£ä¹ã
-
-å ååè²¢æçåé ­ï¼çå¦æ°´åãè§è¡¨æåï¼å åæçãç½®æä¸­ï¼æåå½±ï¼äº¦æ°å½±çãç¹ä»¥çºç°ï¼å¦é¦ç¶ºä¹æãæ­¤åå»é·å®ä¹åéï¼å¨æ¥åãäººé·ä¸å°ºï¼è¢«é«®è³è¸µï¼ä¹çè±¡ä¹è»ãä¹è±¡å¥æµ·åºåå¯¶ï¼å®¿æ¼èäººä¹èï¼å¾æ·ç ãåèææ³£ä¹ç ä¹ï¼äº¦æ°æ³£ç ã
-
-çæ°´å»èæ·µå«åéï¼æçæºªï¼æ°´å³å¦èãæ±æ¹ææ¸¸æ­¤æ°´ï¼å¾æ¸æä»¥ç»å¸ãææ°´æ¼äºï¼äºæ°´å¸¸çèå¯ï¼æ´æ²­åèçææ»ã
-
-ç¤ç¨ï¼å»çéä¹è¬éï¼æç¢§èå¦éº¥ï¼å²ä¹ä»¥ééï¼åå³å¦ééï¼é£²ä¸åï¼ä¸æ¬ä¸éãä½é£²çæ°´ï¼é¨é£²èéã
-
-å¡å±±ä¹èï¼æ¢¨å¤§å¦åï¼æäºæãç´«è²ï¼åå¹´ä¸è±ï¼äº¦æ°ç´«è¼æ¢¨ã
-
-ç³åå»é·å®ä¹åéï¼ççèæï¼è²å¦ç¢§çï¼æ¸åå¹´ä¸çï¼å³é¸ãæéçµå¸¸é¤æ­¤æï¼å åéçµæã
-
-åå°ä¸å¹´ï¼å¤§ç§¦åè²¢è±è¹çãå¶è²é§ï¼é«å­å°ºï¼å°¾ç°ç¹å¶èº«ï¼è§ç«¯æèï¼è¹å¦è®è±ï¼åèµ°ï¼å¤åãå¸ä½¿è¼¦éç³ï¼ä»¥èµ·æä»å®®ï¼è·¡å¨ç³ä¸ï¼çå¦è±å½¢ï¼æé½éä¹å¤è±çæ´¥ï¼æå¾ç°ç³ãé·åä¸ï¼é«ä¸ä¸ï¼ç«æ¼æä»å®®ï¼å åé¾éç³ãæ­¦å¸æ«ï¼æ­¤ç³èªé·å¥å°ï¼å¯å°¾åºåä¸ï¼ä»äººè¬é¾å°¾å¢©ä¹ã
-
-å¸å¥½å¾®è¡ï¼æ¼é·å®åè¥¿ï¼å¤è¦ä¸è­æ¸¸æ¼è·¯ãè£ç«­æ°ï¼ãæååªæ«åæ¼èä¸ï¼ä»¥éç°ªè²«çç¸­è¹çºæ²ãä»è­è¹é¤éç°ªç©¿çï¼å®éæ­¤è¶ï¼ãæ°ï¼ãç½é¾é­éºï¼ç¶²èé£ä¹ããå¸æ°ï¼ãè©¦æä¹ãã
-
-åå°åå¹´ï¼ä¿®å½åç»é§é¨¾ï¼é«åå°ºï¼æ¯è²èµ¤æï¼çææ¥æä¹è±¡ãå¸ä»¥é(çå»¶)çºéçµï¼ä»¥å¯¶å¨çä»¥é£¼ä¹ã
-
-åå°äºå¹´ï¼åç¢åè²¢ç´°é³¥ï¼ä»¥æ¹å°ºä¹çç± çæ¸ç¾é ­ï¼å½¢å¦å¤§è ï¼çä¼¼é¸éµ¡ï¼è²èæ¸éä¹éï¼å¦é»éµ ä¹é³ä¹ãåäººå¸¸ä»¥æ­¤é³¥åæï¼äº¦åæ°åæ¥è²ãå¸ç½®ä¹æ¼å®®å§ï¼æ¬æ¥èé£ç¡ï¼å¸æï¼æ±ä¹ä¸è¤å¾ãæå¹´ï¼è¦ç´°é³¥éå¸·å¹ï¼æå¥è¡£è¢ï¼å åè¬ãå®®å§å¬ªå¦çæä¹ï¼æé³¥éå¶è¡£èï¼è¼èæå¹¸ãè³æ­¦å¸æ«ï¼ç¨ç¨èªæ­»ï¼äººç¶æå¶ç®ãæå¶ç®èï¼å¤çºä¸å¤«æåªã
-
-åç¢åï¼äººé·ä¸å¯¸ï¼æç¿¼ï¼åè¨èªæ²ç¬ï¼å ååèªåãå¸¸ç¾¤é£å¾æ¥ä¸èªæï¼èº«ç±ä¹æ­¸ãé£²ä¸¹é²çºæ¼¿ãä¸¹é²èï¼æ¥ååºæé²æ±å¦ç ä¹ã
-
-å¤ªåäºå¹´ï¼æ±æ¹æå¾è¥¿é£æ±åæ­¸ï¼å¾è²é¢¨æ¨åæç»å¸ãé·ä¹å°ºï¼å¤§å¦æãæ­¤æ¨è¨å æ¡ä¹æ°´ï¼åãç¦¹è²¢ãæè¬å æ¡æ¯ä¹ãå¶æºåºçæ³¢ãæ¨¹ä¸æç´«çé»éµ éå¶éï¼å¯¦å¦æ²¹éº»é¢¨ï¼å¹æå¦çè²ï¼å ä»¥çºåãå¸ä»¥æéè³å°è£ï¼è£æå¶èï¼æåæ±ï¼è£ææ­»èï¼æåæãæèèå¨æ¼å¨ä¸ï¼å¹´ä¸ç¾æ­²ï¼æç«æªæ±ãåä½ºçæ¼å ¯æï¼å¹´ä¸åæ­²ï¼æç«æªä¸æãå¸ä¹ä»¥æåæï¼ææ°ï¼ãè£å·²è¦æ­¤æä¸éæ¯æ­»èè¤çï¼è±æ±æèå·²åï¼éèªæ°ï¼å¹´æªåï¼æä¸æ±ãæ­¤æ¨äºåå¹´ä¸æ¿ï¼è¬æ­²ä¸æ¯ãã
-
-å¤ªåä¸å¹´ï¼èµ·çæ³æé¢¨å°ãå°ä¸å¾ç½ç å¦è±ä¸æï¼å¸ä»¥é¦èè¦ä¹ï¼å¦ç§æç£ãå åç§æç ï¼ä»¥è³è£åï¼çä»¥ççä¹ç­ã
-
-å¤ªååå¹´ï¼æ±æ¹æå¾æ¯æåä¾ãåäººé·ä¸ä¸äºå°ºï¼ä¸æä¸è¶³ï¼åä¸æï¼å¤åï¼åèµ°ï¼åå§å°å±±è½ç§»ä¹ï¼ææ¾æ³ï¼é£²è½ç¡ãçµæµ·èçºè¡£ï¼å¶æ²ç¬ï¼åçè±¡ç¸ææ²çºæ¨ã
-
-æ±æ¹ææ¸¸åé²ä¹å°ï¼å¾ç¥é¦¬ä¸å¹ï¼é«ä¹å°ºãå¸åæï¼ãæ¯ä½ç¸ä¹ï¼ãææ°ï¼ãæè¥¿çæ¯ä¹éåè¼¦ä»¥é©æ±çå¬ä¹èï¼ç¨æ­¤é¦¬æ¸¸æ¼èç°ï¼ä¹é£èç°ä¹èãæ±çå¬æï¼æ£é¦¬æ¼æ¸æ´¥å¤©å²¸ãè£è³çå¬ä¹å£ï¼å é¨é¦¬è¿ï¼ç¹æ¥ä¸åï¼ç¶å¥æ¼¢éï¼éç¶æªæ©ãè£æ¼é¦¬ä¸ç¡ï¼ä¸è¦ºèçè³ããå¸æ°ï¼ãå¶åäºä½ï¼ãå°æ°ï¼ãå ç¾ï¼çºåæ­¥æ¯ããæç¶ä¹ä¹æï¼å¦é§è¹ä¹é©¢è³ãæ±æ¹ææ°ï¼ãè£æåé²èåé ï¼ç¨®æ¼ä¹æ¯å±±æ±ãäºåæ­²ä¸è±ï¼æå¹´æçï¼è£èµ°è«åä¹ãå¾ä»¥ç§£é¦¬ï¼é¦¬çµä¸é£¢ä¹ããææ°ï¼ãè£è³æ±æ¥µï¼éåé²ä¹æ¾¤ï¼å¤çæ­¤èï¼ç§»æ¼ä¹æ¯ä¹å±±ï¼å¨ä¸å¦åé²ä¹å°ããå¸æ°ï¼ãä½è¬åé²ï¼ãææ°ï¼ãå¶åä¿ä»¥é²æ°£å åå¶ï¼è¥æ¨äºï¼åæ»¿å®¤é²èµ·ï¼äºè²ç§äººï¼èæ¼èæ¨¹ï¼çæäºè²é²ç ï¼ççããå¸æ°ï¼ãåé²é²å¯å¾ä¹ï¼ãæä¹æ±èµ°ï¼è³å¤èè¿ï¼å¾çé²ãéé²ï¼çéççï¼ååäºåï¼è·ªä»¥ç»å¸ãéè³ç¾¤è£ï¼ç¾¤è£å¾åèï¼èèçå°ï¼ç¾èçæãå¡äºå®åé²ï¼è£è¬ãæåãå­å²ãé­çãé»å®ä¹ã
-
-æåï¼é¦®ç¿äººä¹ãèªè¨ä¸ç¾æ­²ï¼è·èçï¼è² ãäºå²³çåãèè³ãå¸ç¦®å¾ä¹ï¼äº¦èè² ååçä¹ã
-
-å­å²ï¼æ²³æ¸ä¹é¸äººä¹ãå¹´å¯ä¸ç¾æ­²ãèªåå¨åäºï¼äºç¶å¦ç®åãå²ä¾å¨å¬åå£ä¸ï¼å²ä»¥ææ©æçè¶³ãå¨å¬ä»¥çç¬èä¹ï¼å²åå¯¶å·ï¼æ¯ä»¥è¡£è¢ææ­ï¼ç¬åä¸åï¼ä»é³æ·ï¼æåæ¡èé£ä¹ãèå¸å¥½ä»ï¼æ«èèèä¾è¬å¸çã
-
-é­çï¼æ±é¡äººä¹ãå½¢è²éå£ï¼èæåº¦éäººãæ¾å®¿äººå®¶ï¼è¼ä¹èªèªç§è®æ¸ãæç ï¼ç¼ä¸éï¼è¡å°ç¡è·¡ãå¸èå¶ç°ï¼å¾µçã
-
-é»å®ï¼ä»£é¡äººä¹ãçºä»£é¡åãèªäºåç¥ä¸ç²èäººéï¼å·é­æ·èèè®æ¸ãç«å°ä»¥è¨æ¸èï¼å¤å°ææ± ç£ãæäººè¬é»å®å¹´å¯å«åé¤ï¼è¦å¦ç«¥å­ãå¸¸ææ±ç ï¼èé«çèµ¤ï¼å¬ä¸èè£ãåä¸ç¥é¾ï¼å»£äºå°ºï¼äººåï¼ãå­åæ­¤é¾å¹¾å¹´ç£ï¼ãå°æ°ï¼ãæä¼ç¾²å§é ç¶²ç½ï¼ç²æ­¤é¾ä»¥æå¾ãå¾åé¾èå·²å¹³ç£ãæ­¤è²çæ¥æä¹åï¼äºåæ­²å³ä¸åºé ­ï¼å¾åæ­¤é¾ï¼å·²è¦äºåºé ­ç£ããè¡å³è² é¾ä»¥è¶¨ï¼ä¸äººè¬é»å®è¬æ­²ç£ã
-
-ãæ¼¢æ­¦å¸å¥åæ´å¥è¨å·ç¬¬ä¸ã
-
-å¤©æ¼¢äºå¹´ï¼å¸åè¼é¾é£ï¼æä»è¡ï¼å¬è«¸æ¹å£«è¨é åéæ¹ä¹äºãå¯æ±æ¹æä¸å¸­ï¼æç­è·ªèé²ï¼å¸æ°ï¼ãå¤§å¤«çºæè¨ä¹ï¼ãææ°ï¼ãè£æ¸¸åæ¥µï¼è³éç«ä¹å±±ï¼æ¥ææä¸ç§ï¼æéé¾éç­ç«ä»¥ç§ãå±±ä¹åæ¥µï¼äº¦æååæ± èï¼çæ¤ç°æ¨ç°èãææèèï¼å¤å¦éçï¼ææçºç¬ï¼ç§è¦é¬¼ç©ä¹å½¢ãä»äººå¯§å°å¸¸ææ­¤èï¼æ¼å¤ææï¼è¼è¦è¹åéå¤ï¼äº¦åæ´å¥èããå¸ä»¤é¼æ­¤èçºæ³¥ï¼ä»¥å¡é²æä¹é¤¨ãå¤åæ­¤é¤¨ï¼ä¸å çç­ãäº¦åç§é­èãæ¡ä»¥èè¶³ï¼å±¥æ°´ä¸æ²ã
-
-æå¤¢èï¼ä¼¼è²ï¼è²ç´ãæç¸®å¥å°ï¼å¤ååºï¼äº¦åæ·è«ãæ·å¶èï¼åç¥å¤¢ä¹åå¶ï¼ç«é©ä¹ãå¸ææå¤«äººä¹å®¹ï¼ä¸å¯å¾ï¼æä¹ç»ä¸æï¼å¸æ·ä¹ï¼å¤æå¤¢å¤«äººãå æ¹æ°æ·å¤¢èã
-
-æé³³èµèï¼è²ä¸¹ï¼èé·åå¯¸ï¼å³çï¼ä¹é£ä»¤äººèº«è¼èæ»ãèµ¤æ¾å­é¤ä¹ä¸æ­²ï¼ä¹é»èå¥æ°´ï¼å¾é»ç ä¸æï¼è²å¦çéï¼æè¨æ¯é»èä¹åµï¼æåèç ï¼äº¦æ°é·ç¾ç ãèªæ°ï¼å¯§å¤±åéé§ï¼ä¸å¤±é»èç ã
-
-æäºå³èï¼åçå³çï¼è±æå³é¸ï¼é£ä¹ä½¿äººä¸ç ï¼åæ°å»ç¡èãæ«å¤åç»æ­¤èãæ­¤åäººé·åå¯¸ï¼ç¹éºæ¯çºå¸ï¼ä»¥æç³çºåºï¼äººå½¢éå°ï¼èå±å®å´æ ï¼ç¹é³³æ¯é¦ï¼ä»¥é¦çºå¸·å¹ä¹ã
-
-é³¥ååï¼æé¾çªè¤ï¼é·ä¹å°ºï¼è²å¦çãçä¹æèï¼ä»¥åç´«æ¡çºä¸¸ï¼æä¸ç²ï¼åæ­²ä¸é£¢ï¼æèªæ°ï¼è¤åèï¼èº«çæ¯ã
-
-ææä¸­è¥ï¼èå¦æ¾å­ãåå¶å­ç½®æä¸­ï¼å¹ä¹èçï¼ä¸å¹é·ä¸å°ºï¼è³ä¸å°ºèæ­¢ï¼ç¶å¾å¯ç§»æ¼å°ä¸ãè¥ä¸ç¶æä¸­å¹èï¼åä¸çä¹ãé£ä¹è½ç©ºä¸­å­¤ç«ï¼è¶³ä¸èº¡å°ãäº¦åèº¡ç©ºèã
-
-å¸å¸¸è¦å½æï¼æ±æ¹ææææä¹æ¨ä»¥æå¸ãå¸ä»¥æ¨æå½æï¼æå°åæ²ä¹ãæåºä¹å¤ï¼éç¸çé³´ãå¥èªªè¬ä¹ç¸é³´æã
-
-æç´«æ°ï¼å¤§å¦æï¼çå¦èãæ ¸ç´«ï¼è±éï¼ç ä¹ææ±å¦æ¼ï¼å¯æè¡£ãå¶æ±èè¡£ï¼ä¸å¯æ¹æµ£ãäº¦åæè¡£æ°ã
-
-æé¾èçï¼é·ä¸å°ºï¼è±ç´èç´ ï¼çæ¼å°è°·ãæè¬å°è°·ç´ èä¹çãä»äººçä¸ä»²æ¡è¥ï¼å¾æ­¤çï¼é£ä¹ï¼åæ­²ä¸æ¸´ãçä¸æå¦ééªï¼å®åï¼å¦èæ»ãåå¸å°æ³°å±±ï¼å¾èçè³å°è°·ç´ èä¹çã
-
-å¸è§£é³´é´»ä¹åï¼ä»¥è³æãåé·ä¸å°ºï¼ææ°ï¼ãæ­¤åé»å¸æ¡é¦å±±ä¹ééä¹ï¼éå·²é£å»ï¼éèç¶å­ããå¸è¨å´©ï¼èåä»¥ç¤ºæï¼æäººå¾æ­¤åï¼æ¬²é·ä¹ãåæ¼æä¸­åçºéµ²ï¼èµ¤è²ï¼é£å»é²ä¸­ã
-
-æéµ²éç«æ¼æ¸æºªä¹ä¸ï¼éµ²åæé¾ã
-
-è¥¿åç»èé¾ï¼é«ä¸å°ºï¼æ æ¥çä¹ï¼åå¦èç¬ç«ãæç«¥å­éè¦æé»éµ ï¼ç½é¦ï¼é¼ç¿æ¼å¸åï¼å³æ¹æãèé»ç¶¾å®è¡£ï¼é ­å·²æç½ãæ¼¢æçç°å¶ç¥åèä¸æ¸¬å¶å¹´ç£ã
-
-åèååè²¢ä¸è¹ï¼é·ä¹å°ºï¼æç¾è¶³åè¯ï¼å åç¾è¶³è¹ãç®å¶æ®¼ï¼åæ¼é»è ï¼äº¦è¬ä¹è¯è ï¼åæ¼é³³åä¹è ä¹ã
-
-å¸å¸¸å¤æï¼æ±éæéé²èµ·ï¼ä¿èï¼è¦éç½éµ éå°ä¹ä¸ï¼åå¿½è®çºäºç¥å¥³ï¼èæ¼å°ï¼æ¡é³³ç®¡ä¹ç°«ï¼æ«è½éä¹ç´ï¼æ­éå³æ¥æ³¢ä¹æ²ãå¸èææµ·çè½ä¹å¸­ï¼æ£æå¤©ç¼æ¥ä¹é¦ï¼é¦åºè¥æ± å¯åãå°æç¼æ¥æ¨¹ï¼è¨æ¥å¾é²åºï¼é²ä¾æ©æ¥ï¼é¢¨å¹æ¨¹æï¼æé²éæ¥åä¹ãäº¦åéæ¥æ¨¹ãæ¨¹ææ±ï¼æ»´å¦æ¾èä¹ã
-
-æçé½ç¿ æ°´ï¼æ°´ä¸­æè±ï¼ç¢§è²ï¼çå¦éé£ï¼äº¦åç¿éè±ãä»äººé³§ä¼¯å­å¸¸æ¸¸ç¿ æ°´ä¹æ¶¯ï¼æ¡è±èé£ä¹ï¼ä»¤éª¨è¼ï¼å¼èº«çæ¯ç¾½ä¹ã
-
-æé é£éï¼å¤åéä¾äººï¼æåçµé£åæµ·ï¼æå¾å¤éï¼å¸¸éæ¡æä¹å¯¦ï¼æ­¸æ¼åå±±ï¼æè½å°èçãé«ä¸å«å°ºï¼ç¾ä»å¥æä¹ãé¼ä»¥ééï¼åæ°æ¡éªãåä¸æ»´ï¼èé«å¦éè²ãé¸éåé¤é»æ¡ä¹éãç¥éå¬åé¤éï¼å¾é é£éä¹åµï¼ä¼ä¹åæ°ç¿»æéå¦éµ å¤§ï¼è²ç´«ï¼æç¿¼ï¼ç¿¼ä¸æç®ï¼äº¦æ°ç®ç¾½éã
-
-å¸æ¼æéµ å°è¥¿èµ·ä¿¯æå°ï¼å°ä¸ç©¿æ± ï¼å»£åå°ºï¼ç»å°ä»¥çºæï¼å½±å¥æ± ä¸­ï¼ä½¿ä»äººä¹èå¼æå½±ï¼å åå½±å¨¥æ± ï¼äº¦æ°çºè¾å°ãéäºè¹éï¼è¹ä»¥çèãé»è¨ãéè²ãçè¼ï¼æä»¥éæ«»ãé¾çãç½èãç´«èãå¯è¨ãå°è±ãæ°£èï¼æ­¤èæ¼å°ä¸çè±ï¼å¥å°åä¸ï¼ä¹å¾æ­¤èãå¶æ ¹ååºï¼äº¦åéèé ï¼èå åç´«é èä¹ã
-
-å½±å¨¥æ± ä¸­ææ¸¸æè¹ãè§¸æè¹ãé´»æ¯è¹ãé è¦è¹ï¼è¼æ¸ç¾äººãæä»¥éæ¡ä¹æçºæ£¹ï¼æä»¥æ¨è­ä¹å¿çºæ¥«ï¼ç·´å¯¦ä¹ç«¹çºç¯ï¼ç´ç³èä¹çºç¹©çºä¹ãç³èåºæ¡æ±åï¼ç´°å¦çµ²ï¼å¯ç¸è¬æ¤ãçç³éï¼ç ´ç³èå¾å¾ãæ­¤èç¸ç·å¦éº»ç´µä¹ï¼åæ°ç³éº»ï¼äº¦å¯çºå¸ä¹ã
-
-å½±å¨¥æ± ä¸­æé¼é¾ï¼æå¶ç¾¤åºå²¸ä¸ï¼å¦é£ç§å¼æ¼æ²å²¸ä¹ãæèªæ°ï¼å¤æªå¤®ï¼å¾é¾é»ã
-
-å½±å¨¥æ± åä½é³´ç¦½ä¹èï¼æçéæ¨¹ï¼ç ´ä¹ï¼ç®éæå±å¦éï¼èè²éï¼äº¦åééæ¨¹ã
-
-æå¸å¤éï¼é¨é¼ç¯èé³´ä¸æ¯ï¼å¾å¤è³æï¼ä¸æ´çºä¸è²ï¼äºæ´çºäºè²ï¼äº¦æ°äºæéã
-
-æåæ¥éµï¼è³æ¥åºæéç¿èèï¼ååæ°èæ¥éµã
-
-æåèé´¨ï¼èµ¤è²ï¼æ¯æ­¢æ¼èèä¸ï¼ä¸é£äºç©ï¼å¯åèä¸åé²ï¼å ååé²é´¨ï¼äº¦æ°ä¸¹æ¯é³§ã
-
-æå¥³é¦æ¨¹ï¼ç´°æèï¼å©¦äººå¸¶ä¹ï¼é¦çµå¹´ä¸æ¸ã
-
-ãæ¼¢æ­¦å¸å¥åæ´å¥è¨å·ç¬¬åã
-
-æ­¦å¸æ®å¹´ï¼å½å¥½ä»è¡ï¼èæ±æ¹æçæ±ï¼å¸æ°ï¼ãææå¥½çèä¸èï¼å¶å¯å¾ä¹ï¼ãææ°ï¼ãè£è½ä½¿å°èä¸èããå¸æ°ï¼ãæä½è¥è¶ï¼ãææ°ï¼ãæ±åæå°æ¥ä¹èï¼è¥¿åææ¥çä¹é­ããå¸æ°ï¼ãä½ä»¥ç¥ä¹ï¼ãææ°ï¼ãä¸è¶³é³¥æ¸ä¸å°é£æ­¤èï¼ç¾²åæ¬²é¦­ï¼ä»¥ææ©çç®ï¼ä¸è½ä¸ä¹ï¼é·å¶é£æ­¤èãèé³¥ç¸é£æ­¤èï¼ç¾æ¶ä¸è½åç£ããå¸æ°ï¼ãå­ä½ä»¥ç¥ä¹ï¼ãææ°ï¼ãè£å°ææäºï¼é·è½å°ä¸æ¸åå¹´ï¼ç¡ææå¯ãæäººå¼è£æ¬²å¾æ­¤èï¼ä¸­éç´æ³ï¼ä¸å¾æ¸¡ï¼å¶äººä»¥ä¸åªå±èè£ï¼è£æ³ç´æ³ï¼å¾è³æ­¤èä¹èï¼è£æ¡èé£ä¹ãå¶åäººçç¹ç ççºæ¥­ï¼éè£å¥é²çä¹å¹ï¼è¨­çé±éæï¼å»é»çï¼éé¤çºæ¥æé²é·ä¹çï¼äº¦æ°é¤é²æãåè¦èæ¯«ä¹ç½ç¸ï¼ä»¥èæ¯«ç¹çºç¸ä¹ãæ­¤æ¯«æèå·ï¼å¸¸ä»¥å¤æ¥èä¹ï¼å åææ¯«ç¸ãåææ°´è»ä¹å±ï¼è£èææ­ä¹ï¼ææ°´æµæ¿å¶å¸­ï¼ä¹å¶åä¹ãã
-
-å¸æå¹¸å®®äººï¼åéºå¨ï¼å¹´ååï¼çèæè»ï¼å¹æ°£åè­ãä¸æ¬²è¡£çºæä¹ï¼æé«çä¹ãæ¯æ­ï¼æå»¶å¹´åä¹ï¼æ¼èçæ®¿å±åé¢¨ä¹æ²ï¼åº­ä¸­è±çç¿»è½ãç½®éºå¨æ¼æé¢ä¹å¸³ï¼æå¡µå¢æ±¡å¶é«ä¹ãå¸å¸¸ä»¥è¡£å¸¶ç³»éºå¨ä¹è¢ï¼éæ¼éå¹ä¹ä¸­ï¼æé¨é¢¨èå»ä¹ãéºå¨ä»¥ç¥ççºä½©ï¼ç½®è¡£è£¾è£ï¼ä¸ä½¿äººç¥ï¼ä¹è¨éª¨ç¯èªé³´ï¼ç¸èçºç¥æªä¹ã
-
-æä¸¹è¦ï¼é·åä¸ï¼é é·å«å°ºï¼æå©ç¿ï¼å¶é¼»å¦é¸ãè¼ç´«æ¡ä¹æï¼ä»¥é çºèº«æ¥æµï¼ä»¥çºæ£²æ¯ä¹èãé¦¬ä¸¹åæè¦é çºæï¼å¾æ£æèé£ï¼é åçºä¸¹ï¼äº¦å¨æµ·åã
-
-å¸åææå°ï¼ææï¼æåç«¯æä¸éé´¨ç¾¤é£ï¼ä¿èæ­¢æ¼å°ä¸ï¼å¸æä¹ãè³å¤ï¼é´¨å®¿æ¼å°ç«¯ï¼æ¥è²å·²æï¼å¸æ±æµ·èºä¹èä»¥çºççï¼åéãè¼å¸çºçºï¼ç«åçå¾®ï¼èåè²ç¡å¹½ä¸å¥ãéé´¨åçºä¸å°ç«¥ï¼çèéç¶ºæç¹»ï¼åæ¡é¯¨æå¤§é¢äºæï¼ç½®å¸å¹¾åãèº«æ­¢å½±åï¼å åè¼å½±é¢ã
-
-åå°ä¸å¹´ï¼å©(é)åç»è½è¨é¾ä¸é ­ï¼é·ä¸å°ºäºå¯¸ï¼çä»¥éçå£ï¼å»£ä¸å°ºä¹å¯¸ï¼å£ä¸è±ä¸å­ä»¥éæ°£ãæ±æ¹ææ°ï¼ãå¯æ¿æ¡é²ä»¥é£²ä¹ï¼ç½®æ¼éé¢¨ä¹å°ä¸ããæ¬²å¾åï¼å½æèåçï¼è¨ç¡ä¸ä¸­ã
-
-å¯æä¸å¥³äººæææ¼å¸ï¼åæ°å·¨éãå¸åæéé±å¾å£ºï¼å·¨éä¹åºå¥å¶ä¸­ï¼ææ²ç¬å¸åãæ±æ¹ææè¦å·¨éï¼ä¹ç®ä¹ï¼å·¨éå èé£å»ãæè¦åæééï¼å å¶é£å»ï¼å¸ä¹èµ·ééå°ï¼æè¦ééä¾ï¼åä¸è¦å·¨éä¹ã
-
-
-
-
-
-
-End of Project Gutenberg's Han Wudi bie guo dong ming ji, by Xian Guo
-
-*** END OF THIS PROJECT GUTENBERG EBOOK HAN WUDI BIE GUO DONG MING JI ***
-
-***** This file should be named 52271-0.txt or 52271-0.zip *****
-This and all associated files of various formats will be found in:
-        http://www.gutenberg.org/5/2/2/7/52271/
-
-Produced by Chia Ying Chang
-Updated editions will replace the previous one--the old editions will
-be renamed.
-
-Creating the works from print editions not protected by U.S. copyright
-law means that no one owns a United States copyright in these works,
-so the Foundation (and you!) can copy and distribute it in the United
-States without permission and without paying copyright
-royalties. Special rules, set forth in the General Terms of Use part
-of this license, apply to copying and distributing Project
-Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
-concept and trademark. Project Gutenberg is a registered trademark,
-and may not be used if you charge for the eBooks, unless you receive
-specific permission. If you do not charge anything for copies of this
-eBook, complying with the rules is very easy. You may use this eBook
-for nearly any purpose such as creation of derivative works, reports,
-performances and research. They may be modified and printed and given
-away--you may do practically ANYTHING in the United States with eBooks
-not protected by U.S. copyright law. Redistribution is subject to the
-trademark license, especially commercial redistribution.
-
-START: FULL LICENSE
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full
-Project Gutenberg-tm License available with this file or online at
-www.gutenberg.org/license.
-
-Section 1. General Terms of Use and Redistributing Project
-Gutenberg-tm electronic works
-
-1.A. By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement. If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or
-destroy all copies of Project Gutenberg-tm electronic works in your
-possession. If you paid a fee for obtaining a copy of or access to a
-Project Gutenberg-tm electronic work and you do not agree to be bound
-by the terms of this agreement, you may obtain a refund from the
-person or entity to whom you paid the fee as set forth in paragraph
-1.E.8.
-
-1.B. "Project Gutenberg" is a registered trademark. It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement. There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement. See
-paragraph 1.C below. There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this
-agreement and help preserve free future access to Project Gutenberg-tm
-electronic works. See paragraph 1.E below.
-
-1.C. The Project Gutenberg Literary Archive Foundation ("the
-Foundation" or PGLAF), owns a compilation copyright in the collection
-of Project Gutenberg-tm electronic works. Nearly all the individual
-works in the collection are in the public domain in the United
-States. If an individual work is unprotected by copyright law in the
-United States and you are located in the United States, we do not
-claim a right to prevent you from copying, distributing, performing,
-displaying or creating derivative works based on the work as long as
-all references to Project Gutenberg are removed. Of course, we hope
-that you will support the Project Gutenberg-tm mission of promoting
-free access to electronic works by freely sharing Project Gutenberg-tm
-works in compliance with the terms of this agreement for keeping the
-Project Gutenberg-tm name associated with the work. You can easily
-comply with the terms of this agreement by keeping this work in the
-same format with its attached full Project Gutenberg-tm License when
-you share it without charge with others.
-
-1.D. The copyright laws of the place where you are located also govern
-what you can do with this work. Copyright laws in most countries are
-in a constant state of change. If you are outside the United States,
-check the laws of your country in addition to the terms of this
-agreement before downloading, copying, displaying, performing,
-distributing or creating derivative works based on this work or any
-other Project Gutenberg-tm work. The Foundation makes no
-representations concerning the copyright status of any work in any
-country outside the United States.
-
-1.E. Unless you have removed all references to Project Gutenberg:
-
-1.E.1. The following sentence, with active links to, or other
-immediate access to, the full Project Gutenberg-tm License must appear
-prominently whenever any copy of a Project Gutenberg-tm work (any work
-on which the phrase "Project Gutenberg" appears, or with which the
-phrase "Project Gutenberg" is associated) is accessed, displayed,
-performed, viewed, copied or distributed:
-
-  This eBook is for the use of anyone anywhere in the United States and
-  most other parts of the world at no cost and with almost no
-  restrictions whatsoever. You may copy it, give it away or re-use it
-  under the terms of the Project Gutenberg License included with this
-  eBook or online at www.gutenberg.org. If you are not located in the
-  United States, you'll have to check the laws of the country where you
-  are located before using this ebook.
-
-1.E.2. If an individual Project Gutenberg-tm electronic work is
-derived from texts not protected by U.S. copyright law (does not
-contain a notice indicating that it is posted with permission of the
-copyright holder), the work can be copied and distributed to anyone in
-the United States without paying any fees or charges. If you are
-redistributing or providing access to a work with the phrase "Project
-Gutenberg" associated with or appearing on the work, you must comply
-either with the requirements of paragraphs 1.E.1 through 1.E.7 or
-obtain permission for the use of the work and the Project Gutenberg-tm
-trademark as set forth in paragraphs 1.E.8 or 1.E.9.
-
-1.E.3. If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any
-additional terms imposed by the copyright holder. Additional terms
-will be linked to the Project Gutenberg-tm License for all works
-posted with the permission of the copyright holder found at the
-beginning of this work.
-
-1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5. Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6. You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including
-any word processing or hypertext form. However, if you provide access
-to or distribute copies of a Project Gutenberg-tm work in a format
-other than "Plain Vanilla ASCII" or other format used in the official
-version posted on the official Project Gutenberg-tm web site
-(www.gutenberg.org), you must, at no additional cost, fee or expense
-to the user, provide a copy, a means of exporting a copy, or a means
-of obtaining a copy upon request, of the work in its original "Plain
-Vanilla ASCII" or other form. Any alternate format must include the
-full Project Gutenberg-tm License as specified in paragraph 1.E.1.
-
-1.E.7. Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8. You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works
-provided that
-
-* You pay a royalty fee of 20% of the gross profits you derive from
-  the use of Project Gutenberg-tm works calculated using the method
-  you already use to calculate your applicable taxes. The fee is owed
-  to the owner of the Project Gutenberg-tm trademark, but he has
-  agreed to donate royalties under this paragraph to the Project
-  Gutenberg Literary Archive Foundation. Royalty payments must be paid
-  within 60 days following each date on which you prepare (or are
-  legally required to prepare) your periodic tax returns. Royalty
-  payments should be clearly marked as such and sent to the Project
-  Gutenberg Literary Archive Foundation at the address specified in
-  Section 4, "Information about donations to the Project Gutenberg
-  Literary Archive Foundation."
-
-* You provide a full refund of any money paid by a user who notifies
-  you in writing (or by e-mail) within 30 days of receipt that s/he
-  does not agree to the terms of the full Project Gutenberg-tm
-  License. You must require such a user to return or destroy all
-  copies of the works possessed in a physical medium and discontinue
-  all use of and all access to other copies of Project Gutenberg-tm
-  works.
-
-* You provide, in accordance with paragraph 1.F.3, a full refund of
-  any money paid for a work or a replacement copy, if a defect in the
-  electronic work is discovered and reported to you within 90 days of
-  receipt of the work.
-
-* You comply with all other terms of this agreement for free
-  distribution of Project Gutenberg-tm works.
-
-1.E.9. If you wish to charge a fee or distribute a Project
-Gutenberg-tm electronic work or group of works on different terms than
-are set forth in this agreement, you must obtain permission in writing
-from both the Project Gutenberg Literary Archive Foundation and The
-Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
-trademark. Contact the Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1. Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-works not protected by U.S. copyright law in creating the Project
-Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
-electronic works, and the medium on which they may be stored, may
-contain "Defects," such as, but not limited to, incomplete, inaccurate
-or corrupt data, transcription errors, a copyright or other
-intellectual property infringement, a defective or damaged disk or
-other medium, a computer virus, or computer codes that damage or
-cannot be read by your equipment.
-
-1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from. If you
-received the work on a physical medium, you must return the medium
-with your written explanation. The person or entity that provided you
-with the defective work may elect to provide a replacement copy in
-lieu of a refund. If you received the work electronically, the person
-or entity providing it to you may choose to give you a second
-opportunity to receive the work electronically in lieu of a refund. If
-the second copy is also defective, you may demand a refund in writing
-without further opportunities to fix the problem.
-
-1.F.4. Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
-OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
-LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5. Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of
-damages. If any disclaimer or limitation set forth in this agreement
-violates the law of the state applicable to this agreement, the
-agreement shall be interpreted to make the maximum disclaimer or
-limitation permitted by the applicable state law. The invalidity or
-unenforceability of any provision of this agreement shall not void the
-remaining provisions.
-
-1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in
-accordance with this agreement, and any volunteers associated with the
-production, promotion and distribution of Project Gutenberg-tm
-electronic works, harmless from all liability, costs and expenses,
-including legal fees, that arise directly or indirectly from any of
-the following which you do or cause to occur: (a) distribution of this
-or any Project Gutenberg-tm work, (b) alteration, modification, or
-additions or deletions to any Project Gutenberg-tm work, and (c) any
-Defect you cause.
-
-Section 2. Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of
-computers including obsolete, old, middle-aged and new computers. It
-exists because of the efforts of hundreds of volunteers and donations
-from people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need are critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come. In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future
-generations. To learn more about the Project Gutenberg Literary
-Archive Foundation and how your efforts and donations can help, see
-Sections 3 and 4 and the Foundation information page at
-www.gutenberg.org
-
-
-
-Section 3. Information about the Project Gutenberg Literary Archive Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service. The Foundation's EIN or federal tax identification
-number is 64-6221541. Contributions to the Project Gutenberg Literary
-Archive Foundation are tax deductible to the full extent permitted by
-U.S. federal laws and your state's laws.
-
-The Foundation's principal office is in Fairbanks, Alaska, with the
-mailing address: PO Box 750175, Fairbanks, AK 99775, but its
-volunteers and employees are scattered throughout numerous
-locations. Its business office is located at 809 North 1500 West, Salt
-Lake City, UT 84116, (801) 596-1887. Email contact links and up to
-date contact information can be found at the Foundation's web site and
-official page at www.gutenberg.org/contact
-
-For additional contact information:
-
-    Dr. Gregory B. Newby
-    Chief Executive and Director
-    gbnewby@pglaf.org
-
-Section 4. Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment. Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States. Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements. We do not solicit donations in locations
-where we have not received written confirmation of compliance. To SEND
-DONATIONS or determine the status of compliance for any particular
-state visit www.gutenberg.org/donate
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States. U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses. Donations are accepted in a number of other
-ways including checks, online payments and credit card donations. To
-donate, please visit: www.gutenberg.org/donate
-
-Section 5. General Information About Project Gutenberg-tm electronic works.
-
-Professor Michael S. Hart was the originator of the Project
-Gutenberg-tm concept of a library of electronic works that could be
-freely shared with anyone. For forty years, he produced and
-distributed Project Gutenberg-tm eBooks with only a loose network of
-volunteer support.
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as not protected by copyright in
-the U.S. unless a copyright notice is included. Thus, we do not
-necessarily keep eBooks in compliance with any particular paper
-edition.
-
-Most people start at our Web site which has the main PG search
-facility: www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
-

@@ -780,7 +780,7 @@ advance the special end that he has in view, he burns up plants--new and
 interesting varieties perhaps--by the hundred thousand. We cannot destroy
 the unfit, nor do we desire to do so, for from the educational point of
 view unfitness is merely bad adjustment. There is a place for every man in
-the world and it is the educators business to see that he reaches it, if
+the world and it is the educator's business to see that he reaches it, if
 not by formative, then by selective processes. This selection is badly
 made in our present state of civilization. It depends to a large extent
 upon circumstances remote from the training itself--upon caprice, either
@@ -1998,7 +1998,7 @@ may be regarded as one of its chief economic advantages. Another is its
 power as a leveler, and hence as an adjunct of democracy. Democracy is a
 result, not a cause, of equality. It is natural in a community whose
 members resemble each other in ability, modes of thought and mental
-development, just as it is unthinkable where great natural differences
+development, just as it is unthinkable where great natural differences,
 racial or otherwise, exist. If we wish to preserve democracy, therefore,
 we must first maintain our community on something like a level. And we
 must level it up, not down; for although a form of democracy may exist
@@ -2811,7 +2811,7 @@ travellers from Sir John Mandeville down, or in biographies like Boswell's
 life of Johnson, or in books of science--Laplace, Lagrange, Darwin,
 Tyndall, Helmholtz; in the lives of the great artists; in the great novels
 and romances--Thackeray, Balzac, Hawthorne, Dickens, George Eliot. Yet
-each and all of these may leave you cold and may pick up your gem in some
+each and all of these may leave you cold and you may pick up your gem in some
 out-of-the-way corner where neither you nor anyone else would think of
 looking for it.
 
@@ -2953,7 +2953,7 @@ occasional and not excessive and that the normal amount of continuous
 reading and study proceed together with it.
 
 Having settled, therefore, that browsing is a good thing when one does not
-occupy ones' whole time with it, let us examine its advantages a little
+occupy one's whole time with it, let us examine its advantages a little
 more in detail.
 
 First: about the mental nourishment that is absorbed in browsing; the
@@ -3019,7 +3019,7 @@ follows that the virtue of less than the whole is negligible.
 So much for the direct effect of what one may thus take in, bit by bit.
 The indirect effect is even more important. For by sampling a whole
 literature, as he does, he not only gets a bird's-eye view of it, but he
-finds out what lie likes and what he dislikes; he begins to form his
+finds out what he likes and what he dislikes; he begins to form his
 taste. Are you afraid that he will form it wrong? I am not. We are
 assuming that the library where he browses is a good one; here is no
 chance of evil, only a choice between different kinds of good. And even if
@@ -3176,7 +3176,7 @@ of two continua identical with that of its constituents? The identity
 certainly seems of a different kind or degree from that which obtains in
 the first case, for there is no part, however small, that was derived from
 one pail alone. The mixture is something more than a mere juxtaposition of
-elements each of which has retained its identity; it is now of suck nature
+elements each of which has retained its identity; it is now of such nature
 that no part of it is identical with any part of A alone or of B alone,
 nor of A+B, where the sign + denotes simple juxtaposition. It is
 identical, to be sure, with a perfect mixture of certain parts of A and B,
@@ -3696,7 +3696,7 @@ about our respective spheres. These activities are all human; they are
 mutually interesting and valuable. A library need be afraid of doing
 nothing that makes for the spread of interest in ideas, so long as it is
 not neglecting its own particular work of the collection, preservation and
-distribution of ideas as stored in books, and is not duplicating other's
+distribution of ideas as stored in books, and is not duplicating others'
 work wastefully.
 
 When we observe those who are already interested in ideas, however, we
@@ -3715,7 +3715,7 @@ book on that subject or thing. It may be as difficult for him to get at
 the meat of it as if it were a half-understood foreign tongue. You who
 know enough French to buy a pair of gloves or sufficient German to inquire
 the way to the station, may tackle a novel in the original and realize at
-once the hazy degree of such a persons' apprehension. He may stick to it
+once the hazy degree of such a person's apprehension. He may stick to it
 and become an easy reader, but on the other hand your well-meant publicity
 efforts may place in his hands a book that will simply discourage and
 ultimately repel him, sending him to join the army of those to whom no
@@ -5000,7 +5000,7 @@ may be a body like our own, formed to cherish the memories of forebears in
 some particular line of endeavor, in some particular place or at some
 particular era. Our ancestry is part of our history; so long as our regard
 for it is properly interwoven with our historical sense, no one can
-properly charge us with laving the foundation for aristocracy. We are
+properly charge us with laying the foundation for aristocracy. We are
 rather making true democracy possible, for such is the case only when the
 elements of a community are closely united by ties of blood, interest and
 knowledge--by pride in those who have gone before and by determination
@@ -5735,7 +5735,7 @@ despotism and democracy may thus be utilized, with a minimum of the evils
 of each.
 
 It was believed by the ancients, and we frequently see it stated today,
-that the ideal government would he government by a perfectly good despot.
+that the ideal government would be government by a perfectly good despot.
 This takes the citizens into account only as persons who are governed, and
 not as persons who govern or help to govern. It is pleasant, perhaps, to
 have plenty of servants to wait upon one, but surely health, physical,
@@ -6165,7 +6165,7 @@ for which you have been trained, now, of course, is the time for you to
 know it.
 
 There seems to be a widespread impression--an assumption--that the day of
-the drug is over--that the therapeutic of the future are to be concerned
+the drug is over--that the therapeutics of the future are to be concerned
 along with hygiene and sanitation, with physical exercise, diet, and
 mechanical operations. The very word "drug" has come to have an
 objectionable connection that did not belong to it fifty years ago. Even
@@ -6699,7 +6699,7 @@ which we had hitherto lacked the impulse to inform ourselves. This sort of
 thing is going on in a community every day, but here was a catastrophe
 setting in motion a mighty brain-wave that had twisted us all in one
 direction. Notice now what a conspicuous role our public libraries play in
-phenomena of this kind. In the first place, the news-paper and periodical
+phenomena of this kind. In the first place, the newspaper and periodical
 press reflects at once the interest that has been aroused. Where man's
 unaided curiosity would suggest one question it adds a hundred others.
 Problems that would otherwise seem simple enough now appear complex--the
@@ -7246,7 +7246,7 @@ also we may sympathise with the aim, but the results are largely dependent
 on the method; and that method is the offspring of ignorance and
 inefficiency. The results may be summed up in one word--superficiality. I
 have elsewhere warned readers not to think that this word means simply a
-slight knowledge of, a subject. A slight knowledge is all that most of us
+slight knowledge of a subject. A slight knowledge is all that most of us
 possess, or need to possess, about most subjects. I know a little about
 Montenegro for instance--something of its origin and relationships, its
 topography, the names and characteristics of a city or two, the racial and
@@ -7470,7 +7470,7 @@ ascertain what others have accomplished in it. This task is by no means
 easy, for such information is often hidden in journals and transactions
 that are difficult to reach, and the published indexes of such material,
 though wonderfully advanced on the road toward perfection in the past
-twenty years, have yet far to travel before they reach it, Not only the
+twenty years, have yet far to travel before they reach it. Not only the
 writer's description of what he has done or ascertained, but the character
 of the work itself; the direction it takes--the inferences that he draws
 from it, will be controlled and coloured by what he reads of others' work.
@@ -7970,7 +7970,7 @@ were _dead_!" She had her wish in more senses than the obvious one. Not
 only has Chaucer's physical body long ago given up its substance to earth
 and air, but his works have to be translated for most readers of the
 present day; his language is fast becoming as dead as Latin or Greek. But,
-worse still, Ills very spirit was dead, so far as its reaction on her was
+worse still, his very spirit was dead, so far as its reaction on her was
 concerned. Poetry, to you and me, is what we make of it; and what do you
 suppose our friend from Oregon was making of Chaucer? Our indifference,
 our failure to react, is thus more far-reaching than its influence on
@@ -8030,7 +8030,7 @@ instead of laboriously copying from a book--or, let us say, from two or
 three books--some one else's compilation of the facts ascertained at
 second or third hand by various other writers on "The Character of the
 Cid"? Why should not Mrs. Smith, who was out over night in the blizzard of
-1888, recount lier experiences, mental as well as physical? Why should not
+1888, recount her experiences, mental as well as physical? Why should not
 Miss Robinson, who collects coins and differs from the accepted
 authorities regarding the authenticity of certain of her specimens, tell
 why and how and all about it? Why should not the member who is crazy about
@@ -8575,7 +8575,7 @@ impossible. With some persons the fact that the movie is democratic puts
 it outside the pale at once. Nothing, in their estimation, is worth
 discussing unless appreciation of it is limited to the few. Their attitude
 is that of the mother who said to the nurse: "Go and see what baby is
-doing, and tell him he musn't." "Let us," they say "find out what people
+doing, and tell him he musn't." "Let us," they say, "find out what people
 like, and then try to make them like something else." To such I have
 nothing to say. We ought rather, I believe, to find out the kind of thing
 that people like and then do our best to see that they get it in the best
@@ -8770,7 +8770,7 @@ has not been sufficiently insisted upon as an element in their art. Theirs
 was a true _drame libre_, having its analogies with the present attempts
 of the vers-librists to free poetry from its restrictions of rhyme and
 metre. But while the tendency of poetry has always been away from its
-restrictions, the _mise-en-scéne_ in the drama has continually, with the
+restrictions, the _mise-en-scene_ in the drama has continually, with the
 attempts to make it conform to nature, tightened its throttling bands on
 the real vitality of the stage.
 
@@ -9043,7 +9043,7 @@ there never was any "N ray." The man had deceived himself. The failure of
 hundreds to see as he did weighed more than his positive testimony that he
 saw what he thought he saw. Here as elsewhere our view of what may be the
 truth is based on trust. If you trust the French physicist, you will still
-believe in the "N ray." Creeds we are told, are outworn, and yet we are
+believe in the "N ray." Creeds, we are told, are outworn, and yet we are
 confronted, from birth to death, with situations that imperiously require
 action of some sort. Every act that responds must be based on belief of
 some kind. Creeds are only expressions of belief. The kind of Creed that

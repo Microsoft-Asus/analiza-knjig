@@ -81,7 +81,7 @@ def parse_categories(html_file):
 def process_categories():
     '''Get all the categories belonging to fiction along with their respective links.'''
     print('Going through categories')
-    category_url = 'Category:Fiction_Bookshelf'
+    category_url = 'wiki/Category:Fiction_Bookshelf'
     file_name = 'category_fiction'
     directory = 'pages'
     tools.download_page(join_url(base_url, category_url), file_name, directory)
@@ -189,6 +189,11 @@ def parse_book_page(html_file):
     if t != 'Text':
         return None, None
 
+    # Confirm the book is english
+    l = soup.find('tr', property='dcterms:language')
+    if str.lower(l.find('td').text) != 'english':
+        return None, None
+    
     # Save all the subjects
     subjects = {}
     for subject in soup.find_all('td', property='dcterms:subject'):

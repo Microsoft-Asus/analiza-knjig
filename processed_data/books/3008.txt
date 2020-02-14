@@ -2114,7 +2114,7 @@ Other Lexicon Conventions
           University)
 
    SI
-          From Systčme International, the name for the standard
+          From Système International, the name for the standard
           conventions of metric nomenclature used in the sciences
 
    Stanford
@@ -2276,7 +2276,7 @@ Format For New Entries
    seems to have originated as an option on IBM 3270 controllers). If
    your zero is slashed but letter-O is not, you're probably looking at
    an old-style ASCII graphic set descended from the default typewheel on
-   the venerable ASR-33 Teletype (Scandinavians, for whom Ř is a letter,
+   the venerable ASR-33 Teletype (Scandinavians, for whom Ø is a letter,
    curse this arrangement). (Interestingly, the slashed zero long
    predates computers; Florian Cajori's monumental "A History of
    Mathematical Notations" notes that it was used in the twelfth and
@@ -10717,7 +10717,7 @@ C original DO statement lost in the spaghetti...
    1975 novel "The Shockwave Rider"). Gibson's near-total ignorance of
    computers and the present-day hacker culture enabled him to speculate
    about the role of computers and hackers in the future in ways hackers
-   have since found both irritatingly naďve and tremendously stimulating.
+   have since found both irritatingly naïve and tremendously stimulating.
    Gibson's work was widely imitated, in particular by the short-lived
    but innovative "Max Headroom" TV series. See [3400]cyberspace,
    [3401]ice, [3402]jack in, [3403]go flatline.
@@ -29519,7 +29519,7 @@ _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
    quantifiers
 
    In techspeak and jargon, the standard metric prefixes used in the SI
-   (Systčme International) conventions for scientific measurement have
+   (Système International) conventions for scientific measurement have
    dual uses. With units of time or things that come in powers of 10,
    such as money, they retain their usual meanings of multiplication by
    powers of 1000 = 10^3. But when used with bytes or other things that
@@ -31207,7 +31207,7 @@ q(#define q(k)main(){return!puts(#k"\nq("#k")");})
 
    Syn. [11470]obscure. VMS fans sometimes refer to Unix as `Runix'; Unix
    fans return the compliment by expanding VMS to `Very Messy Syntax' or
-   `Vachement Mauvais Systčme' (French idiom, "Hugely Bad System").
+   `Vachement Mauvais Système' (French idiom, "Hugely Bad System").
      _________________________________________________________________
 
    Node:rusty iron, Next:[11471]rusty memory, Previous:[11472]runic,
@@ -34783,7 +34783,7 @@ A. The used-car dealer knows he's lying.  [Some versions add:
    the time a hacker calls support he or she will usually know the
    software and the relevant manuals better than the support people
    (sadly, this is not a joke or exaggeration). A hacker's idea of
-   `support' is a tęte-ŕ-tęte with the software's designer.
+   `support' is a tête-à-tête with the software's designer.
      _________________________________________________________________
 
    Node:surf, Next:[12859]Suzie COBOL, Previous:[12860]support,
